@@ -4,6 +4,6 @@ title: Downloads
 ---
 
 - Raxml tree
-- Timetree
+- [Timetree](actinopt_12k_treePL.tre)
 - Distribution of trees
 
