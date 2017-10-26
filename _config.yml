@@ -1,0 +1,40 @@
+title: The Fish Tree of Life
+tagline: LOL
+author: Jonathan Chang
+email: jonathan.chang@ucla.edu
+description: > # this means to ignore newlines until "baseurl:"
+    A one stop shop for everything related to fish phylogenetics--taxonomy, phylogeny, and more!
+
+twitter_username: chang_jon
+github_username:  jonchang
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+    date_format: "%b %-d, %Y"
+
+include:
+    - _pages
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+    - _pages/methods.md
+    - _pages/taxonomy.md
+    - _pages/phylogeny.md
+    - _pages/download.md
+    - _pages/people.md
+
+# Build settings
+markdown: kramdown
+exclude:
+    - Gemfile
+    - Gemfile.lock
+
+defaults:
+    -
+        scope:
+            path: ""
+            type: "pages"
+        values:
+            layout: "page"
