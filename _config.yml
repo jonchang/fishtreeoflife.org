@@ -22,7 +22,7 @@ header_pages:
     - _pages/methods.md
     - _pages/taxonomy.md
     - _pages/phylogeny.md
-    - _pages/download.md
+    - downloads/index.md
     - _pages/people.md
 
 # Build settings
@@ -30,6 +30,7 @@ markdown: kramdown
 exclude:
     - Gemfile
     - Gemfile.lock
+    - scripts/
 
 defaults:
     -
