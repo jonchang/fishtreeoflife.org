@@ -19,11 +19,11 @@ include:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-    - _pages/methods.md
-    - _pages/taxonomy.md
-    - _pages/phylogeny.md
+    - methods.md
+    - taxonomy.md
+    - phylogeny.md
     - downloads/index.md
-    - _pages/people.md
+    - people.md
 
 # Build settings
 markdown: kramdown
@@ -32,6 +32,8 @@ exclude:
     - Gemfile.lock
     - scripts/
 
+permalink: pretty
+
 defaults:
     -
         scope:
@@ -39,4 +41,3 @@ defaults:
             type: "pages"
         values:
             layout: "page"
-            permalink: /:title/
