@@ -31,6 +31,8 @@ exclude:
     - Gemfile
     - Gemfile.lock
     - scripts/
+    - .bundle/
+    - vendor/
 
 permalink: pretty
 
