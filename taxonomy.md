@@ -23,6 +23,6 @@ Tax page
 ## Families
 
 {% for family in site.family %}
-* [{{ family.title }}](/taxonomy/family/{{ family.title }}/) --- {{ family.species | size }} species {% endfor %}
+* [{{ family.title }}]({{ "/taxonomy/family/" | relative_url | append: family.title | append: "/" }}) --- {{family.sampled_species | size }}/{{ family.species | size }} species {% endfor %}
 
 
