@@ -10,16 +10,17 @@ cache:
 
 env:
     - R_LIBS_USER=$HOME/R/Library
+    - JEKYLL_ENV=production
 
 addons:
     apt:
         sources:
             - r-packages-trusty
         packages:
-            - r-base
+            - r-base-dev
 
 before_install:
-    - Rscript -e 'install.packages(c("ape", "dplyr", "glue", "stringr", "readr"), repos="https://cran.rstudio.com")'
+    - Rscript -e 'install.packages(c("ape", "tidyverse", "glue"), repos="https://cran.rstudio.com")'
 
 script:
     #- ts/generate_taxonomy.R
