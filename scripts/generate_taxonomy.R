@@ -38,6 +38,7 @@ generate_family_data <- function(family) {
     sampled_species <- species[species %in% tips]
     species_yaml <- paste0("    - ", paste(species, collapse = "\n    - "))
     sampled_species_yaml <- paste0("    - ", paste(sampled_species, collapse = "\n    - "))
+    if (length(sampled_species) == 0) sampled_species_yaml <- ""
     order <- unique(family$order)
 
     num_rogues <- 0
