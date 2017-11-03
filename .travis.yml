@@ -20,7 +20,7 @@ addons:
             - r-base-dev
 
 before_install:
-    - Rscript -e 'install.packages(c("ape", "tidyverse", "glue"), repos="https://cran.rstudio.com")'
+    - Rscript -e 'install.packages(c("ape", "tidyverse", "glue"), repos = "https://cran.rstudio.com", Ncpu = 2)'
 
 script:
     #- ts/generate_taxonomy.R
