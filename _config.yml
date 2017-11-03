@@ -15,6 +15,7 @@ minima:
 
 include:
     - _pages
+    - "_family/*.tre"
 
 collections:
     family:
@@ -52,4 +53,8 @@ defaults:
           type: family
       values:
           layout: family
+    - scope:
+        path: "downloads/family"
+      values:
+          download_type: "family"
 
