@@ -14,6 +14,7 @@ addons:
 script:
     #- ts/generate_taxonomy.R
     - bundle exec jekyll build
+    - touch _site/.nojekyll
 
 deploy:
     provider: pages
