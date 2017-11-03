@@ -1,0 +1,76 @@
+---
+title: Paralepididae
+species:
+    - Arctozenus risso
+    - Dolichosudis fuliginosa
+    - Lestidiops affinis
+    - Lestidiops bathyopteryx
+    - Lestidiops cadenati
+    - Lestidiops distans
+    - Lestidiops extrema
+    - Lestidiops gracilis
+    - Lestidiops indopacifica
+    - Lestidiops jayakari jayakari
+    - Lestidiops jayakari pseudosphyraenoides
+    - Lestidiops mirabilis
+    - Lestidiops neles
+    - Lestidiops pacificus
+    - Lestidiops ringens
+    - Lestidiops similis
+    - Lestidiops sphyraenopsis
+    - Lestidiops sphyrenoides
+    - Lestidium atlanticum
+    - Lestidium bigelowi
+    - Lestidium nudum
+    - Lestidium prolixum
+    - Lestrolepis intermedia
+    - Lestrolepis japonica
+    - Lestrolepis luetkeni
+    - Macroparalepis affinis
+    - Macroparalepis brevis
+    - Macroparalepis danae
+    - Macroparalepis johnfitchi
+    - Macroparalepis longilateralis
+    - Macroparalepis macrogeneion
+    - Macroparalepis nigra
+    - Magnisudis atlantica
+    - Magnisudis indica
+    - Magnisudis prionosa
+    - Notolepis annulata
+    - Notolepis coatsi
+    - Paralepis brevirostris
+    - Paralepis coregonoides
+    - Paralepis elongata
+    - Paralepis speciosa
+    - Stemonosudis bullisi
+    - Stemonosudis distans
+    - Stemonosudis elegans
+    - Stemonosudis elongata
+    - Stemonosudis gracilis
+    - Stemonosudis intermedia
+    - Stemonosudis macrura
+    - Stemonosudis miscella
+    - Stemonosudis molesta
+    - Stemonosudis rothschildi
+    - Stemonosudis siliquiventer
+    - Uncisudis advena
+    - Uncisudis longirostra
+    - Uncisudis posteropelvis
+    - Uncisudis quadrimaculata
+
+sampled_species:
+    - Lestidiops jayakari jayakari
+    - Lestidiops pacificus
+    - Lestidiops ringens
+    - Lestidium atlanticum
+    - Lestrolepis intermedia
+    - Macroparalepis johnfitchi
+    - Magnisudis atlantica
+    - Magnisudis prionosa
+    - Notolepis coatsi
+    - Stemonosudis intermedia
+    - Stemonosudis macrura
+
+order: Aulopiformes
+
+---

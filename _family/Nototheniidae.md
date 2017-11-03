@@ -1,0 +1,108 @@
+---
+title: Nototheniidae
+species:
+    - Aethotaxis mitopteryx mitopteryx
+    - Aethotaxis mitopteryx pawsoni
+    - Cryothenia amphitreta
+    - Cryothenia peninsulae
+    - Dissostichus eleginoides
+    - Dissostichus mawsoni
+    - Gobionotothen acuta
+    - Gobionotothen acuticeps
+    - Gobionotothen angustifrons
+    - Gobionotothen barsukovi
+    - Gobionotothen gibberifrons
+    - Gobionotothen marionensis
+    - Gvozdarus balushkini
+    - Gvozdarus svetovidovi
+    - Lepidonotothen larseni
+    - Lepidonotothen nudifrons
+    - Lepidonotothen squamifrons
+    - Lindbergichthys mizops
+    - Notothenia angustata
+    - Notothenia coriiceps
+    - Notothenia cyanobrancha
+    - Notothenia microlepidota
+    - Notothenia neglecta
+    - Notothenia rossii
+    - Notothenia trigramma
+    - Nototheniops nybelini
+    - Nototheniops tchizh
+    - Pagothenia borchgrevinki
+    - Pagothenia brachysoma
+    - Paranotothenia dewitti
+    - Paranotothenia magellanica
+    - Patagonotothen brevicauda brevicauda
+    - Patagonotothen brevicauda shagensis
+    - Patagonotothen canina
+    - Patagonotothen cornucola
+    - Patagonotothen elegans
+    - Patagonotothen guntheri
+    - Patagonotothen jordani
+    - Patagonotothen kreffti
+    - Patagonotothen longipes
+    - Patagonotothen ramsayi
+    - Patagonotothen sima
+    - Patagonotothen squamiceps
+    - Patagonotothen tessellata
+    - Patagonotothen thompsoni
+    - Patagonotothen wiltoni
+    - Pleuragramma antarctica
+    - Trematomus bernacchii
+    - Trematomus eulepidotus
+    - Trematomus hansoni
+    - Trematomus lepidorhinus
+    - Trematomus loennbergii
+    - Trematomus newnesi
+    - Trematomus nicolai
+    - Trematomus pennellii
+    - Trematomus scotti
+    - Trematomus tokarevi
+    - Trematomus vicarius
+
+sampled_species:
+    - Aethotaxis mitopteryx mitopteryx
+    - Cryothenia peninsulae
+    - Dissostichus eleginoides
+    - Dissostichus mawsoni
+    - Gobionotothen acuta
+    - Gobionotothen acuticeps
+    - Gobionotothen gibberifrons
+    - Gobionotothen marionensis
+    - Lepidonotothen larseni
+    - Lepidonotothen nudifrons
+    - Lepidonotothen squamifrons
+    - Lindbergichthys mizops
+    - Notothenia angustata
+    - Notothenia coriiceps
+    - Notothenia cyanobrancha
+    - Notothenia microlepidota
+    - Notothenia neglecta
+    - Notothenia rossii
+    - Pagothenia borchgrevinki
+    - Paranotothenia magellanica
+    - Patagonotothen cornucola
+    - Patagonotothen elegans
+    - Patagonotothen guntheri
+    - Patagonotothen longipes
+    - Patagonotothen ramsayi
+    - Patagonotothen sima
+    - Patagonotothen squamiceps
+    - Patagonotothen tessellata
+    - Patagonotothen wiltoni
+    - Pleuragramma antarctica
+    - Trematomus bernacchii
+    - Trematomus eulepidotus
+    - Trematomus hansoni
+    - Trematomus lepidorhinus
+    - Trematomus loennbergii
+    - Trematomus newnesi
+    - Trematomus nicolai
+    - Trematomus pennellii
+    - Trematomus scotti
+    - Trematomus tokarevi
+    - Trematomus vicarius
+
+order: Perciformes
+
+---

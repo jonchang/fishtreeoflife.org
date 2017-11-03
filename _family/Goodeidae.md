@@ -1,0 +1,104 @@
+---
+title: Goodeidae
+species:
+    - Allodontichthys hubbsi
+    - Allodontichthys polylepis
+    - Allodontichthys tamazulae
+    - Allodontichthys zonistius
+    - Alloophorus robustus
+    - Allotoca catarinae
+    - Allotoca diazi
+    - Allotoca dugesii
+    - Allotoca goslinei
+    - Allotoca maculata
+    - Allotoca meeki
+    - Allotoca regalis
+    - Allotoca zacapuensis
+    - Ameca splendens
+    - Ataeniobius toweri
+    - Chapalichthys encaustus
+    - Chapalichthys pardalis
+    - Chapalichthys peraticus
+    - Characodon audax
+    - Characodon garmani
+    - Characodon lateralis
+    - Crenichthys baileyi albivallis
+    - Crenichthys baileyi baileyi
+    - Crenichthys baileyi grandis
+    - Crenichthys baileyi moapae
+    - Crenichthys baileyi thermophilus
+    - Crenichthys nevadae
+    - Empetrichthys latos concavus
+    - Empetrichthys latos latos
+    - Empetrichthys latos pahrump
+    - Empetrichthys merriami
+    - Girardinichthys ireneae
+    - Girardinichthys multiradiatus
+    - Girardinichthys viviparus
+    - Goodea atripinnis
+    - Goodea gracilis
+    - Goodea luitpoldii
+    - Hubbsina turneri
+    - Ilyodon cortesae
+    - Ilyodon furcidens
+    - Ilyodon lennoni
+    - Ilyodon whitei
+    - Ilyodon xantusi
+    - Skiffia bilineata
+    - Skiffia francesae
+    - Skiffia lermae
+    - Skiffia multipunctata
+    - Xenoophorus captivus
+    - Xenotaenia resolanae
+    - Xenotoca eiseni
+    - Xenotoca melanosoma
+    - Xenotoca variata
+    - Zoogoneticus purhepechus
+    - Zoogoneticus quitzeoensis
+    - Zoogoneticus tequila
+
+sampled_species:
+    - Allodontichthys hubbsi
+    - Allodontichthys polylepis
+    - Allodontichthys tamazulae
+    - Allodontichthys zonistius
+    - Alloophorus robustus
+    - Allotoca catarinae
+    - Allotoca diazi
+    - Allotoca dugesii
+    - Allotoca goslinei
+    - Allotoca maculata
+    - Allotoca meeki
+    - Allotoca regalis
+    - Allotoca zacapuensis
+    - Ameca splendens
+    - Ataeniobius toweri
+    - Chapalichthys encaustus
+    - Chapalichthys pardalis
+    - Characodon audax
+    - Characodon lateralis
+    - Crenichthys baileyi baileyi
+    - Empetrichthys latos latos
+    - Girardinichthys multiradiatus
+    - Girardinichthys viviparus
+    - Goodea atripinnis
+    - Goodea gracilis
+    - Hubbsina turneri
+    - Ilyodon furcidens
+    - Ilyodon whitei
+    - Ilyodon xantusi
+    - Skiffia bilineata
+    - Skiffia francesae
+    - Skiffia lermae
+    - Skiffia multipunctata
+    - Xenoophorus captivus
+    - Xenotaenia resolanae
+    - Xenotoca eiseni
+    - Xenotoca melanosoma
+    - Xenotoca variata
+    - Zoogoneticus quitzeoensis
+    - Zoogoneticus tequila
+
+order: Cyprinodontiformes
+
+---

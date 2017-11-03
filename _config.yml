@@ -16,6 +16,11 @@ minima:
 include:
     - _pages
 
+collections:
+    family:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
@@ -37,9 +42,14 @@ exclude:
 permalink: pretty
 
 defaults:
-    -
-        scope:
-            path: ""
-            type: "pages"
-        values:
-            layout: "page"
+    - scope:
+          path: ""
+          type: "pages"
+      values:
+          layout: "page"
+    - scope:
+          path: ""
+          type: family
+      values:
+          layout: family
+

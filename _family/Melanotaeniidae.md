@@ -1,0 +1,160 @@
+---
+title: Melanotaeniidae
+species:
+    - Cairnsichthys rhombosomoides
+    - Chilatherina alleni
+    - Chilatherina axelrodi
+    - Chilatherina bleheri
+    - Chilatherina bulolo
+    - Chilatherina campsi
+    - Chilatherina crassispinosa
+    - Chilatherina fasciata
+    - Chilatherina lorentzii
+    - Chilatherina pagwiensis
+    - Chilatherina pricei
+    - Chilatherina sentaniensis
+    - Glossolepis dorityi
+    - Glossolepis incisus
+    - Glossolepis kabia
+    - Glossolepis leggetti
+    - Glossolepis maculosus
+    - Glossolepis multisquamata
+    - Glossolepis pseudoincisus
+    - Glossolepis ramuensis
+    - Glossolepis wanamensis
+    - Iriatherina werneri
+    - Melanotaenia affinis
+    - Melanotaenia ajamaruensis
+    - Melanotaenia ammeri
+    - Melanotaenia angfa
+    - Melanotaenia arfakensis
+    - Melanotaenia australis
+    - Melanotaenia batanta
+    - Melanotaenia boesemani
+    - Melanotaenia caerulea
+    - Melanotaenia catherinae
+    - Melanotaenia corona
+    - Melanotaenia duboulayi
+    - Melanotaenia eachamensis
+    - Melanotaenia exquisita
+    - Melanotaenia fasinensis
+    - Melanotaenia fluviatilis
+    - Melanotaenia fredericki
+    - Melanotaenia goldiei
+    - Melanotaenia gracilis
+    - Melanotaenia herbertaxelrodi
+    - Melanotaenia irianjaya
+    - Melanotaenia iris
+    - Melanotaenia japenensis
+    - Melanotaenia kamaka
+    - Melanotaenia kokasensis
+    - Melanotaenia lacustris
+    - Melanotaenia lakamora
+    - Melanotaenia maccullochi
+    - Melanotaenia mairasi
+    - Melanotaenia maylandi
+    - Melanotaenia misoolensis
+    - Melanotaenia monticola
+    - Melanotaenia mubiensis
+    - Melanotaenia nigrans
+    - Melanotaenia ogilbyi
+    - Melanotaenia oktediensis
+    - Melanotaenia papuae
+    - Melanotaenia parkinsoni
+    - Melanotaenia parva
+    - Melanotaenia pierucciae
+    - Melanotaenia pimaensis
+    - Melanotaenia praecox
+    - Melanotaenia pygmaea
+    - Melanotaenia rubripinnis
+    - Melanotaenia salawati
+    - Melanotaenia sexlineata
+    - Melanotaenia solata
+    - Melanotaenia splendida inornata
+    - Melanotaenia splendida rubrostriata
+    - Melanotaenia splendida splendida
+    - Melanotaenia splendida tatei
+    - Melanotaenia sylvatica
+    - Melanotaenia synergos
+    - Melanotaenia trifasciata
+    - Melanotaenia utcheensis
+    - Melanotaenia vanheurni
+    - Pelangia mbutaensis
+    - Rhadinocentrus ornatus
+
+sampled_species:
+    - Cairnsichthys rhombosomoides
+    - Chilatherina alleni
+    - Chilatherina axelrodi
+    - Chilatherina bleheri
+    - Chilatherina bulolo
+    - Chilatherina campsi
+    - Chilatherina crassispinosa
+    - Chilatherina fasciata
+    - Chilatherina lorentzii
+    - Chilatherina pagwiensis
+    - Chilatherina pricei
+    - Chilatherina sentaniensis
+    - Glossolepis dorityi
+    - Glossolepis incisus
+    - Glossolepis kabia
+    - Glossolepis leggetti
+    - Glossolepis maculosus
+    - Glossolepis multisquamata
+    - Glossolepis pseudoincisus
+    - Glossolepis ramuensis
+    - Glossolepis wanamensis
+    - Iriatherina werneri
+    - Melanotaenia affinis
+    - Melanotaenia ammeri
+    - Melanotaenia angfa
+    - Melanotaenia arfakensis
+    - Melanotaenia australis
+    - Melanotaenia batanta
+    - Melanotaenia boesemani
+    - Melanotaenia caerulea
+    - Melanotaenia catherinae
+    - Melanotaenia duboulayi
+    - Melanotaenia eachamensis
+    - Melanotaenia exquisita
+    - Melanotaenia fluviatilis
+    - Melanotaenia fredericki
+    - Melanotaenia goldiei
+    - Melanotaenia gracilis
+    - Melanotaenia herbertaxelrodi
+    - Melanotaenia irianjaya
+    - Melanotaenia iris
+    - Melanotaenia japenensis
+    - Melanotaenia kamaka
+    - Melanotaenia kokasensis
+    - Melanotaenia lacustris
+    - Melanotaenia lakamora
+    - Melanotaenia maccullochi
+    - Melanotaenia misoolensis
+    - Melanotaenia monticola
+    - Melanotaenia mubiensis
+    - Melanotaenia nigrans
+    - Melanotaenia ogilbyi
+    - Melanotaenia oktediensis
+    - Melanotaenia papuae
+    - Melanotaenia parkinsoni
+    - Melanotaenia parva
+    - Melanotaenia praecox
+    - Melanotaenia pygmaea
+    - Melanotaenia rubripinnis
+    - Melanotaenia salawati
+    - Melanotaenia sexlineata
+    - Melanotaenia splendida inornata
+    - Melanotaenia splendida rubrostriata
+    - Melanotaenia splendida splendida
+    - Melanotaenia splendida tatei
+    - Melanotaenia sylvatica
+    - Melanotaenia synergos
+    - Melanotaenia trifasciata
+    - Melanotaenia utcheensis
+    - Melanotaenia vanheurni
+    - Rhadinocentrus ornatus
+
+order: Atheriniformes
+
+---

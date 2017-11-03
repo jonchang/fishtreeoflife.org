@@ -1,0 +1,86 @@
+---
+title: Leiognathidae
+species:
+    - Aurigequula fasciata
+    - Equulites absconditus
+    - Equulites antongil
+    - Equulites elongatus
+    - Equulites klunzingeri
+    - Equulites laterofenestra
+    - Equulites leuciscus
+    - Equulites moretoniensis
+    - Equulites rivulatus
+    - Equulites stercorarius
+    - Eubleekeria jonesi
+    - Eubleekeria kupanensis
+    - Eubleekeria rapsoni
+    - Eubleekeria splendens
+    - Gazza achlamys
+    - Gazza dentex
+    - Gazza minuta
+    - Gazza rhombea
+    - Gazza squamiventralis
+    - Karalla daura
+    - Karalla dussumieri
+    - Leiognathus aureus
+    - Leiognathus berbis
+    - Leiognathus brevirostris
+    - Leiognathus equulus
+    - Leiognathus lineolatus
+    - Leiognathus longispinis
+    - Leiognathus oblongus
+    - Leiognathus parviceps
+    - Leiognathus robustus
+    - Leiognathus striatus
+    - Nuchequula blochii
+    - Nuchequula flavaxilla
+    - Nuchequula gerreoides
+    - Nuchequula glenysae
+    - Nuchequula longicornis
+    - Nuchequula mannusella
+    - Nuchequula nuchalis
+    - Photopectoralis bindus
+    - Photopectoralis hataii
+    - Photopectoralis panayensis
+    - Secutor hanedai
+    - Secutor indicius
+    - Secutor insidiator
+    - Secutor interruptus
+    - Secutor mazavasaoka
+    - Secutor megalolepis
+    - Secutor ruconius
+
+sampled_species:
+    - Aurigequula fasciata
+    - Equulites elongatus
+    - Equulites laterofenestra
+    - Equulites leuciscus
+    - Equulites rivulatus
+    - Equulites stercorarius
+    - Eubleekeria jonesi
+    - Eubleekeria splendens
+    - Gazza achlamys
+    - Gazza minuta
+    - Gazza rhombea
+    - Gazza squamiventralis
+    - Karalla daura
+    - Karalla dussumieri
+    - Leiognathus equulus
+    - Leiognathus lineolatus
+    - Leiognathus longispinis
+    - Leiognathus robustus
+    - Nuchequula blochii
+    - Nuchequula gerreoides
+    - Nuchequula mannusella
+    - Nuchequula nuchalis
+    - Photopectoralis bindus
+    - Photopectoralis panayensis
+    - Secutor hanedai
+    - Secutor indicius
+    - Secutor insidiator
+    - Secutor megalolepis
+    - Secutor ruconius
+
+order: Chaetodontiformes
+
+---

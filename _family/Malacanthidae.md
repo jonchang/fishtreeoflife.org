@@ -1,0 +1,74 @@
+---
+title: Malacanthidae
+species:
+    - Branchiostegus albus
+    - Branchiostegus argentatus
+    - Branchiostegus auratus
+    - Branchiostegus australiensis
+    - Branchiostegus doliatus
+    - Branchiostegus gloerfelti
+    - Branchiostegus hedlandensis
+    - Branchiostegus ilocanus
+    - Branchiostegus japonicus
+    - Branchiostegus paxtoni
+    - Branchiostegus saitoi
+    - Branchiostegus sawakinensis
+    - Branchiostegus semifasciatus
+    - Branchiostegus serratus
+    - Branchiostegus vittatus
+    - Branchiostegus wardi
+    - Caulolatilus affinis
+    - Caulolatilus bermudensis
+    - Caulolatilus chrysops
+    - Caulolatilus cyanops
+    - Caulolatilus dooleyi
+    - Caulolatilus guppyi
+    - Caulolatilus hubbsi
+    - Caulolatilus intermedius
+    - Caulolatilus microps
+    - Caulolatilus princeps
+    - Caulolatilus williamsi
+    - Hoplolatilus chlupatyi
+    - Hoplolatilus cuniculus
+    - Hoplolatilus erdmanni
+    - Hoplolatilus fourmanoiri
+    - Hoplolatilus fronticinctus
+    - Hoplolatilus geo
+    - Hoplolatilus luteus
+    - Hoplolatilus marcosi
+    - Hoplolatilus oreni
+    - Hoplolatilus pohle
+    - Hoplolatilus purpureus
+    - Hoplolatilus randalli
+    - Hoplolatilus starcki
+    - Lopholatilus chamaeleonticeps
+    - Lopholatilus villarii
+    - Malacanthus brevirostris
+    - Malacanthus latovittatus
+    - Malacanthus plumieri
+
+sampled_species:
+    - Branchiostegus albus
+    - Branchiostegus argentatus
+    - Branchiostegus auratus
+    - Branchiostegus doliatus
+    - Branchiostegus japonicus
+    - Branchiostegus semifasciatus
+    - Branchiostegus wardi
+    - Caulolatilus affinis
+    - Caulolatilus intermedius
+    - Caulolatilus microps
+    - Caulolatilus princeps
+    - Hoplolatilus chlupatyi
+    - Hoplolatilus fronticinctus
+    - Hoplolatilus marcosi
+    - Hoplolatilus purpureus
+    - Lopholatilus chamaeleonticeps
+    - Lopholatilus villarii
+    - Malacanthus brevirostris
+    - Malacanthus latovittatus
+    - Malacanthus plumieri
+
+order: Incertae sedis in Eupercaria
+
+---

@@ -1,0 +1,80 @@
+---
+title: Centrarchidae
+species:
+    - Acantharchus pomotis
+    - Ambloplites ariommus
+    - Ambloplites cavifrons
+    - Ambloplites constellatus
+    - Ambloplites rupestris
+    - Archoplites interruptus
+    - Centrarchus macropterus
+    - Enneacanthus chaetodon
+    - Enneacanthus gloriosus
+    - Enneacanthus obesus
+    - Lepomis auritus
+    - Lepomis cyanellus
+    - Lepomis gibbosus
+    - Lepomis gulosus
+    - Lepomis humilis
+    - Lepomis macrochirus
+    - Lepomis marginatus
+    - Lepomis megalotis
+    - Lepomis microlophus
+    - Lepomis miniatus
+    - Lepomis peltastes
+    - Lepomis punctatus
+    - Lepomis symmetricus
+    - Micropterus cahabae
+    - Micropterus cataractae
+    - Micropterus chattahoochae
+    - Micropterus coosae
+    - Micropterus dolomieu
+    - Micropterus floridanus
+    - Micropterus henshalli
+    - Micropterus notius
+    - Micropterus punctulatus
+    - Micropterus salmoides
+    - Micropterus tallapoosae
+    - Micropterus treculii
+    - Micropterus warriorensis
+    - Pomoxis annularis
+    - Pomoxis nigromaculatus
+
+sampled_species:
+    - Acantharchus pomotis
+    - Ambloplites ariommus
+    - Ambloplites cavifrons
+    - Ambloplites constellatus
+    - Ambloplites rupestris
+    - Archoplites interruptus
+    - Centrarchus macropterus
+    - Enneacanthus chaetodon
+    - Enneacanthus gloriosus
+    - Enneacanthus obesus
+    - Lepomis auritus
+    - Lepomis cyanellus
+    - Lepomis gibbosus
+    - Lepomis gulosus
+    - Lepomis humilis
+    - Lepomis macrochirus
+    - Lepomis marginatus
+    - Lepomis megalotis
+    - Lepomis microlophus
+    - Lepomis miniatus
+    - Lepomis punctatus
+    - Lepomis symmetricus
+    - Micropterus cataractae
+    - Micropterus coosae
+    - Micropterus dolomieu
+    - Micropterus floridanus
+    - Micropterus henshalli
+    - Micropterus notius
+    - Micropterus punctulatus
+    - Micropterus salmoides
+    - Micropterus treculii
+    - Pomoxis annularis
+    - Pomoxis nigromaculatus
+
+order: Centrarchiformes
+
+---

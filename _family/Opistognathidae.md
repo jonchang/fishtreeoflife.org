@@ -1,0 +1,94 @@
+---
+title: Opistognathidae
+species:
+    - Lonchopisthus higmani
+    - Lonchopisthus lemur
+    - Lonchopisthus micrognathus
+    - Lonchopisthus sinuscalifornicus
+    - Opistognathus adelus
+    - Opistognathus afer
+    - Opistognathus albicaudatus
+    - Opistognathus alleni
+    - Opistognathus aurifrons
+    - Opistognathus brasiliensis
+    - Opistognathus brochus
+    - Opistognathus castelnaui
+    - Opistognathus crassus
+    - Opistognathus cuvierii
+    - Opistognathus cyanospilotus
+    - Opistognathus darwiniensis
+    - Opistognathus decorus
+    - Opistognathus dendriticus
+    - Opistognathus dipharus
+    - Opistognathus elizabethensis
+    - Opistognathus evermanni
+    - Opistognathus eximius
+    - Opistognathus fenmutis
+    - Opistognathus fossoris
+    - Opistognathus galapagensis
+    - Opistognathus gilberti
+    - Opistognathus hongkongiensis
+    - Opistognathus hopkinsi
+    - Opistognathus inornatus
+    - Opistognathus iyonis
+    - Opistognathus jacksoniensis
+    - Opistognathus latitabundus
+    - Opistognathus leprocarus
+    - Opistognathus liturus
+    - Opistognathus lonchurus
+    - Opistognathus longinaris
+    - Opistognathus macrognathus
+    - Opistognathus macrolepis
+    - Opistognathus margaretae
+    - Opistognathus maxillosus
+    - Opistognathus megalepis
+    - Opistognathus melachasme
+    - Opistognathus mexicanus
+    - Opistognathus muscatensis
+    - Opistognathus nigromarginatus
+    - Opistognathus nothus
+    - Opistognathus panamaensis
+    - Opistognathus papuensis
+    - Opistognathus punctatus
+    - Opistognathus randalli
+    - Opistognathus reticeps
+    - Opistognathus reticulatus
+    - Opistognathus rhomaleus
+    - Opistognathus robinsi
+    - Opistognathus rosenbergii
+    - Opistognathus rosenblatti
+    - Opistognathus rufilineatus
+    - Opistognathus scops
+    - Opistognathus seminudus
+    - Opistognathus signatus
+    - Opistognathus simus
+    - Opistognathus smithvanizi
+    - Opistognathus solorensis
+    - Opistognathus stigmosus
+    - Opistognathus variabilis
+    - Opistognathus verecundus
+    - Opistognathus walkeri
+    - Opistognathus whitehursti
+    - Stalix davidsheni
+    - Stalix dicra
+    - Stalix eremia
+    - Stalix flavida
+    - Stalix histrio
+    - Stalix immaculata
+    - Stalix moenensis
+    - Stalix omanensis
+    - Stalix sheni
+    - Stalix toyoshio
+    - Stalix versluysi
+
+sampled_species:
+    - Lonchopisthus micrognathus
+    - Opistognathus aurifrons
+    - Opistognathus macrognathus
+    - Opistognathus maxillosus
+    - Opistognathus punctatus
+    - Opistognathus robinsi
+
+order: Incertae sedis in Ovalentaria
+
+---

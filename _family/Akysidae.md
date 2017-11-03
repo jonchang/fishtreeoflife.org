@@ -1,0 +1,73 @@
+---
+title: Akysidae
+species:
+    - Acrochordonichthys chamaeleon
+    - Acrochordonichthys falcifer
+    - Acrochordonichthys guttatus
+    - Acrochordonichthys gyrinus
+    - Acrochordonichthys ischnosoma
+    - Acrochordonichthys mahakamensis
+    - Acrochordonichthys pachyderma
+    - Acrochordonichthys rugosus
+    - Acrochordonichthys septentrionalis
+    - Acrochordonichthys strigosus
+    - Akysis bilustris
+    - Akysis brachybarbatus
+    - Akysis clavulus
+    - Akysis clinatus
+    - Akysis ephippifer
+    - Akysis fontaneus
+    - Akysis fuliginatus
+    - Akysis galeatus
+    - Akysis hendricksoni
+    - Akysis heterurus
+    - Akysis longifilis
+    - Akysis maculipinnis
+    - Akysis manipurensis
+    - Akysis microps
+    - Akysis pictus
+    - Akysis portellus
+    - Akysis prashadi
+    - Akysis pulvinatus
+    - Akysis recavus
+    - Akysis scorteus
+    - Akysis variegatus
+    - Akysis varius
+    - Akysis vespa
+    - Akysis vespertinus
+    - Breitensteinia cessator
+    - Breitensteinia hypselurus
+    - Breitensteinia insignis
+    - Parakysis anomalopteryx
+    - Parakysis grandis
+    - Parakysis hystriculus
+    - Parakysis longirostris
+    - Parakysis notialis
+    - Parakysis verrucosus
+    - Pseudobagarius alfredi
+    - Pseudobagarius baramensis
+    - Pseudobagarius filifer
+    - Pseudobagarius fuscus
+    - Pseudobagarius hardmani
+    - Pseudobagarius inermis
+    - Pseudobagarius leucorhynchus
+    - Pseudobagarius macronemus
+    - Pseudobagarius meridionalis
+    - Pseudobagarius nitidus
+    - Pseudobagarius pseudobagarius
+    - Pseudobagarius similis
+    - Pseudobagarius sinensis
+    - Pseudobagarius subtilis
+
+sampled_species:
+    - Acrochordonichthys rugosus
+    - Akysis brachybarbatus
+    - Akysis longifilis
+    - Akysis prashadi
+    - Breitensteinia cessator
+    - Parakysis grandis
+    - Parakysis longirostris
+
+order: Siluriformes
+
+---

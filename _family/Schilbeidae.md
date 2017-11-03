@@ -1,0 +1,94 @@
+---
+title: Schilbeidae
+species:
+    - Ailia coila
+    - Ailiichthys punctata
+    - Clupisoma bastari
+    - Clupisoma garua
+    - Clupisoma longianalis
+    - Clupisoma montana
+    - Clupisoma naziri
+    - Clupisoma nujiangense
+    - Clupisoma prateri
+    - Clupisoma roosae
+    - Clupisoma sinense
+    - Eutropiichthys britzi
+    - Eutropiichthys burmannicus
+    - Eutropiichthys goongwaree
+    - Eutropiichthys murius
+    - Eutropiichthys salweenensis
+    - Eutropiichthys vacha
+    - Irvineia orientalis
+    - Irvineia voltae
+    - Laides hexanema
+    - Laides longibarbis
+    - Neotropius acutirostris
+    - Neotropius atherinoides
+    - Neotropius khavalchor
+    - Parailia congica
+    - Parailia occidentalis
+    - Parailia pellucida
+    - Parailia somalensis
+    - Parailia spiniserrata
+    - Pareutropius buffei
+    - Pareutropius debauwi
+    - Pareutropius longifilis
+    - Pareutropius mandevillei
+    - Platytropius siamensis
+    - Platytropius yunnanensis
+    - Proeutropiichthys buchanani
+    - Proeutropiichthys macropthalmos
+    - Proeutropiichthys taakree
+    - Pseudeutropius brachypopterus
+    - Pseudeutropius indigens
+    - Pseudeutropius mitchelli
+    - Pseudeutropius moolenburghae
+    - Schilbe angolensis
+    - Schilbe banguelensis
+    - Schilbe bocagii
+    - Schilbe brevianalis
+    - Schilbe congensis
+    - Schilbe djeremi
+    - Schilbe durinii
+    - Schilbe grenfelli
+    - Schilbe intermedius
+    - Schilbe laticeps
+    - Schilbe mandibularis
+    - Schilbe marmoratus
+    - Schilbe micropogon
+    - Schilbe moebiusii
+    - Schilbe multitaeniatus
+    - Schilbe mystus
+    - Schilbe nyongensis
+    - Schilbe tumbanus
+    - Schilbe uranoscopus
+    - Schilbe yangambianus
+    - Schilbe zairensis
+    - Silonia childreni
+    - Silonia silondia
+    - Siluranodon auritus
+
+sampled_species:
+    - Ailia coila
+    - Clupisoma garua
+    - Clupisoma longianalis
+    - Clupisoma prateri
+    - Clupisoma sinense
+    - Eutropiichthys murius
+    - Eutropiichthys salweenensis
+    - Eutropiichthys vacha
+    - Laides hexanema
+    - Laides longibarbis
+    - Parailia congica
+    - Parailia pellucida
+    - Pareutropius debauwi
+    - Pseudeutropius brachypopterus
+    - Pseudeutropius mitchelli
+    - Pseudeutropius moolenburghae
+    - Schilbe intermedius
+    - Schilbe mystus
+    - Silonia silondia
+
+order: Siluriformes
+
+---
