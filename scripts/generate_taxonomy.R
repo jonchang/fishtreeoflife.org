@@ -6,8 +6,8 @@ library(readr)
 library(glue)
 library(stringr)
 
-tre <- read.tree("../downloads/actinopt_12k_treePL.tre")
-tax <- read_csv("../downloads/PFC_short_classification.csv")
+tre <- read.tree("downloads/actinopt_12k_treePL.tre")
+tax <- read_csv("downloads/PFC_short_classification.csv")
 
 template <- "
 ---
@@ -23,7 +23,8 @@ order: {order}
 ---
 "
 
-basepath <- "../_family/"
+basepath <- "_family/"
+dir.create(basepath, recursive = T)
 tips <- str_replace_all(tre$tip.label, "_", " ")
 
 for (family in split(tax, tax$family)) {
