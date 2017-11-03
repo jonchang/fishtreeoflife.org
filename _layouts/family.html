@@ -24,4 +24,28 @@ Order: {{ page.order }}
 
 <h2>Downloads</h2>
 
+<h3>Time-calibrated phylogenies</h3>
+
+{% assign family_trees = site.static_files | where_exp: "item", "item.name contains page.title" %}
+{% for tree in family_trees %}
+{% if tree.name contains "mrca" %}
+<p><a href="{{ tree.path | relative_url }}">Time-calibrated phylogeny of the most recent common ancestor of {{ page.title }}</a></p>
+{% elsif tree.name contains "pruned" %}
+<p><a href="{{ tree.path | relative_url}}">Time-calibrated phylogeny of only species in {{ page.title }}</a></p>
+{% endif %}
+{% endfor %}
+
+{% if family_trees == empty %}
+{% case page.species.size %}
+{% when 1 %}
+<p>No time-calibrated phylogenies available (family is monotypic)</p>
+{% when 2 or 3 or 4%}
+<p>No time-calibrated phylogenies available (too few species)</p>
+{% else %}
+<p>No time-calibrated phylogenies available (too few sampled species)</p>
+{% endcase %}
+{% endif %}
+
+<h3>Sequence data</h3>
+
 {{ content }}

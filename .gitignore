@@ -2,6 +2,9 @@ _site
 .sass-cache
 .jekyll-metadata
 
+_family
+downloads/family
+
 # bundler
 .bundle/
 vendor/
