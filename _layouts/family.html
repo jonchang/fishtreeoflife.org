@@ -40,7 +40,7 @@ Order: {{ page.order }}
     {% if page.num_rogues == 0 %}
       <p><a href="{{ family_trees[0].path | relative_url }}">Time-calibrated phylogeny of {{ page.title }}</a></p>
     {% else %}
-      <p>Note: there were {{ page.num_rogues }} non-{{ page.title }} species that caused {{ page.title }} to be inferred as paraphyletic.</p>
+      <p>Note: there were {{ page.num_rogues }} non-{{ page.title | split: "" | reverse | join: "" | slice: 2, 9999 | split: "" | reverse | join: "" | downcase }} species that caused {{ page.title }} to be inferred as paraphyletic.</p>
       {% assign mrca_tree = family_trees | where_exp: "item", "item.basename contains 'mrca'" %}
       {% assign good_tree = family_trees | where_exp: "item", "item.basename == page.title" %}
       <p><a href="{{ good_tree[0].path | relative_url}}">Time-calibrated phylogeny of <em>only</em> species in {{ page.title }}</a></p>
