@@ -1,0 +1,23 @@
+language: ruby
+dist: trusty
+rvm:
+    - 2.4.1
+
+cache:
+    bundler: true
+
+addons:
+    apt:
+        packages:
+            - r-base
+
+script:
+    #- ts/generate_taxonomy.R
+    - bundle exec jekyll build
+
+deploy:
+    provider: pages
+    skip_cleanup: true
+    github_token: $GITHUB_TOKEN
+    on:
+        branch: master
