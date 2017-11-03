@@ -1,0 +1,27 @@
+---
+layout: page
+---
+
+<h2>Species</h2>
+
+<p>Sampling: {{ page.sampled_species | size }} species out of {{ page.species | size }}</p>
+
+<p>
+<ul>
+{% for species in page.species %}
+{% if page.sampled_species contains species %}
+<li><strong><em>{{ species }}</em></strong></li>
+{% else %}
+<li><em>{{ species }}</em></li>
+{% endif %}
+{% endfor %}
+</ul>
+</p>
+
+<h2>Taxonomy</h2>
+
+Order: {{ page.order }}
+
+<h2>Downloads</h2>
+
+{{ content }}
