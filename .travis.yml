@@ -5,11 +5,19 @@ rvm:
 
 cache:
     bundler: true
+    directories:
+        - $HOME/R/Library
+
+env:
+    - R_LIB_USER=$HOME/R/Library
 
 addons:
     apt:
         packages:
             - r-base
+
+before_install:
+    - Rscript -e 'install.packages(c("ape", "dplyr", "glue", "stringr", "readr"), repos="https://cran.rstudio.com")'
 
 script:
     #- ts/generate_taxonomy.R
