@@ -9,8 +9,9 @@ cache:
         - $HOME/R/Library
 
 env:
-    - R_LIBS_USER=$HOME/R/Library
-    - JEKYLL_ENV=production
+    global:
+        - R_LIBS_USER=$HOME/R/Library
+        - JEKYLL_ENV=production
 
 addons:
     apt:
