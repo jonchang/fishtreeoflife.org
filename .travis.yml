@@ -9,7 +9,7 @@ cache:
         - $HOME/R/Library
 
 env:
-    - R_LIB_USER=$HOME/R/Library
+    - R_LIBS_USER=$HOME/R/Library
 
 addons:
     apt:
