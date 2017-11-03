@@ -26,6 +26,7 @@ order: {order}
 
 basepath <- "_family/"
 dir.create(basepath, recursive = T)
+dir.create("downloads/family", recursive = T)
 tips <- str_replace_all(tre$tip.label, "_", " ")
 
 generate_family_data <- function(family) {
