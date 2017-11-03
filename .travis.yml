@@ -24,9 +24,8 @@ before_install:
     - Rscript -e 'install.packages(c("ape", "tidyverse", "glue"), repos = "https://cran.rstudio.com", Ncpu = 2)'
 
 script:
-    #- ts/generate_taxonomy.R
+    - scripts/generate_taxonomy.R
     - bundle exec jekyll build --baseurl /fishtreeoflife.org
-    - touch _site/.nojekyll
 
 deploy:
     provider: pages
