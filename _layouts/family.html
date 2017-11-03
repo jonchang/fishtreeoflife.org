@@ -26,24 +26,26 @@ Order: {{ page.order }}
 
 <h3>Time-calibrated phylogenies</h3>
 
-{% assign family_trees = site.static_files | where_exp: "item", "item.name contains page.title" %}
-{% for tree in family_trees %}
-{% if tree.name contains "mrca" %}
-<p><a href="{{ tree.path | relative_url }}">Time-calibrated phylogeny of the most recent common ancestor of {{ page.title }}</a></p>
-{% elsif tree.name contains "pruned" %}
-<p><a href="{{ tree.path | relative_url}}">Time-calibrated phylogeny of only species in {{ page.title }}</a></p>
-{% endif %}
-{% endfor %}
-
-{% if family_trees == empty %}
-{% case page.species.size %}
-{% when 1 %}
-<p>No time-calibrated phylogenies available (family is monotypic)</p>
-{% when 2 or 3 or 4%}
-<p>No time-calibrated phylogenies available (too few species)</p>
-{% else %}
-<p>No time-calibrated phylogenies available (too few sampled species)</p>
-{% endcase %}
+{% assign family_trees = site.static_files | where_exp: "item", "item.basename contains page.title" %}
+  {% if family_trees == empty %}
+    {% case page.species.size %}
+    {% when 1 %}
+      <p>No time-calibrated phylogenies available (family is monotypic)</p>
+    {% when 2 or 3 or 4%}
+      <p>No time-calibrated phylogenies available (too few species)</p>
+    {% else %}
+      <p>No time-calibrated phylogenies available (too few sampled species)</p>
+    {% endcase %}
+  {% else %}
+    {% if page.num_rogues == 0 %}
+      <p><a href="{{ family_trees[0].path | relative_url }}">Time-calibrated phylogeny of {{ page.title }}</a></p>
+    {% else %}
+      <p>Note: there were {{ page.num_rogues }} non-{{ page.title }} species that caused {{ page.title }} to be inferred as paraphyletic.</p>
+      {% assign mrca_tree = family_trees | where_exp: "item", "item.basename contains 'mrca'" %}
+      {% assign good_tree = family_trees | where_exp: "item", "item.basename == page.title" %}
+      <p><a href="{{ good_tree[0].path | relative_url}}">Time-calibrated phylogeny of <em>only</em> species in {{ page.title }}</a></p>
+      <p><a href="{{ mrca_tree[0].path | relative_url}}">Time-calibrated phylogeny of "{{ page.title }}"</a></p>
+  {% endif %}
 {% endif %}
 
 <h3>Sequence data</h3>
