@@ -10,7 +10,7 @@ options(mc.cores = parallel::detectCores())
 cat(parallel::detectCores())
 
 tre <- read.tree("downloads/actinopt_12k_treePL.tre")
-tax <- read_csv("downloads/PFC_short_classification.csv")
+tax <- read_csv("downloads/PFC_short_classification.csv.xz")
 
 template <- "
 ---
