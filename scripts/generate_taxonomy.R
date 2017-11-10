@@ -15,32 +15,29 @@ tax <- read_csv("downloads/PFC_short_classification.csv")
 template <- "
 ---
 title: {family_name}
-species:
-{species_yaml}
-
-sampled_species:
-{sampled_species_yaml}
-
 order: {order}
-
 num_rogues: {num_rogues}
 ---
 "
 
-basepath <- "_family/"
+datapath <- "_data/family/"
+mdpath <- "_family/"
 downloadpath <- "downloads/family"
-dir.create(basepath, recursive = T)
+
+dir.create(mdpath, recursive = T)
+dir.create(datapath, recursive = T)
 dir.create(downloadpath, recursive = T)
+
 tips <- str_replace_all(tre$tip.label, "_", " ")
 
 generate_family_data <- function(family) {
     family_name <- unique(family$family)
     species <- family$genus.species
     sampled_species <- species[species %in% tips]
-    species_yaml <- paste0("    - ", paste(species, collapse = "\n    - "))
-    sampled_species_yaml <- paste0("    - ", paste(sampled_species, collapse = "\n    - "))
-    if (length(sampled_species) == 0) sampled_species_yaml <- ""
     order <- unique(family$order)
+
+    fam_df <- data_frame(species = species) %>% mutate(sampled = as.integer(species %in% sampled_species))
+    write_csv(fam_df, file.path(datapath, paste0(family_name, ".csv")))
 
     num_rogues <- 0
     if (length(sampled_species) > 4) {
@@ -58,7 +55,7 @@ generate_family_data <- function(family) {
         }
     }
 
-    sink(file.path(basepath, paste0(family_name, ".md")))
+    sink(file.path(mdpath, paste0(family_name, ".md")))
     cat(glue(template), fill = T)
     sink(NULL)
 }

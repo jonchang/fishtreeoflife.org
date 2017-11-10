@@ -4,23 +4,28 @@ layout: page
 
 <h2>Species</h2>
 
-<p>Sampling: {{ page.sampled_species | size }} species out of {{ page.species | size }}</p>
+<p>Sampling: {{ site.data.family[page.title] | where:"sampled","1" | size }} species out of {{ site.data.family[page.title] | size }}</p>
 
 <p>
 <ul>
-{% for species in page.species %}
-{% if page.sampled_species contains species %}
-<li><strong><em>{{ species }}</em></strong></li>
+{% for row in site.data.family[page.title] %}
+{% if row.sampled == "1" %}
+<li><strong><em>{{ row.species }}</em></strong></li>
 {% else %}
-<li><em>{{ species }}</em></li>
+<li><em>{{ row.species }}</em></li>
 {% endif %}
 {% endfor %}
 </ul>
 </p>
 
+<a href="data:application/json,{{ site.data.family[page.title] | jsonify | uri_escape }}">Download species data</a>
+</pre>
+
+
 <h2>Taxonomy</h2>
 
 Order: {{ page.order }}
+
 
 <h2>Downloads</h2>
 
@@ -28,7 +33,7 @@ Order: {{ page.order }}
 
 {% assign family_trees = site.static_files | where_exp: "item", "item.basename contains page.title" %}
   {% if family_trees == empty %}
-    {% case page.species.size %}
+    {% case site.data.family[page.title].species.size %}
     {% when 1 %}
       <p>No time-calibrated phylogenies available (family is monotypic)</p>
     {% when 2 or 3 or 4%}
