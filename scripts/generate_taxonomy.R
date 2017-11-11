@@ -9,7 +9,7 @@ library(stringr)
 options(mc.cores = parallel::detectCores())
 cat(parallel::detectCores())
 
-tre <- read.tree("downloads/actinopt_12k_treePL.tre")
+tre <- read.tree("downloads/actinopt_12k_treePL.tre.xz")
 tax <- read_csv("downloads/PFC_short_classification.csv.xz")
 
 template <- "
