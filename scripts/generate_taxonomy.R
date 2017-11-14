@@ -5,12 +5,17 @@ library(dplyr)
 library(readr)
 library(glue)
 library(stringr)
+library(future)
 
-options(mc.cores = parallel::detectCores())
+# Set futures max size to 1GB
+options(mc.cores = parallel::detectCores(), future.globals.maxSize = 1024^3)
 cat(parallel::detectCores())
 
-tre <- read.tree("downloads/actinopt_12k_treePL.tre.xz")
-tax <- read_csv("downloads/PFC_short_classification.csv.xz")
+plan(multicore)
+
+tre %<-% read.tree("downloads/actinopt_12k_treePL.tre.xz")
+tax %<-% read_csv("downloads/PFC_short_classification.csv.xz")
+dna %<-% scan("downloads/final_alignment.phylip.xz", what = list(character(), character()), quiet = TRUE, nlines = 11650, strip.white = TRUE, skip = 1)
 
 template <- "
 ---
@@ -29,6 +34,7 @@ dir.create(datapath, recursive = T)
 dir.create(downloadpath, recursive = T)
 
 tips <- str_replace_all(tre$tip.label, "_", " ")
+dna[[1]] <- str_replace_all(dna[[1]], "_", " ")
 
 generate_family_data <- function(family) {
     family_name <- unique(family$family)
@@ -55,9 +61,27 @@ generate_family_data <- function(family) {
         }
     }
 
+    if (length(sampled_species) > 0) {
+        wanted_spp <- dna[[1]][dna[[1]] %in% sampled_species]
+        wanted_dna <- dna[[2]][dna[[1]] %in% sampled_species]
+        sink(file.path(downloadpath, paste0(family_name, ".phylip")))
+        cat(paste(length(wanted_spp), nchar(wanted_dna[1])), fill = TRUE)
+        for (ii in 1:length(wanted_spp)) {
+            cat(wanted_spp[ii])
+            cat(" ")
+            cat(wanted_dna[ii], fill = TRUE)
+        }
+        sink(NULL)
+    }
+
     sink(file.path(mdpath, paste0(family_name, ".md")))
     cat(glue(template), fill = T)
     sink(NULL)
 }
 
+# ensure the DNA future is resolved
+str(dna)
 parallel::mclapply(split(tax, tax$family), generate_family_data)
+
+cmd <- glue("ls {file.path(downloadpath, '*.phylip')} | xargs -n20 -P{parallel::detectCores()} xz -9e")
+system(cmd)
