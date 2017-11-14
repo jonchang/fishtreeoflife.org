@@ -21,7 +21,7 @@ addons:
             - r-base-dev
 
 before_install:
-    - Rscript -e 'install.packages(c("ape", "tidyverse", "glue"), repos = "https://cran.rstudio.com", Ncpu = 2)'
+    - Rscript -e 'install.packages(c("ape", "tidyverse", "glue", "future"), repos = "https://cran.rstudio.com", Ncpu = parallel::detectCores())'
 
 script:
     - scripts/generate_taxonomy.R
