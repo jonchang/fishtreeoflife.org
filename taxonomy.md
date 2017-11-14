@@ -3,7 +3,6 @@ layout: page
 title: Taxonomy
 ---
 
-
 - PFC taxonomy
 - Compare to CoL/EToL
 
