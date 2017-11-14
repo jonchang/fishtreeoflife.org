@@ -22,6 +22,6 @@ Tax page
 ## Families
 
 {% for family in site.family %}
-* [{{ family.title }}]({{ family.url }}) --- {{ site.data.family[family.title] | where:"sampled","1" | size }}/{{ site.data.family[family.title] | size }} species {% endfor %}
+* [{{ family.title }}]({{ family.url | relative_url }}) --- {{ site.data.family[family.title] | where:"sampled","1" | size }}/{{ site.data.family[family.title] | size }} species {% endfor %}
 
 
