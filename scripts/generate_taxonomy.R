@@ -83,5 +83,5 @@ generate_family_data <- function(family) {
 str(dna)
 parallel::mclapply(split(tax, tax$family), generate_family_data)
 
-cmd <- glue("ls {file.path(downloadpath, '*.phylip')} | xargs -n20 -P{parallel::detectCores()} xz -9e")
+cmd <- glue("ls {file.path(downloadpath, '*.phylip')} | xargs -n20 -P{parallel::detectCores()} xz -0e")
 system(cmd)
