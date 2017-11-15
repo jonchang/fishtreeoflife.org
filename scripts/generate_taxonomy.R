@@ -8,7 +8,7 @@ library(stringr)
 library(future)
 
 # Set futures max size to 1GB
-options(mc.cores = parallel::detectCores(), future.globals.maxSize = 1024^3)
+options(mc.cores = parallel::detectCores() / 2, future.globals.maxSize = 1024^3)
 cat(parallel::detectCores())
 
 plan(multicore)
@@ -86,8 +86,7 @@ splat <- split(tax, tax$family)
 
 res <- parallel::mclapply(splat, generate_family_data)
 
-length(splat)
-length(res)
+setdiff(names(splat), names(res))
 
 cmd <- glue("ls {file.path(downloadpath, '*.phylip')} | xargs -n20 -P{parallel::detectCores()} xz -0e")
 system(cmd)
