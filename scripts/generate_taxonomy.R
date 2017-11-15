@@ -81,7 +81,13 @@ generate_family_data <- function(family) {
 
 # ensure the DNA future is resolved
 str(dna)
-parallel::mclapply(split(tax, tax$family), generate_family_data)
+
+splat <- split(tax, tax$family)
+
+res <- parallel::mclapply(splat, generate_family_data)
+
+length(splat)
+length(res)
 
 cmd <- glue("ls {file.path(downloadpath, '*.phylip')} | xargs -n20 -P{parallel::detectCores()} xz -0e")
 system(cmd)
