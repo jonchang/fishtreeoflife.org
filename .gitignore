@@ -1,6 +1,8 @@
 _site
 .sass-cache
 .jekyll-metadata
+.asset-cache/
+.jekyll-cache/
 
 _family
 _data/family
