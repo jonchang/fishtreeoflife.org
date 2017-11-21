@@ -42,6 +42,9 @@ exclude:
     - scripts/
     - .bundle/
     - vendor/
+    - .asset-cache/
+    - .jekyll-cache/
+    - .travis.yml
 
 permalink: pretty
 

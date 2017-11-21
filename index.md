@@ -2,7 +2,11 @@
 layout: home
 ---
 
-![Fish tree](assets/front-page-tree.png)
+{% asset front-page-tree.png
+   srcset:width="2687 3x"
+   srcset:width="1791 2x"
+   srcset:width="896 1x"
+%}
 
 ## Quick links
 

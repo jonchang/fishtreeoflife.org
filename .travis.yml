@@ -7,6 +7,8 @@ cache:
     bundler: true
     directories:
         - $HOME/R/Library
+        - .asset-cache/
+        - .jekyll-cache/
 
 env:
     global:
