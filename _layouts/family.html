@@ -6,8 +6,10 @@ layout: page
 
 <p>Sampling: {{ site.data.family[page.title] | where:"sampled","1" | size }} species out of {{ site.data.family[page.title] | size }}</p>
 
-<p>
-<ul>
+
+<p><a id="show-species-list" href="#">Show species list</a></p>
+
+<ul id="species-list">
 {% for row in site.data.family[page.title] %}
 {% if row.sampled == "1" %}
 <li><strong><em>{{ row.species }}</em></strong></li>
@@ -16,7 +18,6 @@ layout: page
 {% endif %}
 {% endfor %}
 </ul>
-</p>
 
 <a href="data:application/json,{{ site.data.family[page.title] | jsonify | uri_escape }}">Download species data</a>
 
@@ -66,3 +67,7 @@ Order: {{ page.order }}
 
 
 {{ content }}
+
+
+<script type="text/javascript" src="/assets/showhide.js"></script>
+<script>makeShowHide("show-species-list", "species-list");</script>
