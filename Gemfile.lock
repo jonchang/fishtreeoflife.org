@@ -86,6 +86,8 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.4)
       thread_safe (~> 0.1)
+    uglifier (3.2.0)
+      execjs (>= 0.3.0, < 3)
 
 PLATFORMS
   ruby
@@ -97,6 +99,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   mini_magick
+  uglifier
 
 BUNDLED WITH
    1.16.0
