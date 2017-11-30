@@ -49,7 +49,7 @@ dd {
     {% assign og_data = site.data.fossil_data | where: "clade_pretty", og %}
     {% assign og_data = og_data[0] %}
     {% if og_data %}
-    <dd><a href="/{{ site.baseurl }}fossils/{{ og_data.idx }}/"><em>{{ og_data.fossil }}</em> ({{ og_data.clade_pretty }}, {{ og_data.min }} Ma)</a></dd>
+    <dd><a href="{{ "/fossils/" | append: fossil.idx | relative_url }}/"><em>{{ og_data.fossil }}</em> ({{ og_data.clade_pretty }}, {{ og_data.min }} Ma)</a></dd>
     {% else %}
     <dd>{{ og }}</dd>
     {% endif %}
