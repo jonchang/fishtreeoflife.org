@@ -1,0 +1,60 @@
+---
+layout: page
+---
+
+<style>
+dl {
+	margin: 2em 0;
+	padding: 0;
+}
+
+dt {
+	position: relative;
+	left: 0;
+	top: 1.1em;
+	width: 15em;
+	font-weight: bold;
+}
+
+dd {
+	border-left: 1px solid #000;
+	margin: 0 0 0 16em;
+	padding: 0 0 .5em .5em;
+}
+</style>
+
+{% assign fossil = site.data.fossil_data | where: "fossil", page.title %}
+{% assign fossil = fossil[0] %}
+
+{% assign outgroups = fossil.outgroup_sequence | split: "	" %}
+
+<dl class="event">
+    <dt>Taxon calibrated</dt>
+    <dd>{{ fossil.clade_pretty }}</dd>
+
+    <dt>Minimum age</dt>
+    <dd>{{ fossil.min }} Ma</dd>
+
+    <dt>Maximum 95% CI age</dt>
+    <dd>{{ fossil.max }}</dd>
+
+    <dt>Authority</dt>
+    <dd>{{ fossil.authority }}</dd>
+
+    <dt>Locality</dt>
+    <dd>{{ fossil.locality }} </dd>
+
+    <dt>Outgroup sequence</dt>
+    {% for og in outgroups %}
+    {% assign og_data = site.data.fossil_data | where: "clade_pretty", og %}
+    {% assign og_data = og_data[0] %}
+    {% if og_data %}
+    <dd><a href="/{{ site.baseurl }}fossils/{{ og_data.idx }}/"><em>{{ og_data.fossil }}</em> ({{ og_data.clade_pretty }}, {{ og_data.min }} Ma)</a></dd>
+    {% else %}
+    <dd>{{ og }}</dd>
+    {% endif %}
+    {% endfor %}
+</dl>
+
+
+
