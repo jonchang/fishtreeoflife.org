@@ -3,24 +3,7 @@ layout: page
 ---
 
 <style>
-dl {
-	margin: 2em 0;
-	padding: 0;
-}
-
-dt {
-	position: relative;
-	left: 0;
-	top: 1.1em;
-	width: 15em;
-	font-weight: bold;
-}
-
-dd {
-	border-left: 1px solid #000;
-	margin: 0 0 0 16em;
-	padding: 0 0 .5em .5em;
-}
+dt { margin: 1em auto auto auto; font-weight: bold; }
 </style>
 
 {% assign fossil = site.data.fossil_data | where: "fossil", page.title %}
@@ -36,7 +19,11 @@ dd {
     <dd>{{ fossil.min }} Ma</dd>
 
     <dt>Maximum 95% CI age</dt>
+    {% if fossil.max == "NA" %}
+    <dd>None specified</dd>
+    {% else %}
     <dd>{{ fossil.max | slice: 0, 5}}</dd>
+    {% endif %}
 
     <dt>Authority</dt>
     <dd>{{ fossil.authority }}</dd>
@@ -49,12 +36,10 @@ dd {
     {% assign og_data = site.data.fossil_data | where: "clade_pretty", og %}
     {% assign og_data = og_data[0] %}
     {% if og_data %}
-    <dd><a href="{{ "/fossils/" | append: fossil.idx | relative_url }}/"><em>{{ og_data.fossil }}</em> ({{ og_data.clade_pretty }}, {{ og_data.min }} Ma)</a></dd>
+    <dd><a href="{{ "/fossils/" | append: og_data.slug | relative_url }}/"><em>{{ og_data.fossil }}</em> ({{ og_data.clade_pretty }}, {{ og_data.min }} Ma)</a></dd>
     {% else %}
     <dd>{{ og }}</dd>
     {% endif %}
     {% endfor %}
 </dl>
-
-
 

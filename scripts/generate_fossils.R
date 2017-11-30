@@ -4,6 +4,7 @@ library(ape)
 library(dplyr)
 library(readr)
 library(ggplot2)
+library(stringr)
 library(glue)
 
 width <- 740
@@ -23,18 +24,18 @@ plot(tree, show.tip.label = FALSE, no.margin = TRUE)
 lastPP <- get("last_plot.phylo", envir = .PlotPhyloEnv)
 res <- fossil_nodes %>% mutate(x = lastPP$xx[node], y = lastPP$yy[node],
                                devx = grconvertX(x, to = "device"),
-                               devy = grconvertY(y, to = "device")) %>% ungroup()
+                               devy = grconvertY(y, to = "device"),
+                               slug = tolower(str_replace_all(fossil, "[^a-zA-Z0-9-]", "-"))) %>% ungroup()
 dev.off()
 
-
-write_csv(res, "_data/fossil_data.csv")
+res %>% write_csv("_data/fossil_data.csv")
 
 mdpath <- "_fossils/"
 dir.create(mdpath, recursive = T)
 
 for (ii in 1:nrow(res)) {
     sink(file.path(mdpath, paste0(res$idx[ii], ".md")))
-    cat(paste0("---\ntitle: ", res$fossil[ii], "\n---\n"))
+    cat(paste0("---\ntitle: ", res$fossil[ii], "\nslug: ", res$slug[ii], "\n\n---\n"))
     sink(NULL)
 }
 
