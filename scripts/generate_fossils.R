@@ -7,7 +7,7 @@ library(ggplot2)
 library(stringr)
 library(glue)
 
-width <- 740
+width <- 1000 - (30 * 2)
 height <- width * 3
 retina_scale <- 2
 
