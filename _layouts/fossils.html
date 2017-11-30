@@ -22,7 +22,7 @@ dt { margin: 1em auto auto auto; font-weight: bold; }
     {% if fossil.max == "NA" %}
     <dd>None specified</dd>
     {% else %}
-    <dd>{{ fossil.max | slice: 0, 5}}</dd>
+    <dd>{{ fossil.max | slice: 0, 5}} Ma</dd>
     {% endif %}
 
     <dt>Authority</dt>
@@ -38,7 +38,12 @@ dt { margin: 1em auto auto auto; font-weight: bold; }
     {% if og_data %}
     <dd><a href="{{ "/fossils/" | append: og_data.slug | relative_url }}/"><em>{{ og_data.fossil }}</em> ({{ og_data.clade_pretty }}, {{ og_data.min }} Ma)</a></dd>
     {% else %}
+    {% assign og_data = site.data.extra_data | where: "clade", og %}
+    {% if og_data[0] %}
+    <dd><em>{{ og_data[0].fossil }}</em> ({{ og }}, {{ og_data[0].min }} Ma)</dd>
+    {% else %}
     <dd>{{ og }}</dd>
+    {% endif %}
     {% endif %}
     {% endfor %}
 </dl>
