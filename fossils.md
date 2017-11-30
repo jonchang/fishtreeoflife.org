@@ -36,7 +36,8 @@ Our resulting timescale for actinopterygian history shows good agreement with th
 <svg id="example1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYmin meet" class="svg-content" viewBox="0 0 {{ tree.width }} {{ tree.height }}">
 <image x="0" y="0" width="{{ tree.width }}" height="{{ tree.height }}" xlink:href="{% asset vertical_tree.png @path %}"/>
 {% for fossil in site.data.fossil_data %}
-<a xlink:href="{{ "/fossils/" | append: fossil.idx | relative_url }}">
+<a xlink:href="{{ "/fossils/" | append: fossil.idx | relative_url }}" class="svg-tooltip">
+  <title>{{ fossil.fossil }} ({{ fossil.min }} Ma)</title>
   <circle cx="{{ fossil.devx }}" cy="{{ fossil.devy }}" r="8" fill="red" stroke="black" />
 </a>
 {% endfor %}
