@@ -12,9 +12,9 @@ Tax page
 - Stats
 - Fossil calibrations
 - Outgroups
-- Genetic tree
+- <s>Genetic tree</s>
 - Full distribution
-- Download sequences
+- <s>Download sequences</s>
 - Download calibration info
 - Download BEAST/RAXML/TREEPL/mcmctree files
 - API integration: EOL/fishbase
