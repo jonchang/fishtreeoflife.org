@@ -45,9 +45,14 @@ Our resulting timescale for actinopterygian history shows good agreement with th
 </div>
 
 
-<ul>
+<table>
+<tr><th>Index</th><th>Clade</th><th>Fossil</th><th>Min. age</th></tr>
 {% for fossil in site.data.fossil_data %}
-  <li><a href="{{ "/fossils/" | append: fossil.idx | relative_url }}">{{ fossil.clade_pretty }}: <em>{{ fossil.fossil }}</em> ({{ fossil.min }} Ma)</a></li>
+<tr>
+    <td>{{ fossil.idx }}</td>
+    <td><a href="{{ "/fossils/" | append: fossil.idx | relative_url }}">{{ fossil.clade_pretty }}</a></td>
+    <td><em>{{ fossil.fossil }}</em></td>
+    <td>{{ fossil.min }} Ma</td>
+</tr>
 {% endfor %}
-</ul>
-
+</table>

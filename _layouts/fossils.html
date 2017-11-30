@@ -36,7 +36,7 @@ dd {
     <dd>{{ fossil.min }} Ma</dd>
 
     <dt>Maximum 95% CI age</dt>
-    <dd>{{ fossil.max }}</dd>
+    <dd>{{ fossil.max | slice: 0, 5}}</dd>
 
     <dt>Authority</dt>
     <dd>{{ fossil.authority }}</dd>
