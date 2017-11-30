@@ -8,7 +8,7 @@ library(stringr)
 library(future)
 
 # Set futures max size to 1GB
-options(mc.cores = parallel::detectCores() / 2, future.globals.maxSize = 1024^3)
+options(mc.cores = parallel::detectCores() / 4, future.globals.maxSize = 1024^3)
 
 cat(getOption("mc.cores"))
 
