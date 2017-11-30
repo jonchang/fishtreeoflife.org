@@ -5,8 +5,11 @@ _site
 .jekyll-cache/
 
 _family
+_fossils
+_data/fossil_data.csv
 _data/family
 downloads/family
+_assets/img/vertical_tree.png
 
 # bundler
 .bundle/
