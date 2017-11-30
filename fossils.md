@@ -34,9 +34,9 @@ Our resulting timescale for actinopterygian history shows good agreement with th
 
 <div class="svg-container">
 <svg id="example1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYmin meet" class="svg-content" viewBox="0 0 {{ tree.width }} {{ tree.height }}">
-<image x="0" y="0" width="{{ tree.width }}" height="{{ tree.height }}" xlink:href="{{ tree.digest_path }}"/>
+<image x="0" y="0" width="{{ tree.width }}" height="{{ tree.height }}" xlink:href="{% asset vertical_tree.png @path %}"/>
 {% for fossil in site.data.fossil_data %}
-<a xlink:href="/{{ site.baseurl }}fossils/{{ fossil.idx }}/">
+<a xlink:href="{{ "/fossils/" | append: fossil.idx | relative_url }}">
   <circle cx="{{ fossil.devx }}" cy="{{ fossil.devy }}" r="5" fill="red" stroke="black" />
 </a>
 {% endfor %}
@@ -46,7 +46,7 @@ Our resulting timescale for actinopterygian history shows good agreement with th
 
 <ul>
 {% for fossil in site.data.fossil_data %}
-  <li><a href="/{{ site.baseurl }}fossils/{{ fossil.idx }}/">{{ fossil.clade_pretty }}: <em>{{ fossil.fossil }}</em> ({{ fossil.min }} Ma)</a></li>
+  <li><a href="{{ "/fossils/" | append: fossil.idx | relative_url }}">{{ fossil.clade_pretty }}: <em>{{ fossil.fossil }}</em> ({{ fossil.min }} Ma)</a></li>
 {% endfor %}
 </ul>
 
