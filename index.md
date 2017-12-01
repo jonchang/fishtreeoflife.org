@@ -2,7 +2,7 @@
 layout: home
 ---
 
-{% asset front-page-tree.png
+{% asset front-page-tree.png @pic
    srcset:width="2687 3x"
    srcset:width="1880 2x"
    srcset:width="940 1x"
