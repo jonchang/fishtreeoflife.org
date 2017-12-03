@@ -19,7 +19,7 @@ fossil_nodes$idx <- seq_len(nrow(fossil_nodes))
 # Add a new column `node` with the node number of that calibration
 fossil_nodes <- group_by(fossil_nodes, group) %>% mutate(node = getMRCA(tree, c(left, right)))
 
-png("_assets/img/vertical_tree.png", width = width * retina_scale, height = height * retina_scale)
+png("_assets/img/vertical_tree.png", width = width * retina_scale, height = height * retina_scale, antialias = "none")
 plot(tree, show.tip.label = FALSE, no.margin = TRUE)
 lastPP <- get("last_plot.phylo", envir = .PlotPhyloEnv)
 res <- fossil_nodes %>% mutate(x = lastPP$xx[node], y = lastPP$yy[node],

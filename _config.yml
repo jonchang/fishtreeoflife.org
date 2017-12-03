@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 plugins:
     - jekyll-sitemap
+    - jekyll-tidy
 
 twitter_username: chang_jon
 github_username:  jonchang
@@ -19,6 +20,21 @@ minima:
 include:
     - _pages
     - "_family/*.tre"
+
+jekyll_tidy:
+    ignore_env: development
+
+assets:
+    plugins:
+        img:
+            optim:
+                default:
+                    threads: 4
+                    verbose:
+                        true
+                    pack: true
+                    pngquant:
+                        allow_lossy: true
 
 collections:
     family:
@@ -45,9 +61,11 @@ exclude:
     - scripts/
     - .bundle/
     - vendor/
+    - .git/
     - .asset-cache/
     - .jekyll-cache/
     - .travis.yml
+    - _site/
 
 permalink: pretty
 

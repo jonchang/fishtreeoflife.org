@@ -2,11 +2,8 @@
 layout: home
 ---
 
-{% asset front-page-tree.png
-   srcset:width="2687 3x"
-   srcset:width="1880 2x"
-   srcset:width="940 1x"
-%}
+{% raw %}
+<img src="{% endraw %}{% asset front-page-tree.png @magick:resize=940 @optim:default @path %}" srcset="{% asset front-page-tree.png @magick:resize=940 @optim:default @path %} 1x, {% asset front-page-tree.png @magick:resize=1880 @optim:default @path %} 2x, {% asset front-page-tree.png @optim:default @asset_path %} 3x">
 
 ## Quick links
 

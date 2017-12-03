@@ -1,16 +1,19 @@
 ---
-layout: page
+layout: default
 ---
 
-<style>
-dt { margin: 1em auto auto auto; font-weight: bold; }
-</style>
+<article class="fossils">
+
+  <header class="post-header">
+      <h1 class="post-title"><em>{{ page.title | escape }}</em>&dagger;</h1>
+  </header>
 
 {% assign fossil = site.data.fossil_data | where: "fossil", page.title %}
 {% assign fossil = fossil[0] %}
 
 {% assign outgroups = fossil.outgroup_sequence | split: "	" %}
 
+  <div class="post-content">
 <dl class="event">
     <dt>Taxon calibrated</dt>
     <dd>{{ fossil.clade_pretty }}</dd>
@@ -48,3 +51,5 @@ dt { margin: 1em auto auto auto; font-weight: bold; }
     {% endfor %}
 </dl>
 
+  </div>
+</article>
