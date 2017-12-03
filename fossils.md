@@ -5,18 +5,43 @@ title: Fossils
 
 <style>
 .svg-container {
-	display: inline-block;
-	position: relative;
-	width: 100%;
-	padding-bottom: 300%;
-	vertical-align: middle;
-	overflow: hidden;
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 300%;
+    vertical-align: middle;
+    overflow: hidden;
+    background-size: contain;
+    background-image: url('{% asset vertical_tree@1x.png @optim:default @path %}');
 }
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 1.25),
+only screen and (   min--moz-device-pixel-ratio: 1.25),
+only screen and (     -o-min-device-pixel-ratio: 5/4),
+only screen and (        min-device-pixel-ratio: 1.25),
+only screen and (                min-resolution: 1.25dppx) { 
+    .svg-container {
+        background-image: url('{% asset vertical_tree@2x.png @optim:default @path %}');
+    };
+}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2.25),
+only screen and (   min--moz-device-pixel-ratio: 2.25),
+only screen and (     -o-min-device-pixel-ratio: 9/4),
+only screen and (        min-device-pixel-ratio: 2.25),
+only screen and (                min-resolution: 2.25dppx) { 
+    .svg-container {
+        background-image: url('{% asset vertical_tree@3x.png @optim:default @path %}');
+    };
+}
+
 .svg-content {
-	display: inline-block;
-	position: absolute;
-	top: 0;
-	left: 0;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 </style>
 
@@ -25,15 +50,14 @@ Click on a red circle to go to that fossil calibration.
 * [Table of fossil calibrations](#table-of-fossil-calibrations)
 * [Calibration strategy](#calibration-strategy)
 
-{% assign tree = assets["vertical_tree.png"] %}
+{% assign tree = assets["vertical_tree@3x.png"] %}
 
 <div class="svg-container">
-<svg id="example1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYmin meet" class="svg-content" viewBox="0 0 {{ tree.width }} {{ tree.height }}">
-<image x="0" y="0" width="{{ tree.width }}" height="{{ tree.height }}" xlink:href="{% asset vertical_tree.png @optim:default @path %}"/>
+<svg id="example1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin meet" class="svg-content" viewBox="0 0 {{ tree.width }} {{ tree.height }}">
 {% for fossil in site.data.fossil_data %}
 <a xlink:href="{{ "/fossils/" | append: fossil.slug | relative_url }}" class="svg-tooltip">
   <title>{{ fossil.fossil }} ({{ fossil.min }} Ma)</title>
-  <circle cx="{{ fossil.devx }}" cy="{{ fossil.devy }}" r="12" fill="red" stroke="black" />
+  <circle cx="{{ fossil.devx }}" cy="{{ fossil.devy }}" r="15" fill="red" stroke="black" />
 </a>
 {% endfor %}
 </svg>

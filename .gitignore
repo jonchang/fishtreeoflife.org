@@ -9,7 +9,7 @@ _fossils
 _data/fossil_data.csv
 _data/family
 downloads/family
-_assets/img/vertical_tree.png
+_assets/img/vertical_tree*.png
 
 # bundler
 .bundle/
