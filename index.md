@@ -2,11 +2,8 @@
 layout: home
 ---
 
-{% asset front-page-tree.png @optim:default
-   srcset:width="2687 3x"
-   srcset:width="1880 2x"
-   srcset:width="940 1x"
-%}
+<img src="{% asset front-page-tree@1x.png @path %}" srcset="{% asset front-page-tree@3x.png @path %} 3x, {% asset front-page-tree@2x.png @path %} 2x, {% asset front-page-tree@1x.png @path %} 1x"/>
+
 
 ## Quick links
 
