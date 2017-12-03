@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="{% asset front-page-tree@1x.png @path %}" srcset="{% asset front-page-tree@3x.png @path %} 3x, {% asset front-page-tree@2x.png @path %} 2x, {% asset front-page-tree@1x.png @path %} 1x"/>
+<img src="{% asset front-page-tree@1x.png @optim:default @path %}" srcset="{% asset front-page-tree@3x.png @optim:default @path %} 3x, {% asset front-page-tree@2x.png @optim:default @path %} 2x, {% asset front-page-tree@1x.png @optim:default @path %} 1x"/>
 
 
 ## Quick links
