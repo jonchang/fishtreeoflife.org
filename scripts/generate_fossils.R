@@ -10,6 +10,10 @@ library(glue)
 width <- 1000 - (30 * 2)
 height <- width * 3
 
+slugify <- function(str) {
+    tolower(str_replace_all(str_replace_all(str, "[^a-zA-Z0-9-]", "-"), "-+", "-"))
+}
+
 tree <- read.tree("downloads/actinopt_12k_treePL.tre.xz")
 fossil_nodes <- read_csv("downloads/fossil/output_data.csv")
 
@@ -24,7 +28,7 @@ lastPP <- get("last_plot.phylo", envir = .PlotPhyloEnv)
 res <- fossil_nodes %>% mutate(x = lastPP$xx[node], y = lastPP$yy[node],
                                devx = grconvertX(x, to = "device"),
                                devy = grconvertY(y, to = "device"),
-                               slug = tolower(str_replace_all(fossil, "[^a-zA-Z0-9-]", "-"))) %>% ungroup()
+                               slug = slugify(fossil)) %>% ungroup()
 dev.off()
 
 png("_assets/img/vertical_tree@2x.png", width = width * 2, height = height * 2)
