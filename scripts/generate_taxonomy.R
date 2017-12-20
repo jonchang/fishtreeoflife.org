@@ -71,7 +71,7 @@ generate_family_data <- function(family) {
     }
 
     if (length(sampled_species) > 0) {
-        wanted_spp <- dna[[1]][dna[[1]] %in% sampled_species]
+        wanted_spp <- dna[[1]][dna[[1]] %in% sampled_species] %>% str_replace_all(" ", "_")
         wanted_dna <- dna[[2]][dna[[1]] %in% sampled_species]
         ntax <- length(wanted_spp)
         ncha <- nchar(wanted_dna[1])
