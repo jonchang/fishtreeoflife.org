@@ -17,6 +17,7 @@ plan(multicore)
 tre %<-% read.tree("downloads/actinopt_12k_treePL.tre.xz")
 tax %<-% read_csv("downloads/PFC_short_classification.csv.xz")
 dna %<-% scan("downloads/final_alignment.phylip.xz", what = list(character(), character()), quiet = TRUE, nlines = 11650, strip.white = TRUE, skip = 1)
+charsets <- readLines("downloads/final_alignment.partitions") %>% str_replace_all(fixed("DNA, "), "")
 
 template <- "
 ---
@@ -24,6 +25,13 @@ title: {family_name}
 order: {order}
 num_rogues: {num_rogues}
 ---
+"
+
+nexus_data <- "#nexus
+begin data;
+dimensions ntax={ntax} nchar={nchar};
+format datatype=dna interleave=no gap=-;
+matrix
 "
 
 datapath <- "_data/family/"
@@ -65,12 +73,35 @@ generate_family_data <- function(family) {
     if (length(sampled_species) > 0) {
         wanted_spp <- dna[[1]][dna[[1]] %in% sampled_species]
         wanted_dna <- dna[[2]][dna[[1]] %in% sampled_species]
+        ntax <- length(wanted_spp)
+        ncha <- nchar(wanted_dna[1])
+        # Generate PHYLIP file
         sink(file.path(downloadpath, paste0(family_name, ".phylip")))
-        cat(paste(length(wanted_spp), nchar(wanted_dna[1])), fill = TRUE)
+        cat(paste(ntax, ncha), fill = TRUE)
         for (ii in 1:length(wanted_spp)) {
             cat(wanted_spp[ii])
             cat(" ")
             cat(wanted_dna[ii], fill = TRUE)
+        }
+        sink(NULL)
+
+        # Generate NEXUS file
+        sink(file.path(downloadpath, paste0(family_name, ".nex")))
+        glue(nexus_data, ntax = ntax, nchar = ncha) %>% cat(fill = TRUE)
+        for (ii in 1:length(wanted_spp)) {
+            cat(wanted_spp[ii])
+            cat(" ")
+            cat(wanted_dna[ii], fill = TRUE)
+        }
+        cat(";\nend;\n\nbegin assumptions;\n")
+        for (ii in 1:length(charsets)) {
+            cat(paste0("charset ", charsets[ii], ";\n"))
+        }
+        cat("end;\n\n")
+        if (length(sampled_species) > 4) {
+            cat("begin trees;\n")
+            cat(write.tree(pruned_tree))
+            cat("\nend;\n")
         }
         sink(NULL)
     }
@@ -89,5 +120,5 @@ res <- parallel::mclapply(splat, generate_family_data)
 
 setdiff(names(splat), names(res))
 
-cmd <- glue("ls {file.path(downloadpath, '*.phylip')} | xargs -n20 -P{parallel::detectCores()} xz -0e")
+cmd <- glue("ls {file.path(downloadpath, '*.{phylip,nex}')} | xargs -n20 -P{parallel::detectCores()} xz -0e")
 system(cmd)
