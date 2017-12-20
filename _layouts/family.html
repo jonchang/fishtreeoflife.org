@@ -21,6 +21,33 @@ layout: page
 
 <a href="data:application/json,{{ site.data.family[page.title] | jsonify | uri_escape }}">Download species data</a>
 
+<h2>Fossil calibrations</h2>
+
+<!-- Fossil calibrations here -->
+
+{% assign species_list = site.data.family[page.title] | where: "sampled", "1" | map: "species" | join: "," | replace: " ", "_" | split: "," %}
+{% assign fossils = "" | split: "" %}
+
+{% for row in site.data.fossil_pretty %}
+{% if species_list contains row.left and species_list contains row.right %}
+{% assign row.outgroup = row.outgroup | split: "\t" %}
+{% assign fossils = fossils | push: row %}
+{% endif %}
+{% endfor %}
+
+{% if fossils == empty %}
+<p>No internal fossil calibrations are available for this group.</p>
+{% else %}
+<ul>
+{% for fossil in fossils %}
+<li>{{ fossil.clade }} (<em><a href="{{ fossil.fossil | slugify | prepend: "/fossils/" | relative_url }}">{{ fossil.fossil }}</a></em>&dagger;) {{ fossil.min }} Ma</li>
+{% endfor %}
+</ul>
+
+<p><a href="data:application/json,{{ fossils | jsonify | uri_escape }}">Download fossil calibration data</a></p>
+{% endif %}
+
+
 <h2>Taxonomy</h2>
 
 Order: {{ page.order }}

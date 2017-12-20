@@ -40,6 +40,7 @@ dev.off()
 
 
 res %>% write_csv("_data/fossil_data.csv")
+res %>% transmute(clade = clade_pretty, fossil, left, right, min, max, locality, authority) %>% write_csv("_data/fossil_pretty.csv")
 
 mdpath <- "_fossils/"
 dir.create(mdpath, recursive = T)
