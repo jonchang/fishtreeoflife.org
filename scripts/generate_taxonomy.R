@@ -18,6 +18,7 @@ tre %<-% read.tree("downloads/actinopt_12k_treePL.tre.xz")
 tax %<-% read_csv("downloads/PFC_short_classification.csv.xz")
 dna %<-% scan("downloads/final_alignment.phylip.xz", what = list(character(), character()), quiet = TRUE, nlines = 11650, strip.white = TRUE, skip = 1)
 charsets <- readLines("downloads/final_alignment.partitions") %>% str_replace_all(fixed("DNA, "), "")
+fossils <- read_csv("_data/fossil_data.csv")
 
 template <- "
 ---
@@ -100,7 +101,7 @@ generate_family_data <- function(family) {
         cat("end;\n\n")
         if (length(sampled_species) > 4) {
             cat("begin trees;\n")
-            cat(write.tree(pruned_tree))
+            cat("tree time_calibrated =", write.tree(pruned_tree))
             cat("\nend;\n")
         }
         sink(NULL)
