@@ -120,5 +120,5 @@ res <- parallel::mclapply(splat, generate_family_data)
 
 setdiff(names(splat), names(res))
 
-cmd <- glue("ls {file.path(downloadpath, '*.{phylip,nex}')} | xargs -n20 -P{parallel::detectCores()} xz -0e")
+cmd <- glue("ls {downloadpath}/*.{{phylip,nex}} | xargs -n20 -P{parallel::detectCores()} xz -0e")
 system(cmd)
