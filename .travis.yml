@@ -26,8 +26,8 @@ before_install:
     - Rscript -e 'install.packages(c("ape", "tidyverse", "glue", "future"), repos = "https://cran.rstudio.com", Ncpu = parallel::detectCores())'
 
 script:
-    - scripts/generate_taxonomy.R
     - scripts/generate_fossils.R
+    - scripts/generate_taxonomy.R
     - bundle exec jekyll build --baseurl /fishtreeoflife.org
 
 deploy:
