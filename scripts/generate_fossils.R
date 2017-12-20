@@ -5,13 +5,12 @@ library(dplyr)
 library(readr)
 library(ggplot2)
 library(stringr)
-library(glue)
 
 width <- 1000 - (30 * 2)
 height <- width * 3
 
 slugify <- function(str) {
-    tolower(str_replace_all(str_replace_all(str, "[^a-zA-Z0-9-]", "-"), "-+", "-"))
+    str %>% str_replace_all("[^a-zA-Z0-9-]", "-") %>% str_replace_all("-+", "-") %>% str_replace("-$", "") %>% tolower()
 }
 
 tree <- read.tree("downloads/actinopt_12k_treePL.tre.xz")
@@ -50,5 +49,3 @@ for (ii in 1:nrow(res)) {
     cat(paste0("---\ntitle: ", res$fossil[ii], "\nslug: ", res$slug[ii], "\n\n---\n"))
     sink(NULL)
 }
-
-
