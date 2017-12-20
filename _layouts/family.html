@@ -19,7 +19,7 @@ layout: page
 {% endfor %}
 </ul>
 
-<a href="data:application/json,{{ site.data.family[page.title] | jsonify | uri_escape }}">Download species data</a>
+<p><a href="data:application/json,{{ site.data.family[page.title] | jsonify | uri_escape }}">Download species data</a></p>
 
 <h2>Fossil calibrations</h2>
 
