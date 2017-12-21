@@ -19,7 +19,7 @@ layout: page
 {% endfor %}
 </ul>
 
-<p><a href="data:application/json,{{ site.data.family[page.title] | jsonify | uri_escape }}">Download species data</a></p>
+<p><a id="json-species" href="data:application/json,{{ site.data.family[page.title] | jsonify | uri_escape }}">Download species data</a></p>
 
 <h2>Fossil calibrations</h2>
 
@@ -44,7 +44,7 @@ layout: page
 {% endfor %}
 </ul>
 
-<p><a href="data:application/json,{{ fossils | jsonify | uri_escape }}">Download fossil calibration data</a></p>
+<p><a id="json-fossil" href="data:application/json,{{ fossils | jsonify | uri_escape }}">Download fossil calibration data</a></p>
 {% endif %}
 
 
