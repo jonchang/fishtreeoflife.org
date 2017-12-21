@@ -28,7 +28,7 @@ Tax page
 
 <table>
 <tbody>
-<tr><th>Family</th><th>Sampled richness</th><th>Total richness</th><th></th></tr>
+<tr><th>Family</th><th>Sampled richness</th><th>Total richness</th><th>Stats</th></tr>
 {% for family in site.family %}
 <tr>
 <td><a href="{{ family.url | relative_url }}">{{ family.title }}</a></td>
