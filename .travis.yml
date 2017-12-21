@@ -1,7 +1,7 @@
 language: ruby
 dist: trusty
 rvm:
-    - 2.4.1
+    - 2.4.3
 
 cache:
     bundler: true
@@ -23,7 +23,7 @@ addons:
             - r-base-dev
 
 before_install:
-    - Rscript -e 'install.packages(c("ape", "tidyverse", "glue", "future"), repos = "https://cran.rstudio.com", Ncpu = parallel::detectCores())'
+    - Rscript -e 'pkg <- c("ape", "tidyverse", "glue", "future"); install.packages(pkg, repos = "https://cran.rstudio.com", Ncpu = parallel::detectCores()); if (!all(pkg) %in% installed.packages()) q(status = 1, save = "no")'
 
 script:
     - scripts/generate_fossils.R
