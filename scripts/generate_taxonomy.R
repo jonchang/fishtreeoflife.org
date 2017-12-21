@@ -56,7 +56,7 @@ generate_family_data <- function(family) {
     write_csv(fam_df, file.path(datapath, paste0(family_name, ".csv")))
 
     num_rogues <- 0
-    if (length(sampled_species) > 3) {
+    if (length(sampled_species) > 2) {
         tree_species <- str_replace_all(sampled_species, " ", "_")
         mrca_tree <- extract.clade(tre, getMRCA(tre, tree_species))
         good_filename <- paste0(family_name, ".tre")
@@ -99,7 +99,7 @@ generate_family_data <- function(family) {
             cat(paste0("charset ", charsets[ii], ";\n"))
         }
         cat("end;\n\n")
-        if (length(sampled_species) > 3) {
+        if (length(sampled_species) > 2) {
             cat("begin trees;\n")
             cat("tree time_calibrated =", write.tree(pruned_tree))
             cat("\nend;\n")
