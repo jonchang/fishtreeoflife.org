@@ -2,105 +2,108 @@
 layout: page
 ---
 
-<h2>Species</h2>
+<section id="species">
+    <h2>Species</h2>
 
-<p>Sampling: {{ site.data.family[page.title] | where:"sampled","1" | size }} species out of {{ site.data.family[page.title] | size }}</p>
+    <p>Sampling: {{ site.data.family[page.title] | where:"sampled","1" | size }} species out of {{ site.data.family[page.title] | size }}</p>
 
+    <p><a id="show-species-list" href="#">Show species list</a></p>
 
-<p><a id="show-species-list" href="#">Show species list</a></p>
+    <ul id="species-list">
+        {% for row in site.data.family[page.title] %}
+        {% if row.sampled == "1" %}
+        <li><strong><em>{{ row.species }}</em></strong></li>
+        {% else %}
+        <li><em>{{ row.species }}</em></li>
+        {% endif %}
+        {% endfor %}
+    </ul>
 
-<ul id="species-list">
-{% for row in site.data.family[page.title] %}
-{% if row.sampled == "1" %}
-<li><strong><em>{{ row.species }}</em></strong></li>
-{% else %}
-<li><em>{{ row.species }}</em></li>
-{% endif %}
-{% endfor %}
-</ul>
+    <p><a id="json-species" href="data:application/json,{{ site.data.family[page.title] | jsonify | uri_escape }}">Download species data</a></p>
+</section>
 
-<p><a id="json-species" href="data:application/json,{{ site.data.family[page.title] | jsonify | uri_escape }}">Download species data</a></p>
+<section id="fossils">
+    <h2>Fossil calibrations</h2>
 
-<h2>Fossil calibrations</h2>
+    {% assign species_list = site.data.family[page.title] | where: "sampled", "1" | map: "species" | join: "," | replace: " ", "_" | split: "," %}
+    {% assign fossils = "" | split: "" %}
 
-<!-- Fossil calibrations here -->
+    {% for row in site.data.fossil_pretty %}
+    {% if species_list contains row.left and species_list contains row.right %}
+    {% assign row.outgroup = row.outgroup | split: "\t" %}
+    {% assign fossils = fossils | push: row %}
+    {% endif %}
+    {% endfor %}
 
-{% assign species_list = site.data.family[page.title] | where: "sampled", "1" | map: "species" | join: "," | replace: " ", "_" | split: "," %}
-{% assign fossils = "" | split: "" %}
+    {% if fossils == empty %}
+    <p>No internal fossil calibrations are available for this group.</p>
+    {% else %}
+    <ul>
+        {% for fossil in fossils %}
+        <li>{{ fossil.clade }} (<em><a href="{{ fossil.fossil | slugify | prepend: "/fossils/" | relative_url }}">{{ fossil.fossil }}</a></em>&dagger;) {{ fossil.min }} Ma</li>
+        {% endfor %}
+    </ul>
 
-{% for row in site.data.fossil_pretty %}
-{% if species_list contains row.left and species_list contains row.right %}
-{% assign row.outgroup = row.outgroup | split: "\t" %}
-{% assign fossils = fossils | push: row %}
-{% endif %}
-{% endfor %}
+    <p><a id="json-fossil" href="data:application/json,{{ fossils | jsonify | uri_escape }}">Download fossil calibration data</a></p>
+    {% endif %}
+</section>
 
-{% if fossils == empty %}
-<p>No internal fossil calibrations are available for this group.</p>
-{% else %}
-<ul>
-{% for fossil in fossils %}
-<li>{{ fossil.clade }} (<em><a href="{{ fossil.fossil | slugify | prepend: "/fossils/" | relative_url }}">{{ fossil.fossil }}</a></em>&dagger;) {{ fossil.min }} Ma</li>
-{% endfor %}
-</ul>
+<section id="taxonomy">
+    <h2>Taxonomy</h2>
+    <p>Order: {{ page.order }}</p>
+</section>
 
-<p><a id="json-fossil" href="data:application/json,{{ fossils | jsonify | uri_escape }}">Download fossil calibration data</a></p>
-{% endif %}
+<section id="downloads">
+    <h2>Downloads</h2>
 
+    <section id="downloads-phylogenies">
+        <h3>Time-calibrated phylogenies</h3>
 
-<h2>Taxonomy</h2>
+        {% assign family_files = site.static_files | where_exp: "item", "item.basename contains page.title" %}
 
-Order: {{ page.order }}
+        {% assign family_trees = family_files | where_exp: "item", "item.extname contains '.tre'" %}
 
+        {% if family_trees == empty %}
+        {% case site.data.family[page.title].species.size %}
+        {% when 1 %}
+        <p>No time-calibrated phylogenies available (family is monotypic)</p>
+        {% when 2 or 3 %}
+        <p>No time-calibrated phylogenies available (too few species)</p>
+        {% else %}
+        <p>No time-calibrated phylogenies available (too few sampled species)</p>
+        {% endcase %}
+        {% else %}
+        {% if page.num_rogues == 0 %}
+        <p><a id="download-phylogeny" href="{{ family_trees[0].path | relative_url }}">Time-calibrated phylogeny of {{ page.title }}</a></p>
+        {% else %}
+        <p>Note: there were {{ page.num_rogues }} non-{{ page.title | split: "" | reverse | join: "" | slice: 2, 9999 | split: "" | reverse | join: "" | downcase }} species that caused {{ page.title }} to be inferred as paraphyletic.</p>
+        {% assign mrca_tree = family_trees | where_exp: "item", "item.basename contains 'mrca'" %}
+        {% assign good_tree = family_trees | where_exp: "item", "item.basename == page.title" %}
+        <p><a id="download-phylogeny" href="{{ good_tree[0].path | relative_url}}">Time-calibrated phylogeny of <em>only</em> species in {{ page.title }}</a></p>
+        <p><a id="download-phylogeny-mrca" href="{{ mrca_tree[0].path | relative_url}}">Time-calibrated phylogeny of "{{ page.title }}"</a></p>
+        {% endif %}
+        {% endif %}
+    </section>
 
-<h2>Downloads</h2>
+    <section id="downloads-sequence">
+        <h3>Sequence data</h3>
+        {% assign family_sequences = family_files | where_exp: "item", "item.basename contains 'phylip'" %}
 
-<h3>Time-calibrated phylogenies</h3>
-
-{% assign family_files = site.static_files | where_exp: "item", "item.basename contains page.title" %}
-
-{% assign family_trees = family_files | where_exp: "item", "item.extname contains '.tre'" %}
-
-{% if family_trees == empty %}
-  {% case site.data.family[page.title].species.size %}
-  {% when 1 %}
-    <p>No time-calibrated phylogenies available (family is monotypic)</p>
-  {% when 2 or 3 %}
-    <p>No time-calibrated phylogenies available (too few species)</p>
-  {% else %}
-    <p>No time-calibrated phylogenies available (too few sampled species)</p>
-  {% endcase %}
-{% else %}
-  {% if page.num_rogues == 0 %}
-    <p><a href="{{ family_trees[0].path | relative_url }}">Time-calibrated phylogeny of {{ page.title }}</a></p>
-  {% else %}
-    <p>Note: there were {{ page.num_rogues }} non-{{ page.title | split: "" | reverse | join: "" | slice: 2, 9999 | split: "" | reverse | join: "" | downcase }} species that caused {{ page.title }} to be inferred as paraphyletic.</p>
-    {% assign mrca_tree = family_trees | where_exp: "item", "item.basename contains 'mrca'" %}
-    {% assign good_tree = family_trees | where_exp: "item", "item.basename == page.title" %}
-    <p><a href="{{ good_tree[0].path | relative_url}}">Time-calibrated phylogeny of <em>only</em> species in {{ page.title }}</a></p>
-    <p><a href="{{ mrca_tree[0].path | relative_url}}">Time-calibrated phylogeny of "{{ page.title }}"</a></p>
-  {% endif %}
-{% endif %}
-
-<h3>Sequence data</h3>
-
-{% assign family_sequences = family_files | where_exp: "item", "item.basename contains 'phylip'" %}
-
-{% if family_sequences != empty %}
-  <p><a href="{{ family_sequences[0].path | relative_url }}">Phylip sequences for {{ page.title }}</a></p>
-  <p><a href="{{ 'downloads/final_alignment.partitions' | relative_url }}">RAxML-style partitions file</a></p>
-  {% if family_trees == empty %}
-  <p><a href="{{ family_sequences[0].path | replace: 'phylip', 'nex' | relative_url }}">Nexus file for {{ page.title }} (includes character partitions)</a></p>
-  {% else %}
-  <p><a href="{{ family_sequences[0].path | replace: 'phylip', 'nex' | relative_url }}">Nexus file for {{ page.title }} (includes character partitions and phylogeny)</a></p>
-  {% endif %}
-{% else %}
-  <p>No sequences available (too few sampled species)</p>
-{% endif %}
-
+        {% if family_sequences != empty %}
+        <p><a id="download-sequences" href="{{ family_sequences[0].path | relative_url }}">Phylip sequences for {{ page.title }}</a></p>
+        <p><a href="{{ 'downloads/final_alignment.partitions' | relative_url }}">RAxML-style partitions file</a></p>
+        {% if family_trees == empty %}
+        <p><a href="{{ family_sequences[0].path | replace: 'phylip', 'nex' | relative_url }}">Nexus file for {{ page.title }} (includes character partitions)</a></p>
+        {% else %}
+        <p><a href="{{ family_sequences[0].path | replace: 'phylip', 'nex' | relative_url }}">Nexus file for {{ page.title }} (includes character partitions and phylogeny)</a></p>
+        {% endif %}
+        {% else %}
+        <p>No sequences available (too few sampled species)</p>
+        {% endif %}
+    </section>
+</section>
 
 {{ content }}
-
 
 {% asset showhide.js %}
 <script>makeShowHide("show-species-list", "species-list");</script>
