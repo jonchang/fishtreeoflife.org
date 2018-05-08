@@ -53,7 +53,7 @@ Click on a red circle to go to that fossil calibration.
 {% assign tree = assets["vertical_tree@3x.png"] %}
 
 <div class="svg-container">
-<svg id="example1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin meet" class="svg-content" viewBox="0 0 {{ tree.width }} {{ tree.height }}">
+<svg id="example1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin meet" class="svg-content" viewBox="0 0 {{ tree.dimensions.width }} {{ tree.dimensions.height }}">
 {% for fossil in site.data.fossil_data %}
 <a xlink:href="{{ "/fossils/" | append: fossil.slug | relative_url }}" class="svg-tooltip">
   <title>{{ fossil.fossil }} ({{ fossil.min }} Ma)</title>

@@ -30,7 +30,6 @@ layout: page
 
     {% for row in site.data.fossil_pretty %}
     {% if species_list contains row.left and species_list contains row.right %}
-    {% assign row.outgroup = row.outgroup | split: "\t" %}
     {% assign fossils = fossils | push: row %}
     {% endif %}
     {% endfor %}
@@ -57,7 +56,7 @@ layout: page
     <h2>Downloads</h2>
 
     <section id="downloads-phylogenies">
-        <h3>Time-calibrated phylogenies</h3>
+        <h3>Phylogenies</h3>
 
         {% assign family_files = site.static_files | where_exp: "item", "item.basename contains page.title" %}
 
