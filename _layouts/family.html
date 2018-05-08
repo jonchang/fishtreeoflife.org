@@ -74,13 +74,20 @@ layout: page
         {% endcase %}
         {% else %}
         {% if page.num_rogues == 0 %}
-        <p><a id="download-phylogeny" href="{{ family_trees[0].path | relative_url }}">Time-calibrated phylogeny of {{ page.title }}</a></p>
+        {% assign phylogram = family_trees | where_exp: "item", "item.basename contains 'phylogram'" %}
+        {% assign ultrametric = family_trees | where_exp: "item", "item.basename == page.title" %}
+        <p><a id="download-phylogeny" href="{{ phylogram[0].path | relative_url }}">Phylogram of {{ page.title }}</a></p>
+        <p><a id="download-phylogeny" href="{{ ultrametric[0].path | relative_url }}">Time-calibrated phylogeny of {{ page.title }}</a></p>
         {% else %}
         <p>Note: there were {{ page.num_rogues }} non-{{ page.title | split: "" | reverse | join: "" | slice: 2, 9999 | split: "" | reverse | join: "" | downcase }} species that caused {{ page.title }} to be inferred as paraphyletic.</p>
         {% assign mrca_tree = family_trees | where_exp: "item", "item.basename contains 'mrca'" %}
         {% assign good_tree = family_trees | where_exp: "item", "item.basename == page.title" %}
+        {% assign phylogram_mrca_tree = family_trees | where_exp: "item", "item.basename contains '_phylogram_mrca'" %}
+        {% assign phylogram_good_tree = family_trees | where_exp: "item", "item.basename contains '_phylogram.tre'" %}
         <p><a id="download-phylogeny" href="{{ good_tree[0].path | relative_url}}">Time-calibrated phylogeny of <em>only</em> species in {{ page.title }}</a></p>
         <p><a id="download-phylogeny-mrca" href="{{ mrca_tree[0].path | relative_url}}">Time-calibrated phylogeny of "{{ page.title }}"</a></p>
+        <p><a id="download-phylogeny" href="{{ phylogram_good_tree[0].path | relative_url}}">Phylogram of <em>only</em> species in {{ page.title }}</a></p>
+        <p><a id="download-phylogeny-mrca" href="{{ phylogram_mrca_tree[0].path | relative_url}}">Phylogram of "{{ page.title }}"</a></p>
         {% endif %}
         {% endif %}
     </section>
