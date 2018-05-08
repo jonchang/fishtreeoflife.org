@@ -23,6 +23,7 @@ addons:
             - r-base-dev
 
 before_install:
+    - gem install bundler
     - Rscript -e 'pkg <- c("ape", "tidyverse", "glue", "future"); install.packages(pkg, repos = "https://cran.rstudio.com", Ncpu = parallel::detectCores()); if (!all(pkg) %in% installed.packages()) q(status = 1, save = "no")'
 
 script:
