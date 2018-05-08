@@ -8,6 +8,7 @@ title: Taxonomy
 }
 </style>
 
+<!--
 - PFC taxonomy
 - Compare to CoL/EToL
 
@@ -23,6 +24,7 @@ Tax page
 - <s>Download calibration info</s>
 - Download BEAST/RAXML/TREEPL/mcmctree files
 - API integration: EOL/fishbase
+-->
 
 ## Families
 
