@@ -3,16 +3,23 @@ title: Downloads by family
 layout: page
 ---
 
-{% assign family_trees = site.static_files | where_exp: "item", "item.path contains '/downloads/family/'" | sort: "basename"  %}
+{% assign families = site.data.family %}
+
 
 <ul>
-{% for tree in family_trees %}
-{% unless tree.name contains "mrca" %}
-<li><a href="{{ tree.path | relative_url}}">{{ tree.basename }}</a>
-{% assign mrca_tree_name = tree.basename | append: "_mrca" %}
-{% assign mrca_tree = family_trees | where_exp: "item", "item.basename == mrca_tree_name" %}
-{% if mrca_tree != empty %} (<a href="{{ mrca_tree[0].path | relative_url }}">MRCA</a>) {% endif %}
+{% for family_hash in site.data.family %}
+{% assign family = family_hash[1] %}
+{% if family.chronogram %}
+<li>{{ family.family[0] }}
+<ul>
+<li><a href="{{ family.chronogram | relative_url }}">Chronogram</a></li>
+<li><a href="{{ family.phylogram | relative_url }}">Phylogram</a></li>
+{% if family.chronogram_mrca %}
+<li><a href="{{ family.chronogram_mrca | relative_url }}">MRCA Chronogram</a></li>
+<li><a href="{{ family.phylogram_mrca | relative_url }}">MRCA Phylogram</a></li>
+{% endif %}
+</ul>
 </li>
-{% endunless %}
+{% endif %}
 {% endfor %}
 </ul>
