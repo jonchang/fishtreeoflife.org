@@ -10,15 +10,7 @@ library(yaml)
 
 # Set futures max size to 1GB
 options(future.globals.maxSize = 1024^3)
-
-# Travis has problems with very parallel jobs (IO issue?)
-if (Sys.getenv("TRAVIS") == "true") {
-    options(mc.cores = parallel::detectCores() / 2)
-} else {
-    options(mc.cores = parallel::detectCores())
-}
-
-cat(getOption("mc.cores"))
+options(mc.cores = parallel::detectCores())
 
 plan(multicore)
 
@@ -127,20 +119,29 @@ invisible(tre)
 invisible(tre2)
 
 splat <- split(tax, tax$family)
+res <- list()
 
-res <- parallel::mclapply(splat, generate_family_data)
+repeat {
+    files <- str_replace_all(basename(Sys.glob(file.path(mdpath, "*.md"))), ".md", "")
+    # check that we have all the output and if not re-run in serial mode
+    notrun <- setdiff(names(splat), files)
+    cores <- getOption("mc.cores")
+    if (cores <= 1) {
+        cat(paste("running", length(notrun), "jobs serially\n"))
+        res2 <- lapply(splat[notrun], generate_family_data)
+        res <- c(res, res2)
+    } else {
+        cat(paste("running", length(notrun), "jobs with", getOption("mc.cores"), "cores\n"))
+        res2 <- parallel::mclapply(splat[notrun], generate_family_data)
+        res <- c(res, res2)
+    }
+    if (length(notrun) == 0) {
+        break
+    } else {
+        options(mc.cores = cores / 2)
+    }
 
-files <- str_replace_all(basename(Sys.glob(file.path(mdpath, "*.md"))), ".md", "")
-
-# check that we have all the output and if not re-run in serial mode
-notrun <- setdiff(names(splat), files)
-
-if (length(notrun) > 0) {
-    cat(paste0("rerunning ", length(notrun), " jobs in serial mode\n"))
-    res2 <- lapply(splat[notrun], generate_family_data)
-    res <- c(res, res2)
 }
-
 
 cmd <- glue("find downloads \\( -name '*.phylip' -o -name '*.nex' \\) -print | xargs -n20 -P{parallel::detectCores()} xz -6e")
 system(cmd)
