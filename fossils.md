@@ -20,7 +20,7 @@ only screen and (-webkit-min-device-pixel-ratio: 1.25),
 only screen and (   min--moz-device-pixel-ratio: 1.25),
 only screen and (     -o-min-device-pixel-ratio: 5/4),
 only screen and (        min-device-pixel-ratio: 1.25),
-only screen and (                min-resolution: 1.25dppx) { 
+only screen and (                min-resolution: 1.25dppx) {
     .svg-container {
         background-image: url('{% asset vertical_tree@2x.png @optim @path %}');
     };
@@ -31,7 +31,7 @@ only screen and (-webkit-min-device-pixel-ratio: 2.25),
 only screen and (   min--moz-device-pixel-ratio: 2.25),
 only screen and (     -o-min-device-pixel-ratio: 9/4),
 only screen and (        min-device-pixel-ratio: 2.25),
-only screen and (                min-resolution: 2.25dppx) { 
+only screen and (                min-resolution: 2.25dppx) {
     .svg-container {
         background-image: url('{% asset vertical_tree@3x.png @optim @path %}');
     };
@@ -47,8 +47,8 @@ only screen and (                min-resolution: 2.25dppx) {
 
 Click on a red circle to go to that fossil calibration.
 
-* [Table of fossil calibrations](#table-of-fossil-calibrations)
-* [Calibration strategy](#calibration-strategy)
+* TOC
+{:toc}
 
 {% assign tree = assets["vertical_tree@3x.png"] %}
 
