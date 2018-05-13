@@ -8,6 +8,9 @@ library(stringr)
 library(future)
 library(yaml)
 
+
+source("scripts/lib.R")
+
 # Set futures max size to 1GB
 options(future.globals.maxSize = 1024^3)
 
@@ -26,13 +29,6 @@ tax %<-% read_csv("downloads/PFC_short_classification.csv.xz")
 dna %<-% scan("downloads/final_alignment.phylip.xz", what = list(character(), character()), quiet = TRUE, nlines = 11650, strip.white = TRUE, skip = 1)
 charsets <- readLines("downloads/final_alignment.partitions") %>% str_replace_all(fixed("DNA, "), "")
 fossils <- read_csv("_data/fossil_data.csv")
-
-nexus_data <- "#nexus
-begin data;
-dimensions ntax={ntax} nchar={nchar};
-format datatype=dna interleave=no gap=-;
-matrix
-"
 
 datapath <- "_data/family/"
 mdpath <- "_family/"
@@ -55,62 +51,23 @@ generate_family_data <- function(family) {
     write_csv(fam_df, file.path(datapath, paste0(family_name, ".csv")))
 
     num_rogues <- 0
-    if (length(sampled_species) > 2) {
-        tree_species <- str_replace_all(sampled_species, " ", "_")
-        mrca_tree <- extract.clade(tre, getMRCA(tre, tree_species))
-        mrca_tree2 <- extract.clade(tre2, getMRCA(tre2, tree_species))
-        good_filename <- paste0(family_name, ".tre")
-        mrca_filename <- paste0(family_name, "_mrca.tre")
-        phylogram_good_filename <- paste0(family_name, "_phylogram.tre")
-        phylogram_mrca_filename <- paste0(family_name, "_phylogram_mrca.tre")
-        pruned_tree <- drop.tip(mrca_tree, mrca_tree$tip.label[!mrca_tree$tip.label %in% tree_species])
-        pruned_tree2 <- drop.tip(mrca_tree2, mrca_tree2$tip.label[!mrca_tree2$tip.label %in% tree_species])
-        num_rogues <- length(mrca_tree$tip.label) - length(pruned_tree$tip.label)
-        if (num_rogues == 0) {
-            write.tree(mrca_tree, file.path(downloadpath, good_filename))
-            write.tree(mrca_tree2, file.path(downloadpath, phylogram_good_filename))
-        } else {
-            write.tree(mrca_tree, file.path(downloadpath, mrca_filename))
-            write.tree(pruned_tree, file.path(downloadpath, good_filename))
-            write.tree(mrca_tree2, file.path(downloadpath, phylogram_mrca_filename))
-            write.tree(pruned_tree2, file.path(downloadpath, phylogram_good_filename))
-        }
-    }
-
     if (length(sampled_species) > 0) {
         wanted_spp <- dna[[1]][dna[[1]] %in% sampled_species] %>% str_replace_all(" ", "_")
         wanted_dna <- dna[[2]][dna[[1]] %in% sampled_species]
-        ntax <- length(wanted_spp)
-        ncha <- nchar(wanted_dna[1])
-        # Generate PHYLIP file
-        sink(file.path(downloadpath, paste0(family_name, ".phylip")))
-        cat(paste(ntax, ncha), fill = TRUE)
-        for (ii in 1:length(wanted_spp)) {
-            cat(wanted_spp[ii])
-            cat(" ")
-            cat(wanted_dna[ii], fill = TRUE)
-        }
-        sink(NULL)
-
-        # Generate NEXUS file
-        sink(file.path(downloadpath, paste0(family_name, ".nex")))
-        glue(nexus_data, ntax = ntax, nchar = ncha) %>% cat(fill = TRUE)
-        for (ii in 1:length(wanted_spp)) {
-            cat(wanted_spp[ii])
-            cat(" ")
-            cat(wanted_dna[ii], fill = TRUE)
-        }
-        cat(";\nend;\n\nbegin assumptions;\n")
-        for (ii in 1:length(charsets)) {
-            cat(paste0("charset ", charsets[ii], ";\n"))
-        }
-        cat("end;\n\n")
+        make_phylip(file.path(downloadpath, paste0(family_name, ".phylip.xz")), wanted_spp, wanted_dna)
+        make_nexus(file.path(downloadpath, paste0(family_name, ".nex.xz")), wanted_spp, wanted_dna)
         if (length(sampled_species) > 2) {
-            cat("begin trees;\n")
-            cat("tree time_calibrated =", write.tree(pruned_tree))
-            cat("\nend;\n")
+            chrono <- get_rank_trees(tre, sampled_species)
+            phylog <- get_rank_trees(tre, sampled_species)
+            write.tree(chrono$pruned_tree, file.path(downloadpath, paste0(family_name, ".tre")))
+            write.tree(phylog$pruned_tree, file.path(downloadpath, paste0(family_name, "_phylogram.tre")))
+            make_nexus(file.path(downloadpath, paste0(family_name, ".nex.xz")), wanted_spp, wanted_dna, tree = chrono$pruned_tree, charsets = charsets)
+            num_rogues <- chrono$num_rogues
+            if (chrono$num_rogues > 0) {
+                write.tree(chrono$mrca_tree, file.path(downloadpath, paste0(family_name, "_mrca.tre")))
+                write.tree(phylog$mrca_tree, file.path(downloadpath, paste0(family_name, "_mrca_phylogram.tre")))
+            }
         }
-        sink(NULL)
     }
 
     sink(file.path(mdpath, paste0(family_name, ".md")))
@@ -144,6 +101,3 @@ repeat {
     }
     options(mc.cores = cores / 2)
 }
-
-cmd <- glue("find downloads \\( -name '*.phylip' -o -name '*.nex' \\) -print | xargs -n20 -P{parallel::detectCores()} xz -6e")
-system(cmd)
