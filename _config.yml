@@ -19,7 +19,6 @@ minima:
 
 include:
     - _pages
-    - "_family/*.tre"
 
 jekyll_tidy:
     ignore_env: development
@@ -38,6 +37,9 @@ assets:
 
 collections:
     family:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    order:
         output: true
         permalink: /taxonomy/:collection/:title/
     fossils:
