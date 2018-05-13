@@ -10,7 +10,13 @@ library(yaml)
 
 # Set futures max size to 1GB
 options(future.globals.maxSize = 1024^3)
-options(mc.cores = parallel::detectCores())
+
+# travis OOMs with 32 cores...
+cores <- parallel::detectCores()
+options(mc.cores = cores)
+if (Sys.getenv("TRAVIS") == "true" && cores >= 32) {
+    options(mc.cores = cores / 2)
+}
 
 plan(multicore)
 
