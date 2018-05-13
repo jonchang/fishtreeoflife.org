@@ -4,6 +4,8 @@ require "json"
 
 task default: :jekyll
 
+RANKS = %w[family order]
+
 taxonomy_deps = %w[
 downloads/actinopt_12k_treePL.tre.xz
 downloads/actinopt_12k_raxml.tre.xz
@@ -15,25 +17,54 @@ scripts/generate_taxonomy.R scripts/lib.R
 
 def make_taxonomy(rank)
     sh 'scripts/generate_taxonomy.R', rank
-    file = File.read("_data/taxonomy/#{rank}.json")
+end
+
+def make_taxonomy_api(rank)
+    outfn = "_data/taxonomy/#{rank}.json"
+    file = File.read outfn
+    json = JSON.parse(file)
+    jspath = "api/taxonomy/#{rank}"
+    FileUtils.mkdir_p jspath
+    FileUtils.cp outfn, "api/"
+    json.each do |key, value|
+        File.open("#{jspath}/#{key}.json", "w") { |f| f.write(JSON.pretty_generate(value)) }
+    end
+end
+
+def make_taxonomy_md(rank)
+    outfn = "_data/taxonomy/#{rank}.json"
+    file = File.read outfn
     json = JSON.parse(file)
     mdpath = "_#{rank}"
     FileUtils.mkdir_p mdpath
     json.each do |key, value|
         File.open("#{mdpath}/#{key}.md", "w") { |f| f.write("---\n\n---\n") }
-        #File.open("#{mdpath}/#{rank}.json", "w") { |f| f.write("---\n\n---\n") }
     end
 end
 
-file '_data/taxonomy/family.json' => taxonomy_deps do |t|
-    make_taxonomy('family')
+rule ( %r{api/taxonomy/.+} ) => [
+    proc {|task_name| task_name.sub('api', '_data').concat('.json') }
+] do |t|
+    make_taxonomy_api(File.basename(t.name))
 end
 
-file '_data/taxonomy/order.json' => taxonomy_deps do |t|
-    make_taxonomy('order')
+file '_family' => '_data/taxonomy/family.json' do
+    make_taxonomy_md 'family'
 end
 
-task :taxonomy => %w[_data/taxonomy/family.json _data/taxonomy/order.json]
+file '_order' => '_data/taxonomy/order.json' do
+    make_taxonomy_md 'order'
+end
+
+rule ( %r{_data/taxonomy/.*\.json$} ) => taxonomy_deps do |t|
+    rank = /(.*)\.json$/.match(File.basename(t.name))[1]
+    make_taxonomy(rank)
+end
+
+task :taxonomy_data => (RANKS.map {|r| "_data/taxonomy/#{r}.json"})
+task :taxonomy_api => (RANKS.map {|r| "api/taxonomy/#{r}"})
+task :taxonomy_md => (RANKS.map {|r| "_#{r}"})
+task :taxonomy => [:taxonomy_data, :taxonomy_api, :taxonomy_md]
 
 task :fossils => ['scripts/generate_fossils.R'] do
     sh 'scripts/generate_fossils.R'
@@ -41,12 +72,12 @@ end
 
 task :deps => [:taxonomy, :fossils]
 
-task jekyll: [:deps, :taxonomy] do
+task jekyll: :deps do
     sh "bundle", "exec", "jekyll", "build"
 end
 
-task serve: [:deps, :taxonomy] do
+task serve: :deps do
     sh "bundle", "exec", "jekyll", "serve", "--incremental"
 end
 
-CLEAN.include FileList["_site", '_data/taxonomy/', '_family', '_order', 'downloads/taxonomy']
+CLEAN.include FileList["_site", '_data/taxonomy/', '_family', '_order', 'downloads/taxonomy', 'api']
