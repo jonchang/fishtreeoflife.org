@@ -121,10 +121,11 @@ invisible(tre2)
 splat <- split(tax, tax$family)
 res <- list()
 
+# implement exponential backoff for multicore runs because travis is bad with IO or something
 repeat {
     files <- str_replace_all(basename(Sys.glob(file.path(mdpath, "*.md"))), ".md", "")
-    # check that we have all the output and if not re-run in serial mode
     notrun <- setdiff(names(splat), files)
+    if (length(notrun) == 0) break
     cores <- getOption("mc.cores")
     if (cores <= 1) {
         cat(paste("running", length(notrun), "jobs serially\n"))
@@ -135,12 +136,7 @@ repeat {
         res2 <- parallel::mclapply(splat[notrun], generate_family_data)
         res <- c(res, res2)
     }
-    if (length(notrun) == 0) {
-        break
-    } else {
-        options(mc.cores = cores / 2)
-    }
-
+    options(mc.cores = cores / 2)
 }
 
 cmd <- glue("find downloads \\( -name '*.phylip' -o -name '*.nex' \\) -print | xargs -n20 -P{parallel::detectCores()} xz -6e")
