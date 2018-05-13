@@ -13,6 +13,7 @@ layout: home
     overflow: hidden;
     background-size: contain;
     background-image: url('{% asset front-page-tree@1x.png @optim @path %}');
+    z-index: -9;
 }
 
 @media
