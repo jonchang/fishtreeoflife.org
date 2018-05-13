@@ -4,6 +4,7 @@ _site
 .asset-cache/
 .jekyll-cache/
 
+api
 _family
 _order
 _fossils
