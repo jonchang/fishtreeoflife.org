@@ -9,10 +9,8 @@ _order
 _fossils
 _data/fossil_data.csv
 _data/fossil_pretty.csv
-_data/family.json
-_data/order.json
-downloads/family
-downloads/order
+_data/taxonomy
+downloads/taxonomy/
 _assets/img/vertical_tree*.png
 
 # bundler

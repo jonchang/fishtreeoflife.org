@@ -38,8 +38,8 @@ Tax page
 {% for order in site.order %}
 <tr>
 <td><a href="{{ order.url | relative_url }}">{{ order.title }}</a></td>
-<td>{{ site.data.order[order.title].sampled_species | size }}</td>
-<td>{{ site.data.order[order.title].species | size }}</td>
+<td>{{ site.data.taxonomy.order[order.title].sampled_species | size }}</td>
+<td>{{ site.data.taxonomy.order[order.title].species | size }}</td>
 <td></td>
 </tr>
 {% endfor %}
@@ -55,8 +55,8 @@ Tax page
 {% for family in site.family %}
 <tr>
 <td><a href="{{ family.url | relative_url }}">{{ family.title }}</a></td>
-<td>{{ site.data.family[family.title].sampled_species | size }}</td>
-<td>{{ site.data.family[family.title].species | size }}</td>
+<td>{{ site.data.taxonomy.family[family.title].sampled_species | size }}</td>
+<td>{{ site.data.taxonomy.family[family.title].species | size }}</td>
 <td></td>
 </tr>
 {% endfor %}
