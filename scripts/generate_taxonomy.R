@@ -6,7 +6,7 @@ library(readr)
 library(glue)
 library(stringr)
 library(future)
-library(yaml)
+library(jsonlite)
 
 
 source("scripts/lib.R")
@@ -42,38 +42,45 @@ tips <- str_replace_all(tre$tip.label, "_", " ")
 dna[[1]] <- str_replace_all(dna[[1]], "_", " ")
 
 generate_family_data <- function(family) {
-    family_name <- unique(family$family)
-    species <- family$genus.species
-    sampled_species <- species[species %in% tips]
-    order <- unique(family$order)
+    out <- list()
+    out$species <- family$genus.species
+    out$sampled_species <- out$species[out$species %in% tips]
+    out$order <- unique(family$order)
+    family <- unique(family$family)
+    out$family <- family
 
-    fam_df <- data_frame(species = species) %>% mutate(sampled = as.integer(species %in% sampled_species))
-    write_csv(fam_df, file.path(datapath, paste0(family_name, ".csv")))
-
-    num_rogues <- 0
-    if (length(sampled_species) > 0) {
-        wanted_spp <- dna[[1]][dna[[1]] %in% sampled_species] %>% str_replace_all(" ", "_")
-        wanted_dna <- dna[[2]][dna[[1]] %in% sampled_species]
-        make_phylip(file.path(downloadpath, paste0(family_name, ".phylip.xz")), wanted_spp, wanted_dna)
-        make_nexus(file.path(downloadpath, paste0(family_name, ".nex.xz")), wanted_spp, wanted_dna)
-        if (length(sampled_species) > 2) {
-            chrono <- get_rank_trees(tre, sampled_species)
-            phylog <- get_rank_trees(tre, sampled_species)
-            write.tree(chrono$pruned_tree, file.path(downloadpath, paste0(family_name, ".tre")))
-            write.tree(phylog$pruned_tree, file.path(downloadpath, paste0(family_name, "_phylogram.tre")))
-            make_nexus(file.path(downloadpath, paste0(family_name, ".nex.xz")), wanted_spp, wanted_dna, tree = chrono$pruned_tree, charsets = charsets)
-            num_rogues <- chrono$num_rogues
-            if (chrono$num_rogues > 0) {
-                write.tree(chrono$mrca_tree, file.path(downloadpath, paste0(family_name, "_mrca.tre")))
-                write.tree(phylog$mrca_tree, file.path(downloadpath, paste0(family_name, "_mrca_phylogram.tre")))
+    out$num_rogues <- 0
+    if (length(out$sampled_species) > 0) {
+        wanted_spp <- dna[[1]][dna[[1]] %in% out$sampled_species] %>% str_replace_all(" ", "_")
+        wanted_dna <- dna[[2]][dna[[1]] %in% out$sampled_species]
+        out$matrix_phylip <- file.path(downloadpath, paste0(family, ".phylip.xz"))
+        out$matrix_nexus <- file.path(downloadpath, paste0(family, ".nex.xz"))
+        make_phylip(out$matrix_phylip, wanted_spp, wanted_dna)
+        make_nexus(out$matrix_nexus, wanted_spp, wanted_dna)
+        if (length(out$sampled_species) > 2) {
+            chrono <- get_rank_trees(tre, out$sampled_species)
+            phylog <- get_rank_trees(tre, out$sampled_species)
+            out$chronogram <- file.path(downloadpath, paste0(family, ".tre"))
+            out$phylogram <- file.path(downloadpath, paste0(family, "_phylogram.tre"))
+            write.tree(chrono$pruned_tree, out$chronogram)
+            write.tree(phylog$pruned_tree, out$phylogram)
+            make_nexus(out$matrix_nexus, wanted_spp, wanted_dna, tree = chrono$pruned_tree, charsets = charsets)
+            out$num_rogues <- chrono$num_rogues
+            if (out$num_rogues > 0) {
+                out$chronogram_mrca <- file.path(downloadpath, paste0(family, "_mrca.tre"))
+                out$phylogram_mrca <- file.path(downloadpath, paste0(family, "_mrca_phylogram.tre"))
+                write.tree(chrono$mrca_tree, out$chronogram_mrca)
+                write.tree(phylog$mrca_tree, out$phylogram_mrca)
             }
         }
     }
 
-    sink(file.path(mdpath, paste0(family_name, ".md")))
-    yaml <- list(family_name = family_name, order = order, num_rogues = num_rogues)
-    cat("---", as.yaml(yaml), "---", fill = T, sep = "\n")
-    sink(NULL)
+    no_unbox <- c("species", "sampled_species")
+    for (nn in names(out)) {
+        if (!nn %in% no_unbox) out[[nn]] <- unbox(out[[nn]])
+    }
+    cat("---\n\n---\n", file = file.path(mdpath, paste0(family, ".md")))
+    cat(toJSON(out), file = file.path(datapath, paste0(family, ".json")))
 }
 
 # ensure the futures are resolved

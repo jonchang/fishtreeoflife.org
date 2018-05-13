@@ -34,8 +34,8 @@ Tax page
 {% for family in site.family %}
 <tr>
 <td><a href="{{ family.url | relative_url }}">{{ family.title }}</a></td>
-<td>{{ site.data.family[family.title] | where:"sampled","1" | size }}</td>
-<td>{{ site.data.family[family.title] | size }}</td>
+<td>{{ site.data.family[family.title].sampled_species | size }}</td>
+<td>{{ site.data.family[family.title].species | size }}</td>
 <td></td>
 </tr>
 {% endfor %}
