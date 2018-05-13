@@ -21,6 +21,11 @@ if (Sys.getenv("TRAVIS") == "true" && cores >= 32) {
     options(mc.cores = cores / 2)
 }
 
+# get rank to build from command line arguments
+RANK <- commandArgs(TRUE)
+if (length(RANK) < 1) q(status = 1)
+
+
 plan(multicore)
 
 tre %<-% read.tree("downloads/actinopt_12k_treePL.tre.xz")
@@ -28,16 +33,15 @@ tre2 %<-% read.tree("downloads/actinopt_12k_raxml.tre.xz")
 tax %<-% read_csv("downloads/PFC_short_classification.csv.xz")
 dna %<-% scan("downloads/final_alignment.phylip.xz", what = list(character(), character()), quiet = TRUE, nlines = 11650, strip.white = TRUE, skip = 1)
 charsets <- readLines("downloads/final_alignment.partitions") %>% str_replace_all(fixed("DNA, "), "")
-fossils <- read_csv("_data/fossil_data.csv")
 
-datapath <- "_data/"
+datapath <- "_data/taxonomy"
 
 dir.create(datapath, recursive = T)
 
 tips <- str_replace_all(tre$tip.label, "_", " ")
 dna[[1]] <- str_replace_all(dna[[1]], "_", " ")
 
-generate_rank_data <- function(df, current_rank, downloadpath, mdpath) {
+generate_rank_data <- function(df, current_rank, downloadpath) {
     out <- list()
     out$species <- df$genus.species
     out$sampled_species <- out$species[out$species %in% tips]
@@ -75,7 +79,6 @@ generate_rank_data <- function(df, current_rank, downloadpath, mdpath) {
     for (nn in names(out)) {
         if (!nn %in% no_unbox) out[[nn]] <- unbox(out[[nn]])
     }
-    cat("---\n\n---\n", file = file.path(mdpath, paste0(rankname, ".md")))
     out
 }
 
@@ -84,41 +87,16 @@ invisible(dna)
 invisible(tre)
 invisible(tre2)
 
-ranks <- c("order", "family")
+cat("Starting", RANK, fill = TRUE)
+downloadpath <- file.path("downloads/taxonomy", RANK)
+dir.create(downloadpath, recursive = TRUE)
 
-for (rank in ranks) {
-    cat("Starting", rank, fill = TRUE)
-    downloadpath <- file.path("downloads", rank)
-    mdpath <- paste0("_", rank)
-    dir.create(downloadpath, recursive = TRUE)
-    dir.create(mdpath, recursive = TRUE)
+splat <- split(tax, tax[[RANK]])
+res <- parallel::mclapply(splat, generate_rank_data, current_rank = RANK, downloadpath = downloadpath)
+cat(toJSON(res), file = file.path(datapath, paste0(RANK, ".json")))
 
-    splat <- split(tax, tax[[rank]])
-    res <- lapply(splat, generate_rank_data, current_rank = rank, downloadpath = downloadpath, mdpath = mdpath)
-    cat(toJSON(res), file = file.path(datapath, paste0(rank, ".json")))
-    # Error out if Travis gives us grief
-    if (length(res) != length(splat)) {
-        cat("Wanted", length(splat), "results of rank", rank, "but got", length(res), "results", fill = T)
-        q(status = 1)
-    }
-}
-
-q()
-
-# implement exponential backoff for multicore runs because travis is bad with IO or something
-repeat {
-    notrun <- setdiff(names(splat), names(res))
-    if (length(notrun) == 0) break
-    cores <- getOption("mc.cores")
-    if (cores <= 1) {
-        cat(paste("running", length(notrun), "jobs serially\n"))
-        res2 <- lapply(notrun, function(x) generate_family_data(splat[[x]]))
-        names(res2) <- notrun
-        res <- c(res, res2)
-    } else {
-        cat(paste("running", length(notrun), "jobs with", getOption("mc.cores"), "cores\n"))
-        res2 <- parallel::mclapply(notrun, function(x) generate_family_data(splat[[x]]))
-        res <- c(res, res2)
-    }
-    options(mc.cores = cores / 2)
+# Error out if Travis gives us grief
+if (length(res) != length(splat)) {
+    cat("Wanted", length(splat), "results of rank", RANK, "but got", length(res), "results", fill = T)
+    q(status = 1)
 }
