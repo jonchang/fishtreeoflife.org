@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% assign df = site.data.family[page.title] %}
+{% assign df = site.data[page.collection][page.title] %}
 
 <section id="species">
     <h2>Species</h2>
@@ -49,7 +49,20 @@ layout: page
 
 <section id="taxonomy">
     <h2>Taxonomy</h2>
-    <p>Order: {{ df.order }}</p>
+    {% case page.collection %}
+    {% when "order" %}
+    <p>Families:</p>
+    <ul>
+        {% for family in df.family %}
+        {% assign fp = site.family | where: "title", family | first %}
+        <li><a href="{{ fp.url | relative_url }}">{{ family }}</a></li>
+        {% endfor %}
+    </ul>
+    {% when "family" %}
+        {% assign order = df.order[0] %}
+        {% assign op = site.order | where: "title", order | first %}
+    <p>Order: {{ order }} <a href="{{ op.url | relative_url }}">{{ order }}</a></p>
+    {% endcase %}
 </section>
 
 <section id="downloads">
@@ -72,7 +85,7 @@ layout: page
         {% else %}
         {% case df.sampled_species.size %}
         {% when 1 %}
-        <p>No phylogenies available (family is monotypic)</p>
+        <p>No phylogenies available ({{ page.collection }} is monotypic)</p>
         {% when 2 %}
         <p>No phylogenies available (too few species)</p>
         {% else %}

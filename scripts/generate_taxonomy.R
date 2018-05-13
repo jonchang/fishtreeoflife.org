@@ -84,19 +84,23 @@ invisible(dna)
 invisible(tre)
 invisible(tre2)
 
-ranks <- c("family", "order")
+ranks <- c("order", "family")
 
 for (rank in ranks) {
+    cat("Starting", rank, fill = TRUE)
     downloadpath <- file.path("downloads", rank)
     mdpath <- paste0("_", rank)
     dir.create(downloadpath, recursive = TRUE)
     dir.create(mdpath, recursive = TRUE)
 
     splat <- split(tax, tax[[rank]])
-    res <- parallel::mclapply(splat, generate_rank_data, current_rank = "family", downloadpath = "downloads/family", mdpath = "_family")
+    res <- lapply(splat, generate_rank_data, current_rank = rank, downloadpath = downloadpath, mdpath = mdpath)
     cat(toJSON(res), file = file.path(datapath, paste0(rank, ".json")))
     # Error out if Travis gives us grief
-    if (length(res) != length(splat)) q(status = 1)
+    if (length(res) != length(splat)) {
+        cat("Wanted", length(splat), "results of rank", rank, "but got", length(res), "results", fill = T)
+        q(status = 1)
+    }
 }
 
 q()

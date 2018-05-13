@@ -81,7 +81,12 @@ defaults:
           path: ""
           type: family
       values:
-          layout: family
+          layout: rank
+    - scope:
+          path: ""
+          type: order
+      values:
+          layout: rank
     - scope:
           path: ""
           type: fossils

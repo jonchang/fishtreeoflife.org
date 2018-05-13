@@ -2,11 +2,15 @@
 layout: page
 title: Taxonomy
 ---
+
 <style>
 .autosize {
     font-size: calc(1vw + 1vmin);
 }
 </style>
+
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
 
 <!--
 - PFC taxonomy
@@ -26,6 +30,23 @@ Tax page
 - API integration: EOL/fishbase
 -->
 
+## Orders
+
+<table>
+<tbody>
+<tr><th>Order</th><th>Sampled richness</th><th>Total richness</th><th>Stats</th></tr>
+{% for order in site.order %}
+<tr>
+<td><a href="{{ order.url | relative_url }}">{{ order.title }}</a></td>
+<td>{{ site.data.order[order.title].sampled_species | size }}</td>
+<td>{{ site.data.order[order.title].species | size }}</td>
+<td></td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+
+
 ## Families
 
 <table>
@@ -41,4 +62,3 @@ Tax page
 {% endfor %}
 </tbody>
 </table>
-
