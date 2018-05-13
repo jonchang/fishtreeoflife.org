@@ -6,6 +6,7 @@ library(readr)
 library(glue)
 library(stringr)
 library(future)
+library(yaml)
 
 # Set futures max size to 1GB
 options(future.globals.maxSize = 1024^3)
@@ -27,14 +28,6 @@ tax %<-% read_csv("downloads/PFC_short_classification.csv.xz")
 dna %<-% scan("downloads/final_alignment.phylip.xz", what = list(character(), character()), quiet = TRUE, nlines = 11650, strip.white = TRUE, skip = 1)
 charsets <- readLines("downloads/final_alignment.partitions") %>% str_replace_all(fixed("DNA, "), "")
 fossils <- read_csv("_data/fossil_data.csv")
-
-template <- "
----
-title: {family_name}
-order: {order}
-num_rogues: {num_rogues}
----
-"
 
 nexus_data <- "#nexus
 begin data;
@@ -123,7 +116,8 @@ generate_family_data <- function(family) {
     }
 
     sink(file.path(mdpath, paste0(family_name, ".md")))
-    cat(glue(template), fill = T)
+    yaml <- list(family_name = family_name, order = order, num_rogues = num_rogues)
+    cat(as.yaml(yaml), fill = T)
     sink(NULL)
 }
 
