@@ -115,7 +115,7 @@ generate_family_data <- function(family) {
 
     sink(file.path(mdpath, paste0(family_name, ".md")))
     yaml <- list(family_name = family_name, order = order, num_rogues = num_rogues)
-    cat("----", as.yaml(yaml), "----", fill = T, sep = "\n")
+    cat("---", as.yaml(yaml), "---", fill = T, sep = "\n")
     sink(NULL)
 }
 
