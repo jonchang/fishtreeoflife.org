@@ -30,7 +30,7 @@ dna %<-% scan("downloads/final_alignment.phylip.xz", what = list(character(), ch
 charsets <- readLines("downloads/final_alignment.partitions") %>% str_replace_all(fixed("DNA, "), "")
 fossils <- read_csv("_data/fossil_data.csv")
 
-datapath <- "_data/family/"
+datapath <- "_data/"
 mdpath <- "_family/"
 downloadpath <- "downloads/family"
 
@@ -80,7 +80,7 @@ generate_family_data <- function(family) {
         if (!nn %in% no_unbox) out[[nn]] <- unbox(out[[nn]])
     }
     cat("---\n\n---\n", file = file.path(mdpath, paste0(family, ".md")))
-    cat(toJSON(out), file = file.path(datapath, paste0(family, ".json")))
+    out
 }
 
 # ensure the futures are resolved
@@ -89,21 +89,25 @@ invisible(tre)
 invisible(tre2)
 
 splat <- split(tax, tax$family)
-res <- list()
+res <- parallel::mclapply(splat, generate_family_data)
+
+cat(toJSON(res), file = file.path(datapath, "family.json"))
+
+q()
 
 # implement exponential backoff for multicore runs because travis is bad with IO or something
 repeat {
-    files <- str_replace_all(basename(Sys.glob(file.path(mdpath, "*.md"))), ".md", "")
-    notrun <- setdiff(names(splat), files)
+    notrun <- setdiff(names(splat), names(res))
     if (length(notrun) == 0) break
     cores <- getOption("mc.cores")
     if (cores <= 1) {
         cat(paste("running", length(notrun), "jobs serially\n"))
-        res2 <- lapply(splat[notrun], generate_family_data)
+        res2 <- lapply(notrun, function(x) generate_family_data(splat[[x]]))
+        names(res2) <- notrun
         res <- c(res, res2)
     } else {
         cat(paste("running", length(notrun), "jobs with", getOption("mc.cores"), "cores\n"))
-        res2 <- parallel::mclapply(splat[notrun], generate_family_data)
+        res2 <- parallel::mclapply(notrun, function(x) generate_family_data(splat[[x]]))
         res <- c(res, res2)
     }
     options(mc.cores = cores / 2)

@@ -43,7 +43,7 @@ layout: page
         {% endfor %}
     </ul>
 
-    <p><a id="json-fossil" href="data:application/json,{{ fossils | jsonify | uri_escape }}">Download fossil calibration data</a></p>
+    <p><a href="data:application/json,{{ fossils | jsonify | uri_escape }}">Download fossil calibration data</a></p>
     {% endif %}
 </section>
 
@@ -60,14 +60,14 @@ layout: page
 
         {% if df.chronogram %}
         {% if df.num_rogues == 0 %}
-        <p><a id="download-phylogeny" href="{{ df.phylogram | relative_url }}">Phylogram of {{ page.title }}</a></p>
-        <p><a id="download-phylogeny" href="{{ df.chronogram | relative_url }}">Time-calibrated phylogeny of {{ page.title }}</a></p>
+        <p><a href="{{ df.phylogram | relative_url }}">Phylogram of {{ page.title }}</a></p>
+        <p><a href="{{ df.chronogram | relative_url }}">Time-calibrated phylogeny of {{ page.title }}</a></p>
         {% else %}
         <p>Note: there were {{ df.num_rogues }} non-{{ page.title | split: "" | reverse | join: "" | slice: 2, 9999 | split: "" | reverse | join: "" | downcase }} species that caused {{ page.title }} to be inferred as paraphyletic.</p>
-        <p><a id="download-phylogeny" href="{{ df.chronogram | relative_url }}">Time-calibrated phylogeny of <em>only</em> species in {{ page.title }}</a></p>
-        <p><a id="download-phylogeny-mrca" href="{{ df.chronogram_mrca | relative_url }}">Time-calibrated phylogeny of "{{ page.title }}"</a></p>
-        <p><a id="download-phylogeny" href="{{ df.phylogram | relative_url }}">Phylogram of <em>only</em> species in {{ page.title }}</a></p>
-        <p><a id="download-phylogeny-mrca" href="{{ df.phylogram_mrca | relative_url }}">Phylogram of "{{ page.title }}"</a></p>
+        <p><a href="{{ df.chronogram | relative_url }}">Time-calibrated phylogeny of <em>only</em> species in {{ page.title }}</a></p>
+        <p><a href="{{ df.chronogram_mrca | relative_url }}">Time-calibrated phylogeny of "{{ page.title }}"</a></p>
+        <p><a href="{{ df.phylogram | relative_url }}">Phylogram of <em>only</em> species in {{ page.title }}</a></p>
+        <p><a href="{{ df.phylogram_mrca | relative_url }}">Phylogram of "{{ page.title }}"</a></p>
         {% endif %}
         {% else %}
         {% case df.sampled_species.size %}
@@ -84,7 +84,7 @@ layout: page
     <section id="downloads-sequence">
         <h3>Sequence data</h3>
         {% if df.matrix_phylip %}
-        <p><a id="download-sequences" href="{{ df.matrix_phylip | relative_url }}">Phylip sequences for {{ page.title }}</a></p>
+        <p><a href="{{ df.matrix_phylip | relative_url }}">Phylip sequences for {{ page.title }}</a></p>
         <p><a href="{% link downloads/final_alignment.partitions %}">RAxML-style partitions file</a></p>
         {% if df.chronogram %}
         <p><a href="{{ df.matrix_nexus | relative_url }}">Nexus file for {{ page.title }} (includes character partitions and phylogeny)</a></p>
