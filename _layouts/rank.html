@@ -61,7 +61,7 @@ layout: page
     {% when "family" %}
         {% assign order = df.order[0] %}
         {% assign op = site.order | where: "title", order | first %}
-    <p>Order: {{ order }} <a href="{{ op.url | relative_url }}">{{ order }}</a></p>
+    <p>Order: <a href="{{ op.url | relative_url }}">{{ order }}</a></p>
     {% endcase %}
 </section>
 
