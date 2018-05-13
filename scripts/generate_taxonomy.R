@@ -93,6 +93,8 @@ res <- parallel::mclapply(splat, generate_family_data)
 
 cat(toJSON(res), file = file.path(datapath, "family.json"))
 
+if (length(res) != length(splat)) q(status = 1)
+
 q()
 
 # implement exponential backoff for multicore runs because travis is bad with IO or something
