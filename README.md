@@ -2,8 +2,5 @@
 
 ```
 bundle install
-Rscript -e 'install.packages(c("tidyverse", "ape", "glue", "future"))'
-scripts/generate_fossils.R
-scripts/generate_taxonomy.R
-bundle exec jekyll serve
+bundle exec rake -j serve
 ```
