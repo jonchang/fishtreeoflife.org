@@ -9,8 +9,6 @@ cache:
         - $HOME/R/Library
         - .asset-cache/
         - .jekyll-cache/
-        - _data/taxonomy
-        - downloads/taxonomy
 
 env:
     global:
