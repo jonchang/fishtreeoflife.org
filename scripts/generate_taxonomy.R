@@ -49,7 +49,6 @@ generate_rank_data <- function(df, current_rank, downloadpath) {
     out$family <- unique(df$family)
     rankname <- out[[current_rank]]
 
-    out$num_rogues <- 0
     if (length(out$sampled_species) > 0) {
         wanted_spp <- dna[[1]][dna[[1]] %in% out$sampled_species] %>% str_replace_all(" ", "_")
         wanted_dna <- dna[[2]][dna[[1]] %in% out$sampled_species]
@@ -65,8 +64,8 @@ generate_rank_data <- function(df, current_rank, downloadpath) {
             write.tree(chrono$pruned_tree, out$chronogram)
             write.tree(phylog$pruned_tree, out$phylogram)
             make_nexus(out$matrix_nexus, wanted_spp, wanted_dna, tree = chrono$pruned_tree, charsets = charsets)
-            out$num_rogues <- chrono$num_rogues
-            if (out$num_rogues > 0) {
+            out$rogues <- chrono$rogues
+            if (length(out$rogues) > 0) {
                 out$chronogram_mrca <- file.path(downloadpath, paste0(rankname, "_mrca.tre"))
                 out$phylogram_mrca <- file.path(downloadpath, paste0(rankname, "_mrca_phylogram.tre"))
                 write.tree(chrono$mrca_tree, out$chronogram_mrca)
@@ -75,7 +74,7 @@ generate_rank_data <- function(df, current_rank, downloadpath) {
         }
     }
 
-    no_unbox <- c("species", "sampled_species", "family", "order")
+    no_unbox <- c("species", "sampled_species", "family", "order", "rogues")
     for (nn in names(out)) {
         if (!nn %in% no_unbox) out[[nn]] <- unbox(out[[nn]])
     }

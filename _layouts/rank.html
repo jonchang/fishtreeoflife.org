@@ -74,11 +74,11 @@ layout: page
         <h3>Phylogenies</h3>
 
         {% if df.chronogram %}
-        {% if df.num_rogues == 0 %}
+        {% if df.rogues == empty %}
         <p><a href="{{ df.phylogram | relative_url }}">Phylogram of {{ page.title }}</a></p>
         <p><a href="{{ df.chronogram | relative_url }}">Time-calibrated phylogeny of {{ page.title }}</a></p>
         {% else %}
-        <p>Note: there were {{ df.num_rogues }} non-{{ page.title | split: "" | reverse | join: "" | slice: 2, 9999 | split: "" | reverse | join: "" | downcase }} species that caused {{ page.title }} to be inferred as paraphyletic.</p>
+        <p>Note: there were {{ df.rogues | size }} non-{{ page.title | split: "" | reverse | join: "" | slice: 2, 9999 | split: "" | reverse | join: "" | downcase }} species that caused {{ page.title }} to be inferred as paraphyletic.</p>
         <p><a href="{{ df.chronogram | relative_url }}">Time-calibrated phylogeny of <em>only</em> species in {{ page.title }}</a></p>
         <p><a href="{{ df.chronogram_mrca | relative_url }}">Time-calibrated phylogeny of "{{ page.title }}"</a></p>
         <p><a href="{{ df.phylogram | relative_url }}">Phylogram of <em>only</em> species in {{ page.title }}</a></p>
