@@ -70,9 +70,11 @@ task :fossils => ['scripts/generate_fossils.R'] do
     sh 'scripts/generate_fossils.R'
 end
 
-task :monophyly => ['scripts/generate_monophyly.R'] do
+file '_data/monophyly_order_data.json' => 'scripts/generate_monophyly.R' do
     sh 'scripts/generate_monophyly.R'
 end
+
+task :monophyly => ['_data/monophyly_order_data.json']
 
 task :deps => [:taxonomy, :fossils, :monophyly]
 
