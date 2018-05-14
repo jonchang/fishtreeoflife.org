@@ -51,6 +51,6 @@ get_rank_trees <- function(tree, spp) {
     tree_species <- stringr::str_replace_all(spp, " ", "_")
     mrca_tree <- ape::extract.clade(tree, ape::getMRCA(tree, tree_species))
     pruned_tree <- ape::drop.tip(mrca_tree, mrca_tree$tip.label[!mrca_tree$tip.label %in% tree_species])
-    num_rogues <- length(mrca_tree$tip.label) - length(pruned_tree$tip.label)
-    list(num_rogues = num_rogues, mrca_tree = mrca_tree, pruned_tree = pruned_tree)
+    rogues <- setdiff(mrca_tree$tip.label, pruned_tree$tip.label)
+    list(rogues = rogues, mrca_tree = mrca_tree, pruned_tree = pruned_tree)
 }
