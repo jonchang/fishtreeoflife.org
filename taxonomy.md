@@ -57,35 +57,9 @@ Tax page
 -->
 
 
-<div style="overflow-x:auto;">
-<table>
-<tbody>
-<tr><th>Order</th><th>Sampled richness</th><th>Total richness</th></tr>
-{% for order in site.order %}
-<tr>
-<td><a href="{{ order.url | relative_url }}">{{ order.title }}</a></td>
-<td>{{ site.data.taxonomy.order[order.title].sampled_species | size }}</td>
-<td>{{ site.data.taxonomy.order[order.title].species | size }}</td>
-</tr>
-{% endfor %}
-</tbody>
-</table>
-</div>
+{% include taxonomy-table.html rank="order" %}
 
 
 ## Families
 
-<div style="overflow-x:auto;">
-<table>
-<tbody>
-<tr><th>Family</th><th>Sampled richness</th><th>Total richness</th></tr>
-{% for family in site.family %}
-<tr>
-<td><a href="{{ family.url | relative_url }}">{{ family.title }}</a></td>
-<td>{{ site.data.taxonomy.family[family.title].sampled_species | size }}</td>
-<td>{{ site.data.taxonomy.family[family.title].species | size }}</td>
-</tr>
-{% endfor %}
-</tbody>
-</table>
-</div>
+{% include taxonomy-table.html rank="family" %}
