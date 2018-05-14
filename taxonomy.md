@@ -24,12 +24,13 @@ title: Taxonomy
 {% assign yscale = 18 %}
 {% assign yoffset = yscale | divided_by: 4 %}
 
-<svg id="order_tree" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin meet" viewBox="-10 -10 600 1200" width="100%" height="120%">
+<svg id="order_tree" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin meet" viewBox="-10 -10 550 1200" width="100%" height="120%">
 {% for row in svg %}
 <line x1="{{ row.x }}" x2="{{ row.xend }}" y1="{{ row.y | times: yscale }}" y2="{{ row.yend | times: yscale }}" stroke="black"/>
 {% endfor %}
 {% for row in df %}
-<a xlink:href="{{ "/taxonomy/order/" | append: row.label | relative_url }}">
+{% assign tc = row.label | slugify %}
+<a xlink:href="{{ "/taxonomy/order/" | append: tc | relative_url }}">
   <text x="{{ row.x }}" y="{{ row.y | times: yscale }}" dx="5" dy="{{ yoffset }}" font-size="12">{{ row.label }}{% if row.Monophyly == 'No' %}*{% endif %}</text>
 {% if row.depth %}
 <polygon points="{{ row.depth }} {{ row.y | times: yscale }} {{ row.x }} {{ row.y | times: yscale | plus: yoffset }} {{ row.x }} {{ row.y | times: yscale | minus: yoffset }}" stroke="black" fill="{{ row.color }}" stroke-width="1"/>
