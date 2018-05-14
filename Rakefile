@@ -78,7 +78,7 @@ file '_data/monophyly/family_data.json' => 'scripts/generate_monophyly.R' do
     sh 'scripts/generate_monophyly.R', 'family'
 end
 
-task :monophyly => ['_data/monophyly/order_data.json', '_data/monophyly/family_data.json']
+multitask :monophyly => ['_data/monophyly/order_data.json', '_data/monophyly/family_data.json']
 
 task :deps => [:taxonomy, :fossils, :monophyly]
 
