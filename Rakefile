@@ -70,7 +70,11 @@ task :fossils => ['scripts/generate_fossils.R'] do
     sh 'scripts/generate_fossils.R'
 end
 
-task :deps => [:taxonomy, :fossils]
+task :monophyly => ['scripts/generate_monophyly.R'] do
+    sh 'scripts/generate_monophyly.R'
+end
+
+task :deps => [:taxonomy, :fossils, :monophyly]
 
 task jekyll: :deps do
     sh "bundle", "exec", "jekyll", "build"
