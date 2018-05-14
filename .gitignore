@@ -11,7 +11,7 @@ _fossils
 _data/fossil_data.csv
 _data/fossil_pretty.csv
 _data/taxonomy
-_data/monophyly_*
+_data/monophyly
 downloads/taxonomy/
 _assets/img/vertical_tree*.png
 

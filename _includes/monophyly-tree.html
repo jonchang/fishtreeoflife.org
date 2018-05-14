@@ -1,0 +1,30 @@
+{% assign df = include.df %}
+{% assign svg = include.svg %}
+
+{% assign rank = include.rank %}
+{% assign yscale = include.yscale | default: 20 %}
+{% assign yoffset_default = yscale | divided_by: 4 %}
+{% assign yoffset = include.yoffset | default: yoffset_default %}
+{% assign ntax = df | map: "x" | size %}
+{% assign treeheight_fudge = include.treeheight_fudge | default: 20 %}
+{% assign treeheight = ntax | times: yscale | plus: treeheight_fudge %}
+{% assign xmax = df | map: "x" | sort | last %}
+{% assign tiplabel_offset = include.tiplabel_offset | default: 150 %}
+{% assign treewidth = xmax | plus: tiplabel_offset %}
+
+<svg id="{{ rank }}_tree" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin meet" viewBox="-10 -10 {{ treewidth }} {{ treeheight }}" style="width: 100%">
+{% for row in svg %}
+<line x1="{{ row.x }}" x2="{{ row.xend }}" y1="{{ row.y | times: yscale }}" y2="{{ row.yend | times: yscale }}" stroke="black"/>
+{% endfor %}
+{% for row in df %}
+{% assign tc = row.label | slugify %}
+<a xlink:href="{{ "/taxonomy/" | append: rank | append: "/" | append: tc | relative_url }}">
+  <text x="{{ row.x }}" y="{{ row.y | times: yscale }}" dx="5" dy="{{ yoffset }}" font-size="12">{{ row.label }}{% if row.Monophyly == 'No' %}*{% endif %}</text>
+{% if row.depth %}
+<polygon points="{{ row.depth }} {{ row.y | times: yscale }} {{ row.x }} {{ row.y | times: yscale | plus: yoffset }} {{ row.x }} {{ row.y | times: yscale | minus: yoffset }}" stroke="black" fill="{{ row.color }}" stroke-width="1"/>
+{% endif %}
+</a>
+{% endfor %}
+</svg>
+
+
