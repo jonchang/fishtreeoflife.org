@@ -38,7 +38,7 @@ def make_taxonomy_md(rank)
     mdpath = "_#{rank}"
     FileUtils.mkdir_p mdpath
     json.each do |key, value|
-        File.open("#{mdpath}/#{key}.md", "w") { |f| f.write("---\n\n---\n") }
+        File.open("#{mdpath}/#{key}.md", "w") { |f| f.write("---\ntitle: '#{key}'\n---\n") }
     end
 end
 
