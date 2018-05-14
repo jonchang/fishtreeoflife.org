@@ -17,8 +17,7 @@
 <line x1="{{ row.x }}" x2="{{ row.xend }}" y1="{{ row.y | times: yscale }}" y2="{{ row.yend | times: yscale }}" stroke="black"/>
 {% endfor %}
 {% for row in df %}
-{% assign tc = row.label | slugify %}
-<a xlink:href="{{ "/taxonomy/" | append: rank | append: "/" | append: tc | relative_url }}">
+<a xlink:href="{{ "/taxonomy/" | append: rank | append: "/" | append: row.label | relative_url }}">
   <text x="{{ row.x }}" y="{{ row.y | times: yscale }}" dx="5" dy="{{ yoffset }}" font-size="12">{{ row.label }}{% if row.Monophyly == 'No' %}*{% endif %}</text>
 {% if row.depth %}
 <polygon points="{{ row.depth }} {{ row.y | times: yscale }} {{ row.x }} {{ row.y | times: yscale | plus: yoffset }} {{ row.x }} {{ row.y | times: yscale | minus: yoffset }}" stroke="black" fill="{{ row.color }}" stroke-width="1"/>
