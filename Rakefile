@@ -70,11 +70,15 @@ task :fossils => ['scripts/generate_fossils.R'] do
     sh 'scripts/generate_fossils.R'
 end
 
-file '_data/monophyly_order_data.json' => 'scripts/generate_monophyly.R' do
-    sh 'scripts/generate_monophyly.R'
+file '_data/monophyly/order_data.json' => 'scripts/generate_monophyly.R' do
+    sh 'scripts/generate_monophyly.R', 'order'
 end
 
-task :monophyly => ['_data/monophyly_order_data.json']
+file '_data/monophyly/family_data.json' => 'scripts/generate_monophyly.R' do
+    sh 'scripts/generate_monophyly.R', 'family'
+end
+
+task :monophyly => ['_data/monophyly/order_data.json', '_data/monophyly/family_data.json']
 
 task :deps => [:taxonomy, :fossils, :monophyly]
 
@@ -86,4 +90,4 @@ task serve: :deps do
     sh "bundle", "exec", "jekyll", "serve", "--incremental"
 end
 
-CLEAN.include FileList["_site", '_data/taxonomy/', '_family', '_order', 'downloads/taxonomy', 'api']
+CLEAN.include FileList["_site", '_data/taxonomy/', '_data/monophyly', '_family', '_order', 'downloads/taxonomy', 'api']

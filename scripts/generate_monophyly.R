@@ -4,20 +4,25 @@ library(dplyr)
 library(readr)
 library(MonoPhy)
 
+wanted_rank <- commandArgs(TRUE)
+if (length(wanted_rank) < 1) q(status = 1)
+
+OUTDIR <- "_data/monophyly"
+
 tre <- read.tree("downloads/actinopt_12k_treePL.tre.xz")
-tax_orig <- read_csv("downloads/PFC_short_classification.csv.xz") %>% transmute(tip = gsub(" ", "_", genus.species), family, order)
+tax_orig <- read_csv("downloads/PFC_short_classification.csv.xz") %>% transmute(tip = gsub(" ", "_", genus.species), label = .data[[wanted_rank]])
 
 tax <- tax_orig %>% filter(tip %in% tre$tip.label) %>% as.data.frame()
 
 res <- AssessMonophyly(tre, tax, verbosity = 0)
 
 # purge the wicked
-evil <- c(do.call(c, res$order$IntruderTips), do.call(c, res$order$OutlierTips))
+evil <- c(do.call(c, res$label$IntruderTips), do.call(c, res$label$OutlierTips))
 
 tre2 <- drop.tip(tre, evil)
 tax2 <- filter(tax, !tip %in% evil)
-mono <- res$order$result["Monophyly"]
-mono$label <- rownames(res$order$result)
+mono <- res$label$result["Monophyly"]
+mono$label <- rownames(res$label$result)
 
 # wrapper for mrca that returns NA instead of null if the clade is monotypic
 mrca_na <- function(phy, tip) {
@@ -28,7 +33,7 @@ mrca_na <- function(phy, tip) {
 
 # compute mcra nodes and the ages of those
 btimes <- branching.times(tre2)
-stats <- tax2 %>% group_by(order) %>% summarise(node = mrca_na(tre2, tip), depth = btimes[as.character(node)], N = n(), exemplar = first(tip)) %>% rename(label = order)
+stats <- tax2 %>% group_by(label) %>% summarise(node = mrca_na(tre2, tip), depth = btimes[as.character(node)], N = n(), exemplar = first(tip))
 
 # drop the extra tips that we don't need
 skeleton <- drop.tip(tre2, which(!tre2$tip.label %in% stats$exemplar))
@@ -64,7 +69,9 @@ compute_phylogram <- function(edge, Ntip, Nnode, xx, yy) {
     data_frame(x = c(x0h, x0v), y = c(y0h, y0v), xend = c(x1h, x0v), yend = c(y0h, y1v))
 }
 
-write_csv(with(metrics, compute_phylogram(edge, Ntip, Nnode, xx, yy)), "_data/monophyly_order_svg.csv")
+dir.create(OUTDIR, showWarning = FALSE, recursive = TRUE)
+
+write_csv(with(metrics, compute_phylogram(edge, Ntip, Nnode, xx, yy)), file.path(OUTDIR, paste0(wanted_rank, "_svg.csv")))
 
 # implementation detail: 1:Ntip should be the coordinates of the terminal eges
 
@@ -72,12 +79,12 @@ xx <- metrics$xx[1:metrics$Ntip]
 yy <- metrics$yy[1:metrics$Ntip]
 
 ramp <- colorRamp(RColorBrewer::brewer.pal(9, "BuGn")[1:8])
+richness <- tax %>% group_by(label) %>% summarise(richness = n()) %>% mutate(color = rgb(ramp(log(richness) / log(max(richness))), maxColorValue = 255))
 
-to_svg <- data_frame(x = xx, y = yy, label = skeleton$tip.label) %>% left_join(mono) %>% left_join(stats) %>% select(-exemplar, -node) %>% mutate(depth = max(x) - depth) %>% left_join(tax %>% group_by(order) %>% summarise(richness=n()) %>% rename(label = order)) %>% mutate(color = rgb(ramp(log(richness) / log(max(richness))), maxColorValue = 255))
-
+to_svg <- data_frame(x = xx, y = yy, label = skeleton$tip.label) %>% left_join(mono) %>% left_join(stats) %>% select(-exemplar, -node) %>% mutate(depth = max(x) - depth) %>% left_join(richness)
 
 js <- jsonlite::toJSON(to_svg)
-cat(js, file = "_data/monophyly_order_data.json")
+cat(js, file = file.path(OUTDIR, paste0(wanted_rank, "_data.json")))
 
 
 
