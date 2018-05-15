@@ -32,7 +32,7 @@ Tax page
 - API integration: EOL/fishbase
 -->
 
-{% include monophyly-tree.html rank="order" df=site.data.monophyly.order_data svg=site.data.monophyly.order_svg tiplabel_offset=175 %}
+{% include monophyly-tree.html rank="order" df=site.data.monophyly.order_data svg=site.data.monophyly.order_svg tiplabel_offset=140 fontsize=9 %}
 
 {% include taxonomy-table.html rank="order" %}
 
@@ -41,6 +41,6 @@ Tax page
 
 
 
-{% include monophyly-tree.html rank="family" df=site.data.monophyly.family_data svg=site.data.monophyly.family_svg tiplabel_offset=150 %}
+{% include monophyly-tree.html rank="family" df=site.data.monophyly.family_data svg=site.data.monophyly.family_svg tiplabel_offset=120 fontsize=9 %}
 
 {% include taxonomy-table.html rank="family" %}
