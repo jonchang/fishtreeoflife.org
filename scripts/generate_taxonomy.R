@@ -17,8 +17,8 @@ options(future.globals.maxSize = 1024^3)
 # travis OOMs with 32 cores...
 cores <- parallel::detectCores()
 options(mc.cores = cores)
-if (Sys.getenv("TRAVIS") == "true" && cores >= 32) {
-    options(mc.cores = cores / 2)
+if (Sys.getenv("TRAVIS") == "true") {
+    options(mc.cores = 2)
 }
 
 # get rank to build from command line arguments
