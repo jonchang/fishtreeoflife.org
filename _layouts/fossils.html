@@ -52,14 +52,14 @@ layout: default
     <dt>Taxa this fossil might apply to:</dt>
     {% assign left = fossil.left | replace: "_", " " %}
     {% assign right = fossil.right | replace: "_", " " %}
-    {% for family_hash in site.data.family %}
+    {% for family_hash in site.data.taxonomy.family %}
     {% assign family = family_hash[1] %}
     {% if family.species contains left and family.species contains right %}
     {% assign fp = site.family | where: "title", family.family[0] | first %}
     <dd>Family: <a href="{{ fp.url | relative_url }}">{{ fp.title }}</a></dd>
     {% endif %}
     {% endfor %}
-    {% for order_hash in site.data.order %}
+    {% for order_hash in site.data.taxonomy.order %}
     {% assign order = order_hash[1] %}
     {% if order.species contains left and order.species contains right %}
     {% assign fp = site.order | where: "title", order.order[0] | first %}
