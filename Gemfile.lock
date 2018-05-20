@@ -38,7 +38,7 @@ GEM
       image_optim (~> 0.19)
     image_size (1.5.0)
     in_threads (1.5.0)
-    jekyll (3.8.1)
+    jekyll (3.8.2)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -125,7 +125,7 @@ PLATFORMS
 DEPENDENCIES
   image_optim
   image_optim_pack
-  jekyll (= 3.8.1)
+  jekyll (= 3.8.2)
   jekyll-assets
   jekyll-compose
   jekyll-seo-tag
