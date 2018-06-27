@@ -58,7 +58,7 @@ generate_rank_data <- function(df, current_rank, downloadpath) {
         make_nexus(out$matrix_nexus, wanted_spp, wanted_dna)
         if (length(out$sampled_species) > 2) {
             chrono <- get_rank_trees(tre, out$sampled_species)
-            phylog <- get_rank_trees(tre, out$sampled_species)
+            phylog <- get_rank_trees(tre2, out$sampled_species)
             out$chronogram <- file.path(downloadpath, paste0(rankname, ".tre"))
             out$phylogram <- file.path(downloadpath, paste0(rankname, "_phylogram.tre"))
             write.tree(chrono$pruned_tree, out$chronogram)
