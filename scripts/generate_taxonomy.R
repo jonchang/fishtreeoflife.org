@@ -18,7 +18,7 @@ options(future.globals.maxSize = 1024^3)
 cores <- parallel::detectCores()
 options(mc.cores = cores)
 if (Sys.getenv("TRAVIS") == "true") {
-    options(mc.cores = 2)
+    options(mc.cores = 4)
 }
 
 # get rank to build from command line arguments
@@ -31,6 +31,7 @@ plan(multicore)
 tre %<-% read.tree("downloads/actinopt_12k_treePL.tre.xz")
 tre2 %<-% read.tree("downloads/actinopt_12k_raxml.tre.xz")
 tax %<-% read_csv("downloads/PFC_short_classification.csv.xz")
+fulltree %<-% read.tree("downloads/actinopt_full.trees.xz")
 dna %<-% scan("downloads/final_alignment.phylip.xz", what = list(character(), character()), quiet = TRUE, nlines = 11650, strip.white = TRUE, skip = 1)
 charsets <- readLines("downloads/final_alignment.partitions") %>% str_replace_all(fixed("DNA, "), "")
 
@@ -48,6 +49,13 @@ generate_rank_data <- function(df, current_rank, downloadpath) {
     out$order <- unique(df$order)
     out$family <- unique(df$family)
     rankname <- out[[current_rank]]
+
+    out$chronogram_full <- file.path(downloadpath, paste0(rankname, "_full.trees"))
+    ss <- str_replace_all(out$species, " ", "_")
+    to_drop <- fulltree$tip.label[!fulltree$tip.label %in% str_replace_all(out$species, " ", "_")]
+    fullt <- lapply(fulltree, drop.tip, to_drop)
+    class(fullt) <- "multiPhylo"
+    write.tree(fullt, out$chronogram_full)
 
     if (length(out$sampled_species) > 0) {
         wanted_spp <- dna[[1]][dna[[1]] %in% out$sampled_species] %>% str_replace_all(" ", "_")
@@ -85,6 +93,7 @@ generate_rank_data <- function(df, current_rank, downloadpath) {
 invisible(dna)
 invisible(tre)
 invisible(tre2)
+invisible(fulltree)
 
 cat("Starting", RANK, fill = TRUE)
 downloadpath <- file.path("downloads/taxonomy", RANK)
