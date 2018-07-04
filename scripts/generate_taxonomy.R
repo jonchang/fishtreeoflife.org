@@ -43,6 +43,7 @@ tips <- str_replace_all(tre$tip.label, "_", " ")
 dna[[1]] <- str_replace_all(dna[[1]], "_", " ")
 
 generate_rank_data <- function(df, current_rank, downloadpath) {
+    cat(current_rank, "...\n")
     out <- list()
     out$species <- df$genus.species
     out$sampled_species <- out$species[out$species %in% tips]
