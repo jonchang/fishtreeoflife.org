@@ -47,6 +47,10 @@ dir.create(mdpath, recursive = T)
 
 for (ii in 1:nrow(res)) {
     sink(file.path(mdpath, paste0(res$idx[ii], ".md")))
-    cat(paste0("---\ntitle: ", res$fossil[ii], "\nslug: ", res$slug[ii], "\n\n---\n"))
+    cat("---\n")
+    cat(paste0("title: ", res$fossil[ii], "\n"))
+    cat(paste0("slug: ", res$slug[ii], "\n"))
+    cat(paste0("description: Fossil calibration data for ", res$fossil[ii], ", an extinct species of fish\n"))
+    cat("\n---\n")
     sink(NULL)
 }
