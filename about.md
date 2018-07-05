@@ -7,10 +7,12 @@ title: About
 
 The primary data presented on this website, including the sequence data and phylogeny, was initially published as:
 
-<div markdown="0">
-Daniel L. Rabosky*, Jonathan Chang*, Pascal O. Title*, Peter F. Cowman, Lauren Sallan, Matt Friedman, Kristin Kaschner, Cristina Garilao, Thomas J. Near, Marta Coll, Michael E. Alfaro* (2018).  An inverse latitudinal gradient in speciation rate for marine fishes. <em>Nature</em> doi:<a href="https://doi.org/10.1038/s41586-018-0273-1">10.1038/s41586-018-0273-1</a></div>
+<p markdown="0">
+Daniel L. Rabosky*, Jonathan Chang*, Pascal O. Title*, Peter F. Cowman, Lauren Sallan, Matt Friedman, Kristin Kaschner, Cristina Garilao, Thomas J. Near, Marta Coll, Michael E. Alfaro* (2018).  An inverse latitudinal gradient in speciation rate for marine fishes. <em>Nature</em> doi:<a href="https://doi.org/10.1038/s41586-018-0273-1">10.1038/s41586-018-0273-1</a></p>
 
 The manuscript describing this Fish Tree of Life website in currently in preparation.
+
+The manuscript describing the taxonomic addition algorithm (TACT) for the full tree distributions is currently in preparation.
 
 The manuscript detailing our Phylogentic Fish Classification is currently in preparation.
 
