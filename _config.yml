@@ -15,7 +15,7 @@ google_analytics: UA-15180347-2
 
 twitter:
     username: chang_jon
-    card: summary
+    card: summary_large_image
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
