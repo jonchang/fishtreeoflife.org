@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Methods
+description: How the Fish Tree of Life was built
 ---
 
 # Matrix

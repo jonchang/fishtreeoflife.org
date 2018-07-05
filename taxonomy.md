@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Taxonomy
+description: The new Phylogenetic Fish Classification based on the Fish Tree of Life
 ---
 
 <style>

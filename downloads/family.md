@@ -1,6 +1,7 @@
 ---
 title: Downloads by family
 layout: page
+description: Download sequence and phylogenetic data on a per-family basis for the Fish Tree of Life
 ---
 
 {% assign families = site.data.family %}
