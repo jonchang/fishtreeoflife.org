@@ -3,7 +3,7 @@ tagline: LOL
 author: Jonathan Chang
 email: jonathan.chang@ucla.edu
 description: > # this means to ignore newlines until "baseurl:"
-    A one stop shop for everything related to fish phylogenetics--taxonomy, phylogeny, and more!
+    The Fish Tree of Life -- taxonomy, phylogenies, fossils, and more
 
 plugins:
     - jekyll-sitemap
