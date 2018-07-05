@@ -38,7 +38,12 @@ def make_taxonomy_md(rank)
     mdpath = "_#{rank}"
     FileUtils.mkdir_p mdpath
     json.each do |key, value|
-        File.open("#{mdpath}/#{key}.md", "w") { |f| f.write("---\ntitle: '#{key}'\n---\n") }
+        File.open("#{mdpath}/#{key}.md", "w") do |f|
+            f.write("---\n")
+            f.write("title: '#{key}'\n")
+            f.write("description: 'Taxonomic information based on the Phylogenetic Fish Classification for #{key}, the #{rank} of ray-finned fishes'\n")
+            f.write("---\n")
+        end
     end
 end
 
