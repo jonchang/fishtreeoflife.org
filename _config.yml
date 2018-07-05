@@ -82,7 +82,7 @@ defaults:
           type: "pages"
       values:
           layout: "page"
-          image: /downloads/front-page-tree@1x.png
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
     - scope:
           path: ""
           type: family
