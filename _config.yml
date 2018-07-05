@@ -11,6 +11,7 @@ plugins:
 
 twitter_username: chang_jon
 github_username:  jonchang
+google_analytics: UA-15180347-2
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
