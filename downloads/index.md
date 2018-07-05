@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Downloads
+description: Download sequence and phylogenetic data for the Fish Tree of Life
 ---
 
 To save space, many of our files are distributed as compressed XZ format files. Windows users can download [7-Zip](http://www.7-zip.org/) to uncompress these files, while macOS users can use [The Unarchiver](https://theunarchiver.com/). R should also be able to read XZ files natively without decompressing the file first.

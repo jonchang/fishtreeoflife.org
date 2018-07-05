@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: How to cite the Fish Tree of Life website and contact the authors
 ---
 
 ## Citing
