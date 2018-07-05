@@ -13,6 +13,10 @@ twitter_username: chang_jon
 github_username:  jonchang
 google_analytics: UA-15180347-2
 
+twitter:
+    username: chang_jon
+    card: summary
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
@@ -78,6 +82,7 @@ defaults:
           type: "pages"
       values:
           layout: "page"
+          image: /downloads/front-page-tree@1x.png
     - scope:
           path: ""
           type: family
