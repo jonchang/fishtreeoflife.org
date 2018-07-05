@@ -63,5 +63,5 @@ only screen and (                min-resolution: 2.25dppx) {
 ## Quick links
 
 * [Visualize our fossil calibration points]({{ site.baseurl }}{% link fossils.md %})
-* [Download the time-calibrated phylogeny]({{ site.baseurl }}{% link downloads/actinopt_12k_treePL.tre.xz %})
+* [Download the time-calibrated phylogeny]({{ site.baseurl }}{% link downloads/index.md %})
 * [Browse our new "Phylogenetic Fish Classification"]({{ site.baseurl }}{% link taxonomy.md %})
