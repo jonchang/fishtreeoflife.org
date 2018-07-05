@@ -79,10 +79,12 @@ permalink: pretty
 defaults:
     - scope:
           path: ""
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
           type: "pages"
       values:
           layout: "page"
-          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
     - scope:
           path: ""
           type: family
