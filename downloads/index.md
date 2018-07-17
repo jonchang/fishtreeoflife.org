@@ -8,7 +8,10 @@ To save space, many of our files are distributed as compressed XZ format files. 
 
 - [RAxML phylogram](actinopt_12k_raxml.tre.xz) (Newick format)
 - [Timetree](actinopt_12k_treePL.tre.xz) (Newick format)
-- [Complete "all-taxon assembled" chronograms](actinopt_full.trees.xz)
+- [Complete "all-taxon assembled" chronograms](actinopt_full.trees.xz)[^1]
 - [Data by family](family/)
 - [Full alignment](final_alignment.phylip.xz)
 - [Alignment partitions](final_alignment.partitions)
+
+
+[^1]: Please see [the methods page]({% link methods.md %}) for important details on how these tree distributions were generated.
