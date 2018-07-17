@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Taxonomy
-description: The new Phylogenetic Fish Classification based on the Fish Tree of Life
+description: The new Phylogenetic Fish Classification based on the Fish Tree of Life, with species checklists, phylogenies, DNA sequences and fossil calibrations
 ---
 
 <style>

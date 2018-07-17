@@ -50,7 +50,7 @@ for (ii in 1:nrow(res)) {
     cat("---\n")
     cat(paste0("title: ", res$fossil[ii], "\n"))
     cat(paste0("slug: ", res$slug[ii], "\n"))
-    cat(paste0("description: Fossil calibration data for ", res$fossil[ii], ", an extinct species of fish\n"))
+    cat(paste0("description: Fossil calibration data for ", res$fossil[ii], ", an extinct species of fish. Includes taxonomy authority and locality references, and cross-references to living taxa.\n"))
     cat("\n---\n")
     sink(NULL)
 }

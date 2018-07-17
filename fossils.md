@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fossils
-description: Fossil calibration information for the Fish Tree of Life
+description: Fossil calibration information for the Fish Tree of Life, including node placements, locality, and taxonomic authorities.
 ---
 
 <style>
