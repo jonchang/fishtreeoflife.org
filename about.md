@@ -11,7 +11,7 @@ The data presented on this website were published as a part of:
 <p markdown="0">
 Daniel L. Rabosky*, Jonathan Chang*, Pascal O. Title*, Peter F. Cowman, Lauren Sallan, Matt Friedman, Kristin Kaschner, Cristina Garilao, Thomas J. Near, Marta Coll, Michael E. Alfaro* (2018).  An inverse latitudinal gradient in speciation rate for marine fishes. <em>Nature</em> doi:<a href="https://doi.org/10.1038/s41586-018-0273-1">10.1038/s41586-018-0273-1</a></p>
 
-Please cite this publication if you use any phylogenetic products derived from this website, including taxonomic resources and fossil calibration constraints.
+Please cite this publication if you use any phylogenetic products derived from this website, including taxonomic resources and fossil calibration constraints. We have also [released a set of enhanced ATA trees]({% link downloads/index.md %}); the details on how these ATA distributions differ are detailed in [Rabosky et al. 2018 update]({% link rabosky-et-al-2018-update.md %}). [The original set of ATA phylogenies are available via Dryad](https://doi.org/10.5061/dryad.fc71cp4).
 
 <!-- The manuscript describing this Fish Tree of Life website in currently in preparation.
 
