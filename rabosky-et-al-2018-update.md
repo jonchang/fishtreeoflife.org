@@ -54,7 +54,7 @@ In the fourth sentence of the ninth paragraph, we originally reported the mean r
 
 In the caption for Extended Data Figure 7c, we originally reported that the λ<sub>DR</sub> rate for high-latitude perciform species was 0.30. With our revised estimate, this rate is 0.29.
 
-In the caption for Extended Data Figure 9, panels e and f, we originally reported that the relationship between root-to-tip distance and absolute latitudinal midpoint was r = 0.020. With our revised estimate, this correlation is 0.043.
+In the caption for Extended Data Figure 9, panels e and f, we originally reported that the relationship between root-to-tip distance and log λ<sub>DR</sub> was r = 0.020. With our revised estimate, this correlation is 0.043.
 
 
 
