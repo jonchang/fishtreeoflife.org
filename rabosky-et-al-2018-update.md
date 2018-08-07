@@ -22,16 +22,18 @@ We recently documented an inverse global gradient in speciation rate for marine 
 
 Our estimates of speciation rate that used the DR statistic[^Jetz2012] were based on a distribution of fully-resolved phylogenies (ATA phylogenies). To assemble the ATA phylogenies, we paired a backbone genetic phylogeny for 11,633 ray-finned fishes with taxonomic information for 19,888 taxa that lacked genetic taxa. Similar to other birth-death polytomy resolvers[^Thomas2013], our method generated a conservative distribution of taxonomic placements that satisfied a number of taxonomic constraints. Our original method[^Rabosky2018] incorporated hierarchical sets of constraints. For example, consider a family of fishes where 60 of 100 species have been genetically sampled, but where two genera within the family are known to be completely sampled (e.g., genus X with 10 species, and genus Y with 5 species). The polytomy resolver described in our article would allocate the unsampled 40 species across the phylogeny under estimated birth-death rates, while preserving the monophyly of genera X and Y.
 
-However, one undesirable limitation of the complex hierarchy of constraints imposed in our analyses is that some higher taxa could not enforce the monophyly constraint. As a consequence, our algorithm would occasionally be forced to break the monophyly of some higher taxa that were nevertheless monophyletic in the genes-only phylogeny. There were three orders where species roamed outside of their order, all belonging to subdivision Percomorphaceae: [Blenniiformes](/taxonomy/order/Blenniiformes/) (111 out of 951 species), [Gobiiformes](/taxonomy/order/Gobiiformes) (547 out of 1,407 species), and [Tetraodontiformes](/taxonomy/order/Tetraodontiformes/) (30 out of 376 species). Species from these orders were placed in monophyletic orders [Percopsiformes](/taxonomy/order/Percopsiformes/), [Acanthuriformes](/taxonomy/order/Acanthuriformes/), [Anabantiformes](/taxonomy/order/Anabantiformes/), and [Kurtiformes](/taxonomy/order/Kurtiformes/); as well as non-monophyletic orders [Centrarchiformes](/taxonomy/order/Centrarchiformes/), [Pempheriformes](/taxonomy/order/Pempheriformes/), [Perciformes](/taxonomy/order/Perciformes/), [Scombriformes](/taxonomy/order/Scombriformes/), and [Syngnathiformes](/taxonomy/order/Syngnathiformes/). The other 47 named orders were not affected by this issue. Collectively, 3.5% of taxa lacking genetic data (688 of 19,888) were not maximally constrained across the full distribution of ATA phylogenies.
+However, one undesirable limitation of the complex hierarchy of constraints imposed in our analyses is that some higher taxa could not enforce the monophyly constraint. As a consequence, our algorithm would occasionally be forced to break the monophyly of some higher taxa that were nevertheless monophyletic in the genes-only phylogeny. There were three orders where species roamed outside of their order, all belonging to subdivision Percomorphaceae: [Blenniiformes](/taxonomy/order/Blenniiformes/) (111 out of 951 species), [Gobiiformes](/taxonomy/order/Gobiiformes) (547 out of 1,407 species), and [Tetraodontiformes](/taxonomy/order/Tetraodontiformes/) (30 out of 376 species). Species from these orders could be placed in monophyletic orders [Acanthuriformes](/taxonomy/order/Acanthuriformes/), [Anabantiformes](/taxonomy/order/Anabantiformes/), [Percopsiformes](/taxonomy/order/Percopsiformes/), and [Kurtiformes](/taxonomy/order/Kurtiformes/); as well as non-monophyletic orders [Centrarchiformes](/taxonomy/order/Centrarchiformes/), [Pempheriformes](/taxonomy/order/Pempheriformes/), [Perciformes](/taxonomy/order/Perciformes/), [Scombriformes](/taxonomy/order/Scombriformes/), and [Syngnathiformes](/taxonomy/order/Syngnathiformes/). [The other 47 named orders]({ link taxonomy.md %}) were not affected by this issue. Collectively, 3.5% of taxa lacking genetic data (688 of 19,888 species) were not maximally constrained across the full distribution of ATA phylogenies.
 
 We implemented an enhanced polytomy resolver that could solve more sophisticated sets of monophyly constraints, ensuring that the overlapping, hierarchical constraints would not interfere with each other, and permitting the constraint of previously unconstrained taxa. We generated new ATA phylogenies and re-calculated λ<sub>DR</sub> speciation rate estimates. Our main results derived from λ<sub>BAMM</sub> speciation rate estimates were not affected.
 
-To test for the effect of this improvement, we computed tip-specific λ<sub>DR</sub> speciation rates for the original set of ATA phylogenies and the new set of ATA phylogenies. We summarized on a per-tip basis the λ<sub>DR</sub> speciation rate and conducted a linear regression between the original and new ATA phylogenies. The two were significantly correlated (r = 0.98), and the slope of the linear model was β = 0.95.
+To test for the effect of this improvement, we computed tip-specific λ<sub>DR</sub> speciation rates for the original set of ATA phylogenies and the new set of ATA phylogenies. We summarized, on a per-tip basis, the λ<sub>DR</sub> speciation rate and conducted a linear regression between the original and updated ATA phylogenies. Our linear regression found significant correlation between the original and updated phylogenies ([Figure 1](#regression); r = 0.98; β = 0.95; p < 0.001).
 
-<figure id="figmain">
+<figure id="regression">
 {% asset rabosky2018figures/regression.png alt="Lambda DR speciation rates were strongly correlated between the original and updated ATA phylogenies" %}
-<figcaption>λ<sub>DR</sub> speciation rates were strongly correlated between the original and updated ATA phylogenies. The dotted line is the 1:1 reference line.</figcaption>
+<figcaption><strong>Figure 1 | λ<sub>DR</sub> speciation rates are strongly correlated between the original and updated ATA phylogenies.</strong> Data are shown on a log-log scale. The red dashed line is the 1:1 reference line.</figcaption>
 </figure>
+
+The original set of ATA phylogenies[^Rabosky2018] are available in the Dryad data package[^Dryad]. The updated set of ATA phylogenies are available in the [Downloads]({% link downloads/index.md %}) section of this website.
 
 ## Updated text
 
@@ -58,7 +60,19 @@ In the caption for Extended Data Figure 9, panels e and f, we originally reporte
 
 ## Updated figures
 
-We updated the following figures: main text <a href="#figmain">Figure 3</a>, <a href="fig2">Extended Data Figures 2</a>, <a href="fig3">3</a>, <a href="fig4">4</a>, <a href="fig5">5</a>, <a href="fig7">7</a>, <a href="fig8">8</a>, <a href="fig9">9</a>, and <a href="fig10">Extended Data Table 1</a>. Each of the following figures is an animation comparing the original and updated figures. In some cases the figures here will differ slightly from the originals[^Rabosky2018]; this is due to randomness introduced to alleviate visual artifacts from overplotting.
+We updated the following figures:
+
+* [Figure 3](#figmain)
+* [Extended Data Figure 2](#fig2)
+* [Extended Data Figure 3](#fig3)
+* [Extended Data Figure 4](#fig4)
+* [Extended Data Figure 5](#fig5)
+* [Extended Data Figure 7](#fig7)
+* [Extended Data Figure 8](#fig8)
+* [Extended Data Figure 9](#fig9)
+* [Extended Data Table 1](#fig10)
+
+To compare the original and updated figures, each of the following figures is an animation labeled with the respective ATA phylogeny data source. In some cases the "original" figures here will differ slightly from the original publication[^Rabosky2018]; this is due to randomness introduced to address overplotting.
 
 <figure id="figmain">
 {% asset rabosky2018figures/figmain_flicker.gif alt="Main text Figure 3 inset box plot" %}
@@ -113,3 +127,4 @@ We updated the following figures: main text <a href="#figmain">Figure 3</a>, <a 
 
 [^Thomas2013]: Thomas, G. H., Hartmann, K., Jetz, W., Joy, J. B., Mimoto, A., & Mooers, A. O. (2013). PASTIS: an R package to facilitate phylogenetic assembly with soft taxonomic inferences. Methods in Ecology and Evolution, 4(11), 1011–1017. doi:[10.1111/2041-210x.12117](https://doi.org/10.1111/2041-210x.12117)
 
+[^Dryad]: Rabosky, D. L., Chang, J., Title, P. O., Cowman, P. F., Sallan, L., Friedman, M., Kashner, K., Garilao, C., Near, T. J., Coll, M., Alfaro, M. E. (2018). Data from: An inverse latitudinal gradient in speciation rate for marine fishes. Dryad Digital Repository. doi:[10.5061/dryad.fc71cp4](https://doi.org/10.5061/dryad.fc71cp4)
