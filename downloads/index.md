@@ -14,4 +14,4 @@ To save space, many of our files are distributed as compressed XZ format files. 
 - [Alignment partitions](final_alignment.partitions)
 
 
-[^1]: Please see [the methods page]({% link methods.md %}) for important details on how these tree distributions were generated.
+[^1]: Please see [the methods page]({% link methods.md %}) as well as this [update notice]({% link rabosky-et-al-2018-update.md %}) for important details on how these tree distributions were generated. ATA phylogenies should be used in conjunction with trait data with [some caveats in mind](https://doi.org/10.1111/evo.12817).

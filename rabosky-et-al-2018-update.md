@@ -37,7 +37,7 @@ The original set of ATA phylogenies[^Rabosky2018] are available in the Dryad dat
 
 ## Updated text
 
-Based on these new ATA phylogenies, we can make the following changes to the text of Rabosky et al. 2018[^Rabosky2018]:
+Based on these new ATA phylogenies, the text of Rabosky et al. 2018[^Rabosky2018] can be revised in the following places:
 
 In the third sentence of the fourth paragraph of the main text, we originally stated that λ<sub>DR</sub> rate for tropical assemblages was 0.11; with our revised estimate, this rate is 0.10. In the fourth sentence, we stated that the λ<sub>DR</sub> rates for shallow-water tropical and high-latitude assemblages were 0.11, and 0.22, respectively. With our revised estimate, these rates are 0.10 and 0.23.
 
@@ -60,7 +60,7 @@ In the caption for Extended Data Figure 9, panels e and f, we originally reporte
 
 ## Updated figures
 
-We updated the following figures:
+We revise the following figures:
 
 * [Figure 3](#figmain)
 * [Extended Data Figure 2](#fig2)
@@ -72,7 +72,7 @@ We updated the following figures:
 * [Extended Data Figure 9](#fig9)
 * [Extended Data Table 1](#fig10)
 
-To compare the original and updated figures, each of the following figures is an animation labeled with the respective ATA phylogeny data source. In some cases the "original" figures here will differ slightly from the original publication[^Rabosky2018]; this is due to randomness introduced to address overplotting.
+To compare the original and updated figures, each of the following figures is an animation labeled with the respective ATA phylogeny data source. In some cases, the "original" figures shown here will differ slightly from the figures in the publication[^Rabosky2018]; this is due to randomness introduced to mitigate perceptual artifacts from overplotting.
 
 <figure id="figmain">
 {% asset rabosky2018figures/figmain_flicker.gif alt="Main text Figure 3 inset box plot" %}
