@@ -1,12 +1,14 @@
 <div style="overflow-x:auto;">
     <table>
         <tbody>
-            <tr><th>{{ include.rank | capitalize }}</th><th>Sampled richness</th><th>Total richness</th></tr>
+            <tr><th>{{ include.rank | capitalize }}</th><th>Sampled richness</th><th>Total richness</th><th>&lambda;<sub>BAMM</sub></th><th>&lambda;<sub>DR</sub></th></tr>
             {% for rank in site[include.rank] %}
             <tr>
                 <td><a href="{{ rank.url | relative_url }}">{{ rank.title }}</a></td>
                 <td>{{ site.data.taxonomy[include.rank][rank.title].sampled_species | size }}</td>
                 <td>{{ site.data.taxonomy[include.rank][rank.title].species | size }}</td>
+                <td>{{ site.data.taxonomy[include.rank][rank.title].mean_bamm_lambda | replace: "NaN", "" }}</td>
+                <td>{{ site.data.taxonomy[include.rank][rank.title].mean_dr | replace: "NaN", "" }}</td>
             </tr>
             {% endfor %}
         </tbody>

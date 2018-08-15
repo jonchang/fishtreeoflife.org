@@ -33,7 +33,7 @@ To test for the effect of this improvement, we computed tip-specific λ<sub>DR</
 <figcaption><strong>Figure 1 | λ<sub>DR</sub> speciation rates are strongly correlated between the original and updated ATA phylogenies.</strong> Data are shown on a log-log scale. The red dashed line is the 1:1 reference line.</figcaption>
 </figure>
 
-The original set of ATA phylogenies[^Rabosky2018] are available in the Dryad data package[^Dryad]. The updated set of ATA phylogenies are available in the [Downloads]({% link downloads/index.md %}) section of this website.
+The original set of ATA phylogenies[^Rabosky2018] are available in the Dryad data package[^Dryad]. The updated set of ATA phylogenies and updated λ<sub>DR</sub> rates are available in the [Downloads]({% link downloads/index.md %}) section of this website.
 
 ## Updated text
 
