@@ -37,7 +37,7 @@ Tax page
 
 {% include monophyly-tree.html rank="order" df=site.data.monophyly.order_data svg=site.data.monophyly.order_svg tiplabel_offset=140 fontsize=9 %}
 
-Orders with * were not recovered as monophyletic in our phylogenetic analysis.
+Orders with * were not recovered as monophyletic in our phylogenetic analysis. Clade triangles are colored by their species richness.
 
 ### Alphabetical
 
@@ -50,7 +50,7 @@ Orders with * were not recovered as monophyletic in our phylogenetic analysis.
 
 {% include monophyly-tree.html rank="family" df=site.data.monophyly.family_data svg=site.data.monophyly.family_svg tiplabel_offset=120 fontsize=9 %}
 
-Families with * were not recovered as monophyletic in our phylogenetic analysis.
+Families with * were not recovered as monophyletic in our phylogenetic analysis. Clade triangles are colored by their species richness.
 
 ### Alphabetical
 
