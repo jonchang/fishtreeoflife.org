@@ -34,6 +34,7 @@ tax %<-% read_csv("downloads/PFC_short_classification.csv.xz")
 #fulltree %<-% read.tree("downloads/actinopt_full.trees.xz")
 dna %<-% scan("downloads/final_alignment.phylip.xz", what = list(character(), character()), quiet = TRUE, nlines = 11650, strip.white = TRUE, skip = 1)
 charsets <- readLines("downloads/final_alignment.partitions") %>% str_replace_all(fixed("DNA, "), "")
+tiprates <- read_csv("downloads/tiprates.csv.xz")
 
 datapath <- "_data/taxonomy"
 
@@ -41,6 +42,12 @@ dir.create(datapath, recursive = T)
 
 tips <- str_replace_all(tre$tip.label, "_", " ")
 dna[[1]] <- str_replace_all(dna[[1]], "_", " ")
+
+two_col_to_list <- function(df) {
+    xx <- lapply(as.list(df[[2]]), unbox)
+    names(xx) <- df[[1]]
+    xx
+}
 
 generate_rank_data <- function(df, current_rank, downloadpath) {
     out <- list()
@@ -50,6 +57,13 @@ generate_rank_data <- function(df, current_rank, downloadpath) {
     out$family <- unique(df$family)
     rankname <- out[[current_rank]]
     cat(rankname, "...\n")
+    wanted_rates <- tiprates %>% filter(species %in% out$sampled_species)
+    out$tiprates_dr <- filter(wanted_rates, !is.na(dr)) %>% select(species, dr) %>% two_col_to_list()
+    out$tiprates_bamm_lambda <- filter(wanted_rates, !is.na(lambda.tv)) %>% select(species, lambda.tv) %>% two_col_to_list()
+    out$tiprates_bamm_mu <- filter(wanted_rates, !is.na(mu.tv)) %>% select(species, mu.tv) %>% two_col_to_list()
+    out$mean_dr <- mean(as.numeric(out$tiprates_dr))
+    out$mean_bamm_lambda <- mean(as.numeric(out$tiprates_bamm_lambda))
+    out$mean_bamm_mu <- mean(as.numeric(out$tiprates_bamm_mu))
 
 #     out$chronogram_full <- file.path(downloadpath, paste0(rankname, "_full.trees"))
 #     ss <- str_replace_all(out$species, " ", "_")
@@ -83,7 +97,7 @@ generate_rank_data <- function(df, current_rank, downloadpath) {
         }
     }
 
-    no_unbox <- c("species", "sampled_species", "family", "order", "rogues")
+    no_unbox <- c("species", "sampled_species", "family", "order", "rogues", "tiprates_dr", "tiprates_bamm_lambda", "tiprates_bamm_mu")
     for (nn in names(out)) {
         if (!nn %in% no_unbox) out[[nn]] <- unbox(out[[nn]])
     }
