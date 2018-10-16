@@ -10,6 +10,7 @@ To save space, many of our files are distributed as compressed XZ format files. 
 - [Timetree](actinopt_12k_treePL.tre.xz) (Newick format)
 - [Complete "all-taxon assembled" chronograms](actinopt_full.trees.xz)[^1]
 - [Taxonomy-only tree, used to generate ATA chronograms](taxonomy.tre.xz)
+- [Taxonomy spreadsheet](PFC_short_classification.csv.xz)[^2]
 - [Computed diversification rates](tiprates.csv.xz)
 - [Full alignment](final_alignment.phylip.xz)
 - [Alignment partitions](final_alignment.partitions)
@@ -17,3 +18,5 @@ To save space, many of our files are distributed as compressed XZ format files. 
 
 
 [^1]: Please see [the methods page]({% link methods.md %}) as well as this [update notice]({% link rabosky-et-al-2018-update.md %}) for important details on how these tree distributions were generated. Using ATA phylogenies in conjunction with trait data? Keep [some caveats in mind](https://doi.org/10.1111/evo.12817).
+
+[^2]: Only includes family, order, genus. For the full taxonomy used to generate ATA chronograms please see the [Dryad upload for the *Nature* manuscript]({% link about.md %})
