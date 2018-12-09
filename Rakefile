@@ -6,19 +6,6 @@ task default: :jekyll
 
 RANKS = %w[family order]
 
-taxonomy_deps = %w[
-downloads/actinopt_12k_treePL.tre.xz
-downloads/actinopt_12k_raxml.tre.xz
-downloads/PFC_short_classification.csv.xz
-downloads/final_alignment.phylip.xz
-downloads/final_alignment.partitions
-scripts/generate_taxonomy.R scripts/lib.R
-]
-
-def make_taxonomy(rank)
-    sh 'scripts/generate_taxonomy.R', rank
-end
-
 def make_taxonomy_api(rank)
     outfn = "_data/taxonomy/#{rank}.json"
     file = File.read outfn
@@ -61,31 +48,11 @@ file '_order' => '_data/taxonomy/order.json' do
     make_taxonomy_md 'order'
 end
 
-rule ( %r{_data/taxonomy/.*\.json$} ) => taxonomy_deps do |t|
-    rank = /(.*)\.json$/.match(File.basename(t.name))[1]
-    make_taxonomy(rank)
-end
-
-task :taxonomy_data => (RANKS.map {|r| "_data/taxonomy/#{r}.json"})
 task :taxonomy_api => (RANKS.map {|r| "api/taxonomy/#{r}"})
 task :taxonomy_md => (RANKS.map {|r| "_#{r}"})
-task :taxonomy => [:taxonomy_data, :taxonomy_api, :taxonomy_md]
+task :taxonomy => [:taxonomy_api, :taxonomy_md]
 
-task :fossils => ['scripts/generate_fossils.R'] do
-    sh 'scripts/generate_fossils.R'
-end
-
-file '_data/monophyly/order_data.json' => 'scripts/generate_monophyly.R' do
-    sh 'scripts/generate_monophyly.R', 'order'
-end
-
-file '_data/monophyly/family_data.json' => 'scripts/generate_monophyly.R' do
-    sh 'scripts/generate_monophyly.R', 'family'
-end
-
-multitask :monophyly => ['_data/monophyly/order_data.json', '_data/monophyly/family_data.json']
-
-task :deps => [:taxonomy, :fossils, :monophyly]
+task :deps => [:taxonomy]
 
 task jekyll: :deps do
     sh "bundle", "exec", "jekyll", "build"
@@ -93,6 +60,10 @@ end
 
 task serve: :deps do
     sh "bundle", "exec", "jekyll", "serve", "--incremental"
+end
+
+task serve2: :deps do
+    sh "bundle", "exec", "jekyll", "serve"
 end
 
 CLEAN.include FileList["_site", '_data/taxonomy/', '_data/monophyly', '_family', '_order', 'downloads/taxonomy', 'api']
