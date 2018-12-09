@@ -31,6 +31,8 @@ Significant contributors to this website and its data sources include:
 * [Jonathan Chang](https://jonathanchang.org)
 * [Pascal Title](https://pascaltitle.weebly.com/)
 
+Other critical contributors include:
+
 * [Peter Cowman](http://petercowman.weebly.com/)
 * [Lauren Sallan](http://www.laurensallan.com/)
 * [Matt Friedman](https://lsa.umich.edu/paleontology/people/curators/mfriedm.html)
@@ -38,3 +40,19 @@ Significant contributors to this website and its data sources include:
 * [Cristina Garilao](https://www.geomar.de/en/mitarbeiter/fb3/ev/cgarilao/)
 * [Tom Near](http://nearlab.yale.edu/)
 * [Marta Coll](http://martacoll.science/)
+
+## Future updates
+
+We are hard at work updating the website with several new features. We are currently working on:
+
+* Accessing data from this website via an R package
+* Moving to a rank-free system based on the PFC classification
+
+We are also interested in fixing any phylogenetic and taxonomic errors in a future revision of the Fish Tree of Life, especially rogue taxa that break the monophyly of well-studied lineages. Known issues include:
+
+* Total group *Hippocampus* age should be 11 Ma
+* Relationships within Cichlidae are not quite correct
+* *Chlorurus gibbus* has rogue behavior
+* *Takifugu fasciatus* is actually *T. obscurus*
+
+[Please fill out this survey](https://docs.google.com/forms/d/e/1FAIpQLSeyE_NT5WiQA3Er62ZJzIHrRnOP0ASzPYrh294Nr5pOm4kTDg/viewform?usp=sf_link) so we can collate all fixes for a future revision.
