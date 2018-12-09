@@ -3,30 +3,27 @@ dist: trusty
 rvm:
     - 2.5.1
 
-services:
-    - docker
-
 cache:
     bundler: true
     directories:
+        - $HOME/R/Library
         - .asset-cache/
         - .jekyll-cache/
 
 env:
     global:
+        - R_LIBS_USER=$HOME/R/Library
         - JEKYLL_ENV=production
 
-before_install:
-    - docker pull jonchang/fishtreeoflife-docker
-    - docker run --name temp jonchang/fishtreeoflife-docker /bin/true
-    - docker cp temp:_assets _assets_tmp
-    - docker cp temp:_fossils _fossils
-    - docker cp temp:_data _data_tmp
-    - docker rm temp
-    - cp -R _assets_tmp/* _assets
-    - cp -R _data_tmp/* _data
-    - rm -rf _assets_tmp _data_tmp
+addons:
+    apt:
+        sources:
+            - r-packages-trusty
+        packages:
+            - r-base-dev
 
+before_install:
+    - Rscript -e 'pkg <- c("MonoPhy", "tidyverse", "glue", "future"); install.packages(pkg, repos = "https://cran.rstudio.com", Ncpu = parallel::detectCores()); if (!all(pkg) %in% installed.packages()) q(status = 1, save = "no")'
 
 deploy:
     provider: pages
