@@ -3,27 +3,21 @@ dist: trusty
 rvm:
     - 2.5.1
 
+services:
+    - docker
+
 cache:
     bundler: true
     directories:
-        - $HOME/R/Library
         - .asset-cache/
         - .jekyll-cache/
 
 env:
     global:
-        - R_LIBS_USER=$HOME/R/Library
         - JEKYLL_ENV=production
 
-addons:
-    apt:
-        sources:
-            - r-packages-trusty
-        packages:
-            - r-base-dev
-
 before_install:
-    - Rscript -e 'pkg <- c("MonoPhy", "tidyverse", "glue", "future"); install.packages(pkg, repos = "https://cran.rstudio.com", Ncpu = parallel::detectCores()); if (!all(pkg) %in% installed.packages()) q(status = 1, save = "no")'
+    - scripts/docker.sh
 
 deploy:
     provider: pages
