@@ -62,7 +62,7 @@ GEM
       nokogiri (~> 1.8)
       pathutil (~> 0.16)
       sprockets (>= 3.3, < 4.1.beta)
-    jekyll-compose (0.8.0)
+    jekyll-compose (0.9.0)
       jekyll (~> 3.0)
     jekyll-sanity (1.2.0)
       jekyll (~> 3.1)
