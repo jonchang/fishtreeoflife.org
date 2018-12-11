@@ -6,10 +6,10 @@
             <tr>
                 <td><a href="{{ rank.url | relative_url }}">{{ rank.title }}</a></td>
                 <td>{{ site.data.taxonomy[include.rank][rank.title].sampled_species | size }}</td>
-                <td>{{ site.data.taxonomy[include.rank][rank.title].species | size }}</td>
+                <td>{% capture sizecheck %}{{ site.data.taxonomy[include.rank][rank.title].species | size }}{% endcapture %}{{ sizecheck }}</td>
                 <td>{{ site.data.taxonomy[include.rank][rank.title].mean_bamm_lambda | replace: "NaN", "" }}</td>
                 <td>{{ site.data.taxonomy[include.rank][rank.title].mean_dr | replace: "NaN", "" }}</td>
-            </tr>
+            </tr>{% if sizecheck == "0" %}<!-- ERROR_ERROR_ERROR -->{% endif %}
             {% endfor %}
         </tbody>
     </table>
