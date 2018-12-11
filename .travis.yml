@@ -19,6 +19,10 @@ env:
 before_install:
     - scripts/docker.sh
 
+script:
+    - rake
+    - scripts/test.sh
+
 deploy:
     provider: pages
     skip_cleanup: true
