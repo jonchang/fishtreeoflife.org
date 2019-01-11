@@ -12,4 +12,5 @@ group :jekyll_plugins do
   gem "uglifier"
   gem "image_optim"
   gem "image_optim_pack"
+  gem "html-proofer"
 end
