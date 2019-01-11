@@ -8,9 +8,6 @@ services:
 
 cache:
     bundler: true
-    directories:
-        - .asset-cache/
-        - .jekyll-cache/
 
 env:
     global:
