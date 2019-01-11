@@ -12,7 +12,6 @@ cache:
 env:
     global:
         - JEKYLL_ENV=production
-        - RUBYOPT="--jit"
 
 before_install:
     - scripts/docker.sh
