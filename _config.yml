@@ -31,6 +31,10 @@ jekyll_tidy:
     ignore_env: development
 
 assets:
+    defaults:
+        js: { integrity: false }
+        css: { integrity: false }
+        img: { integrity: false }
     plugins:
         img:
             optim:
