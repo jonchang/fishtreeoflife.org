@@ -595,51 +595,7 @@ BAMM uses a Bayesian reversible-jump Markov Chain Monte Carlo (MCMC) algorithm t
 
 The DR statistic, for "diversification rate", is a summary statistic that infers recent speciation rates for all tips in the phylogeny without requiring a formal parametric inference model. DR is itself the inverse of the equal-splits measure, where the equal-splits measure (ES) for a tip i is equal to:
 
-<math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mstyle displaystyle="true">
-    <mi>E</mi>
-    <msub>
-      <mi>S</mi>
-      <mi>i</mi>
-    </msub>
-    <mo>=</mo>
-    <mrow>
-      <munderover>
-        <mo>&#x2211;</mo>
-        <mrow>
-          <mi>j</mi>
-          <mo>=</mo>
-          <mn>1</mn>
-        </mrow>
-        <mrow>
-          <msub>
-            <mi>N</mi>
-            <mi>i</mi>
-          </msub>
-        </mrow>
-      </munderover>
-    </mrow>
-    <msub>
-      <mi>l</mi>
-      <mi>j</mi>
-    </msub>
-    <mfrac>
-      <mrow>
-        <mn>1</mn>
-      </mrow>
-      <mrow>
-        <msup>
-          <mn>2</mn>
-          <mrow>
-            <mi>j</mi>
-            <mo>-</mo>
-            <mn>1</mn>
-          </mrow>
-        </msup>
-      </mrow>
-    </mfrac>
-  </mstyle>
-</math>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><msub><mi>S</mi><mi>i</mi></msub><mo>=</mo><munderover><mo>∑</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><msub><mi>N</mi><mi>i</mi></msub></munderover><msub><mi>l</mi><mi>j</mi></msub><mfrac><mn>1</mn><msup><mn>2</mn><mrow><mi>j</mi><mo>-</mo><mn>1</mn></mrow></msup></mfrac></mrow><annotation encoding="TeX">ES_i = \sum_{j=1}^{N_i} l_j \frac{1}{2^{j-1}}</annotation></semantics></math>
 
 where N<sub>i</sub> are the number of nodes between tip i and the root, l<sub>j</sub> is the length of edge j where j=1 is the edge leading to tip i. Intuitively, it is the weighted mean of the inverse of branch lengths. DR approximates the speciation rate of a phylogeny diversifying under a Yule (pure-birth) process; for a full proof see section 1.2.2 of the supplement of Jetz et al. (2012). DR's approximation of the true speciation rate is a useful property and can be used to cross-check speciation rate estimates obtained through BAMM.
 
