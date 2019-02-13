@@ -30,6 +30,10 @@ include:
 jekyll_tidy:
     ignore_env: development
 
+favicon:
+    source: favicon.png
+    path: "/assets/"
+
 assets:
     defaults:
         js: { integrity: false }
