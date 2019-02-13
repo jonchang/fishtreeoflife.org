@@ -9,17 +9,18 @@ layout: page
 
     <p>Sampling: {{ df.sampled_species | size }} species out of {{ df.species | size }}</p>
 
-    <p><a id="show-species-list" href="#">Show species list</a></p>
-
-    <ul id="species-list">
-        {% for spp in df.species %}
-        {% if df.sampled_species contains spp %}
-        <li><strong><em>{{ spp }}</em></strong></li>
-        {% else %}
-        <li><em>{{ spp }}</em></li>
-        {% endif %}
-        {% endfor %}
-    </ul>
+    <details>
+        <summary>Species list</summary>
+        <ul id="species-list">
+            {% for spp in df.species %}
+            {% if df.sampled_species contains spp %}
+            <li><strong><em>{{ spp }}</em></strong></li>
+            {% else %}
+            <li><em>{{ spp }}</em></li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </details>
 </section>
 
 <section id="fossils">
@@ -113,6 +114,3 @@ layout: page
 </section>
 
 {{ content }}
-
-{% asset showhide.js %}
-<script>makeShowHide("show-species-list", "species-list");</script>
