@@ -1,0 +1,17 @@
+---
+layout: none
+---
+{
+{%- for rank in site.data.ranks -%}
+"{{ rank }}":
+[
+    {%- for item in site.data.taxonomy[rank] -%}
+    "{{ item[0] }}"
+     {%- unless forloop.last -%},
+     {%- endunless -%}
+    {%- endfor -%}
+]
+{%- unless forloop.last -%},
+{%- endunless -%}
+{%- endfor -%}
+}

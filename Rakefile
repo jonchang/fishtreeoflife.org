@@ -4,7 +4,7 @@ require "json"
 
 task default: :jekyll
 
-RANKS = %w[family order]
+RANKS = %w[class subclass infraclass megacohort supercohort cohort subcohort infracohort section subsection division subdivision series superorder order suborder infraorder family]
 
 def make_taxonomy_api(rank)
     outfn = "_data/taxonomy/#{rank}.json"
@@ -12,7 +12,7 @@ def make_taxonomy_api(rank)
     json = JSON.parse(file)
     jspath = "api/taxonomy/#{rank}"
     FileUtils.mkdir_p jspath
-    FileUtils.cp outfn, "api/"
+    FileUtils.cp outfn, "api/taxonomy"
     json.each do |key, value|
         File.open("#{jspath}/#{key}.json", "w") { |f| f.write(JSON.pretty_generate(value)) }
     end
@@ -49,7 +49,7 @@ file '_order' => '_data/taxonomy/order.json' do
 end
 
 task :taxonomy_api => (RANKS.map {|r| "api/taxonomy/#{r}"})
-task :taxonomy_md => (RANKS.map {|r| "_#{r}"})
+task :taxonomy_md => (%w[family order].map {|r| "_#{r}"})
 task :taxonomy => [:taxonomy_api, :taxonomy_md]
 
 task :deps => [:taxonomy]
@@ -66,4 +66,4 @@ task serve2: :deps do
     sh "bundle", "exec", "jekyll", "serve"
 end
 
-CLEAN.include FileList["_site", '_data/taxonomy/', '_data/monophyly', '_family', '_order', 'downloads/taxonomy', 'api']
+CLEAN.include FileList["_site", '_data/taxonomy/', '_data/monophyly', '_family', '_order', 'downloads/taxonomy', 'api/taxonomy']
