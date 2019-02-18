@@ -1,7 +1,7 @@
 ---
-title: Downloads by family
+title: Downloads by taxonomic rank
 layout: page
-description: Download sequence and phylogenetic data on a per-family basis for the Fish Tree of Life
+description: Download sequence and phylogenetic data on a rank basis for the Fish Tree of Life
 ---
 
 {% assign families = site.data.family %}
