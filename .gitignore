@@ -5,8 +5,26 @@ _site
 .jekyll-cache/
 
 api/taxonomy
+
+_class
+_cohort
+_division
+_infraclass
+_infracohort
+_infraorder
+_megacohort
+_section
+_series
+_subclass
+_subcohort
+_subdivision
+_suborder
+_subsection
+_supercohort
+_superorder
 _family
 _order
+
 _fossils
 _data/fossil_data.csv
 _data/fossil_pretty.csv

@@ -51,6 +51,54 @@ assets:
                         allow_lossy: true
 
 collections:
+    class:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    cohort:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    division:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    infraclass:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    infracohort:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    infraorder:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    megacohort:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    section:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    series:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    subclass:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    subcohort:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    subdivision:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    suborder:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    subsection:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    supercohort:
+        output: true
+        permalink: /taxonomy/:collection/:title/
+    superorder:
+        output: true
+        permalink: /taxonomy/:collection/:title/
     family:
         output: true
         permalink: /taxonomy/:collection/:title/
@@ -95,13 +143,97 @@ defaults:
           image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
     - scope:
           path: ""
-          type: family
+          type: class
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: cohort
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: division
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: infraclass
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: infracohort
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: megacohort
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: section
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: series
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: subclass
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: subcohort
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: subdivision
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: suborder
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: supercohort
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: superorder
       values:
           layout: rank
           image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
     - scope:
           path: ""
           type: order
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: family
       values:
           layout: rank
           image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png

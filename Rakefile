@@ -40,16 +40,14 @@ rule ( %r{api/taxonomy/.+} ) => [
     make_taxonomy_api(File.basename(t.name))
 end
 
-file '_family' => '_data/taxonomy/family.json' do
-    make_taxonomy_md 'family'
-end
-
-file '_order' => '_data/taxonomy/order.json' do
-    make_taxonomy_md 'order'
+rule ( %r{_(#{RANKS.join("|")})} ) => [
+    proc {|task_name| task_name.sub("_", "_data/taxonomy/").concat(".json") }
+] do |t|
+    make_taxonomy_md(t.name.sub("_", ""))
 end
 
 task :taxonomy_api => (RANKS.map {|r| "api/taxonomy/#{r}"})
-task :taxonomy_md => (%w[family order].map {|r| "_#{r}"})
+task :taxonomy_md => (RANKS.map {|r| "_#{r}"})
 task :taxonomy => [:taxonomy_api, :taxonomy_md]
 
 task :deps => [:taxonomy]
