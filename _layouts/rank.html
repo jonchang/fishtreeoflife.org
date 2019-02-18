@@ -56,16 +56,12 @@ layout: page
     <dt>{{ rank | capitalize }}</dt>
 
     {% for name in df.taxonomy[rank] %}
-    {% case rank %}
-    {% when "family" %}
-    {% assign nn = site.family | where: "title", name | first %}
-    <dd><a href="{{ nn.url | relative_url }}">{{ name }}</a></dd>
-    {% when "order" %}
-    {% assign nn = site.order | where: "title", name | first %}
-    <dd><a href="{{ nn.url | relative_url }}">{{ name }}</a></dd>
+    {% assign nn = site[rank] | where: "title", name | first %}
+    {% if nn == name %}
+    <dd><strong>{{ name }}</strong></dd>
     {% else %}
-    <dd>{{ name }}</dd>
-    {% endcase %}
+    <dd><a href="{{ nn.url | relative_url }}">{{ name }}</a></dd>
+    {% endif %}
     {% endfor %}
 
     {% endif %}
