@@ -50,20 +50,27 @@ layout: page
 
 <section id="taxonomy">
     <h2>Taxonomy</h2>
-    {% case page.collection %}
-    {% when "order" %}
-    <p>Families:</p>
-    <ul>
-        {% for family in df.family %}
-        {% assign fp = site.family | where: "title", family | first %}
-        <li><a href="{{ fp.url | relative_url }}">{{ family }}</a></li>
-        {% endfor %}
-    </ul>
+    <dl>
+    {% for rank in site.data.ranks %}
+    {% if df.taxonomy[rank].size > 0 %}
+    <dt>{{ rank | capitalize }}</dt>
+
+    {% for name in df.taxonomy[rank] %}
+    {% case rank %}
     {% when "family" %}
-        {% assign order = df.order[0] %}
-        {% assign op = site.order | where: "title", order | first %}
-    <p>Order: <a href="{{ op.url | relative_url }}">{{ order }}</a></p>
+    {% assign nn = site.family | where: "title", name | first %}
+    <dd><a href="{{ nn.url | relative_url }}">{{ name }}</a></dd>
+    {% when "order" %}
+    {% assign nn = site.order | where: "title", name | first %}
+    <dd><a href="{{ nn.url | relative_url }}">{{ name }}</a></dd>
+    {% else %}
+    <dd>{{ name }}</dd>
     {% endcase %}
+    {% endfor %}
+
+    {% endif %}
+    {% endfor %}
+    </dl>
 </section>
 
 <section id="downloads">
