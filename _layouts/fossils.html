@@ -55,19 +55,15 @@ layout: default
     <dt>Taxa this fossil might apply to:</dt>
     {% assign left = fossil.left | replace: "_", " " %}
     {% assign right = fossil.right | replace: "_", " " %}
-    {% for family_hash in site.data.taxonomy.family %}
-    {% assign family = family_hash[1] %}
-    {% if family.species contains left and family.species contains right %}
-    {% assign fp = site.family | where: "title", family.family[0] | first %}
-    <dd>Family: <a href="{{ fp.url | relative_url }}">{{ fp.title }}</a></dd>
+
+    {% for rank in site.data.ranks %}
+    {% for rank_hash in site.data.taxonomy[rank] %}
+    {% assign rank_name = rank_hash[1] %}
+    {% if rank_name.species contains left and rank_name.species contains right %}
+    {% assign nn = site[rank] | where: "title", rank_name.taxonomy[rank][0] | first %}
+    <dd>{{ rank | capitalize }}: <a href="{{ nn.url | relative_url }}">{{ nn.title }}</a></dd>
     {% endif %}
     {% endfor %}
-    {% for order_hash in site.data.taxonomy.order %}
-    {% assign order = order_hash[1] %}
-    {% if order.species contains left and order.species contains right %}
-    {% assign fp = site.order | where: "title", order.order[0] | first %}
-    <dd>Order: <a href="{{ fp.url | relative_url }}">{{ fp.title }}</a></dd>
-    {% endif %}
     {% endfor %}
 </dl>
 
