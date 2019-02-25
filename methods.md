@@ -561,9 +561,6 @@ We then generated individual family-level phylogenies by extracting the subtree 
 
 We then removed tips that had extremely long branches, as these potentially indicated areas of poor sequence quality or alignment. Using the final filtered dataset, which contained 11,644 tips, we reran a maximum likelihood analysis in RAxML and computed node support values using the SH-like statistic, as it is conservative at estimating support values like standard bootstrapping but runs much faster.
 
-
-
-
 # Fossil calibrations
 
 We devised an extensive list of fossil-based minima for divergences in actinopterygian phylogeny. Many of these derived from past molecular clock analyses, but others are new to this study. Extinct taxa, along with relevant phylogenetic and age justifications, are supplied in Supplemental Data: Calibration Report. We applied these fossils as node-based calibrations, with upper age bound specified by a modified implementation of the Whole Tree Extension of the Hedman Algorithm [WHETA; @Hedman2010; @Lloyd2016]. This approach yields probabilistic maximum age constraints on given nodes based on: a minimum age specified by the oldest fossil descended from that node; the stratigraphically consistent sequence of older fossil outgroups to that node; and a hard maximum age defined by the investigator. We adopted a composite approach to specifying these sequences of outgroups [c.f. @Harrington2016], applying both stratigraphically consistent calibrations included in our own set of fossil-based minima as well as sequences of fossils whose phylogenetic positions were well known, but which were not used as calibration minima themselves. Sequences based on the former were collated automatically by a custom algorithm. Where appropriate, this set of outgroups was appended with additional fossil outgroup ages.
@@ -600,3 +597,29 @@ The DR statistic, for "diversification rate", is a summary statistic that infers
 where N<sub>i</sub> are the number of nodes between tip i and the root, l<sub>j</sub> is the length of edge j where j=1 is the edge leading to tip i. Intuitively, it is the weighted mean of the inverse of branch lengths. DR approximates the speciation rate of a phylogeny diversifying under a Yule (pure-birth) process; for a full proof see section 1.2.2 of the supplement of Jetz et al. (2012). DR's approximation of the true speciation rate is a useful property and can be used to cross-check speciation rate estimates obtained through BAMM.
 
 As a third independent estimate of speciation rate, we use the interval-rates method, or node-density measure. This is an estimate of the speciation rate over a certain period of time. It is the number of nodes that exist on a phylogeny over a certain interval, divided by the amount of time that interval spans, and is an extremely simple way to compute a speciation rate.
+
+
+# References
+
+* [@Arratia2000](https://doi.org/10.1002/mmng.20000030108)
+* [@Eschmeyer2017](http://www.calacademy.org/scientists/projects/catalog-of-fishes)
+* [@Friedman2012](https://doi.org/10.1111/j.1475-4983.2012.01165.x)
+* [@Friedman2013](https://doi.org/10.1098/rspb.2013.1733)
+* [@Friedman2015](https://doi.org/10.1111/pala.12150)
+* [@Froese2014](http://fishbase.org)
+* [@Grande1991](https://doi.org/10.1080/02724634.1991.10011424)
+* [@Grande1996](https://doi.org/10.1016/B978-012670950-6/50006-0)
+* [@Harrington2016](https://doi.org/10.1186/s12862-016-0786-x)
+* [@Hedman2010](https://doi.org/10.1666/0094-8373-36.1.16)
+* [@Hilton2009](https://doi.org/10.1017/S1477201909002740)
+* [@Hurley2007](https://doi.org/10.1098/rspb.2006.3749)
+* [@Lloyd2016](https://doi.org/10.1111/bij.12746)
+* [@Near2012](https://doi.org/10.1073/pnas.1206625109)
+* [@Sallan2010](https://doi.org/10.1073/pnas.0914000107)
+* [@Sallan2012](https://doi.org/10.1098/rspb.2011.2454)
+* [@Sallan2014](https://doi.org/10.1111/brv.12086)
+* [@Sanderson1996](https://doi.org/10.1093/sysbio/45.2.168)
+* [@Stadler2009](https://doi.org/10.1016/j.jtbi.2009.07.018)
+* [@Stadler2011a](https://doi.org/10.1073/pnas.1016876108)
+* [@Stadler2011b](https://doi.org/10.1093/sysbio/syr029)
+* [@Xu2014](https://doi.org/10.1080/02724634.2014.837053)
