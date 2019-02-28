@@ -43,11 +43,6 @@ Other critical contributors include:
 
 ## Future updates
 
-We are hard at work updating the website with several new features. We are currently working on:
-
-* Accessing data from this website via an R package
-* Moving to a rank-free system based on the PFC classification
-
 We are also interested in fixing any phylogenetic and taxonomic errors in a future revision of the Fish Tree of Life, especially rogue taxa that break the monophyly of well-studied lineages. Known issues include:
 
 * Total group *Hippocampus* age should be 11 Ma
@@ -55,4 +50,4 @@ We are also interested in fixing any phylogenetic and taxonomic errors in a futu
 * *Chlorurus gibbus* has rogue behavior
 * *Takifugu fasciatus* is actually *T. obscurus*
 
-[Please fill out this survey](https://docs.google.com/forms/d/e/1FAIpQLSeyE_NT5WiQA3Er62ZJzIHrRnOP0ASzPYrh294Nr5pOm4kTDg/viewform?usp=sf_link) so we can collate all fixes for a future revision.
+If you identify any issues, [please fill out this survey](https://docs.google.com/forms/d/e/1FAIpQLSeyE_NT5WiQA3Er62ZJzIHrRnOP0ASzPYrh294Nr5pOm4kTDg/viewform?usp=sf_link) so we can collate all fixes for a future revision. Thanks!
