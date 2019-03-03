@@ -559,7 +559,7 @@ Table: Gene sequences excluded due to rogue behavior or high identity BLAST matc
 
 We then generated individual family-level phylogenies by extracting the subtree descended from the most recent common ancestor of all species in each family, and automatically marked descendent taxa that were from outside the focal family. We then assessed the quality of the phylogeny on a family-by-family basis, and marked any taxa that exhibited rogue behavior.
 
-We then removed tips that had extremely long branches, as these potentially indicated areas of poor sequence quality or alignment. Using the final filtered dataset, which contained 11,644 tips, we reran a maximum likelihood analysis in RAxML and computed node support values using the SH-like statistic, as it is conservative at estimating support values like standard bootstrapping but runs much faster.
+We then removed tips that had extremely long branches, as these potentially indicated areas of poor sequence quality or alignment. Using the final filtered dataset, which contained 11,644 tips, we reran a maximum likelihood analysis in RAxML and computed node support values using the SH-like statistic, as it is conservative at estimating support values like standard bootstrapping but runs much faster. The NNI-optimized topology with SH-like support values can be [downloaded here]({% link downloads/actinopt_12k_support.tre.xz%}).
 
 # Fossil calibrations
 
