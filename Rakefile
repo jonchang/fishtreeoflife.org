@@ -28,7 +28,7 @@ def make_taxonomy_md(rank)
         File.open("#{mdpath}/#{key}.md", "w") do |f|
             f.write("---\n")
             f.write("title: '#{key}'\n")
-            f.write("description: 'Taxonomic information based on the Phylogenetic Fish Classification for #{key}, the #{rank} of ray-finned fishes, including species checklists, fossil calibrations, time-calibrated phylogenies, DNA sequences and more.'\n")
+            f.write("description: 'Taxonomy and phylogeny of #{key}, a #{rank} of ray-finned fishes. Based on the Phylogenetic Fish Classification. Also includes species checklists, fossil calibrations, DNA sequences.'\n")
             f.write("---\n")
         end
     end

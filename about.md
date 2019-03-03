@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: About Fish Tree of Life website, citation and contact information
+description: Citing the ray-finned fish phylogeny, information about the Fish Tree of Life
 ---
 
 ## Citing

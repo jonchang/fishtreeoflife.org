@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Methods
-description: How the Fish Tree of Life was built
+description: How to build a comprehensive ray-finned fish phylogeny (Actinopterygii)
 ---
 
 * TOC

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Taxonomy
-description: The new Phylogenetic Fish Classification based on the Fish Tree of Life, with species checklists, phylogenies, DNA sequences and fossil calibrations
+description: Taxonomy of ray-finned fishes (Actinopterygii) based on a comprehensive fish phylogeny, the Phylogenetic Fish Classification
 ---
 
 <style>
