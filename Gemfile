@@ -5,7 +5,7 @@ gem "rake"
 group :jekyll_plugins do
   gem "jekyll-assets"
   gem "jekyll-compose"
-  gem "jekyll-favicon", :git => "https://github.com/jonchang/jekyll-favicon.git"
+  gem "jekyll-favicon"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jekyll-tidy"

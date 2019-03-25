@@ -1,11 +1,3 @@
-GIT
-  remote: https://github.com/jonchang/jekyll-favicon.git
-  revision: 5c58eac27de3becf2e2bcb2950876049fe3f6982
-  specs:
-    jekyll-favicon (0.2.5)
-      jekyll (~> 3.0)
-      mini_magick (~> 4.5)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -84,6 +76,9 @@ GEM
       sprockets (>= 3.3, < 4.1.beta)
     jekyll-compose (0.10.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-favicon (0.2.6)
+      jekyll (~> 3.0)
+      mini_magick (~> 4.5)
     jekyll-sanity (1.2.0)
       jekyll (~> 3.1)
     jekyll-sass-converter (1.5.2)
@@ -96,7 +91,7 @@ GEM
       htmlbeautifier
       htmlcompressor
       jekyll
-    jekyll-watch (2.2.0)
+    jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (1.17.0)
     liquid (4.0.3)
@@ -153,7 +148,7 @@ DEPENDENCIES
   jekyll (= 3.8.5)
   jekyll-assets
   jekyll-compose
-  jekyll-favicon!
+  jekyll-favicon
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-tidy
