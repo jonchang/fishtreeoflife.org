@@ -82,7 +82,7 @@ GEM
       nokogiri (~> 1.8)
       pathutil (~> 0.16)
       sprockets (>= 3.3, < 4.1.beta)
-    jekyll-compose (0.10.0)
+    jekyll-compose (0.10.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-sanity (1.2.0)
       jekyll (~> 3.1)
@@ -96,7 +96,7 @@ GEM
       htmlbeautifier
       htmlcompressor
       jekyll
-    jekyll-watch (2.2.0)
+    jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (1.17.0)
     liquid (4.0.3)
