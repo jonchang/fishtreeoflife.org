@@ -17,6 +17,7 @@ We also offer an R package that provides programmatic access to the data product
 
 <p markdown="0">
 Jonathan Chang, Daniel L. Rabosky, Stephen A. Smith, Michael E. Alfaro (2019). An R package and online resource for macroevolutionary studies using the ray‐finned fish tree of life. <em>Methods in Ecology and Evolution</em>. doi:<a href="https://doi.org/10.1111/2041-210X.13182">10.1111/2041-210x.13182</a>
+</p>
 
 
 <!--
