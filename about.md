@@ -56,5 +56,64 @@ We are also interested in fixing any phylogenetic and taxonomic errors in a futu
 * Relationships within Cichlidae are not quite correct
 * *Chlorurus gibbus* has rogue behavior
 * *Takifugu fasciatus* is actually *T. obscurus*
+* Adding tip rate information for the following species:
+    <details>
+    <summary>Species list</summary>
+    <ul>
+    <li>Acheilognathus tabira erythropterus</li>
+    <li>Acheilognathus tabira jordani</li>
+    <li>Acheilognathus tabira nakamurae</li>
+    <li>Acheilognathus tabira tohokuensis</li>
+    <li>Anguilla australis schmidtii</li>
+    <li>Anguilla bicolor pacifica</li>
+    <li>Aphanius dispar richardsoni</li>
+    <li>Aphredoderus gib</li>
+    <li>Arctogadus borisovi</li>
+    <li>Astronotus sp</li>
+    <li>Astyanax hubbsi</li>
+    <li>Astyanax sp</li>
+    <li>Cheilopogon antoncichi</li>
+    <li>Chirocentrus sp</li>
+    <li>Cobitis sp</li>
+    <li>Cyprinodon variegatus ovinus</li>
+    <li>Elacatinus digueti</li>
+    <li>Enigmapercis sp</li>
+    <li>Esox americanus vermiculatus</li>
+    <li>Etheostoma binotatum</li>
+    <li>Etheostoma mediae</li>
+    <li>Forbesichthys papilliferus</li>
+    <li>Glyptothorax longinema</li>
+    <li>Gobionotothen acuticeps</li>
+    <li>Gymnotus sp</li>
+    <li>Hemichromis sp</li>
+    <li>Hypostomus panamensis</li>
+    <li>Mastacembelus signatus</li>
+    <li>Mastacembelus stappersii</li>
+    <li>Melanotaenia splendida inornata</li>
+    <li>Melanotaenia splendida tatei</li>
+    <li>Mugil gyrans</li>
+    <li>Mugil soiuy</li>
+    <li>Paraneetroplus melanurus</li>
+    <li>Percina cf</li>
+    <li>Phoxinus lumaireul</li>
+    <li>Plecoglossus altivelis ryukyuensis</li>
+    <li>Pseudocrenilabrus sp</li>
+    <li>Pseudophoxinus chaignoni</li>
+    <li>Rhamdia cabrerae</li>
+    <li>Rutilus ohridanus</li>
+    <li>Rutilus prespensis</li>
+    <li>Salvelinus leucomaenis imbrius</li>
+    <li>Salvelinus leucomaenis pluvius</li>
+    <li>Sarcocheilichthys nigripinnis morii</li>
+    <li>Sarcocheilichthys sinensis fukiensis</li>
+    <li>Schizothorax yunnanensis paoshanensis</li>
+    <li>Schizothorax yunnanensis weiningensis</li>
+    <li>Scleromystax kronei</li>
+    <li>Simochromis pleurospilus</li>
+    <li>Takifugu fasciatus</li>
+    </ul>
+    </details>
+
+
 
 If you identify any issues, [please fill out this survey](https://docs.google.com/forms/d/e/1FAIpQLSeyE_NT5WiQA3Er62ZJzIHrRnOP0ASzPYrh294Nr5pOm4kTDg/viewform?usp=sf_link) so we can collate all fixes for a future revision. Thanks!
