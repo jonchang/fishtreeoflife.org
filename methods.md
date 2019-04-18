@@ -4,9 +4,6 @@ title: Methods
 description: How to build a comprehensive ray-finned fish phylogeny (Actinopterygii)
 ---
 
-* TOC
-{:toc}
-
 # Sequence matrix construction
 
 PHLAWD uses a baited approach where sequences for a clade of interest are compared to NCBI GenBank sequences and used to download homologous gene regions. We acquired bait sequences for 24 genes from several sources: the "ETOL" set, from the Euteleost Tree of Life project, the "Rabosky" set, and the "Near" set.

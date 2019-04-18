@@ -7,9 +7,6 @@ description: |
   These updates strengthen support of our original findings based on the DR speciation rate statistic.
 ---
 
-* toc
-{:toc}
-
 ## Highlights
 
 * We updated the set of all-taxon assembled (ATA) phylogenies by improving monophyly constraints

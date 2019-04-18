@@ -10,9 +10,6 @@ description: Taxonomy of ray-finned fishes (Actinopterygii) based on a comprehen
 }
 </style>
 
-* TOC
-{:toc}
-
 ## Orders
 
 <!--
