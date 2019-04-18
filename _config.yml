@@ -20,6 +20,14 @@ twitter:
     username: chang_jon
     card: summary_large_image
 
+# Build settings
+markdown: CommonMarkGhPages
+
+# markdown processor
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table"]
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:

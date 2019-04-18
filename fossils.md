@@ -48,9 +48,6 @@ only screen and (                min-resolution: 2.25dppx) {
 
 Click on a red circle to go to that fossil calibration.
 
-* TOC
-{:toc}
-
 {% assign tree = assets["vertical_tree@3x.png"] %}
 
 <div class="svg-container">

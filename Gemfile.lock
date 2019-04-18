@@ -1,9 +1,43 @@
 GIT
+  remote: https://github.com/envygeeks/jekyll-assets.git
+  revision: eaa0d9a51c778a95348a9d42e8379a766d556eec
+  ref: eaa0d9a51c778a95348a9d42e8379a766d556eec
+  specs:
+    jekyll-assets (4.0.0.alpha)
+      activesupport (~> 5.0)
+      execjs (~> 2.7)
+      extras (~> 0.2)
+      fastimage (~> 2.0, >= 1.8)
+      jekyll (>= 3.5, < 5.0)
+      jekyll-sanity (~> 1.2)
+      liquid-tag-parser (~> 1.0)
+      nokogiri (~> 1.10)
+      pathutil (~> 0.16)
+      sassc (~> 1.11)
+      sprockets (~> 4.0.beta7)
+
+GIT
+  remote: https://github.com/envygeeks/jekyll-sanity.git
+  revision: 7096a6c3b236ffa3ad2a6a4233b0ff47a47d37aa
+  ref: 7096a6c3b236ffa3ad2a6a4233b0ff47a47d37aa
+  specs:
+    jekyll-sanity (1.2.1)
+      jekyll (>= 3.1, < 5.0)
+
+GIT
+  remote: https://github.com/jekyll/jekyll-seo-tag.git
+  revision: 8dfc4133ac06d360d4918a235aa591920a35669f
+  ref: 8dfc4133ac06d360d4918a235aa591920a35669f
+  specs:
+    jekyll-seo-tag (2.6.0)
+      jekyll (>= 3.3, < 5.0)
+
+GIT
   remote: https://github.com/jonchang/jekyll-favicon.git
-  revision: 5c58eac27de3becf2e2bcb2950876049fe3f6982
+  revision: c62a06ba08882cafd818eb4efc46f5e480ab6d74
   specs:
     jekyll-favicon (0.2.5)
-      jekyll (~> 3.0)
+      jekyll (>= 3.5, < 5.0)
       mini_magick (~> 4.5)
 
 GEM
@@ -18,6 +52,8 @@ GEM
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
     colorize (0.8.1)
+    commonmarker (0.17.13)
+      ruby-enum (~> 0.5)
     concurrent-ruby (1.1.5)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
@@ -30,7 +66,7 @@ GEM
     extras (0.3.0)
       forwardable-extended (~> 2.5)
     fastimage (2.1.5)
-    ffi (1.10.0)
+    ffi (1.9.25)
     forwardable-extended (2.6.0)
     fspath (3.1.0)
     html-proofer (3.10.2)
@@ -45,7 +81,7 @@ GEM
     htmlbeautifier (1.3.1)
     htmlcompressor (0.4.0)
     http_parser.rb (0.6.0)
-    i18n (0.9.5)
+    i18n (1.6.0)
       concurrent-ruby (~> 1.0)
     image_optim (0.26.3)
       exifr (~> 1.2, >= 1.2.2)
@@ -58,38 +94,31 @@ GEM
       image_optim (~> 0.19)
     image_size (2.0.0)
     in_threads (1.5.1)
-    jekyll (3.8.5)
+    jekyll (4.0.0.pre.alpha1)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
-      i18n (~> 0.7)
+      i18n (>= 0.9.5, < 2)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 2.0)
-      kramdown (~> 1.14)
+      kramdown (~> 2.1)
+      kramdown-parser-gfm (~> 1.0)
       liquid (~> 4.0)
       mercenary (~> 0.3.3)
       pathutil (~> 0.9)
-      rouge (>= 1.7, < 4)
+      rouge (~> 3.0)
       safe_yaml (~> 1.0)
-    jekyll-assets (3.0.12)
-      activesupport (~> 5.0)
-      execjs (~> 2.7)
-      extras (~> 0.2)
-      fastimage (~> 2.0, >= 1.8)
-      jekyll (>= 3.5, < 4.0)
-      jekyll-sanity (~> 1.2)
-      liquid-tag-parser (~> 1.0)
-      nokogiri (~> 1.8)
-      pathutil (~> 0.16)
-      sprockets (>= 3.3, < 4.1.beta)
+    jekyll-commonmark (1.3.1)
+      commonmarker (~> 0.14)
+      jekyll (>= 3.7, < 5.0)
+    jekyll-commonmark-ghpages (0.1.6)
+      commonmarker (~> 0.17.6)
+      jekyll-commonmark (~> 1.2)
+      rouge (>= 2.0, < 4.0)
     jekyll-compose (0.11.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-sanity (1.2.0)
-      jekyll (~> 3.1)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-seo-tag (2.6.0)
-      jekyll (~> 3.3)
     jekyll-sitemap (1.3.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-tidy (0.2.2)
@@ -98,8 +127,12 @@ GEM
       jekyll
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (1.17.0)
+    kramdown (2.1.0)
+    kramdown-parser-gfm (1.0.1)
+      kramdown (~> 2.0)
     liquid (4.0.3)
+    liquid-c (4.0.0)
+      liquid (>= 3.0.0)
     liquid-tag-parser (1.9.0)
       extras (~> 0.3)
       liquid (>= 3.0, < 5.0)
@@ -124,6 +157,8 @@ GEM
     rb-inotify (0.10.0)
       ffi (~> 1.0)
     rouge (3.3.0)
+    ruby-enum (0.7.2)
+      i18n
     ruby_dep (1.5.0)
     safe_yaml (1.0.5)
     sass (3.7.4)
@@ -131,7 +166,10 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    sprockets (3.7.2)
+    sassc (1.12.1)
+      ffi (~> 1.9.6)
+      sass (>= 3.3.0)
+    sprockets (4.0.0.beta8)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     thread_safe (0.3.6)
@@ -150,13 +188,16 @@ DEPENDENCIES
   html-proofer
   image_optim
   image_optim_pack
-  jekyll (= 3.8.5)
-  jekyll-assets
+  jekyll (= 4.0.0.pre.alpha1)
+  jekyll-assets!
+  jekyll-commonmark-ghpages
   jekyll-compose
   jekyll-favicon!
-  jekyll-seo-tag
+  jekyll-sanity!
+  jekyll-seo-tag!
   jekyll-sitemap
   jekyll-tidy
+  liquid-c
   mini_magick
   rake
   uglifier
