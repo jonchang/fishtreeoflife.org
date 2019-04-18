@@ -33,6 +33,7 @@ _data/monophyly
 downloads/taxonomy/
 downloads/*.xz
 downloads/fossil_data.csv
+downloads/taxonConversion.csv
 _assets/img/vertical_tree*.png
 
 # bundler
