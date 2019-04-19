@@ -1,5 +1,5 @@
 language: ruby
-dist: trusty
+dist: xenial
 rvm:
     - 2.6.2
 
