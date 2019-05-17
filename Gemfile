@@ -9,7 +9,7 @@ group :jekyll_plugins do
   gem "jekyll-compose"
   gem "jekyll-commonmark-ghpages"
   gem "jekyll-favicon", git: "https://github.com/jonchang/jekyll-favicon.git"
-  gem "jekyll-seo-tag", git: "https://github.com/jekyll/jekyll-seo-tag.git", ref: "8dfc4133ac06d360d4918a235aa591920a35669f" # remove when jekyll 4 comes out
+  gem "jekyll-seo-tag" # remove when jekyll 4 comes out
   gem "jekyll-sitemap"
   gem "jekyll-tidy"
   gem "mini_magick"

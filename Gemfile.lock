@@ -25,14 +25,6 @@ GIT
       jekyll (>= 3.1, < 5.0)
 
 GIT
-  remote: https://github.com/jekyll/jekyll-seo-tag.git
-  revision: 8dfc4133ac06d360d4918a235aa591920a35669f
-  ref: 8dfc4133ac06d360d4918a235aa591920a35669f
-  specs:
-    jekyll-seo-tag (2.6.0)
-      jekyll (>= 3.3, < 5.0)
-
-GIT
   remote: https://github.com/jonchang/jekyll-favicon.git
   revision: c62a06ba08882cafd818eb4efc46f5e480ab6d74
   specs:
@@ -119,6 +111,8 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-seo-tag (2.6.1)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sitemap (1.3.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-tidy (0.2.2)
@@ -194,7 +188,7 @@ DEPENDENCIES
   jekyll-compose
   jekyll-favicon!
   jekyll-sanity!
-  jekyll-seo-tag!
+  jekyll-seo-tag
   jekyll-sitemap
   jekyll-tidy
   liquid-c
