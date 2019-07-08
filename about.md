@@ -56,6 +56,7 @@ We are also interested in fixing any phylogenetic and taxonomic errors in a futu
 * Relationships within Cichlidae are not quite correct
 * *Chlorurus gibbus* has rogue behavior
 * *Takifugu fasciatus* is actually *T. obscurus*
+* Sister relationship of *Salvelinus*
 * Adding tip rate information for the following species:
     <details>
     <summary>Species list</summary>
