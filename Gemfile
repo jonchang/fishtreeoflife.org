@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "jekyll", "4.0.0.pre.alpha1"
+gem "jekyll", "4.0.0.pre.beta1"
 gem "rake"
 gem "liquid-c"
 
