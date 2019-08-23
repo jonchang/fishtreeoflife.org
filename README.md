@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/jonchang/fishtreeoflife.org.svg?token=CAAYReeKsDcnZM7jk2wY&branch=master)](https://travis-ci.com/jonchang/fishtreeoflife.org)
+![](https://github.com/jonchang/fishtreeoflife.org/workflows/Jekyll%20site%20CI/badge.svg)
 
 ```
 git clone https://github.com/jonchang/fishtreeoflife.org.git
