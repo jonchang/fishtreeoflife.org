@@ -5,6 +5,7 @@ _site
 .jekyll-cache/
 
 api/taxonomy
+fishtree
 
 _class
 _cohort
