@@ -13,8 +13,12 @@ jobs:
       run: scripts/docker.sh
     - name: Build fishtree R package documentation
       run: scripts/fishtree_docs.sh
-    - name: Build the site in the jekyll/builder container
-      run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod a+rwx /srv/jekyll && bundle update --bundler && bundle install && rake && scripts/test.sh"
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.6'
+    - name: Update bundled packages
+      run: gem install bundler && bundle update --bundler && bundle install
+    - name: Build site
+      run: rake
+    - name: Test site
+      run: scripts/test.sh
