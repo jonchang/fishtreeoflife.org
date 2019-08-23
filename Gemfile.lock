@@ -26,9 +26,10 @@ GIT
 
 GIT
   remote: https://github.com/jonchang/jekyll-favicon.git
-  revision: c62a06ba08882cafd818eb4efc46f5e480ab6d74
+  revision: 70ba5c431a80648b1170d8d282a86f4b1bf38118
+  ref: 70ba5c431a80648b1170d8d282a86f4b1bf38118
   specs:
-    jekyll-favicon (0.2.5)
+    jekyll-favicon (0.2.7)
       jekyll (>= 3.5, < 5.0)
       mini_magick (~> 4.5)
 
@@ -150,7 +151,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    rouge (3.7.0)
+    rouge (3.9.0)
     ruby-enum (0.7.2)
       i18n
     ruby_dep (1.5.0)
