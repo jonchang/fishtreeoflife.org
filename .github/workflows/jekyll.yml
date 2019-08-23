@@ -14,10 +14,7 @@ jobs:
     - name: Build fishtree R package documentation
       run: scripts/fishtree_docs.sh
     - name: Build the site in the jekyll/builder container
-      container:
-        image: jekyll/builder:latest
-        volumes:
-        - ${{ github.workspace }}:/srv/jekyll
-        - ${{ github.workspace }}/_site:/srv/jekyll/_site
       run: |
-        /bin/bash -c "chmod 777 srv/jekyll && bundle update --bundler && bundle install && rake && scripts/test.sh"
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod 777 srv/jekyll && bundle update --bundler && bundle install && rake && scripts/test.sh"
