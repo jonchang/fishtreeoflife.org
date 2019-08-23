@@ -50,11 +50,7 @@ task :taxonomy_api => (RANKS.map {|r| "api/taxonomy/#{r}"})
 task :taxonomy_md => (RANKS.map {|r| "_#{r}"})
 task :taxonomy => [:taxonomy_api, :taxonomy_md]
 
-task :fishtree do
-  sh "scripts/fishtree_docs.sh"
-end
-
-task :deps => [:taxonomy, :fishtree]
+task :deps => [:taxonomy]
 
 task jekyll: :deps do
     sh "bundle", "exec", "jekyll", "build"
@@ -68,4 +64,4 @@ task serve2: :deps do
     sh "bundle", "exec", "jekyll", "serve"
 end
 
-CLEAN.include FileList["_site", '_data/taxonomy/', '_data/monophyly', '_family', '_order', 'downloads/taxonomy', 'api/taxonomy', 'fishtree']
+CLEAN.include FileList["_site", '_data/taxonomy/', '_data/monophyly', '_family', '_order', 'downloads/taxonomy', 'api/taxonomy']
