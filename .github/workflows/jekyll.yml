@@ -26,3 +26,10 @@ jobs:
       run: rake
     - name: Test site
       run: scripts/test.sh
+    - name: Deploy to Github pages
+      uses: peaceiris/actions-gh-pages@v1.1.0
+      if: success()
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: ./_site
