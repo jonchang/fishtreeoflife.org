@@ -2,7 +2,7 @@
 
 set -eux
 
-docker pull jonchang/fishtreeoflife-docker
+docker pull docker.pkg.github.com/jonchang/fishtreeoflife-docker/data:latest
 docker run --name temp jonchang/fishtreeoflife-docker /bin/true
 docker cp temp:_assets _assets_tmp
 docker cp temp:_fossils _fossils
