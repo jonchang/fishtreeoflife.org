@@ -1,7 +1,7 @@
 language: ruby
-dist: xenial
+dist: bionic
 rvm:
-    - 2.6.2
+    - 2.6.3
 
 services:
     - docker
