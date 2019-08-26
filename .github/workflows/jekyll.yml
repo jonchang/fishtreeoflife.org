@@ -24,6 +24,8 @@ jobs:
       run: gem install bundler && bundle update --bundler && bundle install
     - name: Build site
       run: rake
+      env:
+          JEKYLL_ENV: production
     - name: Test site
       run: scripts/test.sh
     - name: Deploy to Github pages
