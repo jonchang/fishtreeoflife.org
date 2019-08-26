@@ -35,6 +35,7 @@ minima:
 
 include:
     - _pages
+    - .nojekyll
 
 jekyll_tidy:
     ignore_env: development
