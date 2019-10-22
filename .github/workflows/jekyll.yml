@@ -29,7 +29,7 @@ jobs:
     - name: Test site
       run: scripts/test.sh
     - name: Deploy to Github pages
-      uses: peaceiris/actions-gh-pages@v1.1.0
+      uses: peaceiris/actions-gh-pages@v2.5.0
       if: success()
       env:
         GITHUB_TOKEN: ${{ secrets.PACKAGE_ACCESS_TOKEN }}
