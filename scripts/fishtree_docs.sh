@@ -1,6 +1,6 @@
 #!/bin/bash
 
-docker run -i -v ${PWD}/fishtree:/fishtree rocker/tidyverse:latest R --slave << COMMANDS
+docker run -i -v "$PWD"/fishtree:/fishtree rocker/tidyverse:latest R --slave << COMMANDS
 install.packages(c("fishtree"), Ncpus = 4)
 requireNamespace("pkgdown")
 td <- tempdir()
