@@ -4,9 +4,7 @@ on: [push]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v1
     - name: Login to Github Docker
@@ -35,3 +33,10 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.PACKAGE_ACCESS_TOKEN }}
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: ./_site
+
+  shellcheck:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: shellcheck
+      run: shellcheck ./scripts/*
