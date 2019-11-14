@@ -14,7 +14,7 @@ Daniel L. Rabosky*, Jonathan Chang*, Pascal O. Title*, Peter F. Cowman, Lauren S
 
 Please cite this publication if you use any phylogenetic products derived from this website, including taxonomic resources and fossil calibration constraints. We have also [released a set of enhanced ATA trees]({% link downloads/index.md %}); the details on how these ATA distributions differ are detailed in [Rabosky et al. 2018 update]({% link rabosky-et-al-2018-update.md %}). [The original set of ATA phylogenies are available via Dryad](https://doi.org/10.5061/dryad.fc71cp4).
 
-We also offer an R package that provides programmatic access to the data products on this website, [`fishtree`](https://cran.r-project.org/package=fishtree), and can browse [web documentation for `fishtree` here]({% link fishtree/index.html %}). If you use the R package, the citation for the R package and web API is:
+We also offer an R package that provides programmatic access to the data products on this website, [`fishtree`](https://cran.r-project.org/package=fishtree), and can browse [web documentation for `fishtree` here]({% link fishtree/index.html %}). If you use the R package or web API, please additionally cite:
 
 <p markdown="0">
 Jonathan Chang, Daniel L. Rabosky, Stephen A. Smith, Michael E. Alfaro (2019). An R package and online resource for macroevolutionary studies using the ray‐finned fish tree of life. <em>Methods in Ecology and Evolution</em>, 10: 1118&ndash;1124 doi:<a href="https://doi.org/10.1111/2041-210X.13182">10.1111/2041-210x.13182</a>
@@ -119,3 +119,7 @@ We are also interested in fixing any phylogenetic and taxonomic errors in a futu
 
 
 If you identify any issues, [please fill out this survey](https://docs.google.com/forms/d/e/1FAIpQLSeyE_NT5WiQA3Er62ZJzIHrRnOP0ASzPYrh294Nr5pOm4kTDg/viewform?usp=sf_link) so we can collate all fixes for a future revision. Thanks!
+
+## Sponsorship
+
+This website's maintenance is not currently not supported by any grant or organization.
