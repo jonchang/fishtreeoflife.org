@@ -4,7 +4,7 @@ title: About
 description: Citing the ray-finned fish phylogeny, information about the Fish Tree of Life
 ---
 
-## Citing
+# Citing
 
 If you use any phylogenetic products derived from this website, including taxonomic resources and fossil calibration constraints, please cite:
 
@@ -27,7 +27,7 @@ Jonathan Chang, Daniel L. Rabosky, Michael E. Alfaro (2019). Estimating diversif
 The manuscript detailing our Phylogentic Fish Classification is currently in preparation.
 -->
 
-## Contact
+# Contact
 
 For issues or feature requests for the website, please contact [Jonathan Chang](https://jonathanchang.org).
 
@@ -48,7 +48,7 @@ Other critical contributors include:
 * [Tom Near](http://nearlab.yale.edu/)
 * [Marta Coll](http://martacoll.science/)
 
-## Future updates
+# Future updates
 
 We are also interested in fixing any phylogenetic and taxonomic errors in a future revision of the Fish Tree of Life, especially rogue taxa that break the monophyly of well-studied lineages. Known issues include:
 
@@ -119,6 +119,10 @@ We are also interested in fixing any phylogenetic and taxonomic errors in a futu
 
 If you identify any issues, [please fill out this survey](https://docs.google.com/forms/d/e/1FAIpQLSeyE_NT5WiQA3Er62ZJzIHrRnOP0ASzPYrh294Nr5pOm4kTDg/viewform?usp=sf_link) so we can collate all fixes for a future revision. Thanks!
 
-## Sponsorship
+# Source code
+
+The source code for this website is available on GitHub: [jonchang/fishtreeoflife.org](https://github.com/jonchang/fishtreeoflife.org/).
+
+# Sponsorship
 
 This website's maintenance is not currently not supported by any grant or organization.
