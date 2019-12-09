@@ -12,6 +12,7 @@ This is the primary git repository for the Fish Tree of Life website at https://
 git clone https://github.com/jonchang/fishtreeoflife.org.git
 cd fishtreeoflife.org
 scripts/docker.sh
+scripts/fishtree_docs.sh
 bundle install
 bundle exec rake -j serve
 ```
