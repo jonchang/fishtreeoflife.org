@@ -123,6 +123,8 @@ If you identify any issues, [please fill out this survey](https://docs.google.co
 
 The source code for this website is available on GitHub: [jonchang/fishtreeoflife.org](https://github.com/jonchang/fishtreeoflife.org/).
 
-# Sponsorship
+# Funding
 
-This website's maintenance is not currently not supported by any grant or organization.
+Development of this website was supported in part by NSF grant DEB-1256330 (to D.L.R.) and DEB-1601830 (to J.C. and M.E.A.), an Encyclopedia of Life Rubenstein Fellowship EOL-33066-13 (to J.C.), the David and Lucile Packard Foundation (to D.L.R.), the Gaylord Donnelley Postdoctoral Environment Fellowship and the ARC Centre of Excellence for Coral Reef Studies (to P.F.C.).
+
+This website's maintenance is not currently not supported by any grant or organization. Please consider sponsoring it [via a recurring donation](https://github.com/jonchang/fishtreeoflife.org/#sponsorship).
