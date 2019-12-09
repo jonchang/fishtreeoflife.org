@@ -6,24 +6,23 @@ description: Citing the ray-finned fish phylogeny, information about the Fish Tr
 
 ## Citing
 
-The data presented on this website were published as a part of:
+If you use any phylogenetic products derived from this website, including taxonomic resources and fossil calibration constraints, please cite:
 
 <p markdown="0">
 Daniel L. Rabosky*, Jonathan Chang*, Pascal O. Title*, Peter F. Cowman, Lauren Sallan, Matt Friedman, Kristin Kaschner, Cristina Garilao, Thomas J. Near, Marta Coll, Michael E. Alfaro* (2018).  An inverse latitudinal gradient in speciation rate for marine fishes. <em>Nature</em>, 559(7714), 392&ndash;395 doi:<a href="https://doi.org/10.1038/s41586-018-0273-1">10.1038/s41586-018-0273-1</a>
 </p>
 
-Please cite this publication if you use any phylogenetic products derived from this website, including taxonomic resources and fossil calibration constraints. We have also [released a set of enhanced ATA trees]({% link downloads/index.md %}); the details on how these ATA distributions differ are detailed in [Rabosky et al. 2018 update]({% link rabosky-et-al-2018-update.md %}). [The original set of ATA phylogenies are available via Dryad](https://doi.org/10.5061/dryad.fc71cp4).
-
-We also offer an R package that provides programmatic access to the data products on this website, [`fishtree`](https://cran.r-project.org/package=fishtree), and can browse [web documentation for `fishtree` here]({% link fishtree/index.html %}). If you use the R package or web API, please additionally cite:
+We also offer an R package that provides programmatic access to the data products on this website, [`fishtree`](https://cran.r-project.org/package=fishtree); you can browse [web documentation for `fishtree` here]({% link fishtree/index.html %}). If you use this R package or web API, please additionally cite:
 
 <p markdown="0">
 Jonathan Chang, Daniel L. Rabosky, Stephen A. Smith, Michael E. Alfaro (2019). An R package and online resource for macroevolutionary studies using the ray‐finned fish tree of life. <em>Methods in Ecology and Evolution</em>, 10: 1118&ndash;1124 doi:<a href="https://doi.org/10.1111/2041-210X.13182">10.1111/2041-210x.13182</a>
 </p>
 
+We have also [released a set of enhanced ATA trees]({% link downloads/index.md %}); the details on how these ATA distributions differ are detailed in [Rabosky et al. 2018 update]({% link rabosky-et-al-2018-update.md %}). [The original set of ATA phylogenies are available via Dryad](https://doi.org/10.5061/dryad.fc71cp4). The taxonomic addition algorithm using stochastic polytomy resolution (TACT: Taxonomic Addition for Complete Trees) that generated these ATA phylogenies was published as:
 
-<!--
+Jonathan Chang, Daniel L. Rabosky, Michael E. Alfaro (2019). Estimating diversification rates on incompletely-sampled phylogenies: theoretical concerns and practical solutions. *Systematic Biology*, doi:[10.1093/sysbio/syz081/5658637](https://doi.org/10.1093/sysbio/syz081/5658637)
 
-The manuscript describing the taxonomic addition algorithm (TACT) for the full tree distributions is currently in preparation.
+<!---
 
 The manuscript detailing our Phylogentic Fish Classification is currently in preparation.
 -->
