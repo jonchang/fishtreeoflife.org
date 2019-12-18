@@ -27,12 +27,12 @@ jobs:
     - name: Test site
       run: scripts/test.sh
     - name: Deploy to Github pages
-      uses: peaceiris/actions-gh-pages@v2.5.0
+      uses: crazy-max/ghaction-github-pages@v1
       if: success()
+      with:
+        build_dir: _site
       env:
         GITHUB_TOKEN: ${{ secrets.PACKAGE_ACCESS_TOKEN }}
-        PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: ./_site
 
   shellcheck:
     runs-on: ubuntu-latest
