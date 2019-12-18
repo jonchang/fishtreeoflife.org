@@ -32,7 +32,7 @@ jobs:
       with:
         build_dir: _site
       env:
-        GITHUB_TOKEN: ${{ secrets.PACKAGE_ACCESS_TOKEN }}
+        GITHUB_PAT: ${{ secrets.PACKAGE_ACCESS_TOKEN }}
 
   shellcheck:
     runs-on: ubuntu-latest
