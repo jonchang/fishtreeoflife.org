@@ -2,7 +2,7 @@
 
 docker run -i -v "$PWD"/fishtree:/fishtree rocker/tidyverse:latest R --slave << COMMANDS
 options(repos = "https://cloud.r-project.org")
-install.packages(c("fishtree"), Ncpus = 4)
+install.packages("fishtree", dependencies = TRUE, Ncpus = 4)
 requireNamespace("pkgdown")
 td <- tempdir()
 xx <- download.packages("fishtree", type = "source", dest = td)
