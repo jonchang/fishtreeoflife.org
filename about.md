@@ -55,6 +55,7 @@ We are also interested in fixing any phylogenetic and taxonomic errors in a futu
 * *Chlorurus gibbus* has rogue behavior
 * *Takifugu fasciatus* is actually *T. obscurus*
 * Sister relationship of *Salvelinus*
+* *Thalassenchelys coheni* = *Congriscus megastomus* (Kurogi et al 2015)
 * Adding tip rate information for the following species:
     <details>
     <summary>Species list</summary>
