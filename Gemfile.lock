@@ -61,7 +61,7 @@ GEM
     ffi (1.9.25)
     forwardable-extended (2.6.0)
     fspath (3.1.2)
-    html-proofer (3.15.1)
+    html-proofer (3.15.2)
       addressable (~> 2.3)
       mercenary (~> 0.3)
       nokogumbo (~> 2.0)
@@ -136,7 +136,7 @@ GEM
     mini_magick (4.10.1)
     mini_portile2 (2.4.0)
     minitest (5.11.3)
-    nokogiri (1.10.8)
+    nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
     nokogumbo (2.0.2)
       nokogiri (~> 1.8, >= 1.8.4)
@@ -173,7 +173,7 @@ GEM
       thread_safe (~> 0.1)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
-    yell (2.2.1)
+    yell (2.2.2)
 
 PLATFORMS
   ruby
