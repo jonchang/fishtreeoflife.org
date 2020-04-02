@@ -55,7 +55,7 @@ Families with * were not recovered as monophyletic in our phylogenetic analysis.
 
 ## Downloads
 
-We have a limited number of skeletal phylogenies available for download, using exemplars for each rank. Some groups may be missing or incorrectly placed, as it is difficult to determine via an algorithm which species best represents where a given taxon when those taxa are non-monophyletic. These phylogenies should only be used for a high-level, approximate visualization of our result. They are **not intended** to be used for actual comparative analyses.
+We have a limited number of skeletal phylogenies available for download, using exemplars for each rank. Some groups may be missing or incorrectly placed, as it is not entirely clear which species serves as the best representative for a given taxon when that taxon is non-monophyletic. These phylogenies should therefore only be used for a high-level, approximate visualization of our result. They are **not intended** to be used for actual comparative analyses.
 
 * [Skeletal order phylogeny]({% link downloads/taxonomy/order_skeletal.tre %})
 * [Skeletal family phylogeny]({% link downloads/taxonomy/family_skeletal.tre %})
