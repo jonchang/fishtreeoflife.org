@@ -16,14 +16,6 @@ GIT
       sassc (~> 1.11)
       sprockets (~> 4.0.beta7)
 
-GIT
-  remote: https://github.com/envygeeks/jekyll-sanity.git
-  revision: 7096a6c3b236ffa3ad2a6a4233b0ff47a47d37aa
-  ref: 7096a6c3b236ffa3ad2a6a4233b0ff47a47d37aa
-  specs:
-    jekyll-sanity (1.2.1)
-      jekyll (>= 3.1, < 5.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -102,6 +94,9 @@ GEM
     jekyll-favicon (0.2.8)
       jekyll (>= 3.0, < 5.0)
       mini_magick (>= 4.9.4)
+    jekyll-sanity (1.6.0)
+      jekyll (>= 3.1, < 5.0)
+      pathutil (~> 0.16)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
@@ -183,7 +178,7 @@ DEPENDENCIES
   jekyll-commonmark-ghpages
   jekyll-compose
   jekyll-favicon
-  jekyll-sanity!
+  jekyll-sanity
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-tidy
