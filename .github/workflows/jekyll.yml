@@ -27,12 +27,11 @@ jobs:
     - name: Test site
       run: scripts/test.sh
     - name: Deploy to Github pages
-      uses: crazy-max/ghaction-github-pages@955519f7bd78a04272fdfc66260f332c48b79f73
+      uses: peaceiris/actions-gh-pages@v3
       if: ${{ success() && github.ref == 'refs/heads/master' }}
       with:
-        build_dir: _site
-      env:
-        GITHUB_PAT: ${{ secrets.PACKAGE_ACCESS_TOKEN }}
+        publish_dir: ./_site
+        personal_token: ${{ secrets.PACKAGE_ACCESS_TOKEN }}
 
   shellcheck:
     runs-on: ubuntu-latest
