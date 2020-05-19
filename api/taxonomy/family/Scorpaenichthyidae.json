@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Scorpaenichthys marmoratus"
+  ],
+  "sampled_species": [
+    "Scorpaenichthys marmoratus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Scorpaenichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Cottales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Scorpaenichthys marmoratus": 0.0542
+  },
+  "tiprates_bamm_lambda": {
+    "Scorpaenichthys marmoratus": 0.1174
+  },
+  "tiprates_bamm_mu": {
+    "Scorpaenichthys marmoratus": 0.0087
+  },
+  "mean_dr": 0.0542,
+  "mean_bamm_lambda": 0.1174,
+  "mean_bamm_mu": 0.0087,
+  "matrix_phylip": "downloads/taxonomy/family/Scorpaenichthyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Scorpaenichthyidae.nex.xz"
+}

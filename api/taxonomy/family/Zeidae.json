@@ -1,0 +1,100 @@
+{
+  "species": [
+    "Zenopsis conchifer",
+    "Zenopsis nebulosa",
+    "Zenopsis oblonga",
+    "Zenopsis stabilispinosa",
+    "Zeus capensis",
+    "Zeus faber"
+  ],
+  "sampled_species": [
+    "Zenopsis conchifer",
+    "Zenopsis nebulosa",
+    "Zeus capensis",
+    "Zeus faber"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Zeidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Zeiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Zenopsis conchifer": 0.0674,
+    "Zenopsis nebulosa": 0.0727,
+    "Zeus capensis": 0.03,
+    "Zeus faber": 0.03
+  },
+  "tiprates_bamm_lambda": {
+    "Zenopsis conchifer": 0.0521,
+    "Zenopsis nebulosa": 0.0521,
+    "Zeus capensis": 0.0521,
+    "Zeus faber": 0.0521
+  },
+  "tiprates_bamm_mu": {
+    "Zenopsis conchifer": 0.0004,
+    "Zenopsis nebulosa": 0.0004,
+    "Zeus capensis": 0.0004,
+    "Zeus faber": 0.0004
+  },
+  "mean_dr": 0.05,
+  "mean_bamm_lambda": 0.0521,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Zeidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Zeidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Zeidae.tre",
+  "phylogram": "downloads/taxonomy/family/Zeidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Nematogenys inermis"
+  ],
+  "sampled_species": [
+    "Nematogenys inermis"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Nematogenyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Loricaroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Nematogenys inermis": 0.0117
+  },
+  "tiprates_bamm_lambda": {
+    "Nematogenys inermis": 0.0737
+  },
+  "tiprates_bamm_mu": {
+    "Nematogenys inermis": 0.0008
+  },
+  "mean_dr": 0.0117,
+  "mean_bamm_lambda": 0.0737,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Nematogenyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Nematogenyidae.nex.xz"
+}

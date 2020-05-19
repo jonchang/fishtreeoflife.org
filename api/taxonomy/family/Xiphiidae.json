@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Xiphias gladius"
+  ],
+  "sampled_species": [
+    "Xiphias gladius"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Xiphiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Istiophoriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Xiphias gladius": 0.0178
+  },
+  "tiprates_bamm_lambda": {
+    "Xiphias gladius": 0.0551
+  },
+  "tiprates_bamm_mu": {
+    "Xiphias gladius": 0.001
+  },
+  "mean_dr": 0.0178,
+  "mean_bamm_lambda": 0.0551,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Xiphiidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Xiphiidae.nex.xz"
+}

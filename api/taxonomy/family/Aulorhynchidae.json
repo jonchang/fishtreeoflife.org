@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Aulorhynchus flavidus"
+  ],
+  "sampled_species": [
+    "Aulorhynchus flavidus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Aulorhynchidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Gasterosteales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Aulorhynchus flavidus": 0.0219
+  },
+  "tiprates_bamm_lambda": {
+    "Aulorhynchus flavidus": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Aulorhynchus flavidus": 0.0003
+  },
+  "mean_dr": 0.0219,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Aulorhynchidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Aulorhynchidae.nex.xz"
+}

@@ -1,0 +1,104 @@
+{
+  "species": [
+    "Macrotrema caligans",
+    "Monopterus albus",
+    "Monopterus bicolor",
+    "Monopterus boueti",
+    "Monopterus cuchia",
+    "Monopterus desilvai",
+    "Monopterus dienbienensis",
+    "Monopterus digressus",
+    "Monopterus eapeni",
+    "Monopterus fossorius",
+    "Monopterus hodgarti",
+    "Monopterus ichthyophoides",
+    "Monopterus indicus",
+    "Monopterus roseni",
+    "Ophisternon aenigmaticum",
+    "Ophisternon afrum",
+    "Ophisternon bengalense",
+    "Ophisternon candidum",
+    "Ophisternon gutturale",
+    "Ophisternon infernale",
+    "Synbranchus lampreia",
+    "Synbranchus madeirae",
+    "Synbranchus marmoratus"
+  ],
+  "sampled_species": [
+    "Monopterus albus",
+    "Monopterus fossorius"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Synbranchidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Synbranchiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Anabantaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Synbranchoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Monopterus albus": 0.0592,
+    "Monopterus fossorius": 0.0506
+  },
+  "tiprates_bamm_lambda": {
+    "Monopterus albus": 0.055,
+    "Monopterus fossorius": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Monopterus albus": 0.0003,
+    "Monopterus fossorius": 0.0003
+  },
+  "mean_dr": 0.0549,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Synbranchidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Synbranchidae.nex.xz"
+}

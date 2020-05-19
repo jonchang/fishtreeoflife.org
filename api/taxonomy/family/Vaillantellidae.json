@@ -1,0 +1,80 @@
+{
+  "species": [
+    "Vaillantella cinnamomea",
+    "Vaillantella euepiptera",
+    "Vaillantella maassi"
+  ],
+  "sampled_species": [
+    "Vaillantella maassi"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Vaillantellidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Cypriniformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Cypriniphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Vaillantella maassi": 0.0422
+  },
+  "tiprates_bamm_lambda": {
+    "Vaillantella maassi": 0.0786
+  },
+  "tiprates_bamm_mu": {
+    "Vaillantella maassi": 0.0018
+  },
+  "mean_dr": 0.0422,
+  "mean_bamm_lambda": 0.0786,
+  "mean_bamm_mu": 0.0018,
+  "matrix_phylip": "downloads/taxonomy/family/Vaillantellidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Vaillantellidae.nex.xz"
+}

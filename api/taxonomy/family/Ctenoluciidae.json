@@ -1,0 +1,84 @@
+{
+  "species": [
+    "Boulengerella cuvieri",
+    "Boulengerella lateristriga",
+    "Boulengerella lucius",
+    "Boulengerella maculata",
+    "Boulengerella xyrekes",
+    "Ctenolucius beani",
+    "Ctenolucius hujeta"
+  ],
+  "sampled_species": [
+    "Ctenolucius hujeta"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Ctenoluciidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Characiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Characoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Ctenolucius hujeta": 0.0482
+  },
+  "tiprates_bamm_lambda": {
+    "Ctenolucius hujeta": 0.0732
+  },
+  "tiprates_bamm_mu": {
+    "Ctenolucius hujeta": 0.0009
+  },
+  "mean_dr": 0.0482,
+  "mean_bamm_lambda": 0.0732,
+  "mean_bamm_mu": 0.0009,
+  "matrix_phylip": "downloads/taxonomy/family/Ctenoluciidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Ctenoluciidae.nex.xz"
+}

@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Triodon macropterus"
+  ],
+  "sampled_species": [
+    "Triodon macropterus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Triodontidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Tetraodontiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Triodontoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Triodon macropterus": 0.0114
+  },
+  "tiprates_bamm_lambda": {
+    "Triodon macropterus": 0.0854
+  },
+  "tiprates_bamm_mu": {
+    "Triodon macropterus": 0.0117
+  },
+  "mean_dr": 0.0114,
+  "mean_bamm_lambda": 0.0854,
+  "mean_bamm_mu": 0.0117,
+  "matrix_phylip": "downloads/taxonomy/suborder/Triodontoidei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/suborder/Triodontoidei.nex.xz"
+}

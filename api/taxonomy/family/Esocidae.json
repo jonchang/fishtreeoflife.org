@@ -1,0 +1,110 @@
+{
+  "species": [
+    "Esox americanus americanus",
+    "Esox americanus vermiculatus",
+    "Esox cisalpinus",
+    "Esox lucius",
+    "Esox masquinongy",
+    "Esox niger",
+    "Esox reichertii"
+  ],
+  "sampled_species": [
+    "Esox americanus americanus",
+    "Esox americanus vermiculatus",
+    "Esox cisalpinus",
+    "Esox lucius",
+    "Esox masquinongy",
+    "Esox niger",
+    "Esox reichertii"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Esocidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Esociformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Protacanthopterygii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Esox americanus americanus": 0.0472,
+    "Esox cisalpinus": 0.0538,
+    "Esox lucius": 0.0538,
+    "Esox masquinongy": 0.0172,
+    "Esox niger": 0.0472,
+    "Esox reichertii": 0.0281
+  },
+  "tiprates_bamm_lambda": {
+    "Esox americanus americanus": 0.0341,
+    "Esox cisalpinus": 0.0341,
+    "Esox lucius": 0.0341,
+    "Esox masquinongy": 0.0341,
+    "Esox niger": 0.0341,
+    "Esox reichertii": 0.0341
+  },
+  "tiprates_bamm_mu": {
+    "Esox americanus americanus": 0.0017,
+    "Esox cisalpinus": 0.0017,
+    "Esox lucius": 0.0017,
+    "Esox masquinongy": 0.0017,
+    "Esox niger": 0.0017,
+    "Esox reichertii": 0.0017
+  },
+  "mean_dr": 0.0412,
+  "mean_bamm_lambda": 0.0341,
+  "mean_bamm_mu": 0.0017,
+  "matrix_phylip": "downloads/taxonomy/family/Esocidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Esocidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Esocidae.tre",
+  "phylogram": "downloads/taxonomy/family/Esocidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

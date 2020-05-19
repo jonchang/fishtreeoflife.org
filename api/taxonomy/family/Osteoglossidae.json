@@ -1,0 +1,120 @@
+{
+  "species": [
+    "Arapaima agassizii",
+    "Arapaima gigas",
+    "Arapaima leptosoma",
+    "Arapaima mapae",
+    "Heterotis niloticus",
+    "Osteoglossum bicirrhosum",
+    "Osteoglossum ferreirai",
+    "Scleropages aureus",
+    "Scleropages formosus",
+    "Scleropages inscriptus",
+    "Scleropages jardinii",
+    "Scleropages legendrei",
+    "Scleropages leichardti",
+    "Scleropages macrocephalus"
+  ],
+  "sampled_species": [
+    "Arapaima gigas",
+    "Heterotis niloticus",
+    "Osteoglossum bicirrhosum",
+    "Osteoglossum ferreirai",
+    "Scleropages formosus",
+    "Scleropages jardinii",
+    "Scleropages leichardti"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Osteoglossomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Osteoglossidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Osteoglossiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Osteoglossocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Arapaima gigas": 0.0284,
+    "Heterotis niloticus": 0.0164,
+    "Osteoglossum bicirrhosum": 0.0349,
+    "Osteoglossum ferreirai": 0.0349,
+    "Scleropages formosus": 0.0188,
+    "Scleropages jardinii": 0.0262,
+    "Scleropages leichardti": 0.0276
+  },
+  "tiprates_bamm_lambda": {
+    "Arapaima gigas": 0.0327,
+    "Heterotis niloticus": 0.0327,
+    "Osteoglossum bicirrhosum": 0.0327,
+    "Osteoglossum ferreirai": 0.0327,
+    "Scleropages formosus": 0.0327,
+    "Scleropages jardinii": 0.0327,
+    "Scleropages leichardti": 0.0327
+  },
+  "tiprates_bamm_mu": {
+    "Arapaima gigas": 0.0018,
+    "Heterotis niloticus": 0.0018,
+    "Osteoglossum bicirrhosum": 0.0018,
+    "Osteoglossum ferreirai": 0.0018,
+    "Scleropages formosus": 0.0018,
+    "Scleropages jardinii": 0.0018,
+    "Scleropages leichardti": 0.0018
+  },
+  "mean_dr": 0.0267,
+  "mean_bamm_lambda": 0.0327,
+  "mean_bamm_mu": 0.0018,
+  "matrix_phylip": "downloads/taxonomy/family/Osteoglossidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Osteoglossidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Osteoglossidae.tre",
+  "phylogram": "downloads/taxonomy/family/Osteoglossidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

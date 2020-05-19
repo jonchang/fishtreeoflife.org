@@ -1,0 +1,94 @@
+{
+  "species": [
+    "Ceratias holboelli",
+    "Ceratias tentaculatus",
+    "Ceratias uranoscopus",
+    "Cryptopsaras couesii"
+  ],
+  "sampled_species": [
+    "Ceratias holboelli",
+    "Ceratias tentaculatus",
+    "Cryptopsaras couesii"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Ceratiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lophiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Ceratioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Ceratias holboelli": 0.0537,
+    "Ceratias tentaculatus": 0.0525,
+    "Cryptopsaras couesii": 0.0238
+  },
+  "tiprates_bamm_lambda": {
+    "Ceratias holboelli": 0.0618,
+    "Ceratias tentaculatus": 0.0618,
+    "Cryptopsaras couesii": 0.0618
+  },
+  "tiprates_bamm_mu": {
+    "Ceratias holboelli": 0.0015,
+    "Ceratias tentaculatus": 0.0015,
+    "Cryptopsaras couesii": 0.0015
+  },
+  "mean_dr": 0.0433,
+  "mean_bamm_lambda": 0.0618,
+  "mean_bamm_mu": 0.0015,
+  "matrix_phylip": "downloads/taxonomy/family/Ceratiidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Ceratiidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Ceratiidae.tre",
+  "phylogram": "downloads/taxonomy/family/Ceratiidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

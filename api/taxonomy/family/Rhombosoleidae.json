@@ -1,0 +1,99 @@
+{
+  "species": [
+    "Achiropsetta tricholepis",
+    "Mancopsetta maculata",
+    "Neoachiropsetta milfordi",
+    "Oncopterus darwinii",
+    "Pseudomancopsetta andriashevi",
+    "Rhombosolea leporina",
+    "Rhombosolea plebeia",
+    "Rhombosolea retiaria",
+    "Rhombosolea tapirina"
+  ],
+  "sampled_species": [
+    "Achiropsetta tricholepis",
+    "Mancopsetta maculata",
+    "Neoachiropsetta milfordi"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Rhombosoleidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pleuronectiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Pleuronectoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Achiropsetta tricholepis": 0.2024,
+    "Mancopsetta maculata": 0.0932,
+    "Neoachiropsetta milfordi": 0.2024
+  },
+  "tiprates_bamm_lambda": {
+    "Achiropsetta tricholepis": 0.0917,
+    "Mancopsetta maculata": 0.0917,
+    "Neoachiropsetta milfordi": 0.0917
+  },
+  "tiprates_bamm_mu": {
+    "Achiropsetta tricholepis": 0.0116,
+    "Mancopsetta maculata": 0.0116,
+    "Neoachiropsetta milfordi": 0.0116
+  },
+  "mean_dr": 0.166,
+  "mean_bamm_lambda": 0.0917,
+  "mean_bamm_mu": 0.0116,
+  "matrix_phylip": "downloads/taxonomy/family/Rhombosoleidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Rhombosoleidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Rhombosoleidae.tre",
+  "phylogram": "downloads/taxonomy/family/Rhombosoleidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

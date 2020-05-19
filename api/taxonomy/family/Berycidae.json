@@ -1,0 +1,124 @@
+{
+  "species": [
+    "Beryx decadactylus",
+    "Beryx mollis",
+    "Beryx splendens",
+    "Centroberyx affinis",
+    "Centroberyx australis",
+    "Centroberyx druzhinini",
+    "Centroberyx gerrardi",
+    "Centroberyx lineatus",
+    "Centroberyx rubricaudus",
+    "Centroberyx spinosus"
+  ],
+  "sampled_species": [
+    "Beryx decadactylus",
+    "Beryx mollis",
+    "Beryx splendens",
+    "Centroberyx affinis",
+    "Centroberyx australis",
+    "Centroberyx druzhinini",
+    "Centroberyx gerrardi",
+    "Centroberyx lineatus",
+    "Centroberyx spinosus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Berycidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Beryciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Berycimorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Beryx decadactylus": 0.0322,
+    "Beryx mollis": 0.0583,
+    "Beryx splendens": 0.0583,
+    "Centroberyx affinis": 0.0576,
+    "Centroberyx australis": 0.1047,
+    "Centroberyx druzhinini": 0.0566,
+    "Centroberyx gerrardi": 0.0992,
+    "Centroberyx lineatus": 0.0687,
+    "Centroberyx spinosus": 0.0338
+  },
+  "tiprates_bamm_lambda": {
+    "Beryx decadactylus": 0.0548,
+    "Beryx mollis": 0.0548,
+    "Beryx splendens": 0.0548,
+    "Centroberyx affinis": 0.0548,
+    "Centroberyx australis": 0.0548,
+    "Centroberyx druzhinini": 0.0548,
+    "Centroberyx gerrardi": 0.0548,
+    "Centroberyx lineatus": 0.0548,
+    "Centroberyx spinosus": 0.0548
+  },
+  "tiprates_bamm_mu": {
+    "Beryx decadactylus": 0.0003,
+    "Beryx mollis": 0.0003,
+    "Beryx splendens": 0.0003,
+    "Centroberyx affinis": 0.0003,
+    "Centroberyx australis": 0.0003,
+    "Centroberyx druzhinini": 0.0003,
+    "Centroberyx gerrardi": 0.0003,
+    "Centroberyx lineatus": 0.0003,
+    "Centroberyx spinosus": 0.0003
+  },
+  "mean_dr": 0.0633,
+  "mean_bamm_lambda": 0.0548,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Berycidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Berycidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Berycidae.tre",
+  "phylogram": "downloads/taxonomy/family/Berycidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

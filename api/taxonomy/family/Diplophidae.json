@@ -1,0 +1,82 @@
+{
+  "species": [
+    "Diplophos australis",
+    "Diplophos orientalis",
+    "Diplophos pacificus",
+    "Diplophos rebainsi",
+    "Diplophos taenia"
+  ],
+  "sampled_species": [
+    "Diplophos taenia"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Diplophidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Stomiatiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Stomiatii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Diplophos taenia": 0.0274
+  },
+  "tiprates_bamm_lambda": {
+    "Diplophos taenia": 0.0346
+  },
+  "tiprates_bamm_mu": {
+    "Diplophos taenia": 0.0011
+  },
+  "mean_dr": 0.0274,
+  "mean_bamm_lambda": 0.0346,
+  "mean_bamm_mu": 0.0011,
+  "matrix_phylip": "downloads/taxonomy/family/Diplophidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Diplophidae.nex.xz"
+}

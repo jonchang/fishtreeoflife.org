@@ -1,0 +1,93 @@
+{
+  "species": [
+    "Hoplichthys acanthopleurus",
+    "Hoplichthys citrinus",
+    "Hoplichthys fasciatus",
+    "Hoplichthys filamentosus",
+    "Hoplichthys gilberti",
+    "Hoplichthys haswelli",
+    "Hoplichthys langsdorfii",
+    "Hoplichthys ogilbyi",
+    "Hoplichthys pectoralis",
+    "Hoplichthys platophrys",
+    "Hoplichthys regani",
+    "Monhoplichthys prosemion"
+  ],
+  "sampled_species": [
+    "Hoplichthys acanthopleurus",
+    "Hoplichthys citrinus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Hoplichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Hoplichthys acanthopleurus": 0.0918,
+    "Hoplichthys citrinus": 0.0881
+  },
+  "tiprates_bamm_lambda": {
+    "Hoplichthys acanthopleurus": 0.0579,
+    "Hoplichthys citrinus": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Hoplichthys acanthopleurus": 0.0003,
+    "Hoplichthys citrinus": 0.0003
+  },
+  "mean_dr": 0.09,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Hoplichthyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Hoplichthyidae.nex.xz"
+}

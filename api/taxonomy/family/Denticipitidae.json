@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Denticeps clupeoides"
+  ],
+  "sampled_species": [
+    "Denticeps clupeoides"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Denticipitidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Clupeiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Clupei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Denticipitoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Denticeps clupeoides": 0.0061
+  },
+  "tiprates_bamm_lambda": {
+    "Denticeps clupeoides": 0.0333
+  },
+  "tiprates_bamm_mu": {
+    "Denticeps clupeoides": 0.0016
+  },
+  "mean_dr": 0.0061,
+  "mean_bamm_lambda": 0.0333,
+  "mean_bamm_mu": 0.0016,
+  "matrix_phylip": "downloads/taxonomy/family/Denticipitidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Denticipitidae.nex.xz"
+}

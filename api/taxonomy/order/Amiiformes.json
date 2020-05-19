@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Amia calva"
+  ],
+  "sampled_species": [
+    "Amia calva"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Amiidae"
+    ],
+    "infraclass": [
+      "Holostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+
+    ],
+    "order": [
+      "Amiiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Amia calva": 0.0034
+  },
+  "tiprates_bamm_lambda": {
+    "Amia calva": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Amia calva": 0.0524
+  },
+  "mean_dr": 0.0034,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0524,
+  "matrix_phylip": "downloads/taxonomy/order/Amiiformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Amiiformes.nex.xz"
+}

@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Dinolestes lewini"
+  ],
+  "sampled_species": [
+    "Dinolestes lewini"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Dinolestidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Dinolestes lewini": 0.0243
+  },
+  "tiprates_bamm_lambda": {
+    "Dinolestes lewini": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Dinolestes lewini": 0.0003
+  },
+  "mean_dr": 0.0243,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Dinolestidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Dinolestidae.nex.xz"
+}

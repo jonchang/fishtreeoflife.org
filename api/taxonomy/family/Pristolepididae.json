@@ -1,0 +1,85 @@
+{
+  "species": [
+    "Pristolepis fasciata",
+    "Pristolepis grootii",
+    "Pristolepis marginata",
+    "Pristolepis rubripinnis"
+  ],
+  "sampled_species": [
+    "Pristolepis fasciata",
+    "Pristolepis marginata"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Pristolepididae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Anabantiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Anabantaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Nandoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Pristolepis fasciata": 0.0488,
+    "Pristolepis marginata": 0.0522
+  },
+  "tiprates_bamm_lambda": {
+    "Pristolepis fasciata": 0.055,
+    "Pristolepis marginata": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Pristolepis fasciata": 0.0007,
+    "Pristolepis marginata": 0.0007
+  },
+  "mean_dr": 0.0505,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0007,
+  "matrix_phylip": "downloads/taxonomy/family/Pristolepididae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Pristolepididae.nex.xz"
+}

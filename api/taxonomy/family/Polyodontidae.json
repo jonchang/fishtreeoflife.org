@@ -1,0 +1,83 @@
+{
+  "species": [
+    "Polyodon spathula",
+    "Psephurus gladius"
+  ],
+  "sampled_species": [
+    "Polyodon spathula",
+    "Psephurus gladius"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Polyodontidae"
+    ],
+    "infraclass": [
+
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+
+    ],
+    "order": [
+      "Acipenseriformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Chondrostei"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Polyodon spathula": 0.0065,
+    "Psephurus gladius": 0.0065
+  },
+  "tiprates_bamm_lambda": {
+    "Polyodon spathula": 0.0576,
+    "Psephurus gladius": 0.0576
+  },
+  "tiprates_bamm_mu": {
+    "Polyodon spathula": 0.047,
+    "Psephurus gladius": 0.047
+  },
+  "mean_dr": 0.0065,
+  "mean_bamm_lambda": 0.0576,
+  "mean_bamm_mu": 0.047,
+  "matrix_phylip": "downloads/taxonomy/family/Polyodontidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Polyodontidae.nex.xz"
+}

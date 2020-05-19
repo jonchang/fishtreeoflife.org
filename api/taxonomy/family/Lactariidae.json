@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Lactarius lactarius"
+  ],
+  "sampled_species": [
+    "Lactarius lactarius"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Lactariidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Carangaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Lactarius lactarius": 0.0163
+  },
+  "tiprates_bamm_lambda": {
+    "Lactarius lactarius": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Lactarius lactarius": 0.0003
+  },
+  "mean_dr": 0.0163,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Lactariidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Lactariidae.nex.xz"
+}

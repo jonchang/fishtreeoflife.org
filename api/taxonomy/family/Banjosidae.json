@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Banjos banjos"
+  ],
+  "sampled_species": [
+    "Banjos banjos"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Banjosidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pempheriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Banjos banjos": 0.0558
+  },
+  "tiprates_bamm_lambda": {
+    "Banjos banjos": 0.0581
+  },
+  "tiprates_bamm_mu": {
+    "Banjos banjos": 0.0006
+  },
+  "mean_dr": 0.0558,
+  "mean_bamm_lambda": 0.0581,
+  "mean_bamm_mu": 0.0006,
+  "matrix_phylip": "downloads/taxonomy/family/Banjosidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Banjosidae.nex.xz"
+}

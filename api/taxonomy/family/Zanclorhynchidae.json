@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Zanclorhynchus spinifer"
+  ],
+  "sampled_species": [
+    "Zanclorhynchus spinifer"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Zanclorhynchidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Zanclorhynchus spinifer": 0.0353
+  },
+  "tiprates_bamm_lambda": {
+    "Zanclorhynchus spinifer": 0.0581
+  },
+  "tiprates_bamm_mu": {
+    "Zanclorhynchus spinifer": 0.0003
+  },
+  "mean_dr": 0.0353,
+  "mean_bamm_lambda": 0.0581,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Zanclorhynchidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Zanclorhynchidae.nex.xz"
+}

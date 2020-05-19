@@ -1,0 +1,249 @@
+{
+  "species": [
+    "Araiophos eastropas",
+    "Argyripnus atlanticus",
+    "Argyripnus brocki",
+    "Argyripnus electronus",
+    "Argyripnus ephippiatus",
+    "Argyripnus hulleyi",
+    "Argyripnus iridescens",
+    "Argyripnus pharos",
+    "Argyropelecus aculeatus",
+    "Argyropelecus affinis",
+    "Argyropelecus gigas",
+    "Argyropelecus hemigymnus",
+    "Argyropelecus lychnus",
+    "Argyropelecus olfersii",
+    "Argyropelecus sladeni",
+    "Danaphos oculatus",
+    "Maurolicus amethystinopunctatus",
+    "Maurolicus australis",
+    "Maurolicus breviculus",
+    "Maurolicus imperatorius",
+    "Maurolicus inventionis",
+    "Maurolicus japonicus",
+    "Maurolicus javanicus",
+    "Maurolicus kornilovorum",
+    "Maurolicus mucronatus",
+    "Maurolicus muelleri",
+    "Maurolicus parvipinnis",
+    "Maurolicus rudjakovi",
+    "Maurolicus stehmanni",
+    "Maurolicus walvisensis",
+    "Maurolicus weitzmani",
+    "Polyipnus aquavitus",
+    "Polyipnus asper",
+    "Polyipnus asteroides",
+    "Polyipnus bruuni",
+    "Polyipnus clarus",
+    "Polyipnus danae",
+    "Polyipnus elongatus",
+    "Polyipnus fraseri",
+    "Polyipnus indicus",
+    "Polyipnus inermis",
+    "Polyipnus kiwiensis",
+    "Polyipnus laternatus",
+    "Polyipnus latirastrus",
+    "Polyipnus limatulus",
+    "Polyipnus matsubarai",
+    "Polyipnus meteori",
+    "Polyipnus nuttingi",
+    "Polyipnus oluolus",
+    "Polyipnus omphus",
+    "Polyipnus ovatus",
+    "Polyipnus parini",
+    "Polyipnus paxtoni",
+    "Polyipnus polli",
+    "Polyipnus ruggeri",
+    "Polyipnus soelae",
+    "Polyipnus spinifer",
+    "Polyipnus spinosus",
+    "Polyipnus stereope",
+    "Polyipnus surugaensis",
+    "Polyipnus tridentifer",
+    "Polyipnus triphanos",
+    "Polyipnus unispinus",
+    "Sonoda megalophthalma",
+    "Sonoda paucilampa",
+    "Sternoptyx diaphana",
+    "Sternoptyx obscura",
+    "Sternoptyx pseudobscura",
+    "Sternoptyx pseudodiaphana",
+    "Thorophos euryops",
+    "Thorophos nexilis",
+    "Valenciennellus carlsbergi",
+    "Valenciennellus tripunctulatus"
+  ],
+  "sampled_species": [
+    "Argyropelecus aculeatus",
+    "Argyropelecus affinis",
+    "Argyropelecus gigas",
+    "Argyropelecus hemigymnus",
+    "Argyropelecus lychnus",
+    "Argyropelecus olfersii",
+    "Argyropelecus sladeni",
+    "Danaphos oculatus",
+    "Maurolicus australis",
+    "Maurolicus japonicus",
+    "Maurolicus muelleri",
+    "Maurolicus walvisensis",
+    "Maurolicus weitzmani",
+    "Polyipnus asteroides",
+    "Polyipnus clarus",
+    "Polyipnus indicus",
+    "Polyipnus kiwiensis",
+    "Polyipnus matsubarai",
+    "Polyipnus polli",
+    "Polyipnus stereope",
+    "Sternoptyx diaphana",
+    "Sternoptyx obscura",
+    "Sternoptyx pseudobscura",
+    "Valenciennellus tripunctulatus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Sternoptychidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Stomiatiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Stomiatii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Argyropelecus aculeatus": 0.0456,
+    "Argyropelecus affinis": 0.0243,
+    "Argyropelecus gigas": 0.0243,
+    "Argyropelecus hemigymnus": 0.022,
+    "Argyropelecus lychnus": 0.0456,
+    "Argyropelecus olfersii": 0.0331,
+    "Argyropelecus sladeni": 0.0266,
+    "Danaphos oculatus": 0.0398,
+    "Maurolicus australis": 0.0624,
+    "Maurolicus japonicus": 0.1774,
+    "Maurolicus muelleri": 0.1028,
+    "Maurolicus walvisensis": 0.1802,
+    "Maurolicus weitzmani": 0.0502,
+    "Polyipnus asteroides": 0.0464,
+    "Polyipnus clarus": 0.0271,
+    "Polyipnus indicus": 0.0771,
+    "Polyipnus kiwiensis": 0.0421,
+    "Polyipnus matsubarai": 0.0274,
+    "Polyipnus polli": 0.0747,
+    "Polyipnus stereope": 0.0514,
+    "Sternoptyx diaphana": 0.0843,
+    "Sternoptyx obscura": 0.045,
+    "Sternoptyx pseudobscura": 0.0849,
+    "Valenciennellus tripunctulatus": 0.0433
+  },
+  "tiprates_bamm_lambda": {
+    "Argyropelecus aculeatus": 0.0356,
+    "Argyropelecus affinis": 0.0356,
+    "Argyropelecus gigas": 0.0356,
+    "Argyropelecus hemigymnus": 0.0356,
+    "Argyropelecus lychnus": 0.0356,
+    "Argyropelecus olfersii": 0.0356,
+    "Argyropelecus sladeni": 0.0356,
+    "Danaphos oculatus": 0.0356,
+    "Maurolicus australis": 0.0361,
+    "Maurolicus japonicus": 0.0361,
+    "Maurolicus muelleri": 0.0361,
+    "Maurolicus walvisensis": 0.0361,
+    "Maurolicus weitzmani": 0.0361,
+    "Polyipnus asteroides": 0.0356,
+    "Polyipnus clarus": 0.0356,
+    "Polyipnus indicus": 0.0356,
+    "Polyipnus kiwiensis": 0.0356,
+    "Polyipnus matsubarai": 0.0356,
+    "Polyipnus polli": 0.0356,
+    "Polyipnus stereope": 0.0356,
+    "Sternoptyx diaphana": 0.0356,
+    "Sternoptyx obscura": 0.0356,
+    "Sternoptyx pseudobscura": 0.0356,
+    "Valenciennellus tripunctulatus": 0.0356
+  },
+  "tiprates_bamm_mu": {
+    "Argyropelecus aculeatus": 0.0013,
+    "Argyropelecus affinis": 0.0013,
+    "Argyropelecus gigas": 0.0013,
+    "Argyropelecus hemigymnus": 0.0013,
+    "Argyropelecus lychnus": 0.0013,
+    "Argyropelecus olfersii": 0.0013,
+    "Argyropelecus sladeni": 0.0013,
+    "Danaphos oculatus": 0.0013,
+    "Maurolicus australis": 0.0018,
+    "Maurolicus japonicus": 0.0018,
+    "Maurolicus muelleri": 0.0018,
+    "Maurolicus walvisensis": 0.0018,
+    "Maurolicus weitzmani": 0.0018,
+    "Polyipnus asteroides": 0.0013,
+    "Polyipnus clarus": 0.0013,
+    "Polyipnus indicus": 0.0013,
+    "Polyipnus kiwiensis": 0.0013,
+    "Polyipnus matsubarai": 0.0013,
+    "Polyipnus polli": 0.0013,
+    "Polyipnus stereope": 0.0013,
+    "Sternoptyx diaphana": 0.0013,
+    "Sternoptyx obscura": 0.0013,
+    "Sternoptyx pseudobscura": 0.0013,
+    "Valenciennellus tripunctulatus": 0.0013
+  },
+  "mean_dr": 0.0599,
+  "mean_bamm_lambda": 0.0357,
+  "mean_bamm_mu": 0.0014,
+  "matrix_phylip": "downloads/taxonomy/family/Sternoptychidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Sternoptychidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Sternoptychidae.tre",
+  "phylogram": "downloads/taxonomy/family/Sternoptychidae_phylogram.tre",
+  "rogues": [
+    "Triplophos_hemingi"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Sternoptychidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Sternoptychidae_mrca_phylogram.tre"
+}

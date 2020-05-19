@@ -1,0 +1,98 @@
+{
+  "species": [
+    "Coccorella atlantica",
+    "Coccorella atrata",
+    "Evermannella ahlstromi",
+    "Evermannella balbo",
+    "Evermannella indica",
+    "Evermannella megalops",
+    "Evermannella melanoderma",
+    "Odontostomops normalops"
+  ],
+  "sampled_species": [
+    "Coccorella atlantica",
+    "Evermannella balbo",
+    "Evermannella indica"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Evermannellidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Aulopiformes"
+    ],
+    "section": [
+      "Aulopa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Alepisauroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Coccorella atlantica": 0.067,
+    "Evermannella balbo": 0.0527,
+    "Evermannella indica": 0.0621
+  },
+  "tiprates_bamm_lambda": {
+    "Coccorella atlantica": 0.0347,
+    "Evermannella balbo": 0.0347,
+    "Evermannella indica": 0.0347
+  },
+  "tiprates_bamm_mu": {
+    "Coccorella atlantica": 0.0011,
+    "Evermannella balbo": 0.0011,
+    "Evermannella indica": 0.0011
+  },
+  "mean_dr": 0.0606,
+  "mean_bamm_lambda": 0.0347,
+  "mean_bamm_mu": 0.0011,
+  "matrix_phylip": "downloads/taxonomy/family/Evermannellidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Evermannellidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Evermannellidae.tre",
+  "phylogram": "downloads/taxonomy/family/Evermannellidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

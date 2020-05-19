@@ -1,0 +1,150 @@
+{
+  "species": [
+    "Ablabys binotatus",
+    "Ablabys macracanthus",
+    "Ablabys taenianotus",
+    "Centropogon australis",
+    "Centropogon latifrons",
+    "Centropogon marmoratus",
+    "Coccotropsis gymnoderma",
+    "Cottapistus cottoides",
+    "Glyptauchen panduratus",
+    "Gymnapistes marmoratus",
+    "Liocranium pleurostigma",
+    "Liocranium praepositum",
+    "Neocentropogon aeglefinus",
+    "Neocentropogon affinis",
+    "Neocentropogon japonicus",
+    "Neocentropogon mesedai",
+    "Neocentropogon profundus",
+    "Neocentropogon trimaculatus",
+    "Neovespicula depressifrons",
+    "Notesthes robusta",
+    "Ocosia apia",
+    "Ocosia fasciata",
+    "Ocosia possi",
+    "Ocosia ramaraoi",
+    "Ocosia spinosa",
+    "Ocosia vespa",
+    "Ocosia zaspilota",
+    "Paracentropogon longispinis",
+    "Paracentropogon rubripinnis",
+    "Paracentropogon vespa",
+    "Paracentropogon zonatus",
+    "Pseudovespicula dracaena",
+    "Richardsonichthys leucogaster",
+    "Snyderina guentheri",
+    "Snyderina yamanokami",
+    "Tetraroge barbata",
+    "Tetraroge niger",
+    "Vespicula bottae",
+    "Vespicula cypho",
+    "Vespicula trachinoides",
+    "Vespicula zollingeri"
+  ],
+  "sampled_species": [
+    "Coccotropsis gymnoderma",
+    "Glyptauchen panduratus",
+    "Gymnapistes marmoratus",
+    "Notesthes robusta",
+    "Ocosia zaspilota",
+    "Paracentropogon rubripinnis"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Tetrarogidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Scorpaenoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Coccotropsis gymnoderma": 0.0662,
+    "Glyptauchen panduratus": 0.0591,
+    "Gymnapistes marmoratus": 0.0605,
+    "Notesthes robusta": 0.0499,
+    "Ocosia zaspilota": 0.0849,
+    "Paracentropogon rubripinnis": 0.0825
+  },
+  "tiprates_bamm_lambda": {
+    "Coccotropsis gymnoderma": 0.0578,
+    "Glyptauchen panduratus": 0.0581,
+    "Gymnapistes marmoratus": 0.0581,
+    "Notesthes robusta": 0.0581,
+    "Ocosia zaspilota": 0.0578,
+    "Paracentropogon rubripinnis": 0.0578
+  },
+  "tiprates_bamm_mu": {
+    "Coccotropsis gymnoderma": 0.0009,
+    "Glyptauchen panduratus": 0.0003,
+    "Gymnapistes marmoratus": 0.0003,
+    "Notesthes robusta": 0.0003,
+    "Ocosia zaspilota": 0.0009,
+    "Paracentropogon rubripinnis": 0.0009
+  },
+  "mean_dr": 0.0672,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0006,
+  "matrix_phylip": "downloads/taxonomy/family/Tetrarogidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Tetrarogidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Tetrarogidae.tre",
+  "phylogram": "downloads/taxonomy/family/Tetrarogidae_phylogram.tre",
+  "rogues": [
+    "Synanceia_verrucosa",
+    "Aetapcus_maculatus",
+    "Minous_trachycephalus",
+    "Inimicus_didactylus",
+    "Aploactisoma_milesii",
+    "Apistus_carinatus"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Tetrarogidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Tetrarogidae_mrca_phylogram.tre"
+}

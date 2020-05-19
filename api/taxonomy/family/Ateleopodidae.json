@@ -1,0 +1,115 @@
+{
+  "species": [
+    "Ateleopus indicus",
+    "Ateleopus japonicus",
+    "Ateleopus natalensis",
+    "Ateleopus purpureus",
+    "Ateleopus tanabensis",
+    "Guentherus altivela",
+    "Guentherus katoi",
+    "Ijimaia antillarum",
+    "Ijimaia dofleini",
+    "Ijimaia fowleri",
+    "Ijimaia loppei",
+    "Ijimaia plicatellus",
+    "Parateleopus microstomus"
+  ],
+  "sampled_species": [
+    "Ateleopus japonicus",
+    "Ateleopus natalensis",
+    "Ateleopus purpureus",
+    "Ateleopus tanabensis",
+    "Ijimaia antillarum",
+    "Ijimaia loppei"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Ateleopodidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Ateleopodia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Ateleopodiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Ateleopus japonicus": 0.162,
+    "Ateleopus natalensis": 0.0255,
+    "Ateleopus purpureus": 0.1598,
+    "Ateleopus tanabensis": 0.0813,
+    "Ijimaia antillarum": 0.1209,
+    "Ijimaia loppei": 0.1213
+  },
+  "tiprates_bamm_lambda": {
+    "Ateleopus japonicus": 0.4704,
+    "Ateleopus natalensis": 0.3594,
+    "Ateleopus purpureus": 0.4704,
+    "Ateleopus tanabensis": 0.4704,
+    "Ijimaia antillarum": 0.4704,
+    "Ijimaia loppei": 0.4704
+  },
+  "tiprates_bamm_mu": {
+    "Ateleopus japonicus": 0.4302,
+    "Ateleopus natalensis": 0.3513,
+    "Ateleopus purpureus": 0.4302,
+    "Ateleopus tanabensis": 0.4302,
+    "Ijimaia antillarum": 0.4302,
+    "Ijimaia loppei": 0.4302
+  },
+  "mean_dr": 0.1118,
+  "mean_bamm_lambda": 0.4519,
+  "mean_bamm_mu": 0.417,
+  "matrix_phylip": "downloads/taxonomy/family/Ateleopodidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Ateleopodidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Ateleopodidae.tre",
+  "phylogram": "downloads/taxonomy/family/Ateleopodidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

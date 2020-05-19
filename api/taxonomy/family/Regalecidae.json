@@ -1,0 +1,84 @@
+{
+  "species": [
+    "Agrostichthys parkeri",
+    "Regalecus glesne",
+    "Regalecus russelii"
+  ],
+  "sampled_species": [
+    "Regalecus glesne",
+    "Regalecus russelii"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Lampridacea"
+    ],
+    "family": [
+      "Regalecidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lampridiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Regalecus glesne": 0.0261,
+    "Regalecus russelii": 0.0261
+  },
+  "tiprates_bamm_lambda": {
+    "Regalecus glesne": 0.0522,
+    "Regalecus russelii": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Regalecus glesne": 0.0003,
+    "Regalecus russelii": 0.0003
+  },
+  "mean_dr": 0.0261,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Regalecidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Regalecidae.nex.xz"
+}

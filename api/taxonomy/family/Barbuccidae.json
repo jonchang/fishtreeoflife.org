@@ -1,0 +1,79 @@
+{
+  "species": [
+    "Barbucca diabolica",
+    "Barbucca elongata"
+  ],
+  "sampled_species": [
+    "Barbucca diabolica"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Barbuccidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Cypriniformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Cypriniphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Barbucca diabolica": 0.0488
+  },
+  "tiprates_bamm_lambda": {
+    "Barbucca diabolica": 0.0953
+  },
+  "tiprates_bamm_mu": {
+    "Barbucca diabolica": 0.0078
+  },
+  "mean_dr": 0.0488,
+  "mean_bamm_lambda": 0.0953,
+  "mean_bamm_mu": 0.0078,
+  "matrix_phylip": "downloads/taxonomy/family/Barbuccidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Barbuccidae.nex.xz"
+}

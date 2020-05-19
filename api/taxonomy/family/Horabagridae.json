@@ -1,0 +1,83 @@
+{
+  "species": [
+    "Horabagrus brachysoma",
+    "Horabagrus nigricollaris"
+  ],
+  "sampled_species": [
+    "Horabagrus brachysoma",
+    "Horabagrus nigricollaris"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Horabagridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Horabagrus brachysoma": 0.0498,
+    "Horabagrus nigricollaris": 0.0498
+  },
+  "tiprates_bamm_lambda": {
+    "Horabagrus brachysoma": 0.0745,
+    "Horabagrus nigricollaris": 0.0745
+  },
+  "tiprates_bamm_mu": {
+    "Horabagrus brachysoma": 0.0008,
+    "Horabagrus nigricollaris": 0.0008
+  },
+  "mean_dr": 0.0498,
+  "mean_bamm_lambda": 0.0745,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Horabagridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Horabagridae.nex.xz"
+}

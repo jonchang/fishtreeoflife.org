@@ -1,0 +1,152 @@
+{
+  "species": [
+    "Congresox talabon",
+    "Congresox talabonoides",
+    "Cynoponticus coniceps",
+    "Cynoponticus ferox",
+    "Cynoponticus savanna",
+    "Gavialiceps arabicus",
+    "Gavialiceps bertelseni",
+    "Gavialiceps javanicus",
+    "Gavialiceps taeniola",
+    "Gavialiceps taiwanensis",
+    "Muraenesox bagio",
+    "Muraenesox cinereus",
+    "Muraenesox yamaguchiensis",
+    "Oxyconger leptognathus",
+    "Sauromuraenesox vorax"
+  ],
+  "sampled_species": [
+    "Congresox talabonoides",
+    "Cynoponticus ferox",
+    "Muraenesox bagio",
+    "Muraenesox cinereus",
+    "Oxyconger leptognathus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Muraenesocidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Anguilliformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Congresox talabonoides": 0.0827,
+    "Cynoponticus ferox": 0.0449,
+    "Muraenesox bagio": 0.036,
+    "Muraenesox cinereus": 0.0394,
+    "Oxyconger leptognathus": 0.0658
+  },
+  "tiprates_bamm_lambda": {
+    "Congresox talabonoides": 0.0641,
+    "Cynoponticus ferox": 0.0641,
+    "Muraenesox bagio": 0.0641,
+    "Muraenesox cinereus": 0.0641,
+    "Oxyconger leptognathus": 0.0641
+  },
+  "tiprates_bamm_mu": {
+    "Congresox talabonoides": 0.0052,
+    "Cynoponticus ferox": 0.0052,
+    "Muraenesox bagio": 0.0052,
+    "Muraenesox cinereus": 0.0052,
+    "Oxyconger leptognathus": 0.0052
+  },
+  "mean_dr": 0.0538,
+  "mean_bamm_lambda": 0.0641,
+  "mean_bamm_mu": 0.0052,
+  "matrix_phylip": "downloads/taxonomy/family/Muraenesocidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Muraenesocidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Muraenesocidae.tre",
+  "phylogram": "downloads/taxonomy/family/Muraenesocidae_phylogram.tre",
+  "rogues": [
+    "Myrichthys_breviceps",
+    "Myrichthys_ocellatus",
+    "Myrichthys_magnificus",
+    "Myrichthys_maculosus",
+    "Callechelys_marmorata",
+    "Callechelys_catostoma",
+    "Leiuranus_semicinctus",
+    "Ophichthus_lithinus",
+    "Pisodonophis_cancrivorus",
+    "Pisodonophis_sangjuensis",
+    "Ophisurus_macrorhynchos",
+    "Xyrias_revulsus",
+    "Ophichthus_puncticeps",
+    "Ophichthus_asakusae",
+    "Brachysomophis_crocodilinus",
+    "Ophichthus_rex",
+    "Ophichthus_gomesii",
+    "Ophichthus_zophochir",
+    "Ophichthus_triserialis",
+    "Echiophis_punctifer",
+    "Ophichthus_serpentinus",
+    "Ophichthus_polyophthalmus",
+    "Apterichtus_klazingai",
+    "Ophichthus_altipennis",
+    "Echelus_uropterus",
+    "Echelus_myrus",
+    "Brachysomophis_cirrocheilos",
+    "Brachysomophis_henshawi",
+    "Myrophis_microchir",
+    "Myrophis_platyrhynchus",
+    "Ahlia_egmontis",
+    "Myrophis_punctatus",
+    "Myrophis_vafer",
+    "Scolecenchelys_breviceps",
+    "Scolecenchelys_aoki",
+    "Muraenichthys_gymnopterus",
+    "Apterichtus_australis",
+    "Scolecenchelys_gymnota"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Muraenesocidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Muraenesocidae_mrca_phylogram.tre"
+}

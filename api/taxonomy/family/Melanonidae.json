@@ -1,0 +1,83 @@
+{
+  "species": [
+    "Melanonus gracilis",
+    "Melanonus zugmayeri"
+  ],
+  "sampled_species": [
+    "Melanonus gracilis",
+    "Melanonus zugmayeri"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Melanonidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gadiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Gadoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Melanonus gracilis": 0.027,
+    "Melanonus zugmayeri": 0.027
+  },
+  "tiprates_bamm_lambda": {
+    "Melanonus gracilis": 0.0522,
+    "Melanonus zugmayeri": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Melanonus gracilis": 0.0003,
+    "Melanonus zugmayeri": 0.0003
+  },
+  "mean_dr": 0.027,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Melanonidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Melanonidae.nex.xz"
+}

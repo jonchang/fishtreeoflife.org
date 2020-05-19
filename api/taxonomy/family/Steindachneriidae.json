@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Steindachneria argentea"
+  ],
+  "sampled_species": [
+    "Steindachneria argentea"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Steindachneriidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gadiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Macrouroidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Steindachneria argentea": 0.046
+  },
+  "tiprates_bamm_lambda": {
+    "Steindachneria argentea": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Steindachneria argentea": 0.0003
+  },
+  "mean_dr": 0.046,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Steindachneriidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Steindachneriidae.nex.xz"
+}

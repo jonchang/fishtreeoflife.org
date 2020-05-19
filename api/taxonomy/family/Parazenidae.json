@@ -1,0 +1,85 @@
+{
+  "species": [
+    "Cyttopsis cypho",
+    "Cyttopsis rosea",
+    "Parazen pacificus",
+    "Stethopristes eos"
+  ],
+  "sampled_species": [
+    "Cyttopsis cypho",
+    "Cyttopsis rosea"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Parazenidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Zeiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Cyttopsis cypho": 0.0238,
+    "Cyttopsis rosea": 0.0238
+  },
+  "tiprates_bamm_lambda": {
+    "Cyttopsis cypho": 0.0521,
+    "Cyttopsis rosea": 0.0521
+  },
+  "tiprates_bamm_mu": {
+    "Cyttopsis cypho": 0.0004,
+    "Cyttopsis rosea": 0.0004
+  },
+  "mean_dr": 0.0238,
+  "mean_bamm_lambda": 0.0521,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Parazenidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Parazenidae.nex.xz"
+}

@@ -1,0 +1,83 @@
+{
+  "species": [
+    "Arctoscopus japonicus",
+    "Trichodon trichodon"
+  ],
+  "sampled_species": [
+    "Arctoscopus japonicus",
+    "Trichodon trichodon"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Trichodontidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Cottales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Arctoscopus japonicus": 0.0249,
+    "Trichodon trichodon": 0.0249
+  },
+  "tiprates_bamm_lambda": {
+    "Arctoscopus japonicus": 0.0749,
+    "Trichodon trichodon": 0.0749
+  },
+  "tiprates_bamm_mu": {
+    "Arctoscopus japonicus": 0.0021,
+    "Trichodon trichodon": 0.0021
+  },
+  "mean_dr": 0.0249,
+  "mean_bamm_lambda": 0.0749,
+  "mean_bamm_mu": 0.0021,
+  "matrix_phylip": "downloads/taxonomy/family/Trichodontidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Trichodontidae.nex.xz"
+}

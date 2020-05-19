@@ -1,0 +1,81 @@
+{
+  "species": [
+    "Chirocentrus dorab",
+    "Chirocentrus nudus",
+    "Chirocentrus sp"
+  ],
+  "sampled_species": [
+    "Chirocentrus dorab",
+    "Chirocentrus sp"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Chirocentridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Clupeiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Clupei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Clupeoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Chirocentrus dorab": 0.0315
+  },
+  "tiprates_bamm_lambda": {
+    "Chirocentrus dorab": 0.0458
+  },
+  "tiprates_bamm_mu": {
+    "Chirocentrus dorab": 0.0039
+  },
+  "mean_dr": 0.0315,
+  "mean_bamm_lambda": 0.0458,
+  "mean_bamm_mu": 0.0039,
+  "matrix_phylip": "downloads/taxonomy/family/Chirocentridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Chirocentridae.nex.xz"
+}

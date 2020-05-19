@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Zanclus cornutus"
+  ],
+  "sampled_species": [
+    "Zanclus cornutus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Zanclidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Acanthuriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Zanclus cornutus": 0.0128
+  },
+  "tiprates_bamm_lambda": {
+    "Zanclus cornutus": 0.0582
+  },
+  "tiprates_bamm_mu": {
+    "Zanclus cornutus": 0.0006
+  },
+  "mean_dr": 0.0128,
+  "mean_bamm_lambda": 0.0582,
+  "mean_bamm_mu": 0.0006,
+  "matrix_phylip": "downloads/taxonomy/family/Zanclidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Zanclidae.nex.xz"
+}

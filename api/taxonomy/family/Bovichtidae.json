@@ -1,0 +1,101 @@
+{
+  "species": [
+    "Bovichtus angustifrons",
+    "Bovichtus argentinus",
+    "Bovichtus chilensis",
+    "Bovichtus diacanthus",
+    "Bovichtus oculus",
+    "Bovichtus psychrolutes",
+    "Bovichtus variegatus",
+    "Bovichtus veneris",
+    "Cottoperca gobio",
+    "Cottoperca trigloides",
+    "Halaphritis platycephala"
+  ],
+  "sampled_species": [
+    "Bovichtus diacanthus",
+    "Bovichtus variegatus",
+    "Cottoperca gobio"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Bovichtidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Notothenioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Bovichtus diacanthus": 0.0875,
+    "Bovichtus variegatus": 0.0928,
+    "Cottoperca gobio": 0.0521
+  },
+  "tiprates_bamm_lambda": {
+    "Bovichtus diacanthus": 0.0577,
+    "Bovichtus variegatus": 0.0577,
+    "Cottoperca gobio": 0.0577
+  },
+  "tiprates_bamm_mu": {
+    "Bovichtus diacanthus": 0.0003,
+    "Bovichtus variegatus": 0.0003,
+    "Cottoperca gobio": 0.0003
+  },
+  "mean_dr": 0.0774,
+  "mean_bamm_lambda": 0.0577,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Bovichtidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Bovichtidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Bovichtidae.tre",
+  "phylogram": "downloads/taxonomy/family/Bovichtidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

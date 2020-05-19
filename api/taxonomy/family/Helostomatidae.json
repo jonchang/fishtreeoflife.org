@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Helostoma temminkii"
+  ],
+  "sampled_species": [
+    "Helostoma temminkii"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Helostomatidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Anabantiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Anabantaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Anabantoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Helostoma temminkii": 0.0136
+  },
+  "tiprates_bamm_lambda": {
+    "Helostoma temminkii": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Helostoma temminkii": 0.0003
+  },
+  "mean_dr": 0.0136,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Helostomatidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Helostomatidae.nex.xz"
+}

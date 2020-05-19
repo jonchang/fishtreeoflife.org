@@ -1,0 +1,98 @@
+{
+  "species": [
+    "Citharidium ansorgii",
+    "Citharinops distichodoides",
+    "Citharinus citharus",
+    "Citharinus congicus",
+    "Citharinus eburneensis",
+    "Citharinus gibbosus",
+    "Citharinus latus",
+    "Citharinus macrolepis"
+  ],
+  "sampled_species": [
+    "Citharinus citharus",
+    "Citharinus congicus",
+    "Citharinus gibbosus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Citharinidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Characiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Citharinoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Citharinus citharus": 0.0369,
+    "Citharinus congicus": 0.0529,
+    "Citharinus gibbosus": 0.0488
+  },
+  "tiprates_bamm_lambda": {
+    "Citharinus citharus": 0.0733,
+    "Citharinus congicus": 0.0733,
+    "Citharinus gibbosus": 0.0733
+  },
+  "tiprates_bamm_mu": {
+    "Citharinus citharus": 0.0008,
+    "Citharinus congicus": 0.0008,
+    "Citharinus gibbosus": 0.0008
+  },
+  "mean_dr": 0.0462,
+  "mean_bamm_lambda": 0.0733,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Citharinidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Citharinidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Citharinidae.tre",
+  "phylogram": "downloads/taxonomy/family/Citharinidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

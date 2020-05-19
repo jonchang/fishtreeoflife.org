@@ -1,0 +1,108 @@
+{
+  "species": [
+    "Chironemus bicornis",
+    "Chironemus delfini",
+    "Chironemus georgianus",
+    "Chironemus maculosus",
+    "Chironemus marmoratus",
+    "Chironemus microlepis"
+  ],
+  "sampled_species": [
+    "Chironemus bicornis",
+    "Chironemus delfini",
+    "Chironemus georgianus",
+    "Chironemus maculosus",
+    "Chironemus marmoratus",
+    "Chironemus microlepis"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Chironemidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Centrarchiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cirrhitioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Chironemus bicornis": 0.0425,
+    "Chironemus delfini": 0.0506,
+    "Chironemus georgianus": 0.0506,
+    "Chironemus maculosus": 0.0239,
+    "Chironemus marmoratus": 0.0605,
+    "Chironemus microlepis": 0.0605
+  },
+  "tiprates_bamm_lambda": {
+    "Chironemus bicornis": 0.0579,
+    "Chironemus delfini": 0.0579,
+    "Chironemus georgianus": 0.0579,
+    "Chironemus maculosus": 0.0579,
+    "Chironemus marmoratus": 0.0579,
+    "Chironemus microlepis": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Chironemus bicornis": 0.0003,
+    "Chironemus delfini": 0.0003,
+    "Chironemus georgianus": 0.0003,
+    "Chironemus maculosus": 0.0003,
+    "Chironemus marmoratus": 0.0003,
+    "Chironemus microlepis": 0.0003
+  },
+  "mean_dr": 0.0481,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Chironemidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Chironemidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Chironemidae.tre",
+  "phylogram": "downloads/taxonomy/family/Chironemidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "species": [
+    "Indostomus crocodilus",
+    "Indostomus paradoxus",
+    "Indostomus spinosus"
+  ],
+  "sampled_species": [
+    "Indostomus paradoxus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Indostomidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Synbranchiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Anabantaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Indostomoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Indostomus paradoxus": 0.0287
+  },
+  "tiprates_bamm_lambda": {
+    "Indostomus paradoxus": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Indostomus paradoxus": 0.0003
+  },
+  "mean_dr": 0.0287,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Indostomidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Indostomidae.nex.xz"
+}

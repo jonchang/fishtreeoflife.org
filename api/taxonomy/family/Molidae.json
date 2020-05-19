@@ -1,0 +1,94 @@
+{
+  "species": [
+    "Masturus lanceolatus",
+    "Mola mola",
+    "Mola ramsayi",
+    "Ranzania laevis"
+  ],
+  "sampled_species": [
+    "Masturus lanceolatus",
+    "Mola mola",
+    "Ranzania laevis"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Molidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Tetraodontiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Moloidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Masturus lanceolatus": 0.0315,
+    "Mola mola": 0.0577,
+    "Ranzania laevis": 0.0177
+  },
+  "tiprates_bamm_lambda": {
+    "Masturus lanceolatus": 0.0872,
+    "Mola mola": 0.0872,
+    "Ranzania laevis": 0.0872
+  },
+  "tiprates_bamm_mu": {
+    "Masturus lanceolatus": 0.0124,
+    "Mola mola": 0.0124,
+    "Ranzania laevis": 0.0124
+  },
+  "mean_dr": 0.0356,
+  "mean_bamm_lambda": 0.0872,
+  "mean_bamm_mu": 0.0124,
+  "matrix_phylip": "downloads/taxonomy/family/Molidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Molidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Molidae.tre",
+  "phylogram": "downloads/taxonomy/family/Molidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

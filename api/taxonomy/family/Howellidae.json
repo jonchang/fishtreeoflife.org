@@ -1,0 +1,90 @@
+{
+  "species": [
+    "Bathysphyraenops declivifrons",
+    "Bathysphyraenops simplex",
+    "Howella atlantica",
+    "Howella brodiei",
+    "Howella pammelas",
+    "Howella parini",
+    "Howella sherborni",
+    "Howella zina",
+    "Pseudohowella intermedia"
+  ],
+  "sampled_species": [
+    "Howella brodiei",
+    "Howella zina"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Howellidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pempheriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Howella brodiei": 0.0506,
+    "Howella zina": 0.044
+  },
+  "tiprates_bamm_lambda": {
+    "Howella brodiei": 0.0579,
+    "Howella zina": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Howella brodiei": 0.0003,
+    "Howella zina": 0.0003
+  },
+  "mean_dr": 0.0473,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Howellidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Howellidae.nex.xz"
+}

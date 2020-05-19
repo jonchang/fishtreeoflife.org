@@ -1,0 +1,111 @@
+{
+  "species": [
+    "Ahliesaurus berryi",
+    "Ahliesaurus brevis",
+    "Luciosudis normani",
+    "Scopelosaurus adleri",
+    "Scopelosaurus ahlstromi",
+    "Scopelosaurus argenteus",
+    "Scopelosaurus craddocki",
+    "Scopelosaurus gibbsi",
+    "Scopelosaurus hamiltoni",
+    "Scopelosaurus harryi",
+    "Scopelosaurus herwigi",
+    "Scopelosaurus hoedti",
+    "Scopelosaurus hubbsi",
+    "Scopelosaurus lepidus",
+    "Scopelosaurus mauli",
+    "Scopelosaurus meadi",
+    "Scopelosaurus smithii"
+  ],
+  "sampled_species": [
+    "Ahliesaurus berryi",
+    "Scopelosaurus hamiltoni",
+    "Scopelosaurus harryi",
+    "Scopelosaurus lepidus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Notosudidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Aulopiformes"
+    ],
+    "section": [
+      "Aulopa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Alepisauroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Ahliesaurus berryi": 0.0366,
+    "Scopelosaurus hamiltoni": 0.0805,
+    "Scopelosaurus harryi": 0.0812,
+    "Scopelosaurus lepidus": 0.0587
+  },
+  "tiprates_bamm_lambda": {
+    "Ahliesaurus berryi": 0.0348,
+    "Scopelosaurus hamiltoni": 0.0348,
+    "Scopelosaurus harryi": 0.0348,
+    "Scopelosaurus lepidus": 0.0348
+  },
+  "tiprates_bamm_mu": {
+    "Ahliesaurus berryi": 0.001,
+    "Scopelosaurus hamiltoni": 0.001,
+    "Scopelosaurus harryi": 0.001,
+    "Scopelosaurus lepidus": 0.001
+  },
+  "mean_dr": 0.0643,
+  "mean_bamm_lambda": 0.0348,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Notosudidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Notosudidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Notosudidae.tre",
+  "phylogram": "downloads/taxonomy/family/Notosudidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

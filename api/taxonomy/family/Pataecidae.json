@@ -1,0 +1,80 @@
+{
+  "species": [
+    "Aetapcus maculatus",
+    "Neopataecus waterhousii",
+    "Pataecus fronto"
+  ],
+  "sampled_species": [
+    "Aetapcus maculatus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Pataecidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Aetapcus maculatus": 0.0891
+  },
+  "tiprates_bamm_lambda": {
+    "Aetapcus maculatus": 0.0578
+  },
+  "tiprates_bamm_mu": {
+    "Aetapcus maculatus": 0.0009
+  },
+  "mean_dr": 0.0891,
+  "mean_bamm_lambda": 0.0578,
+  "mean_bamm_mu": 0.0009,
+  "matrix_phylip": "downloads/taxonomy/family/Pataecidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Pataecidae.nex.xz"
+}

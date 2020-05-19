@@ -1,0 +1,99 @@
+{
+  "species": [
+    "Apodocreedia vanderhorsti",
+    "Chalixodytes chameleontoculis",
+    "Chalixodytes tauensis",
+    "Creedia alleni",
+    "Creedia bilineata",
+    "Creedia haswelli",
+    "Creedia partimsquamigera",
+    "Crystallodytes cookei",
+    "Crystallodytes pauciradiatus",
+    "Limnichthys fasciatus",
+    "Limnichthys marisrubri",
+    "Limnichthys nitidus",
+    "Limnichthys orientalis",
+    "Limnichthys polyactis",
+    "Limnichthys rendahli",
+    "Myopsaron nelsoni",
+    "Schizochirus insolens",
+    "Tewara cranwellae"
+  ],
+  "sampled_species": [
+    "Limnichthys fasciatus",
+    "Tewara cranwellae"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Creediidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pempheriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Limnichthys fasciatus": 0.0941,
+    "Tewara cranwellae": 0.1869
+  },
+  "tiprates_bamm_lambda": {
+    "Limnichthys fasciatus": 0.0579,
+    "Tewara cranwellae": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Limnichthys fasciatus": 0.0003,
+    "Tewara cranwellae": 0.0003
+  },
+  "mean_dr": 0.1405,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Creediidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Creediidae.nex.xz"
+}

@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Rachycentron canadum"
+  ],
+  "sampled_species": [
+    "Rachycentron canadum"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Rachycentridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Carangiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Rachycentron canadum": 0.0235
+  },
+  "tiprates_bamm_lambda": {
+    "Rachycentron canadum": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Rachycentron canadum": 0.0003
+  },
+  "mean_dr": 0.0235,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Rachycentridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Rachycentridae.nex.xz"
+}

@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Leptobrama muelleri"
+  ],
+  "sampled_species": [
+    "Leptobrama muelleri"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Leptobramidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Carangaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Leptobrama muelleri": 0.0157
+  },
+  "tiprates_bamm_lambda": {
+    "Leptobrama muelleri": 0.0548
+  },
+  "tiprates_bamm_mu": {
+    "Leptobrama muelleri": 0.0005
+  },
+  "mean_dr": 0.0157,
+  "mean_bamm_lambda": 0.0548,
+  "mean_bamm_mu": 0.0005,
+  "matrix_phylip": "downloads/taxonomy/family/Leptobramidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Leptobramidae.nex.xz"
+}

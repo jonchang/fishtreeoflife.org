@@ -1,0 +1,104 @@
+{
+  "species": [
+    "Prototroctes maraena",
+    "Prototroctes oxyrhynchus",
+    "Retropinna retropinna",
+    "Retropinna semoni",
+    "Retropinna tasmanica",
+    "Stokellia anisodon"
+  ],
+  "sampled_species": [
+    "Prototroctes maraena",
+    "Retropinna retropinna",
+    "Retropinna semoni",
+    "Retropinna tasmanica",
+    "Stokellia anisodon"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Retropinnidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Osmeriformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Stomiatii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Prototroctes maraena": 0.0187,
+    "Retropinna retropinna": 0.0271,
+    "Retropinna semoni": 0.0256,
+    "Retropinna tasmanica": 0.0256,
+    "Stokellia anisodon": 0.0271
+  },
+  "tiprates_bamm_lambda": {
+    "Prototroctes maraena": 0.0345,
+    "Retropinna retropinna": 0.0345,
+    "Retropinna semoni": 0.0345,
+    "Retropinna tasmanica": 0.0345,
+    "Stokellia anisodon": 0.0345
+  },
+  "tiprates_bamm_mu": {
+    "Prototroctes maraena": 0.001,
+    "Retropinna retropinna": 0.001,
+    "Retropinna semoni": 0.001,
+    "Retropinna tasmanica": 0.001,
+    "Stokellia anisodon": 0.001
+  },
+  "mean_dr": 0.0248,
+  "mean_bamm_lambda": 0.0345,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Retropinnidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Retropinnidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Retropinnidae.tre",
+  "phylogram": "downloads/taxonomy/family/Retropinnidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

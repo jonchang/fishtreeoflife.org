@@ -1,0 +1,83 @@
+{
+  "species": [
+    "Dichistius capensis",
+    "Dichistius multifasciatus"
+  ],
+  "sampled_species": [
+    "Dichistius capensis",
+    "Dichistius multifasciatus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Dichistiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Dichistius capensis": 0.0508,
+    "Dichistius multifasciatus": 0.0508
+  },
+  "tiprates_bamm_lambda": {
+    "Dichistius capensis": 0.0611,
+    "Dichistius multifasciatus": 0.0611
+  },
+  "tiprates_bamm_mu": {
+    "Dichistius capensis": 0.0015,
+    "Dichistius multifasciatus": 0.0015
+  },
+  "mean_dr": 0.0508,
+  "mean_bamm_lambda": 0.0611,
+  "mean_bamm_mu": 0.0015,
+  "matrix_phylip": "downloads/taxonomy/family/Dichistiidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Dichistiidae.nex.xz"
+}

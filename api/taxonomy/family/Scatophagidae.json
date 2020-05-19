@@ -1,0 +1,94 @@
+{
+  "species": [
+    "Scatophagus argus",
+    "Scatophagus tetracanthus",
+    "Selenotoca multifasciata",
+    "Selenotoca papuensis"
+  ],
+  "sampled_species": [
+    "Scatophagus argus",
+    "Scatophagus tetracanthus",
+    "Selenotoca multifasciata"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Scatophagidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Scatophagus argus": 0.041,
+    "Scatophagus tetracanthus": 0.041,
+    "Selenotoca multifasciata": 0.0432
+  },
+  "tiprates_bamm_lambda": {
+    "Scatophagus argus": 0.058,
+    "Scatophagus tetracanthus": 0.058,
+    "Selenotoca multifasciata": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Scatophagus argus": 0.0004,
+    "Scatophagus tetracanthus": 0.0004,
+    "Selenotoca multifasciata": 0.0004
+  },
+  "mean_dr": 0.0417,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Scatophagidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Scatophagidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Scatophagidae.tre",
+  "phylogram": "downloads/taxonomy/family/Scatophagidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

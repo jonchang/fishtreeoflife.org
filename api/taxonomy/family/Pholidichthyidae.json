@@ -1,0 +1,79 @@
+{
+  "species": [
+    "Pholidichthys anguis",
+    "Pholidichthys leucotaenia"
+  ],
+  "sampled_species": [
+    "Pholidichthys leucotaenia"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Pholidichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pholidichthyiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Cichlomorphae"
+    ]
+  },
+  "tiprates_dr": {
+    "Pholidichthys leucotaenia": 0.0186
+  },
+  "tiprates_bamm_lambda": {
+    "Pholidichthys leucotaenia": 0.0551
+  },
+  "tiprates_bamm_mu": {
+    "Pholidichthys leucotaenia": 0.0006
+  },
+  "mean_dr": 0.0186,
+  "mean_bamm_lambda": 0.0551,
+  "mean_bamm_mu": 0.0006,
+  "matrix_phylip": "downloads/taxonomy/family/Pholidichthyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Pholidichthyidae.nex.xz"
+}

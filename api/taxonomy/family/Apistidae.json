@@ -1,0 +1,80 @@
+{
+  "species": [
+    "Apistops caloundra",
+    "Apistus carinatus",
+    "Cheroscorpaena tridactyla"
+  ],
+  "sampled_species": [
+    "Apistus carinatus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Apistidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Apistus carinatus": 0.07
+  },
+  "tiprates_bamm_lambda": {
+    "Apistus carinatus": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Apistus carinatus": 0.0004
+  },
+  "mean_dr": 0.07,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Apistidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Apistidae.nex.xz"
+}

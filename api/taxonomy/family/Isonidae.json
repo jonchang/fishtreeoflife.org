@@ -1,0 +1,86 @@
+{
+  "species": [
+    "Iso flosmaris",
+    "Iso hawaiiensis",
+    "Iso natalensis",
+    "Iso nesiotes",
+    "Iso rhothophilus"
+  ],
+  "sampled_species": [
+    "Iso natalensis",
+    "Iso rhothophilus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Isonidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Atheriniformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Atherinomorphae"
+    ]
+  },
+  "tiprates_dr": {
+    "Iso natalensis": 0.0595,
+    "Iso rhothophilus": 0.0529
+  },
+  "tiprates_bamm_lambda": {
+    "Iso natalensis": 0.0556,
+    "Iso rhothophilus": 0.0556
+  },
+  "tiprates_bamm_mu": {
+    "Iso natalensis": 0.0003,
+    "Iso rhothophilus": 0.0003
+  },
+  "mean_dr": 0.0562,
+  "mean_bamm_lambda": 0.0556,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Isonidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Isonidae.nex.xz"
+}

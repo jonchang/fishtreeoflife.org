@@ -1,0 +1,96 @@
+{
+  "species": [
+    "Poecilopsetta albomaculata",
+    "Poecilopsetta beanii",
+    "Poecilopsetta colorata",
+    "Poecilopsetta dorsialta",
+    "Poecilopsetta hawaiiensis",
+    "Poecilopsetta inermis",
+    "Poecilopsetta macrocephala",
+    "Poecilopsetta multiradiata",
+    "Poecilopsetta natalensis",
+    "Poecilopsetta normani",
+    "Poecilopsetta pectoralis",
+    "Poecilopsetta plinthus",
+    "Poecilopsetta praelonga",
+    "Poecilopsetta vaynei",
+    "Poecilopsetta zanzibarensis"
+  ],
+  "sampled_species": [
+    "Poecilopsetta beanii",
+    "Poecilopsetta plinthus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Poecilopsettidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pleuronectiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Pleuronectoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Poecilopsetta beanii": 0.101,
+    "Poecilopsetta plinthus": 0.1083
+  },
+  "tiprates_bamm_lambda": {
+    "Poecilopsetta beanii": 0.0917,
+    "Poecilopsetta plinthus": 0.0917
+  },
+  "tiprates_bamm_mu": {
+    "Poecilopsetta beanii": 0.0116,
+    "Poecilopsetta plinthus": 0.0116
+  },
+  "mean_dr": 0.1047,
+  "mean_bamm_lambda": 0.0917,
+  "mean_bamm_mu": 0.0116,
+  "matrix_phylip": "downloads/taxonomy/family/Poecilopsettidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Poecilopsettidae.nex.xz"
+}

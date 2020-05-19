@@ -1,0 +1,113 @@
+{
+  "species": [
+    "Dallia admirabilis",
+    "Dallia delicatissima",
+    "Dallia pectoralis",
+    "Novumbra hubbsi",
+    "Umbra krameri",
+    "Umbra limi",
+    "Umbra pygmaea"
+  ],
+  "sampled_species": [
+    "Dallia pectoralis",
+    "Novumbra hubbsi",
+    "Umbra krameri",
+    "Umbra limi",
+    "Umbra pygmaea"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Umbridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Esociformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Protacanthopterygii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Dallia pectoralis": 0.019,
+    "Novumbra hubbsi": 0.0111,
+    "Umbra krameri": 0.0121,
+    "Umbra limi": 0.0235,
+    "Umbra pygmaea": 0.0235
+  },
+  "tiprates_bamm_lambda": {
+    "Dallia pectoralis": 0.0341,
+    "Novumbra hubbsi": 0.0341,
+    "Umbra krameri": 0.0341,
+    "Umbra limi": 0.0341,
+    "Umbra pygmaea": 0.0341
+  },
+  "tiprates_bamm_mu": {
+    "Dallia pectoralis": 0.0017,
+    "Novumbra hubbsi": 0.0017,
+    "Umbra krameri": 0.0017,
+    "Umbra limi": 0.0017,
+    "Umbra pygmaea": 0.0017
+  },
+  "mean_dr": 0.0178,
+  "mean_bamm_lambda": 0.0341,
+  "mean_bamm_mu": 0.0017,
+  "matrix_phylip": "downloads/taxonomy/family/Umbridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Umbridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Umbridae.tre",
+  "phylogram": "downloads/taxonomy/family/Umbridae_phylogram.tre",
+  "rogues": [
+    "Esox_cisalpinus",
+    "Esox_lucius",
+    "Esox_reichertii",
+    "Esox_masquinongy",
+    "Esox_niger",
+    "Esox_americanus_americanus",
+    "Esox_americanus_vermiculatus"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Umbridae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Umbridae_mrca_phylogram.tre"
+}

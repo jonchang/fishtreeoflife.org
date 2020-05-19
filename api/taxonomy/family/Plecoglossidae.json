@@ -1,0 +1,81 @@
+{
+  "species": [
+    "Plecoglossus altivelis altivelis",
+    "Plecoglossus altivelis chinensis",
+    "Plecoglossus altivelis ryukyuensis"
+  ],
+  "sampled_species": [
+    "Plecoglossus altivelis altivelis",
+    "Plecoglossus altivelis ryukyuensis"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Plecoglossidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Osmeriformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Stomiatii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Plecoglossus altivelis altivelis": 0.0376
+  },
+  "tiprates_bamm_lambda": {
+    "Plecoglossus altivelis altivelis": 0.0367
+  },
+  "tiprates_bamm_mu": {
+    "Plecoglossus altivelis altivelis": 0.0026
+  },
+  "mean_dr": 0.0376,
+  "mean_bamm_lambda": 0.0367,
+  "mean_bamm_mu": 0.0026,
+  "matrix_phylip": "downloads/taxonomy/family/Plecoglossidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Plecoglossidae.nex.xz"
+}

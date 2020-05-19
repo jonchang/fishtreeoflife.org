@@ -1,0 +1,87 @@
+{
+  "species": [
+    "Monodactylus argenteus",
+    "Monodactylus falciformis",
+    "Monodactylus kottelati",
+    "Monodactylus sebae",
+    "Schuettea scalaripinnis",
+    "Schuettea woodwardi"
+  ],
+  "sampled_species": [
+    "Monodactylus argenteus",
+    "Monodactylus falciformis"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Monodactylidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Monodactylus argenteus": 0.0568,
+    "Monodactylus falciformis": 0.0611
+  },
+  "tiprates_bamm_lambda": {
+    "Monodactylus argenteus": 0.0581,
+    "Monodactylus falciformis": 0.0581
+  },
+  "tiprates_bamm_mu": {
+    "Monodactylus argenteus": 0.0005,
+    "Monodactylus falciformis": 0.0005
+  },
+  "mean_dr": 0.059,
+  "mean_bamm_lambda": 0.0581,
+  "mean_bamm_mu": 0.0005,
+  "matrix_phylip": "downloads/taxonomy/family/Monodactylidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Monodactylidae.nex.xz"
+}

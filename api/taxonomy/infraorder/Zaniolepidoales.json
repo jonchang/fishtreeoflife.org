@@ -1,0 +1,83 @@
+{
+  "species": [
+    "Zaniolepis frenata",
+    "Zaniolepis latipinnis"
+  ],
+  "sampled_species": [
+    "Zaniolepis frenata",
+    "Zaniolepis latipinnis"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Zaniolepididae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Zaniolepidoales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Zaniolepis frenata": 0.0351,
+    "Zaniolepis latipinnis": 0.0351
+  },
+  "tiprates_bamm_lambda": {
+    "Zaniolepis frenata": 0.058,
+    "Zaniolepis latipinnis": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Zaniolepis frenata": 0.0003,
+    "Zaniolepis latipinnis": 0.0003
+  },
+  "mean_dr": 0.0351,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/infraorder/Zaniolepidoales.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/infraorder/Zaniolepidoales.nex.xz"
+}

@@ -1,0 +1,99 @@
+{
+  "species": [
+    "Gulaphallus bikolanus",
+    "Gulaphallus eximius",
+    "Gulaphallus falcifer",
+    "Gulaphallus mirabilis",
+    "Gulaphallus panayensis",
+    "Neostethus amaricola",
+    "Neostethus bicornis",
+    "Neostethus borneensis",
+    "Neostethus ctenophorus",
+    "Neostethus djajaorum",
+    "Neostethus lankesteri",
+    "Neostethus palawanensis",
+    "Neostethus robertsi",
+    "Neostethus thessa",
+    "Neostethus villadolidi",
+    "Neostethus zamboangae",
+    "Phallostethus cuulong",
+    "Phallostethus dunckeri",
+    "Phallostethus lehi",
+    "Phenacostethus posthon",
+    "Phenacostethus smithi",
+    "Phenacostethus trewavasae"
+  ],
+  "sampled_species": [
+    "Neostethus bicornis"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Phallostethidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Atheriniformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Atherinomorphae"
+    ]
+  },
+  "tiprates_dr": {
+    "Neostethus bicornis": 0.0633
+  },
+  "tiprates_bamm_lambda": {
+    "Neostethus bicornis": 0.0556
+  },
+  "tiprates_bamm_mu": {
+    "Neostethus bicornis": 0.0003
+  },
+  "mean_dr": 0.0633,
+  "mean_bamm_lambda": 0.0556,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Phallostethidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Phallostethidae.nex.xz"
+}

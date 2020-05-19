@@ -1,0 +1,113 @@
+{
+  "species": [
+    "Atractosteus spatula",
+    "Atractosteus tristoechus",
+    "Atractosteus tropicus",
+    "Lepisosteus oculatus",
+    "Lepisosteus osseus",
+    "Lepisosteus platostomus",
+    "Lepisosteus platyrhincus"
+  ],
+  "sampled_species": [
+    "Atractosteus spatula",
+    "Atractosteus tristoechus",
+    "Atractosteus tropicus",
+    "Lepisosteus oculatus",
+    "Lepisosteus osseus",
+    "Lepisosteus platostomus",
+    "Lepisosteus platyrhincus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Lepisosteidae"
+    ],
+    "infraclass": [
+      "Holostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+
+    ],
+    "order": [
+      "Lepisosteiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Atractosteus spatula": 0.0195,
+    "Atractosteus tristoechus": 0.0195,
+    "Atractosteus tropicus": 0.01,
+    "Lepisosteus oculatus": 0.0195,
+    "Lepisosteus osseus": 0.0191,
+    "Lepisosteus platostomus": 0.0191,
+    "Lepisosteus platyrhincus": 0.0195
+  },
+  "tiprates_bamm_lambda": {
+    "Atractosteus spatula": 0.0606,
+    "Atractosteus tristoechus": 0.0606,
+    "Atractosteus tropicus": 0.0606,
+    "Lepisosteus oculatus": 0.0606,
+    "Lepisosteus osseus": 0.0606,
+    "Lepisosteus platostomus": 0.0606,
+    "Lepisosteus platyrhincus": 0.0606
+  },
+  "tiprates_bamm_mu": {
+    "Atractosteus spatula": 0.0671,
+    "Atractosteus tristoechus": 0.0671,
+    "Atractosteus tropicus": 0.0671,
+    "Lepisosteus oculatus": 0.0671,
+    "Lepisosteus osseus": 0.0671,
+    "Lepisosteus platostomus": 0.0671,
+    "Lepisosteus platyrhincus": 0.0671
+  },
+  "mean_dr": 0.018,
+  "mean_bamm_lambda": 0.0606,
+  "mean_bamm_mu": 0.0671,
+  "matrix_phylip": "downloads/taxonomy/order/Lepisosteiformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Lepisosteiformes.nex.xz",
+  "chronogram": "downloads/taxonomy/order/Lepisosteiformes.tre",
+  "phylogram": "downloads/taxonomy/order/Lepisosteiformes_phylogram.tre",
+  "rogues": [
+
+  ]
+}

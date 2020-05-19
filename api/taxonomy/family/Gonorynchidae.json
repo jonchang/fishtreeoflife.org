@@ -1,0 +1,86 @@
+{
+  "species": [
+    "Gonorynchus abbreviatus",
+    "Gonorynchus forsteri",
+    "Gonorynchus gonorynchus",
+    "Gonorynchus greyi",
+    "Gonorynchus moseleyi"
+  ],
+  "sampled_species": [
+    "Gonorynchus forsteri",
+    "Gonorynchus greyi"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Gonorynchidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gonorynchiformes"
+    ],
+    "section": [
+      "Anotophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Gonorynchoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Gonorynchus forsteri": 0.0402,
+    "Gonorynchus greyi": 0.0378
+  },
+  "tiprates_bamm_lambda": {
+    "Gonorynchus forsteri": 0.0335,
+    "Gonorynchus greyi": 0.0335
+  },
+  "tiprates_bamm_mu": {
+    "Gonorynchus forsteri": 0.0021,
+    "Gonorynchus greyi": 0.0021
+  },
+  "mean_dr": 0.039,
+  "mean_bamm_lambda": 0.0335,
+  "mean_bamm_mu": 0.0021,
+  "matrix_phylip": "downloads/taxonomy/family/Gonorynchidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Gonorynchidae.nex.xz"
+}

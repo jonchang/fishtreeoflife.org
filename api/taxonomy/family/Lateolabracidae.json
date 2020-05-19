@@ -1,0 +1,83 @@
+{
+  "species": [
+    "Lateolabrax japonicus",
+    "Lateolabrax latus"
+  ],
+  "sampled_species": [
+    "Lateolabrax japonicus",
+    "Lateolabrax latus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Lateolabracidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pempheriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Lateolabrax japonicus": 0.0451,
+    "Lateolabrax latus": 0.0451
+  },
+  "tiprates_bamm_lambda": {
+    "Lateolabrax japonicus": 0.058,
+    "Lateolabrax latus": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Lateolabrax japonicus": 0.0004,
+    "Lateolabrax latus": 0.0004
+  },
+  "mean_dr": 0.0451,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Lateolabracidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Lateolabracidae.nex.xz"
+}

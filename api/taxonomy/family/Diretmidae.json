@@ -1,0 +1,85 @@
+{
+  "species": [
+    "Diretmichthys parini",
+    "Diretmoides pauciradiatus",
+    "Diretmoides veriginae",
+    "Diretmus argenteus"
+  ],
+  "sampled_species": [
+    "Diretmichthys parini",
+    "Diretmus argenteus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Diretmidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Beryciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Berycimorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Diretmichthys parini": 0.0329,
+    "Diretmus argenteus": 0.0314
+  },
+  "tiprates_bamm_lambda": {
+    "Diretmichthys parini": 0.0548,
+    "Diretmus argenteus": 0.0548
+  },
+  "tiprates_bamm_mu": {
+    "Diretmichthys parini": 0.0003,
+    "Diretmus argenteus": 0.0003
+  },
+  "mean_dr": 0.0321,
+  "mean_bamm_lambda": 0.0548,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Diretmidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Diretmidae.nex.xz"
+}

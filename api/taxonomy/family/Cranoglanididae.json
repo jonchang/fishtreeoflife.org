@@ -1,0 +1,82 @@
+{
+  "species": [
+    "Cranoglanis bouderius",
+    "Cranoglanis caolangensis",
+    "Cranoglanis henrici",
+    "Cranoglanis multiradiatus",
+    "Cranoglanis songhongensis"
+  ],
+  "sampled_species": [
+    "Cranoglanis bouderius"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Cranoglanididae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Cranoglanis bouderius": 0.0602
+  },
+  "tiprates_bamm_lambda": {
+    "Cranoglanis bouderius": 0.0745
+  },
+  "tiprates_bamm_mu": {
+    "Cranoglanis bouderius": 0.0008
+  },
+  "mean_dr": 0.0602,
+  "mean_bamm_lambda": 0.0745,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Cranoglanididae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Cranoglanididae.nex.xz"
+}

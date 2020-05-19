@@ -1,0 +1,104 @@
+{
+  "species": [
+    "Polymixia berndti",
+    "Polymixia busakhini",
+    "Polymixia fusca",
+    "Polymixia japonica",
+    "Polymixia longispina",
+    "Polymixia lowei",
+    "Polymixia nobilis",
+    "Polymixia salagomeziensis",
+    "Polymixia sazonovi",
+    "Polymixia yuri"
+  ],
+  "sampled_species": [
+    "Polymixia berndti",
+    "Polymixia japonica",
+    "Polymixia lowei",
+    "Polymixia nobilis"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Polymixiacea"
+    ],
+    "family": [
+      "Polymixiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Polymixiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Polymixia berndti": 0.0303,
+    "Polymixia japonica": 0.0858,
+    "Polymixia lowei": 0.0463,
+    "Polymixia nobilis": 0.0871
+  },
+  "tiprates_bamm_lambda": {
+    "Polymixia berndti": 0.0522,
+    "Polymixia japonica": 0.0522,
+    "Polymixia lowei": 0.0522,
+    "Polymixia nobilis": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Polymixia berndti": 0.0003,
+    "Polymixia japonica": 0.0003,
+    "Polymixia lowei": 0.0003,
+    "Polymixia nobilis": 0.0003
+  },
+  "mean_dr": 0.0624,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/order/Polymixiiformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Polymixiiformes.nex.xz",
+  "chronogram": "downloads/taxonomy/order/Polymixiiformes.tre",
+  "phylogram": "downloads/taxonomy/order/Polymixiiformes_phylogram.tre",
+  "rogues": [
+
+  ]
+}

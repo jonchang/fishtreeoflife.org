@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Rhamphocottus richardsonii"
+  ],
+  "sampled_species": [
+    "Rhamphocottus richardsonii"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Rhamphocottidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Cottales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Rhamphocottus richardsonii": 0.0648
+  },
+  "tiprates_bamm_lambda": {
+    "Rhamphocottus richardsonii": 0.1174
+  },
+  "tiprates_bamm_mu": {
+    "Rhamphocottus richardsonii": 0.0087
+  },
+  "mean_dr": 0.0648,
+  "mean_bamm_lambda": 0.1174,
+  "mean_bamm_mu": 0.0087,
+  "matrix_phylip": "downloads/taxonomy/family/Rhamphocottidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Rhamphocottidae.nex.xz"
+}

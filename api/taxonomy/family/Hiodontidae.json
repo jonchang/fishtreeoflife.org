@@ -1,0 +1,83 @@
+{
+  "species": [
+    "Hiodon alosoides",
+    "Hiodon tergisus"
+  ],
+  "sampled_species": [
+    "Hiodon alosoides",
+    "Hiodon tergisus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Osteoglossomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Hiodontidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Hiodontiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Osteoglossocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Hiodon alosoides": 0.0089,
+    "Hiodon tergisus": 0.0089
+  },
+  "tiprates_bamm_lambda": {
+    "Hiodon alosoides": 0.0327,
+    "Hiodon tergisus": 0.0327
+  },
+  "tiprates_bamm_mu": {
+    "Hiodon alosoides": 0.0018,
+    "Hiodon tergisus": 0.0018
+  },
+  "mean_dr": 0.0089,
+  "mean_bamm_lambda": 0.0327,
+  "mean_bamm_mu": 0.0018,
+  "matrix_phylip": "downloads/taxonomy/family/Hiodontidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Hiodontidae.nex.xz"
+}

@@ -1,0 +1,93 @@
+{
+  "species": [
+    "Gyrinocheilus aymonieri",
+    "Gyrinocheilus pennocki",
+    "Gyrinocheilus pustulosus"
+  ],
+  "sampled_species": [
+    "Gyrinocheilus aymonieri",
+    "Gyrinocheilus pennocki",
+    "Gyrinocheilus pustulosus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Gyrinocheilidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Cypriniformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Cypriniphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Gyrinocheilus aymonieri": 0.0301,
+    "Gyrinocheilus pennocki": 0.0301,
+    "Gyrinocheilus pustulosus": 0.0171
+  },
+  "tiprates_bamm_lambda": {
+    "Gyrinocheilus aymonieri": 0.0776,
+    "Gyrinocheilus pennocki": 0.0776,
+    "Gyrinocheilus pustulosus": 0.0776
+  },
+  "tiprates_bamm_mu": {
+    "Gyrinocheilus aymonieri": 0.0017,
+    "Gyrinocheilus pennocki": 0.0017,
+    "Gyrinocheilus pustulosus": 0.0017
+  },
+  "mean_dr": 0.0257,
+  "mean_bamm_lambda": 0.0776,
+  "mean_bamm_mu": 0.0017,
+  "matrix_phylip": "downloads/taxonomy/family/Gyrinocheilidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Gyrinocheilidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Gyrinocheilidae.tre",
+  "phylogram": "downloads/taxonomy/family/Gyrinocheilidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

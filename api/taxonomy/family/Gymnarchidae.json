@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Gymnarchus niloticus"
+  ],
+  "sampled_species": [
+    "Gymnarchus niloticus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Osteoglossomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Gymnarchidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Osteoglossiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Osteoglossocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Gymnarchus niloticus": 0.0205
+  },
+  "tiprates_bamm_lambda": {
+    "Gymnarchus niloticus": 0.0329
+  },
+  "tiprates_bamm_mu": {
+    "Gymnarchus niloticus": 0.0025
+  },
+  "mean_dr": 0.0205,
+  "mean_bamm_lambda": 0.0329,
+  "mean_bamm_mu": 0.0025,
+  "matrix_phylip": "downloads/taxonomy/family/Gymnarchidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Gymnarchidae.nex.xz"
+}

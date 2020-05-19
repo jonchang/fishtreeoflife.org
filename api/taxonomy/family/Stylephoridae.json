@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Stylephorus chordatus"
+  ],
+  "sampled_species": [
+    "Stylephorus chordatus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Stylephoridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Stylephoriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Stylephorus chordatus": 0.0091
+  },
+  "tiprates_bamm_lambda": {
+    "Stylephorus chordatus": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Stylephorus chordatus": 0.0003
+  },
+  "mean_dr": 0.0091,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Stylephoridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Stylephoridae.nex.xz"
+}

@@ -1,0 +1,94 @@
+{
+  "species": [
+    "Fistularia commersonii",
+    "Fistularia corneta",
+    "Fistularia petimba",
+    "Fistularia tabacaria"
+  ],
+  "sampled_species": [
+    "Fistularia commersonii",
+    "Fistularia corneta",
+    "Fistularia petimba"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Fistulariidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Syngnathiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Syngnatharia"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Fistularia commersonii": 0.0299,
+    "Fistularia corneta": 0.0303,
+    "Fistularia petimba": 0.0203
+  },
+  "tiprates_bamm_lambda": {
+    "Fistularia commersonii": 0.055,
+    "Fistularia corneta": 0.055,
+    "Fistularia petimba": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Fistularia commersonii": 0.0003,
+    "Fistularia corneta": 0.0003,
+    "Fistularia petimba": 0.0003
+  },
+  "mean_dr": 0.0268,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Fistulariidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Fistulariidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Fistulariidae.tre",
+  "phylogram": "downloads/taxonomy/family/Fistulariidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

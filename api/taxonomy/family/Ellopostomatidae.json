@@ -1,0 +1,79 @@
+{
+  "species": [
+    "Ellopostoma megalomycter",
+    "Ellopostoma mystax"
+  ],
+  "sampled_species": [
+    "Ellopostoma mystax"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Ellopostomatidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Cypriniformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Cypriniphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Ellopostoma mystax": 0.0427
+  },
+  "tiprates_bamm_lambda": {
+    "Ellopostoma mystax": 0.0814
+  },
+  "tiprates_bamm_mu": {
+    "Ellopostoma mystax": 0.0028
+  },
+  "mean_dr": 0.0427,
+  "mean_bamm_lambda": 0.0814,
+  "mean_bamm_mu": 0.0028,
+  "matrix_phylip": "downloads/taxonomy/family/Ellopostomatidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Ellopostomatidae.nex.xz"
+}

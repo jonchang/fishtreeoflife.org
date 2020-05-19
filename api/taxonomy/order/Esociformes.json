@@ -1,0 +1,138 @@
+{
+  "species": [
+    "Esox americanus americanus",
+    "Esox americanus vermiculatus",
+    "Esox cisalpinus",
+    "Esox lucius",
+    "Esox masquinongy",
+    "Esox niger",
+    "Esox reichertii",
+    "Dallia admirabilis",
+    "Dallia delicatissima",
+    "Dallia pectoralis",
+    "Novumbra hubbsi",
+    "Umbra krameri",
+    "Umbra limi",
+    "Umbra pygmaea"
+  ],
+  "sampled_species": [
+    "Esox americanus americanus",
+    "Esox americanus vermiculatus",
+    "Esox cisalpinus",
+    "Esox lucius",
+    "Esox masquinongy",
+    "Esox niger",
+    "Esox reichertii",
+    "Dallia pectoralis",
+    "Novumbra hubbsi",
+    "Umbra krameri",
+    "Umbra limi",
+    "Umbra pygmaea"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Esocidae",
+      "Umbridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Esociformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Protacanthopterygii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Dallia pectoralis": 0.019,
+    "Esox americanus americanus": 0.0472,
+    "Esox cisalpinus": 0.0538,
+    "Esox lucius": 0.0538,
+    "Esox masquinongy": 0.0172,
+    "Esox niger": 0.0472,
+    "Esox reichertii": 0.0281,
+    "Novumbra hubbsi": 0.0111,
+    "Umbra krameri": 0.0121,
+    "Umbra limi": 0.0235,
+    "Umbra pygmaea": 0.0235
+  },
+  "tiprates_bamm_lambda": {
+    "Dallia pectoralis": 0.0341,
+    "Esox americanus americanus": 0.0341,
+    "Esox cisalpinus": 0.0341,
+    "Esox lucius": 0.0341,
+    "Esox masquinongy": 0.0341,
+    "Esox niger": 0.0341,
+    "Esox reichertii": 0.0341,
+    "Novumbra hubbsi": 0.0341,
+    "Umbra krameri": 0.0341,
+    "Umbra limi": 0.0341,
+    "Umbra pygmaea": 0.0341
+  },
+  "tiprates_bamm_mu": {
+    "Dallia pectoralis": 0.0017,
+    "Esox americanus americanus": 0.0017,
+    "Esox cisalpinus": 0.0017,
+    "Esox lucius": 0.0017,
+    "Esox masquinongy": 0.0017,
+    "Esox niger": 0.0017,
+    "Esox reichertii": 0.0017,
+    "Novumbra hubbsi": 0.0017,
+    "Umbra krameri": 0.0017,
+    "Umbra limi": 0.0017,
+    "Umbra pygmaea": 0.0017
+  },
+  "mean_dr": 0.0306,
+  "mean_bamm_lambda": 0.0341,
+  "mean_bamm_mu": 0.0017,
+  "matrix_phylip": "downloads/taxonomy/order/Esociformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Esociformes.nex.xz",
+  "chronogram": "downloads/taxonomy/order/Esociformes.tre",
+  "phylogram": "downloads/taxonomy/order/Esociformes_phylogram.tre",
+  "rogues": [
+
+  ]
+}

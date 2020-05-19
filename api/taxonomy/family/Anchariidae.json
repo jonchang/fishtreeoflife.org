@@ -1,0 +1,83 @@
+{
+  "species": [
+    "Ancharius fuscus",
+    "Ancharius griseus",
+    "Gogo arcuatus",
+    "Gogo atratus",
+    "Gogo brevibarbis",
+    "Gogo ornatus"
+  ],
+  "sampled_species": [
+    "Gogo arcuatus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Anchariidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Gogo arcuatus": 0.0694
+  },
+  "tiprates_bamm_lambda": {
+    "Gogo arcuatus": 0.0745
+  },
+  "tiprates_bamm_mu": {
+    "Gogo arcuatus": 0.0008
+  },
+  "mean_dr": 0.0694,
+  "mean_bamm_lambda": 0.0745,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Anchariidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Anchariidae.nex.xz"
+}

@@ -1,0 +1,79 @@
+{
+  "species": [
+    "Pseudaphritis undulatus",
+    "Pseudaphritis urvillii"
+  ],
+  "sampled_species": [
+    "Pseudaphritis urvillii"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Pseudaphritidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Notothenioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Pseudaphritis urvillii": 0.0297
+  },
+  "tiprates_bamm_lambda": {
+    "Pseudaphritis urvillii": 0.0576
+  },
+  "tiprates_bamm_mu": {
+    "Pseudaphritis urvillii": 0.0003
+  },
+  "mean_dr": 0.0297,
+  "mean_bamm_lambda": 0.0576,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Pseudaphritidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Pseudaphritidae.nex.xz"
+}

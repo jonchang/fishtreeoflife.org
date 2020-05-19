@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Cheimarrichthys fosteri"
+  ],
+  "sampled_species": [
+    "Cheimarrichthys fosteri"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Cheimarrichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Uranoscopiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Cheimarrichthys fosteri": 0.1162
+  },
+  "tiprates_bamm_lambda": {
+    "Cheimarrichthys fosteri": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Cheimarrichthys fosteri": 0.0003
+  },
+  "mean_dr": 0.1162,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Cheimarrichthyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Cheimarrichthyidae.nex.xz"
+}

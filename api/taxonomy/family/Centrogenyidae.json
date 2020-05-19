@@ -1,0 +1,78 @@
+{
+  "species": [
+    "Centrogenys vaigiensis"
+  ],
+  "sampled_species": [
+    "Centrogenys vaigiensis"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Centrogenyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Centrogenys vaigiensis": 0.0288
+  },
+  "tiprates_bamm_lambda": {
+    "Centrogenys vaigiensis": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Centrogenys vaigiensis": 0.0003
+  },
+  "mean_dr": 0.0288,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Centrogenyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Centrogenyidae.nex.xz"
+}

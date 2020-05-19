@@ -1,0 +1,130 @@
+{
+  "species": [
+    "Ammodytes americanus",
+    "Ammodytes dubius",
+    "Ammodytes hexapterus",
+    "Ammodytes marinus",
+    "Ammodytes personatus",
+    "Ammodytes tobianus",
+    "Ammodytoides gilli",
+    "Ammodytoides idai",
+    "Ammodytoides kanazawai",
+    "Ammodytoides kimurai",
+    "Ammodytoides leptus",
+    "Ammodytoides praematura",
+    "Ammodytoides pylei",
+    "Ammodytoides renniei",
+    "Ammodytoides vagus",
+    "Ammodytoides xanthops",
+    "Bleekeria kallolepis",
+    "Bleekeria mitsukurii",
+    "Bleekeria murtii",
+    "Bleekeria viridianguilla",
+    "Gymnammodytes capensis",
+    "Gymnammodytes cicerelus",
+    "Gymnammodytes semisquamatus",
+    "Hyperoplus immaculatus",
+    "Hyperoplus lanceolatus",
+    "Lepidammodytes macrophthalmus",
+    "Protammodytes brachistos",
+    "Protammodytes sarisa"
+  ],
+  "sampled_species": [
+    "Ammodytes americanus",
+    "Ammodytes dubius",
+    "Ammodytes hexapterus",
+    "Ammodytes personatus",
+    "Ammodytes tobianus",
+    "Hyperoplus lanceolatus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Ammodytidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Uranoscopiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Ammodytes americanus": 0.2069,
+    "Ammodytes dubius": 0.2069,
+    "Ammodytes hexapterus": 0.1548,
+    "Ammodytes personatus": 0.0671,
+    "Ammodytes tobianus": 0.2472,
+    "Hyperoplus lanceolatus": 0.3537
+  },
+  "tiprates_bamm_lambda": {
+    "Ammodytes americanus": 0.3362,
+    "Ammodytes dubius": 0.3362,
+    "Ammodytes hexapterus": 0.3362,
+    "Ammodytes personatus": 0.2763,
+    "Ammodytes tobianus": 0.3362,
+    "Hyperoplus lanceolatus": 0.3362
+  },
+  "tiprates_bamm_mu": {
+    "Ammodytes americanus": 0.2554,
+    "Ammodytes dubius": 0.2554,
+    "Ammodytes hexapterus": 0.2554,
+    "Ammodytes personatus": 0.2153,
+    "Ammodytes tobianus": 0.2554,
+    "Hyperoplus lanceolatus": 0.2554
+  },
+  "mean_dr": 0.2061,
+  "mean_bamm_lambda": 0.3262,
+  "mean_bamm_mu": 0.2487,
+  "matrix_phylip": "downloads/taxonomy/family/Ammodytidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Ammodytidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Ammodytidae.tre",
+  "phylogram": "downloads/taxonomy/family/Ammodytidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

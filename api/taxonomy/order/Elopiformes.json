@@ -1,0 +1,112 @@
+{
+  "species": [
+    "Elops affinis",
+    "Elops hawaiensis",
+    "Elops lacerta",
+    "Elops machnata",
+    "Elops saurus",
+    "Elops senegalensis",
+    "Elops smithi",
+    "Megalops atlanticus",
+    "Megalops cyprinoides"
+  ],
+  "sampled_species": [
+    "Elops affinis",
+    "Elops hawaiensis",
+    "Elops machnata",
+    "Elops saurus",
+    "Megalops atlanticus",
+    "Megalops cyprinoides"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Elopidae",
+      "Megalopidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Elopiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Elops affinis": 0.0353,
+    "Elops hawaiensis": 0.0414,
+    "Elops machnata": 0.0409,
+    "Elops saurus": 0.0381,
+    "Megalops atlanticus": 0.0093,
+    "Megalops cyprinoides": 0.0093
+  },
+  "tiprates_bamm_lambda": {
+    "Elops affinis": 0.0353,
+    "Elops hawaiensis": 0.0353,
+    "Elops machnata": 0.0353,
+    "Elops saurus": 0.0353,
+    "Megalops atlanticus": 0.0353,
+    "Megalops cyprinoides": 0.0353
+  },
+  "tiprates_bamm_mu": {
+    "Elops affinis": 0.005,
+    "Elops hawaiensis": 0.005,
+    "Elops machnata": 0.005,
+    "Elops saurus": 0.005,
+    "Megalops atlanticus": 0.005,
+    "Megalops cyprinoides": 0.005
+  },
+  "mean_dr": 0.029,
+  "mean_bamm_lambda": 0.0353,
+  "mean_bamm_mu": 0.005,
+  "matrix_phylip": "downloads/taxonomy/order/Elopiformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Elopiformes.nex.xz",
+  "chronogram": "downloads/taxonomy/order/Elopiformes.tre",
+  "phylogram": "downloads/taxonomy/order/Elopiformes_phylogram.tre",
+  "rogues": [
+
+  ]
+}

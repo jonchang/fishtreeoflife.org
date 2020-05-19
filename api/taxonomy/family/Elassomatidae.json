@@ -1,0 +1,109 @@
+{
+  "species": [
+    "Elassoma alabamae",
+    "Elassoma boehlkei",
+    "Elassoma evergladei",
+    "Elassoma gilberti",
+    "Elassoma okatie",
+    "Elassoma okefenokee",
+    "Elassoma zonatum"
+  ],
+  "sampled_species": [
+    "Elassoma alabamae",
+    "Elassoma boehlkei",
+    "Elassoma evergladei",
+    "Elassoma gilberti",
+    "Elassoma okefenokee",
+    "Elassoma zonatum"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Elassomatidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Centrarchiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Centrarchoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Elassoma alabamae": 0.0669,
+    "Elassoma boehlkei": 0.0815,
+    "Elassoma evergladei": 0.0827,
+    "Elassoma gilberti": 0.0519,
+    "Elassoma okefenokee": 0.0497,
+    "Elassoma zonatum": 0.0675
+  },
+  "tiprates_bamm_lambda": {
+    "Elassoma alabamae": 0.0584,
+    "Elassoma boehlkei": 0.0584,
+    "Elassoma evergladei": 0.0584,
+    "Elassoma gilberti": 0.0584,
+    "Elassoma okefenokee": 0.0584,
+    "Elassoma zonatum": 0.0584
+  },
+  "tiprates_bamm_mu": {
+    "Elassoma alabamae": 0.0009,
+    "Elassoma boehlkei": 0.0009,
+    "Elassoma evergladei": 0.0009,
+    "Elassoma gilberti": 0.0009,
+    "Elassoma okefenokee": 0.0009,
+    "Elassoma zonatum": 0.0009
+  },
+  "mean_dr": 0.0667,
+  "mean_bamm_lambda": 0.0584,
+  "mean_bamm_mu": 0.0009,
+  "matrix_phylip": "downloads/taxonomy/family/Elassomatidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Elassomatidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Elassomatidae.tre",
+  "phylogram": "downloads/taxonomy/family/Elassomatidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

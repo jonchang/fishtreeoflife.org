@@ -1,0 +1,81 @@
+{
+  "species": [
+    "Abyssoberyx levisquamosus",
+    "Acanthochaenus luetkenii",
+    "Malacosarcus macrostoma",
+    "Stephanoberyx monae"
+  ],
+  "sampled_species": [
+    "Acanthochaenus luetkenii"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Stephanoberycidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Beryciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Berycimorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Acanthochaenus luetkenii": 0.0532
+  },
+  "tiprates_bamm_lambda": {
+    "Acanthochaenus luetkenii": 0.0548
+  },
+  "tiprates_bamm_mu": {
+    "Acanthochaenus luetkenii": 0.0003
+  },
+  "mean_dr": 0.0532,
+  "mean_bamm_lambda": 0.0548,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Stephanoberycidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Stephanoberycidae.nex.xz"
+}

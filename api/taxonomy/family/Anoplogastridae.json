@@ -1,0 +1,79 @@
+{
+  "species": [
+    "Anoplogaster brachycera",
+    "Anoplogaster cornuta"
+  ],
+  "sampled_species": [
+    "Anoplogaster cornuta"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Anoplogastridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Beryciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Berycimorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Anoplogaster cornuta": 0.0724
+  },
+  "tiprates_bamm_lambda": {
+    "Anoplogaster cornuta": 0.0548
+  },
+  "tiprates_bamm_mu": {
+    "Anoplogaster cornuta": 0.0003
+  },
+  "mean_dr": 0.0724,
+  "mean_bamm_lambda": 0.0548,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Anoplogastridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Anoplogastridae.nex.xz"
+}

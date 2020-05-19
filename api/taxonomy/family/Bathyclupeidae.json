@@ -1,0 +1,88 @@
+{
+  "species": [
+    "Bathyclupea argentea",
+    "Bathyclupea elongata",
+    "Bathyclupea gracilis",
+    "Bathyclupea hoskynii",
+    "Bathyclupea malayana",
+    "Bathyclupea megaceps",
+    "Bathyclupea schroederi"
+  ],
+  "sampled_species": [
+    "Bathyclupea argentea",
+    "Bathyclupea gracilis"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Bathyclupeidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Bathyclupea argentea": 0.0658,
+    "Bathyclupea gracilis": 0.0635
+  },
+  "tiprates_bamm_lambda": {
+    "Bathyclupea argentea": 0.0579,
+    "Bathyclupea gracilis": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Bathyclupea argentea": 0.0003,
+    "Bathyclupea gracilis": 0.0003
+  },
+  "mean_dr": 0.0646,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Bathyclupeidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Bathyclupeidae.nex.xz"
+}

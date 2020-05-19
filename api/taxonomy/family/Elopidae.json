@@ -1,0 +1,101 @@
+{
+  "species": [
+    "Elops affinis",
+    "Elops hawaiensis",
+    "Elops lacerta",
+    "Elops machnata",
+    "Elops saurus",
+    "Elops senegalensis",
+    "Elops smithi"
+  ],
+  "sampled_species": [
+    "Elops affinis",
+    "Elops hawaiensis",
+    "Elops machnata",
+    "Elops saurus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Elopidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Elopiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Elops affinis": 0.0353,
+    "Elops hawaiensis": 0.0414,
+    "Elops machnata": 0.0409,
+    "Elops saurus": 0.0381
+  },
+  "tiprates_bamm_lambda": {
+    "Elops affinis": 0.0353,
+    "Elops hawaiensis": 0.0353,
+    "Elops machnata": 0.0353,
+    "Elops saurus": 0.0353
+  },
+  "tiprates_bamm_mu": {
+    "Elops affinis": 0.005,
+    "Elops hawaiensis": 0.005,
+    "Elops machnata": 0.005,
+    "Elops saurus": 0.005
+  },
+  "mean_dr": 0.0389,
+  "mean_bamm_lambda": 0.0353,
+  "mean_bamm_mu": 0.005,
+  "matrix_phylip": "downloads/taxonomy/family/Elopidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Elopidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Elopidae.tre",
+  "phylogram": "downloads/taxonomy/family/Elopidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

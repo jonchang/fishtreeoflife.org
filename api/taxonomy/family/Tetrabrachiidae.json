@@ -1,0 +1,83 @@
+{
+  "species": [
+    "Dibrachichthys melanurus",
+    "Tetrabrachium ocellatum"
+  ],
+  "sampled_species": [
+    "Dibrachichthys melanurus",
+    "Tetrabrachium ocellatum"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Tetrabrachiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lophiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Antennarioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Dibrachichthys melanurus": 0.0458,
+    "Tetrabrachium ocellatum": 0.0458
+  },
+  "tiprates_bamm_lambda": {
+    "Dibrachichthys melanurus": 0.0615,
+    "Tetrabrachium ocellatum": 0.0615
+  },
+  "tiprates_bamm_mu": {
+    "Dibrachichthys melanurus": 0.0012,
+    "Tetrabrachium ocellatum": 0.0012
+  },
+  "mean_dr": 0.0458,
+  "mean_bamm_lambda": 0.0615,
+  "mean_bamm_mu": 0.0012,
+  "matrix_phylip": "downloads/taxonomy/family/Tetrabrachiidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Tetrabrachiidae.nex.xz"
+}

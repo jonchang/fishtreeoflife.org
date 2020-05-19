@@ -1,0 +1,105 @@
+{
+  "species": [
+    "Harpagifer andriashevi",
+    "Harpagifer antarcticus",
+    "Harpagifer bispinis",
+    "Harpagifer crozetensis",
+    "Harpagifer georgianus",
+    "Harpagifer kerguelensis",
+    "Harpagifer macquariensis",
+    "Harpagifer nybelini",
+    "Harpagifer palliolatus",
+    "Harpagifer permitini",
+    "Harpagifer spinosus"
+  ],
+  "sampled_species": [
+    "Harpagifer antarcticus",
+    "Harpagifer bispinis",
+    "Harpagifer georgianus",
+    "Harpagifer kerguelensis"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Harpagiferidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Notothenioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Harpagifer antarcticus": 0.3793,
+    "Harpagifer bispinis": 0.4009,
+    "Harpagifer georgianus": 0.3905,
+    "Harpagifer kerguelensis": 0.3822
+  },
+  "tiprates_bamm_lambda": {
+    "Harpagifer antarcticus": 0.2008,
+    "Harpagifer bispinis": 0.2008,
+    "Harpagifer georgianus": 0.2008,
+    "Harpagifer kerguelensis": 0.2008
+  },
+  "tiprates_bamm_mu": {
+    "Harpagifer antarcticus": 0.027,
+    "Harpagifer bispinis": 0.027,
+    "Harpagifer georgianus": 0.027,
+    "Harpagifer kerguelensis": 0.027
+  },
+  "mean_dr": 0.3882,
+  "mean_bamm_lambda": 0.2008,
+  "mean_bamm_mu": 0.027,
+  "matrix_phylip": "downloads/taxonomy/family/Harpagiferidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Harpagiferidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Harpagiferidae.tre",
+  "phylogram": "downloads/taxonomy/family/Harpagiferidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

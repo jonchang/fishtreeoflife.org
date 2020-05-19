@@ -1,0 +1,81 @@
+{
+  "species": [
+    "Hepsetus akawo",
+    "Hepsetus kingsleyae",
+    "Hepsetus lineata",
+    "Hepsetus odoe"
+  ],
+  "sampled_species": [
+    "Hepsetus odoe"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Hepsetidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Characiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Characoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Hepsetus odoe": 0.0504
+  },
+  "tiprates_bamm_lambda": {
+    "Hepsetus odoe": 0.0733
+  },
+  "tiprates_bamm_mu": {
+    "Hepsetus odoe": 0.0008
+  },
+  "mean_dr": 0.0504,
+  "mean_bamm_lambda": 0.0733,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Hepsetidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Hepsetidae.nex.xz"
+}

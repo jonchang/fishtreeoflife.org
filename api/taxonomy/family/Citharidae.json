@@ -1,0 +1,101 @@
+{
+  "species": [
+    "Brachypleura novaezeelandiae",
+    "Citharoides axillaris",
+    "Citharoides macrolepidotus",
+    "Citharoides macrolepis",
+    "Citharoides orbitalis",
+    "Citharus linguatula",
+    "Lepidoblepharon ophthalmolepis"
+  ],
+  "sampled_species": [
+    "Brachypleura novaezeelandiae",
+    "Citharoides macrolepis",
+    "Citharus linguatula",
+    "Lepidoblepharon ophthalmolepis"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Citharidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pleuronectiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Pleuronectoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Brachypleura novaezeelandiae": 0.0134,
+    "Citharoides macrolepis": 0.0444,
+    "Citharus linguatula": 0.0208,
+    "Lepidoblepharon ophthalmolepis": 0.0148
+  },
+  "tiprates_bamm_lambda": {
+    "Brachypleura novaezeelandiae": 0.0552,
+    "Citharoides macrolepis": 0.0552,
+    "Citharus linguatula": 0.0552,
+    "Lepidoblepharon ophthalmolepis": 0.0552
+  },
+  "tiprates_bamm_mu": {
+    "Brachypleura novaezeelandiae": 0.0005,
+    "Citharoides macrolepis": 0.0005,
+    "Citharus linguatula": 0.0005,
+    "Lepidoblepharon ophthalmolepis": 0.0005
+  },
+  "mean_dr": 0.0234,
+  "mean_bamm_lambda": 0.0552,
+  "mean_bamm_mu": 0.0005,
+  "matrix_phylip": "downloads/taxonomy/family/Citharidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Citharidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Citharidae.tre",
+  "phylogram": "downloads/taxonomy/family/Citharidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

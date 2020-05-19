@@ -1,0 +1,96 @@
+{
+  "species": [
+    "Neoscopelus macrolepidotus",
+    "Neoscopelus microchir",
+    "Neoscopelus porosus",
+    "Scopelengys clarkei",
+    "Scopelengys tristis",
+    "Solivomer arenidens"
+  ],
+  "sampled_species": [
+    "Neoscopelus macrolepidotus",
+    "Neoscopelus microchir",
+    "Scopelengys tristis"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Neoscopelidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Myctophiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Myctophata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Neoscopelus macrolepidotus": 0.0154,
+    "Neoscopelus microchir": 0.0161,
+    "Scopelengys tristis": 0.0234
+  },
+  "tiprates_bamm_lambda": {
+    "Neoscopelus macrolepidotus": 0.0522,
+    "Neoscopelus microchir": 0.0522,
+    "Scopelengys tristis": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Neoscopelus macrolepidotus": 0.0003,
+    "Neoscopelus microchir": 0.0003,
+    "Scopelengys tristis": 0.0003
+  },
+  "mean_dr": 0.0183,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Neoscopelidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Neoscopelidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Neoscopelidae.tre",
+  "phylogram": "downloads/taxonomy/family/Neoscopelidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

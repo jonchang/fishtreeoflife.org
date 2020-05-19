@@ -1,0 +1,84 @@
+{
+  "species": [
+    "Grammicolepis brachiusculus",
+    "Macrurocyttus acanthopodus",
+    "Xenolepidichthys dalgleishi"
+  ],
+  "sampled_species": [
+    "Grammicolepis brachiusculus",
+    "Xenolepidichthys dalgleishi"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Grammicolepididae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Zeiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Grammicolepis brachiusculus": 0.0249,
+    "Xenolepidichthys dalgleishi": 0.0222
+  },
+  "tiprates_bamm_lambda": {
+    "Grammicolepis brachiusculus": 0.0521,
+    "Xenolepidichthys dalgleishi": 0.0521
+  },
+  "tiprates_bamm_mu": {
+    "Grammicolepis brachiusculus": 0.0004,
+    "Xenolepidichthys dalgleishi": 0.0004
+  },
+  "mean_dr": 0.0236,
+  "mean_bamm_lambda": 0.0521,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Grammicolepididae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Grammicolepididae.nex.xz"
+}

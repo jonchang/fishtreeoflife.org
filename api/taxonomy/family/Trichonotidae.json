@@ -1,0 +1,100 @@
+{
+  "species": [
+    "Trichonotus arabicus",
+    "Trichonotus blochii",
+    "Trichonotus cyclograptus",
+    "Trichonotus elegans",
+    "Trichonotus filamentosus",
+    "Trichonotus halstead",
+    "Trichonotus marleyi",
+    "Trichonotus nikii",
+    "Trichonotus setiger",
+    "Trichonotus somaliensis"
+  ],
+  "sampled_species": [
+    "Trichonotus elegans",
+    "Trichonotus filamentosus",
+    "Trichonotus setiger"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Trichonotidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Trichonotus elegans": 0.0571,
+    "Trichonotus filamentosus": 0.0913,
+    "Trichonotus setiger": 0.0887
+  },
+  "tiprates_bamm_lambda": {
+    "Trichonotus elegans": 0.0549,
+    "Trichonotus filamentosus": 0.0549,
+    "Trichonotus setiger": 0.0549
+  },
+  "tiprates_bamm_mu": {
+    "Trichonotus elegans": 0.0003,
+    "Trichonotus filamentosus": 0.0003,
+    "Trichonotus setiger": 0.0003
+  },
+  "mean_dr": 0.079,
+  "mean_bamm_lambda": 0.0549,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Trichonotidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Trichonotidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Trichonotidae.tre",
+  "phylogram": "downloads/taxonomy/family/Trichonotidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

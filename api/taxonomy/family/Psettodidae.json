@@ -1,0 +1,93 @@
+{
+  "species": [
+    "Psettodes belcheri",
+    "Psettodes bennettii",
+    "Psettodes erumei"
+  ],
+  "sampled_species": [
+    "Psettodes belcheri",
+    "Psettodes bennettii",
+    "Psettodes erumei"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Psettodidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pleuronectiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Psettodoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Psettodes belcheri": 0.0314,
+    "Psettodes bennettii": 0.0314,
+    "Psettodes erumei": 0.0194
+  },
+  "tiprates_bamm_lambda": {
+    "Psettodes belcheri": 0.0551,
+    "Psettodes bennettii": 0.0551,
+    "Psettodes erumei": 0.0551
+  },
+  "tiprates_bamm_mu": {
+    "Psettodes belcheri": 0.0003,
+    "Psettodes bennettii": 0.0003,
+    "Psettodes erumei": 0.0003
+  },
+  "mean_dr": 0.0274,
+  "mean_bamm_lambda": 0.0551,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Psettodidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Psettodidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Psettodidae.tre",
+  "phylogram": "downloads/taxonomy/family/Psettodidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

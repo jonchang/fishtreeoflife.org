@@ -1,0 +1,114 @@
+{
+  "species": [
+    "Chaunacops coloratus",
+    "Chaunacops melanostomus",
+    "Chaunacops roseus",
+    "Chaunax abei",
+    "Chaunax breviradius",
+    "Chaunax endeavouri",
+    "Chaunax fimbriatus",
+    "Chaunax flammeus",
+    "Chaunax latipunctatus",
+    "Chaunax nudiventer",
+    "Chaunax penicillatus",
+    "Chaunax pictus",
+    "Chaunax stigmaeus",
+    "Chaunax suttkusi",
+    "Chaunax tosaensis",
+    "Chaunax umbrinus"
+  ],
+  "sampled_species": [
+    "Chaunacops coloratus",
+    "Chaunax abei",
+    "Chaunax pictus",
+    "Chaunax stigmaeus",
+    "Chaunax suttkusi"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Chaunacidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lophiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Chaunacoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Chaunacops coloratus": 0.0451,
+    "Chaunax abei": 0.1542,
+    "Chaunax pictus": 0.1478,
+    "Chaunax stigmaeus": 0.0702,
+    "Chaunax suttkusi": 0.0974
+  },
+  "tiprates_bamm_lambda": {
+    "Chaunacops coloratus": 0.0618,
+    "Chaunax abei": 0.0618,
+    "Chaunax pictus": 0.0618,
+    "Chaunax stigmaeus": 0.0618,
+    "Chaunax suttkusi": 0.0618
+  },
+  "tiprates_bamm_mu": {
+    "Chaunacops coloratus": 0.0015,
+    "Chaunax abei": 0.0015,
+    "Chaunax pictus": 0.0015,
+    "Chaunax stigmaeus": 0.0015,
+    "Chaunax suttkusi": 0.0015
+  },
+  "mean_dr": 0.1029,
+  "mean_bamm_lambda": 0.0618,
+  "mean_bamm_mu": 0.0015,
+  "matrix_phylip": "downloads/taxonomy/suborder/Chaunacoidei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/suborder/Chaunacoidei.nex.xz",
+  "chronogram": "downloads/taxonomy/suborder/Chaunacoidei.tre",
+  "phylogram": "downloads/taxonomy/suborder/Chaunacoidei_phylogram.tre",
+  "rogues": [
+
+  ]
+}

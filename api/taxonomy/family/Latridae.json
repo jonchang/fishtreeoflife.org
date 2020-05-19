@@ -1,0 +1,95 @@
+{
+  "species": [
+    "Latridopsis ciliaris",
+    "Latridopsis forsteri",
+    "Latris lineata",
+    "Latris pacifica",
+    "Mendosoma lineatum"
+  ],
+  "sampled_species": [
+    "Latridopsis ciliaris",
+    "Latridopsis forsteri",
+    "Latris lineata"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Latridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Centrarchiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cirrhitioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Latridopsis ciliaris": 0.0931,
+    "Latridopsis forsteri": 0.0931,
+    "Latris lineata": 0.0969
+  },
+  "tiprates_bamm_lambda": {
+    "Latridopsis ciliaris": 0.0599,
+    "Latridopsis forsteri": 0.0599,
+    "Latris lineata": 0.0599
+  },
+  "tiprates_bamm_mu": {
+    "Latridopsis ciliaris": 0.0009,
+    "Latridopsis forsteri": 0.0009,
+    "Latris lineata": 0.0009
+  },
+  "mean_dr": 0.0944,
+  "mean_bamm_lambda": 0.0599,
+  "mean_bamm_mu": 0.0009,
+  "matrix_phylip": "downloads/taxonomy/family/Latridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Latridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Latridae.tre",
+  "phylogram": "downloads/taxonomy/family/Latridae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "species": [
+    "Monocirrhus polyacanthus",
+    "Polycentrus schomburgkii"
+  ],
+  "sampled_species": [
+    "Monocirrhus polyacanthus",
+    "Polycentrus schomburgkii"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Polycentridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Ovalentaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Monocirrhus polyacanthus": 0.0142,
+    "Polycentrus schomburgkii": 0.0142
+  },
+  "tiprates_bamm_lambda": {
+    "Monocirrhus polyacanthus": 0.0548,
+    "Polycentrus schomburgkii": 0.0548
+  },
+  "tiprates_bamm_mu": {
+    "Monocirrhus polyacanthus": 0.0005,
+    "Polycentrus schomburgkii": 0.0005
+  },
+  "mean_dr": 0.0142,
+  "mean_bamm_lambda": 0.0548,
+  "mean_bamm_mu": 0.0005,
+  "matrix_phylip": "downloads/taxonomy/family/Polycentridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Polycentridae.nex.xz"
+}

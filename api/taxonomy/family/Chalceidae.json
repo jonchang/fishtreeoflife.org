@@ -1,0 +1,98 @@
+{
+  "species": [
+    "Chalceus epakros",
+    "Chalceus erythrurus",
+    "Chalceus fasciatus",
+    "Chalceus guaporensis",
+    "Chalceus latus",
+    "Chalceus macrolepidotus",
+    "Chalceus spilogyros",
+    "Chalceus taeniatus"
+  ],
+  "sampled_species": [
+    "Chalceus epakros",
+    "Chalceus erythrurus",
+    "Chalceus macrolepidotus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Chalceidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Characiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Characoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Chalceus epakros": 0.0728,
+    "Chalceus erythrurus": 0.0497,
+    "Chalceus macrolepidotus": 0.0719
+  },
+  "tiprates_bamm_lambda": {
+    "Chalceus epakros": 0.0731,
+    "Chalceus erythrurus": 0.0731,
+    "Chalceus macrolepidotus": 0.0731
+  },
+  "tiprates_bamm_mu": {
+    "Chalceus epakros": 0.0008,
+    "Chalceus erythrurus": 0.0008,
+    "Chalceus macrolepidotus": 0.0008
+  },
+  "mean_dr": 0.0648,
+  "mean_bamm_lambda": 0.0731,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Chalceidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Chalceidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Chalceidae.tre",
+  "phylogram": "downloads/taxonomy/family/Chalceidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

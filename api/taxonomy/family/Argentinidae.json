@@ -1,0 +1,121 @@
+{
+  "species": [
+    "Argentina aliceae",
+    "Argentina australiae",
+    "Argentina brasiliensis",
+    "Argentina brucei",
+    "Argentina elongata",
+    "Argentina euchus",
+    "Argentina georgei",
+    "Argentina kagoshimae",
+    "Argentina sialis",
+    "Argentina silus",
+    "Argentina sphyraena",
+    "Argentina stewarti",
+    "Argentina striata",
+    "Glossanodon australis",
+    "Glossanodon danieli",
+    "Glossanodon elongatus",
+    "Glossanodon kotakamaru",
+    "Glossanodon leioglossus",
+    "Glossanodon lineatus",
+    "Glossanodon melanomanus",
+    "Glossanodon mildredae",
+    "Glossanodon nazca",
+    "Glossanodon polli",
+    "Glossanodon pseudolineatus",
+    "Glossanodon pygmaeus",
+    "Glossanodon semifasciatus",
+    "Glossanodon struhsakeri"
+  ],
+  "sampled_species": [
+    "Argentina sialis",
+    "Argentina silus",
+    "Argentina sphyraena",
+    "Argentina striata"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Argentinidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Argentiniformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Protacanthopterygii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Argentina sialis": 0.1119,
+    "Argentina silus": 0.1066,
+    "Argentina sphyraena": 0.1276,
+    "Argentina striata": 0.1196
+  },
+  "tiprates_bamm_lambda": {
+    "Argentina sialis": 0.2031,
+    "Argentina silus": 0.2031,
+    "Argentina sphyraena": 0.2031,
+    "Argentina striata": 0.2031
+  },
+  "tiprates_bamm_mu": {
+    "Argentina sialis": 0.1535,
+    "Argentina silus": 0.1535,
+    "Argentina sphyraena": 0.1535,
+    "Argentina striata": 0.1535
+  },
+  "mean_dr": 0.1164,
+  "mean_bamm_lambda": 0.2031,
+  "mean_bamm_mu": 0.1535,
+  "matrix_phylip": "downloads/taxonomy/family/Argentinidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Argentinidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Argentinidae.tre",
+  "phylogram": "downloads/taxonomy/family/Argentinidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

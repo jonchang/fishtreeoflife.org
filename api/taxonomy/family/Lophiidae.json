@@ -1,0 +1,150 @@
+{
+  "species": [
+    "Lophiodes beroe",
+    "Lophiodes bruchius",
+    "Lophiodes caulinaris",
+    "Lophiodes endoi",
+    "Lophiodes fimbriatus",
+    "Lophiodes gracilimanus",
+    "Lophiodes infrabrunneus",
+    "Lophiodes insidiator",
+    "Lophiodes iwamotoi",
+    "Lophiodes kempi",
+    "Lophiodes maculatus",
+    "Lophiodes miacanthus",
+    "Lophiodes monodi",
+    "Lophiodes mutilus",
+    "Lophiodes naresi",
+    "Lophiodes reticulatus",
+    "Lophiodes spilurus",
+    "Lophiomus setigerus",
+    "Lophius americanus",
+    "Lophius budegassa",
+    "Lophius gastrophysus",
+    "Lophius litulon",
+    "Lophius piscatorius",
+    "Lophius vaillanti",
+    "Lophius vomerinus",
+    "Sladenia remiger",
+    "Sladenia shaefersi",
+    "Sladenia zhui"
+  ],
+  "sampled_species": [
+    "Lophiodes caulinaris",
+    "Lophiodes insidiator",
+    "Lophiodes reticulatus",
+    "Lophiodes spilurus",
+    "Lophius americanus",
+    "Lophius budegassa",
+    "Lophius gastrophysus",
+    "Lophius litulon",
+    "Lophius piscatorius",
+    "Lophius vaillanti",
+    "Lophius vomerinus"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Lophiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lophiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Lophioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Lophiodes caulinaris": 0.0503,
+    "Lophiodes insidiator": 0.1,
+    "Lophiodes reticulatus": 0.0464,
+    "Lophiodes spilurus": 0.0539,
+    "Lophius americanus": 0.1982,
+    "Lophius budegassa": 0.0748,
+    "Lophius gastrophysus": 0.1942,
+    "Lophius litulon": 0.0609,
+    "Lophius piscatorius": 0.1444,
+    "Lophius vaillanti": 0.1128,
+    "Lophius vomerinus": 0.1
+  },
+  "tiprates_bamm_lambda": {
+    "Lophiodes caulinaris": 0.0617,
+    "Lophiodes insidiator": 0.0619,
+    "Lophiodes reticulatus": 0.0617,
+    "Lophiodes spilurus": 0.0617,
+    "Lophius americanus": 0.0619,
+    "Lophius budegassa": 0.0619,
+    "Lophius gastrophysus": 0.0619,
+    "Lophius litulon": 0.0619,
+    "Lophius piscatorius": 0.0619,
+    "Lophius vaillanti": 0.0619,
+    "Lophius vomerinus": 0.0619
+  },
+  "tiprates_bamm_mu": {
+    "Lophiodes caulinaris": 0.0015,
+    "Lophiodes insidiator": 0.0016,
+    "Lophiodes reticulatus": 0.0015,
+    "Lophiodes spilurus": 0.0015,
+    "Lophius americanus": 0.0016,
+    "Lophius budegassa": 0.0016,
+    "Lophius gastrophysus": 0.0016,
+    "Lophius litulon": 0.0016,
+    "Lophius piscatorius": 0.0016,
+    "Lophius vaillanti": 0.0016,
+    "Lophius vomerinus": 0.0016
+  },
+  "mean_dr": 0.1033,
+  "mean_bamm_lambda": 0.0619,
+  "mean_bamm_mu": 0.0016,
+  "matrix_phylip": "downloads/taxonomy/family/Lophiidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Lophiidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Lophiidae.tre",
+  "phylogram": "downloads/taxonomy/family/Lophiidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

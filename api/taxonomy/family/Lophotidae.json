@@ -1,0 +1,85 @@
+{
+  "species": [
+    "Eumecichthys fiski",
+    "Lophotus capellei",
+    "Lophotus guntheri",
+    "Lophotus lacepede"
+  ],
+  "sampled_species": [
+    "Lophotus capellei",
+    "Lophotus lacepede"
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Lampridacea"
+    ],
+    "family": [
+      "Lophotidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lampridiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Lophotus capellei": 0.0267,
+    "Lophotus lacepede": 0.0272
+  },
+  "tiprates_bamm_lambda": {
+    "Lophotus capellei": 0.0522,
+    "Lophotus lacepede": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Lophotus capellei": 0.0003,
+    "Lophotus lacepede": 0.0003
+  },
+  "mean_dr": 0.0269,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Lophotidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Lophotidae.nex.xz"
+}
