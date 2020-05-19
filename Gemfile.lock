@@ -24,15 +24,6 @@ GIT
     jekyll-sanity (1.2.1)
       jekyll (>= 3.1, < 5.0)
 
-GIT
-  remote: https://github.com/jonchang/jekyll-favicon.git
-  revision: 70ba5c431a80648b1170d8d282a86f4b1bf38118
-  ref: 70ba5c431a80648b1170d8d282a86f4b1bf38118
-  specs:
-    jekyll-favicon (0.2.7)
-      jekyll (>= 3.5, < 5.0)
-      mini_magick (~> 4.5)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -108,6 +99,9 @@ GEM
       rouge (>= 2.0, < 4.0)
     jekyll-compose (0.12.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-favicon (0.2.8)
+      jekyll (>= 3.0, < 5.0)
+      mini_magick (>= 4.9.4)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
@@ -120,7 +114,8 @@ GEM
       jekyll
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (2.1.0)
+    kramdown (2.2.1)
+      rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
@@ -144,14 +139,15 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     progress (3.5.2)
-    public_suffix (4.0.4)
+    public_suffix (4.0.5)
     rack (2.2.2)
     rainbow (3.0.0)
     rake (13.0.1)
-    rb-fsevent (0.10.3)
+    rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rouge (3.14.0)
+    rexml (3.2.4)
+    rouge (3.19.0)
     ruby-enum (0.7.2)
       i18n
     safe_yaml (1.0.5)
@@ -186,7 +182,7 @@ DEPENDENCIES
   jekyll-assets!
   jekyll-commonmark-ghpages
   jekyll-compose
-  jekyll-favicon!
+  jekyll-favicon
   jekyll-sanity!
   jekyll-seo-tag
   jekyll-sitemap
@@ -197,4 +193,4 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
-   2.0.1
+   2.1.4

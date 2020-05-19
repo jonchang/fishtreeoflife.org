@@ -8,7 +8,7 @@ group :jekyll_plugins do
   gem "jekyll-sanity", git: "https://github.com/envygeeks/jekyll-sanity.git", ref: "7096a6c3b236ffa3ad2a6a4233b0ff47a47d37aa" # delete this line when jekyll-assets is updated
   gem "jekyll-compose"
   gem "jekyll-commonmark-ghpages"
-  gem "jekyll-favicon", git: "https://github.com/jonchang/jekyll-favicon.git", ref: "70ba5c431a80648b1170d8d282a86f4b1bf38118"
+  gem "jekyll-favicon"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jekyll-tidy"
