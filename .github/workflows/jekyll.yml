@@ -28,7 +28,7 @@ jobs:
       run: scripts/test.sh
     - name: Deploy to Github pages
       uses: crazy-max/ghaction-github-pages@955519f7bd78a04272fdfc66260f332c48b79f73
-      if: success()
+      if: ${{ success() && github.ref == 'refs/heads/master' }}
       with:
         build_dir: _site
       env:
