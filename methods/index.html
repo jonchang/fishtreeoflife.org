@@ -31,7 +31,7 @@
     <!-- End Jekyll Favicon tag -->
     <!-- Begin Jekyll SEO tag v2.6.1 -->
     <title>Methods | The Fish Tree of Life</title>
-    <meta name="generator" content="Jekyll v4.0.1" />
+    <meta name="generator" content="Jekyll v4.1.0" />
     <meta property="og:title" content="Methods" />
     <meta name="author" content="Jonathan Chang" />
     <meta property="og:locale" content="en_US" />
@@ -47,7 +47,7 @@
     <meta name="twitter:site" content="@chang_jon" />
     <meta name="twitter:creator" content="@Jonathan Chang" />
     <script type="application/ld+json">
-      {"image":"https://fishtreeoflife.org/downloads/front-page-tree@1x.png","description":"How to build a comprehensive ray-finned fish phylogeny (Actinopterygii)","@type":"WebPage","headline":"Methods","url":"https://fishtreeoflife.org/methods/","author":{"@type":"Person","name":"Jonathan Chang"},"@context":"https://schema.org"}
+      {"description":"How to build a comprehensive ray-finned fish phylogeny (Actinopterygii)","@type":"WebPage","headline":"Methods","url":"https://fishtreeoflife.org/methods/","image":"https://fishtreeoflife.org/downloads/front-page-tree@1x.png","author":{"@type":"Person","name":"Jonathan Chang"},"@context":"https://schema.org"}
     </script>
     <!-- End Jekyll SEO tag -->
     <link rel="stylesheet" href="/css/main.css" />
@@ -5955,7 +5955,7 @@
             <h1 id="rogue-searching">Rogue searching</h1>
             <p>To eliminate rogue taxa, which reduce the bootstrap support of phylogenies due to their unstable position, we conducted a RogueNaRok<sup id="fnref:Aberer2012" role="doc-noteref"><a href="#fn:Aberer2012" class="footnote">3</a></sup> analysis and searched for sets of up to 3 species that could be dropped to improve bootstrap support on an unconstrained phylogenetic analysis. RogueNaRok iteratively removes taxa and estimates their impact on bootstrap support; this impact is dependent on the identity of all other taxa removed before it. We therefore excluded all taxa or sets of taxa up to the point where dropping any subsequent taxa would fail to improve bootstrap support by more than 1. A total of 645 species were removed in this manner, with 152 and 102 species removed as part of a 2-species and 3-species set, respectively.</p>
             <h1 id="tree-searching">Tree searching</h1>
-            <p>We conducted an initial tree search using RAxML v8.1.17<sup id="fnref:Stamatakis2014" role="doc-noteref"><a href="#fn:Stamatakis2014" class="footnote">4</a></sup> using the fast ML search convergence criterion for large trees (option <code class="highlighter-rouge">-D</code>)<sup id="fnref:Stamatakis2010" role="doc-noteref"><a href="#fn:Stamatakis2010" class="footnote">5</a></sup> and the SEV-based implementation for gap columns (option <code class="highlighter-rouge">-U</code>)<sup id="fnref:IzquierdoCarrasco2011" role="doc-noteref"><a href="#fn:IzquierdoCarrasco2011" class="footnote">6</a></sup>. The analysis took approximately 4 days of wall-clock time on a 24-core Intel Xeon E5-2690v3 x2 compute machine.</p>
+            <p>We conducted an initial tree search using RAxML v8.1.17<sup id="fnref:Stamatakis2014" role="doc-noteref"><a href="#fn:Stamatakis2014" class="footnote">4</a></sup> using the fast ML search convergence criterion for large trees (option <code class="language-plaintext highlighter-rouge">-D</code>)<sup id="fnref:Stamatakis2010" role="doc-noteref"><a href="#fn:Stamatakis2010" class="footnote">5</a></sup> and the SEV-based implementation for gap columns (option <code class="language-plaintext highlighter-rouge">-U</code>)<sup id="fnref:IzquierdoCarrasco2011" role="doc-noteref"><a href="#fn:IzquierdoCarrasco2011" class="footnote">6</a></sup>. The analysis took approximately 4 days of wall-clock time on a 24-core Intel Xeon E5-2690v3 x2 compute machine.</p>
             <table>
               <thead>
                 <tr>
