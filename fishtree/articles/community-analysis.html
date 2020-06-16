@@ -104,10 +104,7 @@
 <span class="fu"><a href="https://rdrr.io/r/base/ns-load.html">requireNamespace</a></span>(<span class="st">"picante"</span>)
 <span class="co">#&gt; Loading required namespace: picante</span>
 <span class="fu"><a href="https://rdrr.io/r/base/ns-load.html">requireNamespace</a></span>(<span class="st">"geiger"</span>)
-<span class="co">#&gt; Loading required namespace: geiger</span>
-<span class="co">#&gt; Registered S3 method overwritten by 'geiger':</span>
-<span class="co">#&gt;   method            from</span>
-<span class="co">#&gt;   unique.multiPhylo ape</span></pre></body></html></div>
+<span class="co">#&gt; Loading required namespace: geiger</span></pre></body></html></div>
 <p>Next we’ll start downloading some data from <code>rfishbase</code>. We’ll be seeing if reef-associated ray-finned fish species are clustered or overdispersed in the Atlantic, Pacific, and Indian Oceans.</p>
 <div class="sourceCode" id="cb2"><html><body><pre class="r"><span class="co"># Get reef-associated species from the `species` table</span>
 <span class="no">reef_species</span> <span class="kw">&lt;-</span> <span class="kw pkg">rfishbase</span><span class="kw ns">::</span><span class="fu"><a href="https://docs.ropensci.org/rfishbase/reference/species.html">species</a></span>(<span class="kw">fields</span> <span class="kw">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span>(<span class="st">"Species"</span>, <span class="st">"DemersPelag"</span>))
@@ -142,23 +139,23 @@
 <span class="no">sample_matrix</span> <span class="kw">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/t.html">t</a></span>(<span class="no">sample_matrix</span>)</pre></body></html></div>
 <p>We’ll run <code>ses.mpd</code> and <code>ses.mntd</code> with only 100 iterations, to speed up the analysis. For a real analysis you would likely increase this to 1000, and possibly test other null models if your datasets have e.g., abundance information.</p>
 <div class="sourceCode" id="cb6"><html><body><pre class="r"><span class="kw pkg">picante</span><span class="kw ns">::</span><span class="fu"><a href="https://rdrr.io/pkg/picante/man/ses.mpd.html">ses.mpd</a></span>(<span class="no">sample_matrix</span>, <span class="no">cophen</span>, <span class="kw">null.model</span> <span class="kw">=</span> <span class="st">"taxa.labels"</span>, <span class="kw">runs</span> <span class="kw">=</span> <span class="fl">99</span>)
-<span class="co">#&gt;                ntaxa  mpd.obs mpd.rand.mean mpd.rand.sd mpd.obs.rank  mpd.obs.z</span>
-<span class="co">#&gt; Atlantic Ocean   623 238.1682      231.4832   2.0571347          100  3.2496561</span>
-<span class="co">#&gt; Indian Ocean    1213 233.1537      231.8697   1.2548817           85  1.0232037</span>
-<span class="co">#&gt; Pacific Ocean   1497 231.6829      231.8287   0.9865271           42 -0.1478299</span>
+<span class="co">#&gt;                ntaxa  mpd.obs mpd.rand.mean mpd.rand.sd mpd.obs.rank mpd.obs.z</span>
+<span class="co">#&gt; Atlantic Ocean   623 238.1682      231.7693    2.202675          100  2.905047</span>
+<span class="co">#&gt; Indian Ocean    1213 233.1537      231.7167    1.155073           88  1.244039</span>
+<span class="co">#&gt; Pacific Ocean   1497 231.6829      231.8507    0.825663           42 -0.203263</span>
 <span class="co">#&gt;                mpd.obs.p runs</span>
 <span class="co">#&gt; Atlantic Ocean      1.00   99</span>
-<span class="co">#&gt; Indian Ocean        0.85   99</span>
+<span class="co">#&gt; Indian Ocean        0.88   99</span>
 <span class="co">#&gt; Pacific Ocean       0.42   99</span>
 <span class="kw pkg">picante</span><span class="kw ns">::</span><span class="fu"><a href="https://rdrr.io/pkg/picante/man/ses.mntd.html">ses.mntd</a></span>(<span class="no">sample_matrix</span>, <span class="no">cophen</span>, <span class="kw">null.model</span> <span class="kw">=</span> <span class="st">"taxa.labels"</span>, <span class="kw">runs</span> <span class="kw">=</span> <span class="fl">99</span>)
 <span class="co">#&gt;                ntaxa mntd.obs mntd.rand.mean mntd.rand.sd mntd.obs.rank</span>
-<span class="co">#&gt; Atlantic Ocean   623 41.86956       47.99893    1.4443358             1</span>
-<span class="co">#&gt; Indian Ocean    1213 34.99129       37.94986    0.6990832             1</span>
-<span class="co">#&gt; Pacific Ocean   1497 34.08644       35.11694    0.5874989             5</span>
+<span class="co">#&gt; Atlantic Ocean   623 41.86956       47.94412    1.3072193             1</span>
+<span class="co">#&gt; Indian Ocean    1213 34.99129       37.97705    0.6394183             1</span>
+<span class="co">#&gt; Pacific Ocean   1497 34.08644       35.14835    0.5418298             2</span>
 <span class="co">#&gt;                mntd.obs.z mntd.obs.p runs</span>
-<span class="co">#&gt; Atlantic Ocean  -4.243729       0.01   99</span>
-<span class="co">#&gt; Indian Ocean    -4.232076       0.01   99</span>
-<span class="co">#&gt; Pacific Ocean   -1.754055       0.05   99</span></pre></body></html></div>
+<span class="co">#&gt; Atlantic Ocean  -4.646934       0.01   99</span>
+<span class="co">#&gt; Indian Ocean    -4.669492       0.01   99</span>
+<span class="co">#&gt; Pacific Ocean   -1.959867       0.02   99</span></pre></body></html></div>
 <p>The Atlantic and Indian Oceans are overdispersed using the MPD metric, and all three oceans are clustered under the MNTD metric. MPD is thought to be more sensitive to patterns closer to the root of the tree, while MNTD is thought to more closely reflect patterns towards the tips of the phylogeny. We can confirm these patterns visually:</p>
 <div class="sourceCode" id="cb7"><html><body><pre class="r"><span class="fu"><a href="https://rdrr.io/r/base/plot.html">plot</a></span>(<span class="no">phy</span>, <span class="kw">show.tip.label</span> <span class="kw">=</span> <span class="fl">FALSE</span>, <span class="kw">no.margin</span> <span class="kw">=</span> <span class="fl">TRUE</span>)
 <span class="no">obj</span> <span class="kw">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/get.html">get</a></span>(<span class="st">"last_plot.phylo"</span>, <span class="no">.PlotPhyloEnv</span>)

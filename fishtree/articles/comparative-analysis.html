@@ -143,9 +143,6 @@
 <span class="co">#&gt; 6      Carinotetraodon_imitator       0</span></pre></body></html></div>
 <p>We’ve also converted the tip labels back to underscores, since we need to ensure that the tip labels on our phylogeny match the labels on our trait data. The <code>geiger</code> package (<a href="https://doi.org/10.1093/bioinformatics/btu181">Pennell et al. 2014</a>) provides a convenient function that will perform this check. The <code>name.check</code> function expects row names on our data object, so we will do that as well.</p>
 <div class="sourceCode" id="cb4"><html><body><pre class="r"><span class="fu"><a href="https://rdrr.io/r/base/library.html">library</a></span>(<span class="no">geiger</span>)
-<span class="co">#&gt; Registered S3 method overwritten by 'geiger':</span>
-<span class="co">#&gt;   method            from</span>
-<span class="co">#&gt;   unique.multiPhylo ape</span>
 
 <span class="fu"><a href="https://rdrr.io/r/base/colnames.html">rownames</a></span>(<span class="no">reef</span>) <span class="kw">&lt;-</span> <span class="no">reef</span>$<span class="no">tip</span>
 <span class="no">nc</span> <span class="kw">&lt;-</span> <span class="kw pkg">geiger</span><span class="kw ns">::</span><span class="fu"><a href="https://rdrr.io/pkg/geiger/man/name.check.html">name.check</a></span>(<span class="no">tree</span>, <span class="no">reef</span>)
@@ -242,10 +239,7 @@
 <span class="co">#&gt; Loading required package: deSolve</span>
 <span class="co">#&gt; Loading required package: GenSA</span>
 <span class="co">#&gt; Loading required package: subplex</span>
-<span class="co">#&gt; Loading required package: nloptr</span>
-<span class="co">#&gt; Registered S3 method overwritten by 'phytools':</span>
-<span class="co">#&gt;   method      from  </span>
-<span class="co">#&gt;   logLik.gfit geiger</span></pre></body></html></div>
+<span class="co">#&gt; Loading required package: nloptr</span></pre></body></html></div>
 <p>The <code>hisse</code> package parameterizes things differently from <code>diversitree</code> (where BiSSE lives), so we aren’t able to exactly replicate the analyses in the Santini paper. Instead we’ll settle by ensuring that the epsilon parameter, <span class="math inline">\(\epsilon = \frac{\mu}{\lambda}\)</span> is constrained to be equal for both reef and non-reef taxa. We’ll also constrain transition rates to be equal, since it can be difficult to estimate those.</p>
 <p>First we’ll construct and run the BiSSE model and the BiSSE null model:</p>
 <div class="sourceCode" id="cb13"><html><body><pre class="r"><span class="no">trans.rates.bisse</span> <span class="kw">&lt;-</span> <span class="fu"><a href="https://rdrr.io/pkg/hisse/man/transMat.html">ParEqual</a></span>(<span class="fu"><a href="https://rdrr.io/pkg/hisse/man/transMat.html">TransMatMaker</a></span>(<span class="kw">hidden.states</span> <span class="kw">=</span> <span class="fl">FALSE</span>), <span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span>(<span class="fl">1</span>, <span class="fl">2</span>))
