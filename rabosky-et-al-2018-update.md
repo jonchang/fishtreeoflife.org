@@ -26,7 +26,7 @@ We implemented an enhanced polytomy resolver[^Chang2019] that could solve more s
 To test for the effect of this improvement, we computed tip-specific λ<sub>DR</sub> speciation rates for the original set of ATA phylogenies and the new set of ATA phylogenies. We summarized, on a per-tip basis, the λ<sub>DR</sub> speciation rate and conducted a linear regression between the original and updated ATA phylogenies. Our linear regression found significant correlation between the original and updated phylogenies ([Figure 1](#regression); r = 0.98; β = 0.95; p < 0.001).
 
 <figure id="regression">
-{% asset rabosky2018figures/regression.png alt="Lambda DR speciation rates were strongly correlated between the original and updated ATA phylogenies" %}
+<img alt="Lambda DR speciation rates were strongly correlated between the original and updated ATA phylogenies" src="{% link assets/img/rabosky2018figures/regression.png %}">
 <figcaption><strong>Figure 1 | λ<sub>DR</sub> speciation rates are strongly correlated between the original and updated ATA phylogenies.</strong> Data are shown on a log-log scale. The red dashed line is the 1:1 reference line.</figcaption>
 </figure>
 
@@ -68,47 +68,47 @@ We revise the following figures:
 To compare the original and updated figures, each of the following figures is an animation labeled with the respective ATA phylogeny data source. In some cases, the "original" figures shown here will differ slightly from the figures in the publication[^Rabosky2018]; this is due to randomness introduced to mitigate perceptual artifacts from overplotting.
 
 <figure id="figmain">
-{% asset rabosky2018figures/figmain_flicker.gif alt="Main text Figure 3 inset box plot" %}
+<img alt="Main text Figure 3 inset box plot" src="{% link assets/img/rabosky2018figures/figmain_flicker.gif %}">
 <figcaption>Main text Figure 3 inset box plot</figcaption>
 </figure>
 
 <figure id="fig2">
-{% asset rabosky2018figures/fig2_flicker.gif alt="Extended Data Figure 2" %}
+<img alt="Extended Data Figure 2" src="{% link assets/img/rabosky2018figures/fig2_flicker.gif %}">
 <figcaption>Extended Data Figure 2</figcaption>
 </figure>
 
 <figure id="fig3">
-{% asset rabosky2018figures/fig3_flicker.gif alt="Extended Data Figure 3" %}
+<img alt="Extended Data Figure 3" src="{% link assets/img/rabosky2018figures/fig3_flicker.gif %}">
 <figcaption>Extended Data Figure 3</figcaption>
 </figure>
 
 <figure id="fig4">
-{% asset rabosky2018figures/fig4_flicker.gif alt="Extended Data Figure 4" %}
+<img alt="Extended Data Figure 4" src="{% link assets/img/rabosky2018figures/fig4_flicker.gif %}">
 <figcaption>Extended Data Figure 4</figcaption>
 </figure>
 
 <figure id="fig5">
-{% asset rabosky2018figures/fig5_flicker.gif alt="Extended Data Figure 5" %}
+<img alt="Extended Data Figure 5" src="{% link assets/img/rabosky2018figures/fig5_flicker.gif %}">
 <figcaption>Extended Data Figure 5</figcaption>
 </figure>
 
 <figure id="fig7">
-{% asset rabosky2018figures/fig7_flicker.gif alt="Extended Data Figure 7a" %}
+<img alt="Extended Data Figure 7a" src="{% link assets/img/rabosky2018figures/fig7_flicker.gif %}">
 <figcaption>Extended Data Figure 7a</figcaption>
 </figure>
 
 <figure id="fig8">
-{% asset rabosky2018figures/fig8_flicker.gif alt="Extended Data Figure 8" %}
+<img alt="Extended Data Figure 8" src="{% link assets/img/rabosky2018figures/fig8_flicker.gif %}">
 <figcaption>Extended Data Figure 8</figcaption>
 </figure>
 
 <figure id="fig9">
-{% asset rabosky2018figures/fig9_flicker.gif alt="Extended Data Figure 9" %}
+<img alt="Extended Data Figure 9" src="{% link assets/img/rabosky2018figures/fig9_flicker.gif %}">
 <figcaption>Extended Data Figure 9</figcaption>
 </figure>
 
 <figure id="fig10">
-{% asset rabosky2018figures/fig10_flicker.gif alt="Extended Data Table 1" %}
+<img alt="Extended Data Table 1" src="{% link assets/img/rabosky2018figures/fig10_flicker.gif %}">
 <figcaption>Extended Data Table 1</figcaption>
 </figure>
 
