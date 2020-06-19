@@ -4,9 +4,13 @@ on: [push]
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
-    - uses: actions/checkout@v1
+    - name: Install libvips
+      run: |
+        sudo apt update
+        sudo apt install --no-install-recommends -y libvips
+    - uses: actions/checkout@v2
     - name: Login to Github Docker
       run: echo -n $PACKAGE_ACCESS_TOKEN | docker login -u jonchang --password-stdin docker.pkg.github.com
       env:
@@ -17,7 +21,7 @@ jobs:
       run: scripts/fishtree_docs.sh
     - uses: actions/setup-ruby@v1
       with:
-        ruby-version: '2.6'
+        ruby-version: '2.x'
     - name: Update bundled packages
       run: gem install bundler && bundle update --bundler && bundle install
     - name: Build site

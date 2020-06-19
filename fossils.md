@@ -13,7 +13,7 @@ description: Ray-finned fish fossils for time-calibrating the Actinopterygii phy
     vertical-align: middle;
     overflow: hidden;
     background-size: contain;
-    background-image: url('{% asset vertical_tree@1x.png @optim @path %}');
+    background-image: url('{% resize src='/assets/img/vertical_tree@1x.png' width=940 %}');
 }
 
 @media
@@ -23,7 +23,7 @@ only screen and (     -o-min-device-pixel-ratio: 5/4),
 only screen and (        min-device-pixel-ratio: 1.25),
 only screen and (                min-resolution: 1.25dppx) {
     .svg-container {
-        background-image: url('{% asset vertical_tree@2x.png @optim @path %}');
+        background-image: url('{% resize src='/assets/img/vertical_tree@2x.png' width=1880 %}');
     };
 }
 
@@ -34,7 +34,7 @@ only screen and (     -o-min-device-pixel-ratio: 9/4),
 only screen and (        min-device-pixel-ratio: 2.25),
 only screen and (                min-resolution: 2.25dppx) {
     .svg-container {
-        background-image: url('{% asset vertical_tree@3x.png @optim @path %}');
+        background-image: url('{% resize src='/assets/img/vertical_tree@2x.png' width=2820 %}');
     };
 }
 
@@ -48,10 +48,8 @@ only screen and (                min-resolution: 2.25dppx) {
 
 Click on a red circle to go to that fossil calibration.
 
-{% assign tree = assets["vertical_tree@3x.png"] %}
-
 <div class="svg-container">
-<svg id="example1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin meet" class="svg-content" viewBox="0 0 {{ tree.dimensions.width }} {{ tree.dimensions.height }}">
+<svg id="example1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin meet" class="svg-content" viewBox="0 0 2820 8460">
 {% for fossil in site.data.fossil_data %}
 <a xlink:href="{{ "/fossils/" | append: fossil.slug | relative_url }}" class="svg-tooltip">
   <title>{{ fossil.fossil }} ({{ fossil.min }} Ma)</title>
