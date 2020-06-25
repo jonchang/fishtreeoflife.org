@@ -140,22 +140,22 @@
 <p>We’ll run <code>ses.mpd</code> and <code>ses.mntd</code> with only 100 iterations, to speed up the analysis. For a real analysis you would likely increase this to 1000, and possibly test other null models if your datasets have e.g., abundance information.</p>
 <div class="sourceCode" id="cb6"><html><body><pre class="r"><span class="kw pkg">picante</span><span class="kw ns">::</span><span class="fu"><a href="https://rdrr.io/pkg/picante/man/ses.mpd.html">ses.mpd</a></span>(<span class="no">sample_matrix</span>, <span class="no">cophen</span>, <span class="kw">null.model</span> <span class="kw">=</span> <span class="st">"taxa.labels"</span>, <span class="kw">runs</span> <span class="kw">=</span> <span class="fl">99</span>)
 <span class="co">#&gt;                ntaxa  mpd.obs mpd.rand.mean mpd.rand.sd mpd.obs.rank  mpd.obs.z</span>
-<span class="co">#&gt; Atlantic Ocean   623 238.1682      231.8279   2.0145435          100 3.14726142</span>
-<span class="co">#&gt; Indian Ocean    1213 233.1537      231.8221   1.2112526           87 1.09935273</span>
-<span class="co">#&gt; Pacific Ocean   1497 231.6829      231.6418   0.8265165           52 0.04963422</span>
+<span class="co">#&gt; Atlantic Ocean   623 238.1682      231.7686   2.0940154          100 3.05614838</span>
+<span class="co">#&gt; Indian Ocean    1213 233.1537      231.6944   1.3229085           85 1.10311398</span>
+<span class="co">#&gt; Pacific Ocean   1497 231.6829      231.6736   0.8056222           51 0.01155708</span>
 <span class="co">#&gt;                mpd.obs.p runs</span>
 <span class="co">#&gt; Atlantic Ocean      1.00   99</span>
-<span class="co">#&gt; Indian Ocean        0.87   99</span>
-<span class="co">#&gt; Pacific Ocean       0.52   99</span>
+<span class="co">#&gt; Indian Ocean        0.85   99</span>
+<span class="co">#&gt; Pacific Ocean       0.51   99</span>
 <span class="kw pkg">picante</span><span class="kw ns">::</span><span class="fu"><a href="https://rdrr.io/pkg/picante/man/ses.mntd.html">ses.mntd</a></span>(<span class="no">sample_matrix</span>, <span class="no">cophen</span>, <span class="kw">null.model</span> <span class="kw">=</span> <span class="st">"taxa.labels"</span>, <span class="kw">runs</span> <span class="kw">=</span> <span class="fl">99</span>)
 <span class="co">#&gt;                ntaxa mntd.obs mntd.rand.mean mntd.rand.sd mntd.obs.rank</span>
-<span class="co">#&gt; Atlantic Ocean   623 41.86956       48.23039    1.2625099             1</span>
-<span class="co">#&gt; Indian Ocean    1213 34.99129       38.03147    0.6084677             1</span>
-<span class="co">#&gt; Pacific Ocean   1497 34.08644       35.01191    0.4818831             6</span>
+<span class="co">#&gt; Atlantic Ocean   623 41.86956       48.26040    1.3797614             1</span>
+<span class="co">#&gt; Indian Ocean    1213 34.99129       38.04459    0.7249724             1</span>
+<span class="co">#&gt; Pacific Ocean   1497 34.08644       35.03582    0.5196321             5</span>
 <span class="co">#&gt;                mntd.obs.z mntd.obs.p runs</span>
-<span class="co">#&gt; Atlantic Ocean  -5.038242       0.01   99</span>
-<span class="co">#&gt; Indian Ocean    -4.996453       0.01   99</span>
-<span class="co">#&gt; Pacific Ocean   -1.920530       0.06   99</span></pre></body></html></div>
+<span class="co">#&gt; Atlantic Ocean  -4.631846       0.01   99</span>
+<span class="co">#&gt; Indian Ocean    -4.211611       0.01   99</span>
+<span class="co">#&gt; Pacific Ocean   -1.827032       0.05   99</span></pre></body></html></div>
 <p>The Atlantic and Indian Oceans are overdispersed using the MPD metric, and all three oceans are clustered under the MNTD metric. MPD is thought to be more sensitive to patterns closer to the root of the tree, while MNTD is thought to more closely reflect patterns towards the tips of the phylogeny. We can confirm these patterns visually:</p>
 <div class="sourceCode" id="cb7"><html><body><pre class="r"><span class="fu"><a href="https://rdrr.io/r/base/plot.html">plot</a></span>(<span class="no">phy</span>, <span class="kw">show.tip.label</span> <span class="kw">=</span> <span class="fl">FALSE</span>, <span class="kw">no.margin</span> <span class="kw">=</span> <span class="fl">TRUE</span>)
 <span class="no">obj</span> <span class="kw">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/get.html">get</a></span>(<span class="st">"last_plot.phylo"</span>, <span class="no">.PlotPhyloEnv</span>)
