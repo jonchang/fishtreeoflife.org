@@ -7,3 +7,9 @@ updates:
   versioning-strategy: increase
   assignees:
   - jonchang
+- package-ecosystem: "github-actions"
+  directory: "/"
+  schedule:
+    interval: daily
+  assignees:
+  - jonchang
