@@ -19,7 +19,7 @@ jobs:
       run: scripts/docker.sh
     - name: Build fishtree R package documentation
       run: scripts/fishtree_docs.sh
-    - uses: actions/setup-ruby@v1.1.1
+    - uses: actions/setup-ruby@v1.1.2
       with:
         ruby-version: '2.x'
     - name: Update bundled packages
