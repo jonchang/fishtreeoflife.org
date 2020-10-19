@@ -9,7 +9,7 @@ jobs:
     - name: Install libvips
       run: |
         sudo apt update
-        sudo apt install --no-install-recommends -y libvips libharfbuzz-dev
+        sudo apt install --no-install-recommends -y libvips libharfbuzz-dev libfribidi-dev
     - uses: actions/checkout@v2
     - name: Login to Github Docker
       run: echo -n $PACKAGE_ACCESS_TOKEN | docker login -u jonchang --password-stdin docker.pkg.github.com
