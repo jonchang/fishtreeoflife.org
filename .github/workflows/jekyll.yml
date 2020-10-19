@@ -9,7 +9,7 @@ jobs:
     - name: Install libvips
       run: |
         sudo apt update
-        sudo apt install --no-install-recommends -y libvips libharfbuzz-dev libfribidi-dev pkg-config
+        sudo apt install --no-install-recommends -y libvips
     - uses: actions/checkout@v2
     - name: Login to Github Docker
       run: echo -n $PACKAGE_ACCESS_TOKEN | docker login -u jonchang --password-stdin docker.pkg.github.com
@@ -18,12 +18,7 @@ jobs:
     - name: Download data from the fishtreeoflife docker container
       run: scripts/docker.sh
     - name: Build fishtree R package documentation
-      env:
-        PKG_CONFIG_PATH: '/usr/lib/x86_64-linux-gnu/pkgconfig/'
-      run: |
-        pkg-config --cflags harfbuzz
-        pkg-config --cflags fribidi
-        scripts/fishtree_docs.sh
+      run: scripts/fishtree_docs.sh
     - uses: actions/setup-ruby@v1.1.2
       with:
         ruby-version: '2.x'
