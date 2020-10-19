@@ -20,7 +20,10 @@ jobs:
     - name: Build fishtree R package documentation
       env:
         PKG_CONFIG_PATH: '/usr/lib/x86_64-linux-gnu/pkgconfig/'
-      run: scripts/fishtree_docs.sh
+      run: |
+        pkg-config --cflags harfbuzz
+        pkg-config --cflags fribidi
+        scripts/fishtree_docs.sh
     - uses: actions/setup-ruby@v1.1.2
       with:
         ruby-version: '2.x'
