@@ -3,7 +3,7 @@
 docker run -i -v "$PWD"/fishtree:/fishtree rocker/tidyverse:latest /bin/bash << EOBASH
 
 apt update
-apt install -y --no-install-recommends libmagick++-dev libgsl-dev
+apt install -y --no-install-recommends libmagick++-dev libgsl-dev libharfbuzz-dev libfribidi-dev
 
 R --slave << EOR
 options(repos = "https://cloud.r-project.org")
