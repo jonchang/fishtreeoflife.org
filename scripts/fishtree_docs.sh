@@ -25,9 +25,10 @@ xx <- download.packages("fishtree", type = "source", dest = td)
 tf <- xx[, 2]
 untar(tf, exdir = td, verbose = TRUE)
 extpath <- file.path(td, "fishtree")
-withr::with_envvar(c("NOT_CRAN" = "true"),
-                   pkgdown::build_site(extpath, override = list(destination = "/fishtree"))
-                  )
+
+overrides <- list(template = list(params = list(ganalytics = "UA-15180347-2")), destination = "/fishtree")
+withr::with_envvar(c("NOT_CRAN" = "true"), pkgdown::build_site(extpath, override = overrides))
+
 EOR
 
 EOBASH
