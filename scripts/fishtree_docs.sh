@@ -5,7 +5,7 @@ docker run --rm -i -v "$PWD"/fishtree:/fishtree rocker/tidyverse:latest /bin/bas
 set -euo pipefail
 
 apt-get update
-apt-get install -y --no-install-recommends libmagick++-6.q16-8 libgsl23 libharfbuzz0b libfribidi0 libglpk40
+apt-get install -y --no-install-recommends libmagick++-dev libgsl-dev libharfbuzz-dev libfribidi-dev
 
 R --no-echo << EOR
 # Use RStudio package manager for most dependencies to avoid building the world from source
@@ -13,7 +13,8 @@ install.packages(c("fishtree", "pkgdown"), dependencies = TRUE, Ncpus = 4)
 
 # But reinstall these needed packages from source
 options(repos = "https://cloud.r-project.org")
-install.packages(c("fishtree", "pkgdown"), dependencies = TRUE, Ncpus = 4)
+update.packages(ask = FALSE, Ncpus = 4)
+install.packages(c("fishtree", "pkgdown"), dependencies = TRUE, Ncpus = 4, type = "source")
 
 # Ensure that pkgdown and fishtree were actually installed
 requireNamespace("pkgdown")
