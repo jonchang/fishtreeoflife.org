@@ -6,7 +6,7 @@ docker run --rm -i -v "$PWD"/fishtree:/fishtree rocker/tidyverse:latest /bin/bas
 set -euo pipefail
 
 apt-get update
-apt-get install -y --no-install-recommends libmagick++-dev libgsl-dev libharfbuzz-dev libfribidi-dev
+apt-get install -y --no-install-recommends libmagick++-dev libgsl-dev libharfbuzz-dev libfribidi-dev libglpk40
 
 R --no-echo << EOR
 # Use RStudio package manager for most dependencies to avoid building the world from source
