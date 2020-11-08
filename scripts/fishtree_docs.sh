@@ -1,5 +1,6 @@
 #!/bin/bash
 
+docker pull rocker/tidyverse:latest
 docker run --rm -i -v "$PWD"/fishtree:/fishtree rocker/tidyverse:latest /bin/bash << EOBASH
 
 set -euo pipefail
