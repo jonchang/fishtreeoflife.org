@@ -1,12 +1,22 @@
 #!/bin/bash
 
-docker pull rocker/tidyverse:latest
-docker run --rm -i -v "$PWD"/fishtree:/fishtree rocker/tidyverse:latest /bin/bash << EOBASH
+docker pull rocker/r-ver:latest
+docker run --rm -i -v "$PWD"/fishtree:/fishtree rocker/r-ver:latest /bin/bash << EOBASH
 
 set -euo pipefail
 
-apt-get update
-apt-get install -y --no-install-recommends libmagick++-dev libgsl-dev libharfbuzz-dev libfribidi-dev libglpk40
+apt-get update -qq
+apt-get -y --no-install-recommends install \
+    libcairo2-dev \
+    libfribidi-dev \
+    libgit2-dev \
+    libglpk-dev \
+    libgsl-dev \
+    libharfbuzz-dev \
+    libmagick++-dev \
+    libssh2-1-dev \
+    libxml2-dev \
+    pandoc
 
 R --no-echo << EOR
 # Use RStudio package manager for most dependencies to avoid building the world from source
