@@ -1,12 +1,18 @@
 #!/bin/bash
 
-docker pull rocker/r-ver:latest
-docker run --rm -i -v "$PWD"/fishtree:/fishtree rocker/r-ver:latest /bin/bash << EOBASH
+docker pull ubuntu:latest
+docker run --rm -i -v "$PWD"/fishtree:/fishtree ubuntu:latest /bin/bash << EOBASH
 
 set -euo pipefail
 
 apt-get update -qq
+apt-get -y --no-install-recommends install gnupg ca-certificates
+apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
+echo "deb https://cloud.r-project.org/bin/linux/ubuntu focal-cran40/" >> /etc/apt/sources.list
+
+apt-get update -qq
 apt-get -y --no-install-recommends install \
+    r-base-dev \
     libcairo2-dev \
     libfribidi-dev \
     libgit2-dev \
@@ -19,13 +25,8 @@ apt-get -y --no-install-recommends install \
     pandoc
 
 R --no-echo << EOR
-# Use RStudio package manager for most dependencies to avoid building the world from source
-install.packages(c("fishtree", "pkgdown"), dependencies = TRUE, Ncpus = 4)
-
-# But reinstall these needed packages from source
 options(repos = "https://cloud.r-project.org")
-update.packages(ask = FALSE, Ncpus = 4)
-install.packages(c("fishtree", "pkgdown"), dependencies = TRUE, Ncpus = 4, type = "source")
+install.packages(c("fishtree", "pkgdown"), dependencies = TRUE, Ncpus = 4)
 
 # Ensure that pkgdown and fishtree were actually installed
 requireNamespace("pkgdown")
