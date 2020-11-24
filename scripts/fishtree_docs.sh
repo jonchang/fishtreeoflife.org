@@ -4,6 +4,7 @@ docker pull ubuntu:latest
 docker run --rm -i -v "$PWD"/fishtree:/fishtree ubuntu:latest /bin/bash << EOBASH
 
 set -euo pipefail
+export DEBIAN_FRONTEND=noninteractive
 
 apt-get update -qq
 apt-get -y --no-install-recommends install gnupg ca-certificates
