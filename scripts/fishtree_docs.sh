@@ -1,41 +1,21 @@
 #!/bin/bash
 
-docker pull ubuntu:latest
-docker run --rm -i -v "$PWD"/fishtree:/fishtree ubuntu:latest /bin/bash << EOBASH
+docker pull rocker/tidyverse:latest
+docker run --rm -i -v "$PWD"/fishtree:/fishtree rocker/tidyverse:latest /bin/bash << EOBASH
 
 set -euo pipefail
-export DEBIAN_FRONTEND=noninteractive
 
-apt-get update -qq
-apt-get -y --no-install-recommends install gnupg ca-certificates
-apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
-apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 6E12762B81063D17BDDD3142F142A4D99F16EB04
-echo "deb https://cloud.r-project.org/bin/linux/ubuntu focal-cran40/" >> /etc/apt/sources.list
-echo "deb http://ppa.launchpad.net/c2d4u.team/c2d4u4.0+/ubuntu focal main" >> /etc/apt/sources.list
-
-apt-get update -qq
-apt-get -y --no-install-recommends install \
-    libcairo2-dev \
-    libfribidi-dev \
-    libgit2-dev \
-    libglpk-dev \
-    libgsl-dev \
-    libharfbuzz-dev \
-    libmagick++-dev \
-    libssh2-1-dev \
-    libxml2-dev \
-    pandoc
-
-apt-get -y install \
-    r-base-dev \
-    r-cran-tidyverse \
-    r-cran-knitr \
-    r-cran-codetools \
-    r-cran-phytools
+apt-get update
+apt-get install -y --no-install-recommends libmagick++-dev libgsl-dev libharfbuzz-dev libfribidi-dev libglpk40
 
 R --no-echo << EOR
+# Use RStudio package manager for most dependencies to avoid building the world from source
+install.packages(c("fishtree", "pkgdown"), dependencies = TRUE, Ncpus = 4)
+
+# But reinstall these needed packages from source
 options(repos = "https://cloud.r-project.org")
-install.packages(c("fishtree", "pkgdown"), dependencies = TRUE, Ncpus = 4, lib = "/usr/lib/R/library/")
+update.packages(ask = FALSE, Ncpus = 4)
+install.packages(c("fishtree", "pkgdown"), dependencies = TRUE, Ncpus = 4, type = "source")
 
 # Ensure that pkgdown and fishtree were actually installed
 requireNamespace("pkgdown")
@@ -49,7 +29,7 @@ untar(tf, exdir = td, verbose = TRUE)
 extpath <- file.path(td, "fishtree")
 
 overrides <- list(template = list(params = list(ganalytics = "UA-15180347-2")), destination = "/fishtree")
-withr::with_envvar(c("NOT_CRAN" = "true"), pkgdown::build_site(extpath, override = overrides))
+withr::with_envvar(c("NOT_CRAN" = "false"), pkgdown::build_site(extpath, override = overrides))
 
 EOR
 
