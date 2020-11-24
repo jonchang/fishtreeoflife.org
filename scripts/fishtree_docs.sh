@@ -15,7 +15,6 @@ echo "deb http://ppa.launchpad.net/c2d4u.team/c2d4u4.0+/ubuntu focal main" >> /e
 
 apt-get update -qq
 apt-get -y --no-install-recommends install \
-    r-base-dev \
     libcairo2-dev \
     libfribidi-dev \
     libgit2-dev \
@@ -25,9 +24,13 @@ apt-get -y --no-install-recommends install \
     libmagick++-dev \
     libssh2-1-dev \
     libxml2-dev \
-    pandoc \
+    pandoc
+
+apt-get -y install \
+    r-base-dev \
     r-cran-tidyverse \
     r-cran-knitr \
+    r-cran-codetools \
     r-cran-phytools
 
 R --no-echo << EOR
