@@ -54,6 +54,16 @@
 <![endif]-->
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-15180347-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-15180347-2');
+</script>
+
 
   </head>
 
@@ -71,7 +81,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">fishtree</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">0.3.2</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">0.3.3</span>
       </span>
     </div>
 
@@ -97,7 +107,7 @@
       <a href="../articles/community-analysis.html">Phylogenetic community assembly with the Fish Tree of Life</a>
     </li>
     <li>
-      <a href="../articles/comparative-analysis.html">Comparative methods with the Fish Tree of Life</a>
+      <a href="../articles/comparative-analysis.html">A simple comparative analysis with the Fish Tree of Life</a>
     </li>
   </ul>
 </li>
@@ -129,6 +139,15 @@
       <small>Source: <a href='https://github.com/jonchang/fishtree/blob/master/NEWS.md'><code>NEWS.md</code></a></small>
     </div>
 
+    <div id="fishtree-033" class="section level1">
+<h1 class="page-header" data-toc-text="0.3.3">
+<a href="#fishtree-033" class="anchor"></a>fishtree 0.3.3<small> 2020-10-31 </small>
+</h1>
+<ul>
+<li><p>The internal <code>.get()</code> function now avoids a build-time dependency on <code><a href="https://rdrr.io/pkg/memoise/man/memoise.html">memoise::memoise()</a></code>, per <a href="https://github.com/r-lib/memoise/issues/76" class="uri">https://github.com/r-lib/memoise/issues/76</a></p></li>
+<li><p>Vignettes and citations have been updated to use the latest versions, where relevant.</p></li>
+</ul>
+</div>
     <div id="fishtree-032" class="section level1">
 <h1 class="page-header" data-toc-text="0.3.2">
 <a href="#fishtree-032" class="anchor"></a>fishtree 0.3.2<small> 2019-12-17 </small>
