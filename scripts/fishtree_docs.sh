@@ -9,7 +9,9 @@ export DEBIAN_FRONTEND=noninteractive
 apt-get update -qq
 apt-get -y --no-install-recommends install gnupg ca-certificates
 apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
+apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 6E12762B81063D17BDDD3142F142A4D99F16EB04
 echo "deb https://cloud.r-project.org/bin/linux/ubuntu focal-cran40/" >> /etc/apt/sources.list
+echo "deb http://ppa.launchpad.net/c2d4u.team/c2d4u4.0+/ubuntu focal main" >> /etc/apt/sources.list
 
 apt-get update -qq
 apt-get -y --no-install-recommends install \
@@ -23,11 +25,14 @@ apt-get -y --no-install-recommends install \
     libmagick++-dev \
     libssh2-1-dev \
     libxml2-dev \
-    pandoc
+    pandoc \
+    r-cran-tidyverse \
+    r-cran-knitr \
+    r-cran-phytools
 
 R --no-echo << EOR
 options(repos = "https://cloud.r-project.org")
-install.packages(c("fishtree", "pkgdown"), dependencies = TRUE, Ncpus = 4)
+install.packages(c("fishtree", "pkgdown"), dependencies = TRUE, Ncpus = 4, lib = "/usr/lib/R/library/")
 
 # Ensure that pkgdown and fishtree were actually installed
 requireNamespace("pkgdown")
