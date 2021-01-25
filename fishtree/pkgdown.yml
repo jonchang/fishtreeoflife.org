@@ -1,8 +1,8 @@
-pandoc: 2.7.3
+pandoc: 2.11.2
 pkgdown: 1.6.1
 pkgdown_sha: ~
 articles:
   community-analysis: community-analysis.html
   comparative-analysis: comparative-analysis.html
-last_built: 2021-01-18T00:54Z
+last_built: 2021-01-25T00:53Z
 

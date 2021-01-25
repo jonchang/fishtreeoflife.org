@@ -102,44 +102,44 @@
 <h2 class="hasAnchor">
 <a href="#example" class="anchor"></a>Example</h2>
 <p>See a list of taxa available to download.</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">library</span>(fishtree)</span>
-<span id="cb1-2"><a href="#cb1-2"></a></span>
-<span id="cb1-3"><a href="#cb1-3"></a>tax &lt;-<span class="st"> </span><span class="kw">fishtree_taxonomy</span>()</span>
-<span id="cb1-4"><a href="#cb1-4"></a><span class="kw">head</span>(tax)</span>
-<span id="cb1-5"><a href="#cb1-5"></a><span class="co">#&gt;         rank        name</span></span>
-<span id="cb1-6"><a href="#cb1-6"></a><span class="co">#&gt; 1      class Actinopteri</span></span>
-<span id="cb1-7"><a href="#cb1-7"></a><span class="co">#&gt; 2      class   Cladistia</span></span>
-<span id="cb1-8"><a href="#cb1-8"></a><span class="co">#&gt; 3   subclass Chondrostei</span></span>
-<span id="cb1-9"><a href="#cb1-9"></a><span class="co">#&gt; 4   subclass Neopterygii</span></span>
-<span id="cb1-10"><a href="#cb1-10"></a><span class="co">#&gt; 5 infraclass    Holostei</span></span>
-<span id="cb1-11"><a href="#cb1-11"></a><span class="co">#&gt; 6 infraclass   Teleostei</span></span></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(fishtree)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>tax <span class="ot">&lt;-</span> <span class="fu">fishtree_taxonomy</span>()</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(tax)</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt;         rank        name</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; 1      class Actinopteri</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; 2      class   Cladistia</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; 3   subclass Chondrostei</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; 4   subclass Neopterygii</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; 5 infraclass    Holostei</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; 6 infraclass   Teleostei</span></span></code></pre></div>
 <p>Retrieve a phylogeny for the surgeonfishes and plot the phylogeny and lineage through time plot.</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1"></a><span class="kw">library</span>(ape)</span>
-<span id="cb2-2"><a href="#cb2-2"></a>phy &lt;-<span class="st"> </span><span class="kw">fishtree_phylogeny</span>(<span class="dt">rank =</span> <span class="st">"Acanthuridae"</span>)</span>
-<span id="cb2-3"><a href="#cb2-3"></a>phy</span>
-<span id="cb2-4"><a href="#cb2-4"></a><span class="co">#&gt; </span></span>
-<span id="cb2-5"><a href="#cb2-5"></a><span class="co">#&gt; Phylogenetic tree with 67 tips and 66 internal nodes.</span></span>
-<span id="cb2-6"><a href="#cb2-6"></a><span class="co">#&gt; </span></span>
-<span id="cb2-7"><a href="#cb2-7"></a><span class="co">#&gt; Tip labels:</span></span>
-<span id="cb2-8"><a href="#cb2-8"></a><span class="co">#&gt;   Acanthurus_mata, Acanthurus_blochii, Acanthurus_xanthopterus, Acanthurus_bariene, Acanthurus_dussumieri, Acanthurus_leucocheilus, ...</span></span>
-<span id="cb2-9"><a href="#cb2-9"></a><span class="co">#&gt; </span></span>
-<span id="cb2-10"><a href="#cb2-10"></a><span class="co">#&gt; Rooted; includes branch lengths.</span></span>
-<span id="cb2-11"><a href="#cb2-11"></a></span>
-<span id="cb2-12"><a href="#cb2-12"></a><span class="kw">par</span>(<span class="dt">mfrow=</span><span class="kw">c</span>(<span class="dv">2</span>, <span class="dv">1</span>))</span>
-<span id="cb2-13"><a href="#cb2-13"></a><span class="kw">plot</span>(phy, <span class="dt">show.tip.label =</span> <span class="ot">FALSE</span>)</span>
-<span id="cb2-14"><a href="#cb2-14"></a><span class="kw">ltt.plot</span>(phy)</span></code></pre></div>
+<div class="sourceCode" id="cb2"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ape)</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>phy <span class="ot">&lt;-</span> <span class="fu">fishtree_phylogeny</span>(<span class="at">rank =</span> <span class="st">"Acanthuridae"</span>)</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>phy</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; </span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; Phylogenetic tree with 67 tips and 66 internal nodes.</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; </span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; Tip labels:</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt;   Acanthurus_mata, Acanthurus_blochii, Acanthurus_xanthopterus, Acanthurus_bariene, Acanthurus_dussumieri, Acanthurus_leucocheilus, ...</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; </span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; Rooted; includes branch lengths.</span></span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a><span class="fu">par</span>(<span class="at">mfrow=</span><span class="fu">c</span>(<span class="dv">2</span>, <span class="dv">1</span>))</span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(phy, <span class="at">show.tip.label =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a><span class="fu">ltt.plot</span>(phy)</span></code></pre></div>
 <p>You can also check out the vignettes for more detailed examples.</p>
 </div>
 <div id="installation" class="section level2">
 <h2 class="hasAnchor">
 <a href="#installation" class="anchor"></a>Installation</h2>
 <p>You can install the released version of fishtree from <a href="https://CRAN.R-project.org">CRAN</a> with:</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1"></a><span class="kw">install.packages</span>(<span class="st">"fishtree"</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb3"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"fishtree"</span>)</span></code></pre></div>
 <p>Alternatively, download the development version with devtools:</p>
-<div class="sourceCode" id="cb4"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1"></a><span class="cf">if</span> (<span class="op">!</span><span class="kw">requireNamespace</span>(<span class="st">"remotes"</span>, <span class="dt">quietly =</span> <span class="ot">TRUE</span>))</span>
-<span id="cb4-2"><a href="#cb4-2"></a>    <span class="kw">install.packages</span>(<span class="st">"remotes"</span>)</span>
-<span id="cb4-3"><a href="#cb4-3"></a></span>
-<span id="cb4-4"><a href="#cb4-4"></a>remotes<span class="op">::</span><span class="kw">install_github</span>(<span class="st">"jonchang/fishtree"</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb4"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (<span class="sc">!</span><span class="fu">requireNamespace</span>(<span class="st">"remotes"</span>, <span class="at">quietly =</span> <span class="cn">TRUE</span>))</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>    <span class="fu">install.packages</span>(<span class="st">"remotes"</span>)</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"jonchang/fishtree"</span>)</span></code></pre></div>
 </div>
 <div id="references" class="section level2">
 <h2 class="hasAnchor">
@@ -162,7 +162,7 @@
 <div id="releasing" class="section level2">
 <h2 class="hasAnchor">
 <a href="#releasing" class="anchor"></a>Releasing</h2>
-<div class="sourceCode" id="cb5"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1"></a>withr<span class="op">::</span><span class="kw">with_envvar</span>(<span class="kw">c</span>(<span class="st">"NOT_CRAN"</span> =<span class="st"> "true"</span>), devtools<span class="op">::</span><span class="kw">release</span>())</span></code></pre></div>
+<div class="sourceCode" id="cb5"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>withr<span class="sc">::</span><span class="fu">with_envvar</span>(<span class="fu">c</span>(<span class="st">"NOT_CRAN"</span> <span class="ot">=</span> <span class="st">"true"</span>), devtools<span class="sc">::</span><span class="fu">release</span>())</span></code></pre></div>
 </div>
 </div>
 
