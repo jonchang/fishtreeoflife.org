@@ -18,9 +18,13 @@ jobs:
         sudo apt install --no-install-recommends -y libvips
     - uses: actions/checkout@v2
     - name: Login to Github Docker
-      run: echo -n $PACKAGE_ACCESS_TOKEN | docker login -u jonchang --password-stdin docker.pkg.github.com
+      run: |
+        # Conditionally use secret token with permissions if available
+        export TOKEN="${PACKAGE_ACCESS_TOKEN:-$GITHUB_TOKEN}"
+        echo -n $TOKEN | docker login -u jonchang --password-stdin docker.pkg.github.com
       env:
         PACKAGE_ACCESS_TOKEN: ${{ secrets.PACKAGE_ACCESS_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Download data from the fishtreeoflife docker container
       run: scripts/docker.sh
     - name: Build fishtree R package documentation
