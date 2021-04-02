@@ -42,7 +42,7 @@ jobs:
       if: ${{ success() && github.ref == 'refs/heads/master' }}
       with:
         publish_dir: ./_site
-        personal_token: ${{ secrets.PACKAGE_ACCESS_TOKEN }}
+        personal_token: ${{ secrets.GITHUB_TOKEN }}
 
   shellcheck:
     runs-on: ubuntu-latest
