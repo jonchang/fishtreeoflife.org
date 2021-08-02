@@ -4,6 +4,12 @@ title: About
 description: Citing the ray-finned fish phylogeny, information about the Fish Tree of Life
 ---
 
+This website, fishtreeoflife.org, is a community resource providing phylogenetic, taxonomic, and other information about ray-finned fishes, the most species-rich group of vertebrates.
+
+We also offer an R package that provides programmatic access to the data products on this website, [`fishtree`](https://cran.r-project.org/package=fishtree). The [web documentation for `fishtree`]({% link fishtree/index.html %}) contains a reference and usage examples in its vignettes. The R package uses our internal API, which is publicly available but intentionally undocumented, as the only supported access is through the R package.
+
+We track your usage of our services using Google Analytics and the CRANlogs database. As we lack the [funding](#funding) to conduct user studies or other detailed survey instruments, this is the only way to measure our impact to ask for future funding or sponsorships.
+
 # Citing
 
 If you use any phylogenetic products derived from this website, including taxonomic resources and fossil calibration constraints, please cite:
@@ -12,18 +18,13 @@ If you use any phylogenetic products derived from this website, including taxono
 Daniel L. Rabosky*, Jonathan Chang*, Pascal O. Title*, Peter F. Cowman, Lauren Sallan, Matt Friedman, Kristin Kaschner, Cristina Garilao, Thomas J. Near, Marta Coll, Michael E. Alfaro* (2018).  An inverse latitudinal gradient in speciation rate for marine fishes. <em>Nature</em>, 559(7714), 392&ndash;395 doi:<a href="https://doi.org/10.1038/s41586-018-0273-1">10.1038/s41586-018-0273-1</a>
 </p>
 
-We also offer an R package that provides programmatic access to the data products on this website, [`fishtree`](https://cran.r-project.org/package=fishtree); you can browse [web documentation for `fishtree` here]({% link fishtree/index.html %}). If you use this R package or web API, please additionally cite:
+If you use the R package or web API, please cite:
 
 Jonathan Chang, Daniel L. Rabosky, Stephen A. Smith, Michael E. Alfaro (2019). An R package and online resource for macroevolutionary studies using the ray‐finned fish tree of life. *Methods in Ecology and Evolution*, 10:1118--1124 doi:[10.1111/2041-210x.13182](https://doi.org/10.1111/2041-210x.13182)
 
 We have also [released a set of enhanced ATA trees]({% link downloads/index.md %}); the details on how these ATA distributions differ are detailed in [Rabosky et al. 2018 update]({% link rabosky-et-al-2018-update.md %}). [The original set of ATA phylogenies are available via Dryad](https://doi.org/10.5061/dryad.fc71cp4). The taxonomic addition algorithm using stochastic polytomy resolution (TACT: Taxonomic Addition for Complete Trees) that generated these ATA phylogenies was published as:
 
 Jonathan Chang, Daniel L. Rabosky, Michael E. Alfaro (2019). Estimating diversification rates on incompletely-sampled phylogenies: theoretical concerns and practical solutions. *Systematic Biology*, doi:[10.1093/sysbio/syz081](https://doi.org/10.1093/sysbio/syz081)
-
-<!---
-
-The manuscript detailing our Phylogentic Fish Classification is currently in preparation.
--->
 
 # Contact
 
