@@ -43,7 +43,7 @@ jobs:
       with:
         publish_dir: ./_site
         personal_token: ${{ secrets.GITHUB_TOKEN }}
-        force_orpha: true
+        force_orphan: true
 
   shellcheck:
     runs-on: ubuntu-latest
