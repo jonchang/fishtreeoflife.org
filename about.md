@@ -6,7 +6,7 @@ description: Citing the ray-finned fish phylogeny, information about the Fish Tr
 
 This website, fishtreeoflife.org, is a community resource providing phylogenetic, taxonomic, and other information about ray-finned fishes, the most species-rich group of vertebrates.
 
-We also offer an R package that provides programmatic access to the data products on this website, [`fishtree`](https://cran.r-project.org/package=fishtree). The [web documentation for `fishtree`](https://jonchang.github.io/fishtree/) contains a reference and usage examples in its vignettes. The R package uses our internal API, which is publicly available but intentionally undocumented, as the only supported access is through the R package.
+We also offer an R package that provides programmatic access to the data products on this website, [`fishtree`](https://cran.r-project.org/package=fishtree). The [web documentation for `fishtree`](https://fishtree.fishtreeoflife.org) contains a reference and usage examples in its vignettes. The R package uses our internal API, which is publicly available but intentionally undocumented, as the only supported access is through the R package.
 
 We track your usage of our services using Google Analytics and the CRANlogs database. As we lack the [funding](#funding) to conduct user studies or other detailed survey instruments, this is the only way to measure our impact to ask for future funding or sponsorships.
 
