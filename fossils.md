@@ -3,9 +3,6 @@ layout: page
 title: Fossils
 description: Ray-finned fish fossils for time-calibrating the Actinopterygii phylogeny. Inclues node placements, fossil locality, and taxonomic authorities.
 ---
-url('{% link assets/img/vertical_tree@1x-940w.png %}');
-url('{% link assets/img/vertical_tree@2x-1880w.png %}');
-url('{% link assets/img/vertical_tree@2x-2820w.png %}');
 
 <style>
 .svg-container {
