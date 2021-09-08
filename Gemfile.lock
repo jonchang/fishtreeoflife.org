@@ -98,8 +98,6 @@ GEM
     rouge (3.26.0)
     ruby-enum (0.9.0)
       i18n
-    ruby-vips (2.1.3)
-      ffi (~> 1.12)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -124,7 +122,6 @@ DEPENDENCIES
   jekyll-tidy
   liquid-c
   rake
-  ruby-vips
   webrick
 
 BUNDLED WITH
