@@ -45,10 +45,8 @@ only screen and (                min-resolution: 2.25dppx) {
 }
 </style>
 
-{% assign tree = assets["front-page-tree@3x.png"] %}
-
 <div class="svg-container">
-<svg id="example1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin meet" class="svg-content" viewBox="0 0 {{ tree.dimensions.width }} {{ tree.dimensions.height }}">
+<svg id="example1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin meet" class="svg-content" viewBox="0 0 2687 1350">
 {% for row in site.data.front_page_coords %}
 <a xlink:href="{{ "/taxonomy/family/" | append: row.taxa | relative_url }}" class="svg-tooltip">
   <title>{{ row.taxa }}</title>
