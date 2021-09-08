@@ -13,7 +13,7 @@ description: Ray-finned fish fossils for time-calibrating the Actinopterygii phy
     vertical-align: middle;
     overflow: hidden;
     background-size: contain;
-    background-image: url('{% link assets/img/vertical_tree@1x-940w.png %}');
+    background-image: url('{% link assets/img/vertical_tree@1x.png %}');
 }
 
 @media
@@ -23,7 +23,7 @@ only screen and (     -o-min-device-pixel-ratio: 5/4),
 only screen and (        min-device-pixel-ratio: 1.25),
 only screen and (                min-resolution: 1.25dppx) {
     .svg-container {
-        background-image: url('{% link assets/img/vertical_tree@2x-1880w.png %}');
+        background-image: url('{% link assets/img/vertical_tree@2x.png %}');
     };
 }
 
@@ -34,7 +34,7 @@ only screen and (     -o-min-device-pixel-ratio: 9/4),
 only screen and (        min-device-pixel-ratio: 2.25),
 only screen and (                min-resolution: 2.25dppx) {
     .svg-container {
-        background-image: url('{% link assets/img/vertical_tree@2x-2820w.png %}');
+        background-image: url('{% link assets/img/vertical_tree@3x.png %}');
     };
 }
 
