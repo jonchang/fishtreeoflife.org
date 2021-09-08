@@ -3,6 +3,9 @@ layout: page
 title: Fossils
 description: Ray-finned fish fossils for time-calibrating the Actinopterygii phylogeny. Inclues node placements, fossil locality, and taxonomic authorities.
 ---
+url('{% link assets/img/vertical_tree@1x-940w.png %}');
+url('{% link assets/img/vertical_tree@2x-1880w.png %}');
+url('{% link assets/img/vertical_tree@2x-2820w.png %}');
 
 <style>
 .svg-container {
@@ -13,7 +16,7 @@ description: Ray-finned fish fossils for time-calibrating the Actinopterygii phy
     vertical-align: middle;
     overflow: hidden;
     background-size: contain;
-    background-image: url('{% resize src='/assets/img/vertical_tree@1x.png' width=940 %}');
+    background-image: url('{% link assets/img/vertical_tree@1x-940w.png %}');
 }
 
 @media
@@ -23,7 +26,7 @@ only screen and (     -o-min-device-pixel-ratio: 5/4),
 only screen and (        min-device-pixel-ratio: 1.25),
 only screen and (                min-resolution: 1.25dppx) {
     .svg-container {
-        background-image: url('{% resize src='/assets/img/vertical_tree@2x.png' width=1880 %}');
+        background-image: url('{% link assets/img/vertical_tree@2x-1880w.png %}');
     };
 }
 
@@ -34,7 +37,7 @@ only screen and (     -o-min-device-pixel-ratio: 9/4),
 only screen and (        min-device-pixel-ratio: 2.25),
 only screen and (                min-resolution: 2.25dppx) {
     .svg-container {
-        background-image: url('{% resize src='/assets/img/vertical_tree@2x.png' width=2820 %}');
+        background-image: url('{% link assets/img/vertical_tree@2x-2820w.png %}');
     };
 }
 
