@@ -2,8 +2,8 @@
 
 set -eux
 
-docker pull docker.pkg.github.com/jonchang/fishtreeoflife-docker/data:latest
-docker run --name temp docker.pkg.github.com/jonchang/fishtreeoflife-docker/data:latest /bin/true
+docker pull ghcr.io/jonchang/fishtreeoflife-docker/data:latest
+docker run --name temp ghcr.io/jonchang/fishtreeoflife-docker/data:latest /bin/true
 docker cp temp:assets assets_tmp
 docker cp temp:_fossils _fossils
 docker cp temp:_data _data_tmp
