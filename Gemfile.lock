@@ -79,7 +79,7 @@ GEM
     mercenary (0.4.0)
     mini_magick (4.11.0)
     mini_portile2 (2.6.1)
-    nokogiri (1.12.4)
+    nokogiri (1.12.5)
       mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
     nokogumbo (2.0.5)
