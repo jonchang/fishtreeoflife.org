@@ -57,13 +57,13 @@ layout: default
     {% assign right = fossil.right | replace: "_", " " %}
 
     {% for rank in site.data.ranks %}
-    {% for rank_hash in site.data.taxonomy[rank] %}
-    {% assign rank_name = rank_hash[1] %}
-    {% if rank_name.species contains left and rank_name.species contains right %}
-    {% assign nn = site[rank] | where: "title", rank_name.taxonomy[rank][0] | first %}
-    <dd>{{ rank | capitalize }}: <a href="{{ nn.url | relative_url }}">{{ nn.title }}</a></dd>
+    {% assign name = rank %}
+    {% if fossil[name] != "NA" %}
+    {% assign fossil_rank_name = fossil[name] %}
+    {% assign fossil_rank_slug = fossil_rank_name | replace: " ", "-" %}
+    {% assign url = "taxonomy/" | append: rank | append: "/" | append: fossil_rank_slug %}
+    <dd>{{ rank | capitalize }}: <a href="{{ url | relative_url }}">{{ fossil_rank_name }}</a></dd>
     {% endif %}
-    {% endfor %}
     {% endfor %}
 </dl>
 
