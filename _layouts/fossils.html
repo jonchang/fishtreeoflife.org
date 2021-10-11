@@ -60,7 +60,7 @@ layout: default
     {% assign name = rank %}
     {% if fossil[name] != "NA" %}
     {% assign fossil_rank_name = fossil[name] %}
-    {% assign fossil_rank_slug = fossil_rank_name | slugify | capitalize %}
+    {% assign fossil_rank_slug = fossil_rank_name | replace: " ", "-" %}
     {% assign url = "taxonomy/" | append: rank | append: "/" | append: fossil_rank_slug %}
     <dd>{{ rank | capitalize }}: <a href="{{ url | relative_url }}">{{ fossil_rank_name }}</a></dd>
     {% endif %}
