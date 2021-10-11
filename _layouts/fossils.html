@@ -59,12 +59,12 @@ layout: default
     {% for rank in site.data.ranks %}
     {% assign name = rank %}
     {% if fossil[name] != "NA" %}
-    {% assign nn = fossil[name] %}
-    {% assign url = "taxonomy/" | append: rank | append: "/" | append: nn %}
-    <dd>{{ rank | capitalize }}: <a href="{{ url | relative_url }}">{{ nn }}</a></dd>
+    {% assign fossil_rank_name = fossil[name] %}
+    {% assign fossil_rank_slug = fossil_rank_name | slugify %}
+    {% assign url = "taxonomy/" | append: rank | append: "/" | append: fossil_rank_slug %}
+    <dd>{{ rank | capitalize }}: <a href="{{ url | relative_url }}">{{ fossil_rank_name }}</a></dd>
     {% endif %}
     {% endfor %}
-  
 </dl>
 
   </div>
