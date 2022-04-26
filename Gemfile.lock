@@ -4,9 +4,8 @@ GEM
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
-    commonmarker (0.17.13)
-      ruby-enum (~> 0.5)
-    concurrent-ruby (1.1.9)
+    commonmarker (0.23.4)
+    concurrent-ruby (1.1.10)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -23,7 +22,7 @@ GEM
       rainbow (~> 3.0)
       typhoeus (~> 1.3)
       yell (~> 2.0)
-    htmlbeautifier (1.4.1)
+    htmlbeautifier (1.4.2)
     htmlcompressor (0.4.0)
     http_parser.rb (0.8.0)
     i18n (1.10.0)
@@ -43,13 +42,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
-    jekyll-commonmark (1.3.1)
-      commonmarker (~> 0.14)
-      jekyll (>= 3.7, < 5.0)
-    jekyll-commonmark-ghpages (0.1.6)
-      commonmarker (~> 0.17.6)
-      jekyll-commonmark (~> 1.2)
-      rouge (>= 2.0, < 4.0)
+    jekyll-commonmark (1.4.0)
+      commonmarker (~> 0.22)
     jekyll-favicon (1.0.0)
       jekyll (>= 3.0, < 5.0)
       mini_magick (~> 4.11)
@@ -66,7 +60,7 @@ GEM
       jekyll
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (2.3.1)
+    kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -78,24 +72,22 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     mini_magick (4.11.0)
-    mini_portile2 (2.8.0)
-    nokogiri (1.13.4)
-      mini_portile2 (~> 2.8.0)
+    nokogiri (1.13.4-arm64-darwin)
       racc (~> 1.4)
-    parallel (1.21.0)
+    nokogiri (1.13.4-x86_64-linux)
+      racc (~> 1.4)
+    parallel (1.22.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (4.0.6)
+    public_suffix (4.0.7)
     racc (1.6.0)
-    rainbow (3.0.0)
+    rainbow (3.1.1)
     rake (13.0.6)
     rb-fsevent (0.11.1)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
     rouge (3.28.0)
-    ruby-enum (0.9.0)
-      i18n
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -108,12 +100,13 @@ GEM
     yell (2.2.2)
 
 PLATFORMS
-  ruby
+  arm64-darwin-21
+  x86_64-linux
 
 DEPENDENCIES
   html-proofer
   jekyll (= 4.2.2)
-  jekyll-commonmark-ghpages
+  jekyll-commonmark
   jekyll-favicon
   jekyll-seo-tag
   jekyll-sitemap
@@ -123,4 +116,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.2.32
+   2.3.11

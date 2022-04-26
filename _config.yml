@@ -21,11 +21,11 @@ twitter:
     card: summary_large_image
 
 # Build settings
-markdown: CommonMarkGhPages
+markdown: CommonMark
 
 # markdown processor
 commonmark:
-  options: ["SMART", "FOOTNOTES"]
+  options: ["SMART", "FOOTNOTES", "UNSAFE"]
   extensions: ["strikethrough", "autolink", "table"]
 
 # Minima date format
