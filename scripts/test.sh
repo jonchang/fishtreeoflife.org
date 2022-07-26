@@ -6,4 +6,4 @@ set -eux
 grep ERROR_ERROR_ERROR -lr _site && exit 1
 
 # ensure internal links are valid
-bundle exec htmlproofer --allow-hash-href=true --disable-external=true --ignore-empty-alt=true --assume-extension ./_site
+bundle exec htmlproofer --allow-hash-href=true --disable-external=true --ignore-empty-alt=true --assume-extension=.html ./_site
