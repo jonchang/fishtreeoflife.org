@@ -39,7 +39,7 @@ layout: page
     {% else %}
     <ul>
         {% for fossil in fossils %}
-        <li>{{ fossil.clade }} (<em><a href="{{ fossil.fossil | slugify | prepend: "/fossils/" | relative_url }}">{{ fossil.fossil }}</a></em>&dagger;) {{ fossil.min }} Ma</li>
+        <li>{{ fossil.clade }} (<em><a href="{{ fossil.fossil | slugify | prepend: '/fossils/' | relative_url }}">{{ fossil.fossil }}</a></em>&dagger;) {{ fossil.min }} Ma</li>
         {% endfor %}
     </ul>
 
