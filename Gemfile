@@ -3,7 +3,7 @@ gem "jekyll", "4.2.2"
 gem "rake"
 gem "liquid-c"
 gem "webrick"
-gem "psych", "< 4" # remove when jekyll-favicon is fixed
+gem "psych"
 
 group :jekyll_plugins do
   gem "jekyll-commonmark"
