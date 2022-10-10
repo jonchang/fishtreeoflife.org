@@ -9,10 +9,6 @@ on:
   schedule:
     - cron: '0 0 * * 1' # At 00:00 on Monday
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
 jobs:
   build:
     permissions:
@@ -51,6 +47,9 @@ jobs:
       uses: actions/upload-pages-artifact@v1
 
   deploy:
+    concurrency:
+      group: "pages"
+      cancel-in-progress: true
     if: ${{ github.ref == 'refs/heads/master' }}
     permissions:
       pages: write
