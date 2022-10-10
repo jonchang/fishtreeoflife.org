@@ -1,0 +1,430 @@
+{
+  "species": [
+    "Allenbatrachus grunniens",
+    "Allenbatrachus meridionalis",
+    "Allenbatrachus reticulatus",
+    "Amphichthys cryptocentrus",
+    "Amphichthys rubigenis",
+    "Aphos porosus",
+    "Austrobatrachus foedus",
+    "Austrobatrachus iselesele",
+    "Barchatus cirrhosus",
+    "Batrachoides boulengeri",
+    "Batrachoides gilberti",
+    "Batrachoides goldmani",
+    "Batrachoides liberiensis",
+    "Batrachoides manglae",
+    "Batrachoides pacifici",
+    "Batrachoides surinamensis",
+    "Batrachoides walkeri",
+    "Batrachoides waltersi",
+    "Batrachomoeus dahli",
+    "Batrachomoeus dubius",
+    "Batrachomoeus occidentalis",
+    "Batrachomoeus rubricephalus",
+    "Batrachomoeus trispinosus",
+    "Batrichthys albofasciatus",
+    "Batrichthys apiatus",
+    "Bifax lacinia",
+    "Chatrabus felinus",
+    "Chatrabus hendersoni",
+    "Chatrabus melanurus",
+    "Colletteichthys dussumieri",
+    "Colletteichthys flavipinnis",
+    "Colletteichthys occidentalis",
+    "Daector dowi",
+    "Daector gerringi",
+    "Daector quadrizonatus",
+    "Daector reticulata",
+    "Daector schmitti",
+    "Halobatrachus didactylus",
+    "Halophryne diemensis",
+    "Halophryne hutchinsi",
+    "Halophryne ocellatus",
+    "Halophryne queenslandiae",
+    "Opsanus beta",
+    "Opsanus dichrostomus",
+    "Opsanus pardus",
+    "Opsanus phobetron",
+    "Opsanus tau",
+    "Perulibatrachus aquilonarius",
+    "Perulibatrachus elminensis",
+    "Perulibatrachus kilburni",
+    "Perulibatrachus rossignoli",
+    "Porichthys analis",
+    "Porichthys bathoiketes",
+    "Porichthys ephippiatus",
+    "Porichthys greenei",
+    "Porichthys kymosemeum",
+    "Porichthys margaritatus",
+    "Porichthys mimeticus",
+    "Porichthys myriaster",
+    "Porichthys notatus",
+    "Porichthys oculellus",
+    "Porichthys oculofrenum",
+    "Porichthys pauciradiatus",
+    "Porichthys plectrodon",
+    "Porichthys porosissimus",
+    "Potamobatrachus trispinosus",
+    "Riekertia ellisi",
+    "Sanopus astrifer",
+    "Sanopus barbatus",
+    "Sanopus greenfieldorum",
+    "Sanopus johnsoni",
+    "Sanopus reticulatus",
+    "Sanopus splendidus",
+    "Thalassophryne amazonica",
+    "Thalassophryne maculosa",
+    "Thalassophryne megalops",
+    "Thalassophryne montevidensis",
+    "Thalassophryne nattereri",
+    "Thalassophryne punctata",
+    "Triathalassothia argentina",
+    "Triathalassothia lambaloti",
+    "Vladichthys gloverensis"
+  ],
+  "sampled_species": [
+    "Batrichthys apiatus",
+    "Chatrabus felinus",
+    "Chatrabus melanurus",
+    "Daector quadrizonatus",
+    "Halobatrachus didactylus",
+    "Opsanus beta",
+    "Opsanus pardus",
+    "Opsanus phobetron",
+    "Opsanus tau",
+    "Perulibatrachus elminensis",
+    "Porichthys analis",
+    "Porichthys myriaster",
+    "Porichthys notatus",
+    "Porichthys pauciradiatus",
+    "Porichthys plectrodon",
+    "Porichthys porosissimus",
+    "Sanopus greenfieldorum",
+    "Thalassophryne amazonica"
+  ],
+  "unsampled_species": [
+    "Allenbatrachus grunniens",
+    "Allenbatrachus meridionalis",
+    "Allenbatrachus reticulatus",
+    "Amphichthys cryptocentrus",
+    "Amphichthys rubigenis",
+    "Aphos porosus",
+    "Austrobatrachus foedus",
+    "Austrobatrachus iselesele",
+    "Barchatus cirrhosus",
+    "Batrachoides boulengeri",
+    "Batrachoides gilberti",
+    "Batrachoides goldmani",
+    "Batrachoides liberiensis",
+    "Batrachoides manglae",
+    "Batrachoides pacifici",
+    "Batrachoides surinamensis",
+    "Batrachoides walkeri",
+    "Batrachoides waltersi",
+    "Batrachomoeus dahli",
+    "Batrachomoeus dubius",
+    "Batrachomoeus occidentalis",
+    "Batrachomoeus rubricephalus",
+    "Batrachomoeus trispinosus",
+    "Batrichthys albofasciatus",
+    "Bifax lacinia",
+    "Chatrabus hendersoni",
+    "Colletteichthys dussumieri",
+    "Colletteichthys flavipinnis",
+    "Colletteichthys occidentalis",
+    "Daector dowi",
+    "Daector gerringi",
+    "Daector reticulata",
+    "Daector schmitti",
+    "Halophryne diemensis",
+    "Halophryne hutchinsi",
+    "Halophryne ocellatus",
+    "Halophryne queenslandiae",
+    "Opsanus dichrostomus",
+    "Perulibatrachus aquilonarius",
+    "Perulibatrachus kilburni",
+    "Perulibatrachus rossignoli",
+    "Porichthys bathoiketes",
+    "Porichthys ephippiatus",
+    "Porichthys greenei",
+    "Porichthys kymosemeum",
+    "Porichthys margaritatus",
+    "Porichthys mimeticus",
+    "Porichthys oculellus",
+    "Porichthys oculofrenum",
+    "Potamobatrachus trispinosus",
+    "Riekertia ellisi",
+    "Sanopus astrifer",
+    "Sanopus barbatus",
+    "Sanopus johnsoni",
+    "Sanopus reticulatus",
+    "Sanopus splendidus",
+    "Thalassophryne maculosa",
+    "Thalassophryne megalops",
+    "Thalassophryne montevidensis",
+    "Thalassophryne nattereri",
+    "Thalassophryne punctata",
+    "Triathalassothia argentina",
+    "Triathalassothia lambaloti",
+    "Vladichthys gloverensis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Halobatrachus didactylus",
+      "Opsanus pardus",
+      "Opsanus tau"
+    ],
+    "16s": [
+      "Daector quadrizonatus",
+      "Halobatrachus didactylus",
+      "Opsanus beta",
+      "Opsanus pardus",
+      "Opsanus tau",
+      "Perulibatrachus elminensis",
+      "Porichthys analis",
+      "Porichthys myriaster",
+      "Porichthys notatus",
+      "Thalassophryne amazonica"
+    ],
+    "4c4": [
+      "Opsanus pardus"
+    ],
+    "coi": [
+      "Batrichthys apiatus",
+      "Chatrabus felinus",
+      "Chatrabus melanurus",
+      "Halobatrachus didactylus",
+      "Opsanus beta",
+      "Porichthys myriaster",
+      "Porichthys notatus",
+      "Porichthys pauciradiatus",
+      "Porichthys porosissimus",
+      "Sanopus greenfieldorum"
+    ],
+    "cytb": [
+      "Halobatrachus didactylus",
+      "Opsanus beta",
+      "Opsanus pardus",
+      "Opsanus phobetron",
+      "Opsanus tau",
+      "Porichthys notatus"
+    ],
+    "enc1": [
+      "Porichthys plectrodon"
+    ],
+    "ficd": [
+      "Opsanus beta",
+      "Opsanus pardus",
+      "Porichthys notatus",
+      "Porichthys plectrodon"
+    ],
+    "glyt": [
+      "Opsanus pardus",
+      "Porichthys notatus",
+      "Porichthys plectrodon"
+    ],
+    "hoxc6a": [
+      "Opsanus beta",
+      "Porichthys plectrodon"
+    ],
+    "kiaa1239": [
+      "Opsanus pardus",
+      "Porichthys plectrodon"
+    ],
+    "myh6": [
+      "Opsanus beta",
+      "Opsanus pardus",
+      "Porichthys notatus",
+      "Porichthys plectrodon"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Opsanus beta",
+      "Opsanus tau"
+    ],
+    "plagl2": [
+      "Opsanus pardus",
+      "Porichthys notatus",
+      "Porichthys plectrodon"
+    ],
+    "ptr": [
+      "Opsanus pardus",
+      "Porichthys notatus"
+    ],
+    "rag1": [
+      "Opsanus pardus",
+      "Porichthys notatus"
+    ],
+    "rag2": [
+      "Opsanus pardus"
+    ],
+    "rhodopsin": [
+      "Halobatrachus didactylus",
+      "Opsanus pardus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Opsanus pardus",
+      "Porichthys notatus"
+    ],
+    "sidkey": [
+      "Porichthys plectrodon"
+    ],
+    "sreb2": [
+      "Opsanus pardus",
+      "Porichthys notatus",
+      "Porichthys plectrodon"
+    ],
+    "svep1": [
+      "Porichthys plectrodon"
+    ],
+    "tbr1": [
+      "Opsanus pardus",
+      "Opsanus tau",
+      "Porichthys notatus",
+      "Porichthys plectrodon"
+    ],
+    "vcpip": [
+      "Opsanus pardus",
+      "Porichthys plectrodon"
+    ],
+    "zic1": [
+      "Porichthys notatus",
+      "Porichthys plectrodon"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Batrachoididae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Batrachoidiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Batrachoidiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Batrichthys apiatus": 0.0398,
+    "Chatrabus felinus": 0.0789,
+    "Chatrabus melanurus": 0.079,
+    "Daector quadrizonatus": 0.11,
+    "Halobatrachus didactylus": 0.0727,
+    "Opsanus beta": 0.0649,
+    "Opsanus pardus": 0.0665,
+    "Opsanus phobetron": 0.0436,
+    "Opsanus tau": 0.0374,
+    "Perulibatrachus elminensis": 0.08,
+    "Porichthys analis": 0.1002,
+    "Porichthys myriaster": 0.1251,
+    "Porichthys notatus": 0.1255,
+    "Porichthys pauciradiatus": 0.0805,
+    "Porichthys plectrodon": 0.075,
+    "Porichthys porosissimus": 0.0513,
+    "Sanopus greenfieldorum": 0.061,
+    "Thalassophryne amazonica": 0.1158
+  },
+  "tiprates_bamm_lambda": {
+    "Batrichthys apiatus": 0.055,
+    "Chatrabus felinus": 0.055,
+    "Chatrabus melanurus": 0.055,
+    "Daector quadrizonatus": 0.0551,
+    "Halobatrachus didactylus": 0.055,
+    "Opsanus beta": 0.0551,
+    "Opsanus pardus": 0.0551,
+    "Opsanus phobetron": 0.0551,
+    "Opsanus tau": 0.0551,
+    "Perulibatrachus elminensis": 0.055,
+    "Porichthys analis": 0.0551,
+    "Porichthys myriaster": 0.0551,
+    "Porichthys notatus": 0.0551,
+    "Porichthys pauciradiatus": 0.0551,
+    "Porichthys plectrodon": 0.0551,
+    "Porichthys porosissimus": 0.0551,
+    "Sanopus greenfieldorum": 0.0551,
+    "Thalassophryne amazonica": 0.0551
+  },
+  "tiprates_bamm_mu": {
+    "Batrichthys apiatus": 0.0003,
+    "Chatrabus felinus": 0.0003,
+    "Chatrabus melanurus": 0.0003,
+    "Daector quadrizonatus": 0.0003,
+    "Halobatrachus didactylus": 0.0003,
+    "Opsanus beta": 0.0003,
+    "Opsanus pardus": 0.0003,
+    "Opsanus phobetron": 0.0003,
+    "Opsanus tau": 0.0003,
+    "Perulibatrachus elminensis": 0.0003,
+    "Porichthys analis": 0.0003,
+    "Porichthys myriaster": 0.0003,
+    "Porichthys notatus": 0.0003,
+    "Porichthys pauciradiatus": 0.0003,
+    "Porichthys plectrodon": 0.0003,
+    "Porichthys porosissimus": 0.0003,
+    "Sanopus greenfieldorum": 0.0003,
+    "Thalassophryne amazonica": 0.0003
+  },
+  "mean_dr": 0.0782,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Batrachoididae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Batrachoididae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Batrachoididae.tre",
+  "phylogram": "downloads/taxonomy/family/Batrachoididae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

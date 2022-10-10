@@ -1,0 +1,254 @@
+{
+  "species": [
+    "Chiasmodon asper",
+    "Chiasmodon braueri",
+    "Chiasmodon harteli",
+    "Chiasmodon microcephalus",
+    "Chiasmodon niger",
+    "Chiasmodon pluriradiatus",
+    "Chiasmodon subniger",
+    "Dysalotus alcocki",
+    "Dysalotus oligoscolus",
+    "Kali colubrina",
+    "Kali falx",
+    "Kali indica",
+    "Kali kerberti",
+    "Kali macrodon",
+    "Kali macrura",
+    "Kali parri",
+    "Pseudoscopelus altipinnis",
+    "Pseudoscopelus aphos",
+    "Pseudoscopelus astronesthidens",
+    "Pseudoscopelus australis",
+    "Pseudoscopelus bothrorrhinos",
+    "Pseudoscopelus cephalus",
+    "Pseudoscopelus cordilluminatus",
+    "Pseudoscopelus lavenbergi",
+    "Pseudoscopelus obtusifrons",
+    "Pseudoscopelus odontoglossum",
+    "Pseudoscopelus parini",
+    "Pseudoscopelus paxtoni",
+    "Pseudoscopelus pierbartus",
+    "Pseudoscopelus sagamianus",
+    "Pseudoscopelus scriptus",
+    "Pseudoscopelus scutatus"
+  ],
+  "sampled_species": [
+    "Chiasmodon niger",
+    "Dysalotus alcocki",
+    "Kali indica",
+    "Kali kerberti",
+    "Kali macrura"
+  ],
+  "unsampled_species": [
+    "Chiasmodon asper",
+    "Chiasmodon braueri",
+    "Chiasmodon harteli",
+    "Chiasmodon microcephalus",
+    "Chiasmodon pluriradiatus",
+    "Chiasmodon subniger",
+    "Dysalotus oligoscolus",
+    "Kali colubrina",
+    "Kali falx",
+    "Kali macrodon",
+    "Kali parri",
+    "Pseudoscopelus altipinnis",
+    "Pseudoscopelus aphos",
+    "Pseudoscopelus astronesthidens",
+    "Pseudoscopelus australis",
+    "Pseudoscopelus bothrorrhinos",
+    "Pseudoscopelus cephalus",
+    "Pseudoscopelus cordilluminatus",
+    "Pseudoscopelus lavenbergi",
+    "Pseudoscopelus obtusifrons",
+    "Pseudoscopelus odontoglossum",
+    "Pseudoscopelus parini",
+    "Pseudoscopelus paxtoni",
+    "Pseudoscopelus pierbartus",
+    "Pseudoscopelus sagamianus",
+    "Pseudoscopelus scriptus",
+    "Pseudoscopelus scutatus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Kali macrura"
+    ],
+    "16s": [
+      "Kali macrura"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Chiasmodon niger",
+      "Dysalotus alcocki",
+      "Kali indica",
+      "Kali kerberti",
+      "Kali macrura"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Chiasmodon niger"
+    ],
+    "kiaa1239": [
+      "Chiasmodon niger",
+      "Kali indica",
+      "Kali kerberti"
+    ],
+    "myh6": [
+      "Kali indica"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Chiasmodon niger",
+      "Kali indica",
+      "Kali kerberti"
+    ],
+    "plagl2": [
+      "Chiasmodon niger",
+      "Kali indica"
+    ],
+    "ptr": [
+      "Kali indica",
+      "Kali kerberti"
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Kali macrura"
+    ],
+    "ripk4": [
+      "Chiasmodon niger"
+    ],
+    "sh3px3": [
+      "Chiasmodon niger"
+    ],
+    "sidkey": [
+      "Chiasmodon niger",
+      "Kali indica",
+      "Kali kerberti"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Kali indica"
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+      "Kali indica"
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Chiasmodontidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Scombriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Pelagiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Chiasmodon niger": 0.1675,
+    "Dysalotus alcocki": 0.051,
+    "Kali indica": 0.0703,
+    "Kali kerberti": 0.0566,
+    "Kali macrura": 0.0683
+  },
+  "tiprates_bamm_lambda": {
+    "Chiasmodon niger": 0.0552,
+    "Dysalotus alcocki": 0.0552,
+    "Kali indica": 0.0552,
+    "Kali kerberti": 0.0552,
+    "Kali macrura": 0.0552
+  },
+  "tiprates_bamm_mu": {
+    "Chiasmodon niger": 0.0004,
+    "Dysalotus alcocki": 0.0004,
+    "Kali indica": 0.0004,
+    "Kali kerberti": 0.0004,
+    "Kali macrura": 0.0004
+  },
+  "mean_dr": 0.0827,
+  "mean_bamm_lambda": 0.0552,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Chiasmodontidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Chiasmodontidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Chiasmodontidae.tre",
+  "phylogram": "downloads/taxonomy/family/Chiasmodontidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

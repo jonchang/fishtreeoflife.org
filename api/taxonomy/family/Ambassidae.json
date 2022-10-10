@@ -1,0 +1,341 @@
+{
+  "species": [
+    "Ambassis agassizii",
+    "Ambassis agrammus",
+    "Ambassis ambassis",
+    "Ambassis buruensis",
+    "Ambassis buton",
+    "Ambassis dussumieri",
+    "Ambassis elongata",
+    "Ambassis fontoynonti",
+    "Ambassis gymnocephalus",
+    "Ambassis interrupta",
+    "Ambassis jacksoniensis",
+    "Ambassis kopsii",
+    "Ambassis macleayi",
+    "Ambassis macracanthus",
+    "Ambassis marianus",
+    "Ambassis miops",
+    "Ambassis nalua",
+    "Ambassis natalensis",
+    "Ambassis urotaenia",
+    "Ambassis vachellii",
+    "Chanda nama",
+    "Denariusa australis",
+    "Gymnochanda filamentosa",
+    "Gymnochanda flamea",
+    "Gymnochanda limi",
+    "Gymnochanda verae",
+    "Paradoxodacna piratica",
+    "Parambassis alleni",
+    "Parambassis altipinnis",
+    "Parambassis apogonoides",
+    "Parambassis baculis",
+    "Parambassis bistigmata",
+    "Parambassis confinis",
+    "Parambassis dayi",
+    "Parambassis gulliveri",
+    "Parambassis lala",
+    "Parambassis macrolepis",
+    "Parambassis pulcinella",
+    "Parambassis ranga",
+    "Parambassis siamensis",
+    "Parambassis tenasserimensis",
+    "Parambassis thomassi",
+    "Parambassis vollmeri",
+    "Parambassis waikhomi",
+    "Parambassis wolffii",
+    "Pseudambassis roberti",
+    "Tetracentrum apogonoides",
+    "Tetracentrum caudovittatus",
+    "Tetracentrum honessi"
+  ],
+  "sampled_species": [
+    "Ambassis agassizii",
+    "Ambassis agrammus",
+    "Ambassis ambassis",
+    "Ambassis buruensis",
+    "Ambassis dussumieri",
+    "Ambassis gymnocephalus",
+    "Ambassis interrupta",
+    "Ambassis macleayi",
+    "Ambassis marianus",
+    "Ambassis miops",
+    "Ambassis urotaenia",
+    "Denariusa australis",
+    "Parambassis ranga",
+    "Parambassis wolffii"
+  ],
+  "unsampled_species": [
+    "Ambassis buton",
+    "Ambassis elongata",
+    "Ambassis fontoynonti",
+    "Ambassis jacksoniensis",
+    "Ambassis kopsii",
+    "Ambassis macracanthus",
+    "Ambassis nalua",
+    "Ambassis natalensis",
+    "Ambassis vachellii",
+    "Chanda nama",
+    "Gymnochanda filamentosa",
+    "Gymnochanda flamea",
+    "Gymnochanda limi",
+    "Gymnochanda verae",
+    "Paradoxodacna piratica",
+    "Parambassis alleni",
+    "Parambassis altipinnis",
+    "Parambassis apogonoides",
+    "Parambassis baculis",
+    "Parambassis bistigmata",
+    "Parambassis confinis",
+    "Parambassis dayi",
+    "Parambassis gulliveri",
+    "Parambassis lala",
+    "Parambassis macrolepis",
+    "Parambassis pulcinella",
+    "Parambassis siamensis",
+    "Parambassis tenasserimensis",
+    "Parambassis thomassi",
+    "Parambassis vollmeri",
+    "Parambassis waikhomi",
+    "Pseudambassis roberti",
+    "Tetracentrum apogonoides",
+    "Tetracentrum caudovittatus",
+    "Tetracentrum honessi"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Ambassis agassizii",
+      "Parambassis ranga",
+      "Parambassis wolffii"
+    ],
+    "16s": [
+      "Ambassis agrammus",
+      "Ambassis ambassis",
+      "Ambassis interrupta",
+      "Ambassis macleayi",
+      "Parambassis ranga",
+      "Parambassis wolffii"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Ambassis agassizii",
+      "Ambassis ambassis",
+      "Ambassis buruensis",
+      "Ambassis dussumieri",
+      "Ambassis gymnocephalus",
+      "Ambassis marianus",
+      "Ambassis miops",
+      "Parambassis ranga"
+    ],
+    "cytb": [
+      "Ambassis agassizii",
+      "Ambassis marianus"
+    ],
+    "enc1": [
+      "Ambassis urotaenia"
+    ],
+    "ficd": [
+      "Ambassis interrupta"
+    ],
+    "glyt": [
+      "Ambassis urotaenia"
+    ],
+    "hoxc6a": [
+      "Ambassis interrupta"
+    ],
+    "kiaa1239": [
+      "Ambassis agrammus",
+      "Ambassis interrupta",
+      "Ambassis macleayi"
+    ],
+    "myh6": [
+      "Ambassis agrammus",
+      "Ambassis interrupta",
+      "Ambassis macleayi",
+      "Ambassis urotaenia"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Ambassis interrupta"
+    ],
+    "plagl2": [
+      "Ambassis agrammus",
+      "Ambassis interrupta",
+      "Ambassis macleayi",
+      "Ambassis urotaenia"
+    ],
+    "ptr": [
+      "Ambassis urotaenia"
+    ],
+    "rag1": [
+      "Ambassis agrammus",
+      "Ambassis interrupta",
+      "Ambassis macleayi",
+      "Ambassis urotaenia",
+      "Denariusa australis",
+      "Parambassis ranga",
+      "Parambassis wolffii"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Parambassis ranga",
+      "Parambassis wolffii"
+    ],
+    "ripk4": [
+      "Ambassis agrammus",
+      "Ambassis interrupta",
+      "Ambassis macleayi"
+    ],
+    "sh3px3": [
+      "Ambassis urotaenia"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Ambassis agrammus",
+      "Ambassis interrupta",
+      "Ambassis macleayi",
+      "Ambassis urotaenia"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Ambassis urotaenia"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Ambassis agrammus",
+      "Ambassis interrupta",
+      "Ambassis macleayi",
+      "Ambassis urotaenia"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Ambassidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Ovalentaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Ambassis agassizii": 0.0401,
+    "Ambassis agrammus": 0.0694,
+    "Ambassis ambassis": 0.0637,
+    "Ambassis buruensis": 0.0493,
+    "Ambassis dussumieri": 0.0778,
+    "Ambassis gymnocephalus": 0.0708,
+    "Ambassis interrupta": 0.0618,
+    "Ambassis macleayi": 0.0683,
+    "Ambassis marianus": 0.0896,
+    "Ambassis miops": 0.084,
+    "Ambassis urotaenia": 0.1179,
+    "Denariusa australis": 0.0356,
+    "Parambassis ranga": 0.0738,
+    "Parambassis wolffii": 0.1129
+  },
+  "tiprates_bamm_lambda": {
+    "Ambassis agassizii": 0.055,
+    "Ambassis agrammus": 0.055,
+    "Ambassis ambassis": 0.055,
+    "Ambassis buruensis": 0.055,
+    "Ambassis dussumieri": 0.055,
+    "Ambassis gymnocephalus": 0.055,
+    "Ambassis interrupta": 0.055,
+    "Ambassis macleayi": 0.055,
+    "Ambassis marianus": 0.055,
+    "Ambassis miops": 0.055,
+    "Ambassis urotaenia": 0.055,
+    "Denariusa australis": 0.055,
+    "Parambassis ranga": 0.055,
+    "Parambassis wolffii": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Ambassis agassizii": 0.0003,
+    "Ambassis agrammus": 0.0003,
+    "Ambassis ambassis": 0.0003,
+    "Ambassis buruensis": 0.0003,
+    "Ambassis dussumieri": 0.0003,
+    "Ambassis gymnocephalus": 0.0003,
+    "Ambassis interrupta": 0.0003,
+    "Ambassis macleayi": 0.0003,
+    "Ambassis marianus": 0.0003,
+    "Ambassis miops": 0.0003,
+    "Ambassis urotaenia": 0.0003,
+    "Denariusa australis": 0.0003,
+    "Parambassis ranga": 0.0003,
+    "Parambassis wolffii": 0.0003
+  },
+  "mean_dr": 0.0725,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Ambassidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Ambassidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Ambassidae.tre",
+  "phylogram": "downloads/taxonomy/family/Ambassidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "species": [
+    "Parapriacanthus dispar",
+    "Parapriacanthus elongatus",
+    "Parapriacanthus marei",
+    "Parapriacanthus ransonneti",
+    "Pempheris adspersa",
+    "Pempheris adusta",
+    "Pempheris affinis",
+    "Pempheris analis",
+    "Pempheris compressa",
+    "Pempheris japonica",
+    "Pempheris klunzingeri",
+    "Pempheris mangula",
+    "Pempheris molucca",
+    "Pempheris multiradiata",
+    "Pempheris nyctereutes",
+    "Pempheris ornata",
+    "Pempheris otaitensis",
+    "Pempheris oualensis",
+    "Pempheris poeyi",
+    "Pempheris rapa",
+    "Pempheris schomburgkii",
+    "Pempheris schreineri",
+    "Pempheris schwenkii",
+    "Pempheris ufuagari",
+    "Pempheris vanicolensis",
+    "Pempheris xanthoptera",
+    "Pempheris ypsilychnus"
+  ],
+  "sampled_species": [
+    "Parapriacanthus elongatus",
+    "Parapriacanthus ransonneti",
+    "Pempheris adusta",
+    "Pempheris mangula",
+    "Pempheris oualensis",
+    "Pempheris schomburgkii",
+    "Pempheris schwenkii",
+    "Pempheris vanicolensis"
+  ],
+  "unsampled_species": [
+    "Parapriacanthus dispar",
+    "Parapriacanthus marei",
+    "Pempheris adspersa",
+    "Pempheris affinis",
+    "Pempheris analis",
+    "Pempheris compressa",
+    "Pempheris japonica",
+    "Pempheris klunzingeri",
+    "Pempheris molucca",
+    "Pempheris multiradiata",
+    "Pempheris nyctereutes",
+    "Pempheris ornata",
+    "Pempheris otaitensis",
+    "Pempheris poeyi",
+    "Pempheris rapa",
+    "Pempheris schreineri",
+    "Pempheris ufuagari",
+    "Pempheris xanthoptera",
+    "Pempheris ypsilychnus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Parapriacanthus elongatus",
+      "Pempheris schwenkii",
+      "Pempheris vanicolensis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Parapriacanthus ransonneti",
+      "Pempheris adusta",
+      "Pempheris mangula",
+      "Pempheris oualensis",
+      "Pempheris schomburgkii",
+      "Pempheris schwenkii",
+      "Pempheris vanicolensis"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Parapriacanthus ransonneti",
+      "Pempheris oualensis",
+      "Pempheris schomburgkii",
+      "Pempheris vanicolensis"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Parapriacanthus ransonneti",
+      "Pempheris vanicolensis"
+    ],
+    "kiaa1239": [
+      "Parapriacanthus ransonneti"
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+      "Pempheris vanicolensis"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Parapriacanthus ransonneti",
+      "Pempheris oualensis",
+      "Pempheris vanicolensis"
+    ],
+    "plagl2": [
+      "Parapriacanthus ransonneti",
+      "Pempheris oualensis",
+      "Pempheris schomburgkii",
+      "Pempheris vanicolensis"
+    ],
+    "ptr": [
+      "Pempheris oualensis",
+      "Pempheris schomburgkii"
+    ],
+    "rag1": [
+      "Parapriacanthus ransonneti",
+      "Pempheris oualensis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Pempheris schwenkii"
+    ],
+    "ripk4": [
+      "Parapriacanthus ransonneti",
+      "Pempheris oualensis",
+      "Pempheris vanicolensis"
+    ],
+    "sh3px3": [
+      "Parapriacanthus ransonneti",
+      "Pempheris oualensis"
+    ],
+    "sidkey": [
+      "Parapriacanthus ransonneti",
+      "Pempheris oualensis",
+      "Pempheris vanicolensis"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Parapriacanthus ransonneti",
+      "Pempheris vanicolensis"
+    ],
+    "tbr1": [
+      "Parapriacanthus ransonneti",
+      "Pempheris oualensis",
+      "Pempheris vanicolensis"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Parapriacanthus ransonneti",
+      "Pempheris oualensis",
+      "Pempheris schomburgkii",
+      "Pempheris vanicolensis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Pempheridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pempheriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Parapriacanthus elongatus": 0.0228,
+    "Parapriacanthus ransonneti": 0.0287,
+    "Pempheris adusta": 0.099,
+    "Pempheris mangula": 0.099,
+    "Pempheris oualensis": 0.0574,
+    "Pempheris schomburgkii": 0.0505,
+    "Pempheris schwenkii": 0.0694,
+    "Pempheris vanicolensis": 0.072
+  },
+  "tiprates_bamm_lambda": {
+    "Parapriacanthus elongatus": 0.0558,
+    "Parapriacanthus ransonneti": 0.0558,
+    "Pempheris adusta": 0.0558,
+    "Pempheris mangula": 0.0558,
+    "Pempheris oualensis": 0.0558,
+    "Pempheris schomburgkii": 0.0558,
+    "Pempheris schwenkii": 0.0558,
+    "Pempheris vanicolensis": 0.0558
+  },
+  "tiprates_bamm_mu": {
+    "Parapriacanthus elongatus": 0.0003,
+    "Parapriacanthus ransonneti": 0.0003,
+    "Pempheris adusta": 0.0003,
+    "Pempheris mangula": 0.0003,
+    "Pempheris oualensis": 0.0003,
+    "Pempheris schomburgkii": 0.0003,
+    "Pempheris schwenkii": 0.0003,
+    "Pempheris vanicolensis": 0.0003
+  },
+  "mean_dr": 0.0624,
+  "mean_bamm_lambda": 0.0558,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Pempheridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Pempheridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Pempheridae.tre",
+  "phylogram": "downloads/taxonomy/family/Pempheridae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

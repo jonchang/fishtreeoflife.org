@@ -1,0 +1,257 @@
+{
+  "species": [
+    "Acanthosphex leurynnis",
+    "Adventor elongatus",
+    "Aploactis aspera",
+    "Aploactisoma milesii",
+    "Bathyaploactis curtisensis",
+    "Bathyaploactis ornatissima",
+    "Cocotropus altipinnis",
+    "Cocotropus astakhovi",
+    "Cocotropus dermacanthus",
+    "Cocotropus echinatus",
+    "Cocotropus eksae",
+    "Cocotropus izuensis",
+    "Cocotropus keramaensis",
+    "Cocotropus larvatus",
+    "Cocotropus masudai",
+    "Cocotropus microps",
+    "Cocotropus monacanthus",
+    "Cocotropus possi",
+    "Cocotropus richeri",
+    "Cocotropus roseomaculatus",
+    "Cocotropus roseus",
+    "Cocotropus steinitzi",
+    "Erisphex aniarus",
+    "Erisphex philippinus",
+    "Erisphex pottii",
+    "Erisphex simplex",
+    "Kanekonia florida",
+    "Kanekonia pelta",
+    "Kanekonia queenslandica",
+    "Matsubarichthys inusitatus",
+    "Neoaploactis tridorsalis",
+    "Paraploactis hongkongiensis",
+    "Paraploactis intonsa",
+    "Paraploactis kagoshimensis",
+    "Paraploactis obbesi",
+    "Paraploactis pulvinus",
+    "Paraploactis taprobanensis",
+    "Paraploactis trachyderma",
+    "Peristrominous dolosus",
+    "Prosoproctus pataecus",
+    "Pseudopataecus carnatobarbatus",
+    "Pseudopataecus taenianotus",
+    "Ptarmus gallus",
+    "Ptarmus jubatus",
+    "Sthenopus mollis",
+    "Xenaploactis anopta",
+    "Xenaploactis asperrima",
+    "Xenaploactis cautes"
+  ],
+  "sampled_species": [
+    "Aploactisoma milesii"
+  ],
+  "unsampled_species": [
+    "Acanthosphex leurynnis",
+    "Adventor elongatus",
+    "Aploactis aspera",
+    "Bathyaploactis curtisensis",
+    "Bathyaploactis ornatissima",
+    "Cocotropus altipinnis",
+    "Cocotropus astakhovi",
+    "Cocotropus dermacanthus",
+    "Cocotropus echinatus",
+    "Cocotropus eksae",
+    "Cocotropus izuensis",
+    "Cocotropus keramaensis",
+    "Cocotropus larvatus",
+    "Cocotropus masudai",
+    "Cocotropus microps",
+    "Cocotropus monacanthus",
+    "Cocotropus possi",
+    "Cocotropus richeri",
+    "Cocotropus roseomaculatus",
+    "Cocotropus roseus",
+    "Cocotropus steinitzi",
+    "Erisphex aniarus",
+    "Erisphex philippinus",
+    "Erisphex pottii",
+    "Erisphex simplex",
+    "Kanekonia florida",
+    "Kanekonia pelta",
+    "Kanekonia queenslandica",
+    "Matsubarichthys inusitatus",
+    "Neoaploactis tridorsalis",
+    "Paraploactis hongkongiensis",
+    "Paraploactis intonsa",
+    "Paraploactis kagoshimensis",
+    "Paraploactis obbesi",
+    "Paraploactis pulvinus",
+    "Paraploactis taprobanensis",
+    "Paraploactis trachyderma",
+    "Peristrominous dolosus",
+    "Prosoproctus pataecus",
+    "Pseudopataecus carnatobarbatus",
+    "Pseudopataecus taenianotus",
+    "Ptarmus gallus",
+    "Ptarmus jubatus",
+    "Sthenopus mollis",
+    "Xenaploactis anopta",
+    "Xenaploactis asperrima",
+    "Xenaploactis cautes"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Aploactisoma milesii"
+    ],
+    "4c4": [
+      "Aploactisoma milesii"
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Aploactinidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Aploactisoma milesii": 0.567
+  },
+  "tiprates_bamm_lambda": {
+    "Aploactisoma milesii": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Aploactisoma milesii": 0.0008
+  },
+  "mean_dr": 0.567,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Aploactinidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Aploactinidae.nex.xz"
+}

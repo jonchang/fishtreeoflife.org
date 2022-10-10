@@ -1,0 +1,349 @@
+{
+  "species": [
+    "Astroscopus guttatus",
+    "Astroscopus sexspinosus",
+    "Astroscopus y graecum",
+    "Astroscopus zephyreus",
+    "Genyagnus monopterygius",
+    "Ichthyscopus barbatus",
+    "Ichthyscopus fasciatus",
+    "Ichthyscopus insperatus",
+    "Ichthyscopus lebeck",
+    "Ichthyscopus malacopterus",
+    "Ichthyscopus nigripinnis",
+    "Ichthyscopus sannio",
+    "Ichthyscopus spinosus",
+    "Kathetostoma albigutta",
+    "Kathetostoma averruncus",
+    "Kathetostoma binigrasella",
+    "Kathetostoma canaster",
+    "Kathetostoma cubana",
+    "Kathetostoma fluviatilis",
+    "Kathetostoma giganteum",
+    "Kathetostoma laeve",
+    "Kathetostoma nigrofasciatum",
+    "Pleuroscopus pseudodorsalis",
+    "Selenoscopus turbisquamatus",
+    "Uranoscopus affinis",
+    "Uranoscopus albesca",
+    "Uranoscopus archionema",
+    "Uranoscopus bauchotae",
+    "Uranoscopus bicinctus",
+    "Uranoscopus cadenati",
+    "Uranoscopus chinensis",
+    "Uranoscopus cognatus",
+    "Uranoscopus crassiceps",
+    "Uranoscopus dahlakensis",
+    "Uranoscopus dollfusi",
+    "Uranoscopus filibarbis",
+    "Uranoscopus fuscomaculatus",
+    "Uranoscopus guttatus",
+    "Uranoscopus japonicus",
+    "Uranoscopus kaianus",
+    "Uranoscopus marisrubri",
+    "Uranoscopus marmoratus",
+    "Uranoscopus oligolepis",
+    "Uranoscopus polli",
+    "Uranoscopus scaber",
+    "Uranoscopus sulphureus",
+    "Uranoscopus tosae",
+    "Xenocephalus armatus",
+    "Xenocephalus australiensis",
+    "Xenocephalus cribratus",
+    "Xenocephalus egregius",
+    "Xenocephalus elongatus",
+    "Xenocephalus innotabilis"
+  ],
+  "sampled_species": [
+    "Astroscopus y graecum",
+    "Kathetostoma albigutta",
+    "Kathetostoma averruncus",
+    "Kathetostoma canaster",
+    "Kathetostoma giganteum",
+    "Kathetostoma nigrofasciatum",
+    "Uranoscopus albesca",
+    "Uranoscopus archionema",
+    "Uranoscopus cadenati",
+    "Uranoscopus oligolepis",
+    "Uranoscopus scaber",
+    "Uranoscopus sulphureus",
+    "Xenocephalus armatus",
+    "Xenocephalus elongatus"
+  ],
+  "unsampled_species": [
+    "Astroscopus guttatus",
+    "Astroscopus sexspinosus",
+    "Astroscopus zephyreus",
+    "Genyagnus monopterygius",
+    "Ichthyscopus barbatus",
+    "Ichthyscopus fasciatus",
+    "Ichthyscopus insperatus",
+    "Ichthyscopus lebeck",
+    "Ichthyscopus malacopterus",
+    "Ichthyscopus nigripinnis",
+    "Ichthyscopus sannio",
+    "Ichthyscopus spinosus",
+    "Kathetostoma binigrasella",
+    "Kathetostoma cubana",
+    "Kathetostoma fluviatilis",
+    "Kathetostoma laeve",
+    "Pleuroscopus pseudodorsalis",
+    "Selenoscopus turbisquamatus",
+    "Uranoscopus affinis",
+    "Uranoscopus bauchotae",
+    "Uranoscopus bicinctus",
+    "Uranoscopus chinensis",
+    "Uranoscopus cognatus",
+    "Uranoscopus crassiceps",
+    "Uranoscopus dahlakensis",
+    "Uranoscopus dollfusi",
+    "Uranoscopus filibarbis",
+    "Uranoscopus fuscomaculatus",
+    "Uranoscopus guttatus",
+    "Uranoscopus japonicus",
+    "Uranoscopus kaianus",
+    "Uranoscopus marisrubri",
+    "Uranoscopus marmoratus",
+    "Uranoscopus polli",
+    "Uranoscopus tosae",
+    "Xenocephalus australiensis",
+    "Xenocephalus cribratus",
+    "Xenocephalus egregius",
+    "Xenocephalus innotabilis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Uranoscopus albesca",
+      "Uranoscopus scaber"
+    ],
+    "16s": [
+      "Kathetostoma canaster",
+      "Kathetostoma giganteum",
+      "Uranoscopus albesca",
+      "Uranoscopus cadenati",
+      "Uranoscopus scaber"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Kathetostoma averruncus",
+      "Kathetostoma giganteum",
+      "Uranoscopus archionema",
+      "Uranoscopus oligolepis",
+      "Xenocephalus armatus",
+      "Xenocephalus elongatus"
+    ],
+    "cytb": [
+      "Kathetostoma albigutta",
+      "Kathetostoma averruncus",
+      "Kathetostoma canaster",
+      "Kathetostoma giganteum",
+      "Kathetostoma nigrofasciatum",
+      "Uranoscopus scaber"
+    ],
+    "enc1": [
+      "Astroscopus y graecum",
+      "Kathetostoma averruncus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Astroscopus y graecum",
+      "Kathetostoma averruncus"
+    ],
+    "hoxc6a": [
+      "Kathetostoma averruncus"
+    ],
+    "kiaa1239": [
+      "Astroscopus y graecum",
+      "Kathetostoma averruncus",
+      "Uranoscopus sulphureus"
+    ],
+    "myh6": [
+      "Astroscopus y graecum",
+      "Kathetostoma averruncus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Kathetostoma averruncus",
+      "Uranoscopus sulphureus"
+    ],
+    "plagl2": [
+      "Astroscopus y graecum",
+      "Kathetostoma averruncus",
+      "Uranoscopus sulphureus"
+    ],
+    "ptr": [
+      "Astroscopus y graecum",
+      "Kathetostoma averruncus"
+    ],
+    "rag1": [
+      "Astroscopus y graecum",
+      "Kathetostoma averruncus",
+      "Uranoscopus albesca"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Kathetostoma giganteum",
+      "Uranoscopus albesca",
+      "Uranoscopus scaber"
+    ],
+    "ripk4": [
+      "Astroscopus y graecum",
+      "Kathetostoma albigutta",
+      "Kathetostoma averruncus",
+      "Uranoscopus sulphureus"
+    ],
+    "sh3px3": [
+      "Astroscopus y graecum",
+      "Kathetostoma averruncus"
+    ],
+    "sidkey": [
+      "Astroscopus y graecum",
+      "Uranoscopus sulphureus"
+    ],
+    "sreb2": [
+      "Astroscopus y graecum"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Astroscopus y graecum",
+      "Kathetostoma albigutta",
+      "Kathetostoma averruncus"
+    ],
+    "vcpip": [
+      "Astroscopus y graecum"
+    ],
+    "zic1": [
+      "Astroscopus y graecum",
+      "Kathetostoma albigutta",
+      "Kathetostoma averruncus",
+      "Uranoscopus sulphureus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Uranoscopidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Uranoscopiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Kathetostoma albigutta": 0.0826,
+    "Kathetostoma averruncus": 0.0757,
+    "Kathetostoma canaster": 0.1554,
+    "Kathetostoma giganteum": 0.1463,
+    "Kathetostoma nigrofasciatum": 0.0877,
+    "Uranoscopus albesca": 0.2041,
+    "Uranoscopus archionema": 0.079,
+    "Uranoscopus cadenati": 0.2041,
+    "Uranoscopus oligolepis": 0.0898,
+    "Uranoscopus scaber": 0.0958,
+    "Uranoscopus sulphureus": 0.0949,
+    "Xenocephalus armatus": 0.064,
+    "Xenocephalus elongatus": 0.0688,
+    "Astroscopus y graecum": 0.0685
+  },
+  "tiprates_bamm_lambda": {
+    "Kathetostoma albigutta": 0.0595,
+    "Kathetostoma averruncus": 0.0595,
+    "Kathetostoma canaster": 0.0595,
+    "Kathetostoma giganteum": 0.0595,
+    "Kathetostoma nigrofasciatum": 0.0595,
+    "Uranoscopus albesca": 0.0579,
+    "Uranoscopus archionema": 0.0579,
+    "Uranoscopus cadenati": 0.0579,
+    "Uranoscopus oligolepis": 0.0579,
+    "Uranoscopus scaber": 0.0579,
+    "Uranoscopus sulphureus": 0.0579,
+    "Xenocephalus armatus": 0.0579,
+    "Xenocephalus elongatus": 0.0579,
+    "Astroscopus y graecum": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Kathetostoma albigutta": 0.0015,
+    "Kathetostoma averruncus": 0.0015,
+    "Kathetostoma canaster": 0.0015,
+    "Kathetostoma giganteum": 0.0015,
+    "Kathetostoma nigrofasciatum": 0.0015,
+    "Uranoscopus albesca": 0.0003,
+    "Uranoscopus archionema": 0.0003,
+    "Uranoscopus cadenati": 0.0003,
+    "Uranoscopus oligolepis": 0.0003,
+    "Uranoscopus scaber": 0.0003,
+    "Uranoscopus sulphureus": 0.0003,
+    "Xenocephalus armatus": 0.0003,
+    "Xenocephalus elongatus": 0.0003,
+    "Astroscopus y graecum": 0.0003
+  },
+  "mean_dr": 0.1084,
+  "mean_bamm_lambda": 0.0585,
+  "mean_bamm_mu": 0.0007,
+  "matrix_phylip": "downloads/taxonomy/family/Uranoscopidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Uranoscopidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Uranoscopidae.tre",
+  "phylogram": "downloads/taxonomy/family/Uranoscopidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

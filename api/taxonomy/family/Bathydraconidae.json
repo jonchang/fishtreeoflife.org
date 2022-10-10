@@ -1,0 +1,455 @@
+{
+  "species": [
+    "Acanthodraco dewitti",
+    "Akarotaxis nudiceps",
+    "Bathydraco antarcticus",
+    "Bathydraco joannae",
+    "Bathydraco macrolepis",
+    "Bathydraco marri",
+    "Bathydraco scotiae",
+    "Cygnodraco mawsoni",
+    "Gerlachea australis",
+    "Gymnodraco acuticeps",
+    "Parachaenichthys charcoti",
+    "Parachaenichthys georgianus",
+    "Prionodraco evansii",
+    "Psilodraco breviceps",
+    "Racovitzia glacialis",
+    "Racovitzia harrissoni",
+    "Vomeridens infuscipinnis"
+  ],
+  "sampled_species": [
+    "Acanthodraco dewitti",
+    "Akarotaxis nudiceps",
+    "Bathydraco antarcticus",
+    "Bathydraco joannae",
+    "Bathydraco macrolepis",
+    "Bathydraco marri",
+    "Bathydraco scotiae",
+    "Cygnodraco mawsoni",
+    "Gerlachea australis",
+    "Gymnodraco acuticeps",
+    "Parachaenichthys charcoti",
+    "Parachaenichthys georgianus",
+    "Prionodraco evansii",
+    "Psilodraco breviceps",
+    "Racovitzia glacialis",
+    "Vomeridens infuscipinnis"
+  ],
+  "unsampled_species": [
+    "Racovitzia harrissoni"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Cygnodraco mawsoni",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti"
+    ],
+    "16s": [
+      "Akarotaxis nudiceps",
+      "Bathydraco antarcticus",
+      "Bathydraco macrolepis",
+      "Bathydraco marri",
+      "Bathydraco scotiae",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Parachaenichthys georgianus",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis",
+      "Vomeridens infuscipinnis"
+    ],
+    "4c4": [
+      "Gymnodraco acuticeps"
+    ],
+    "coi": [
+      "Akarotaxis nudiceps",
+      "Bathydraco antarcticus",
+      "Bathydraco joannae",
+      "Bathydraco macrolepis",
+      "Bathydraco marri",
+      "Bathydraco scotiae",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis",
+      "Vomeridens infuscipinnis"
+    ],
+    "cytb": [
+      "Acanthodraco dewitti",
+      "Bathydraco macrolepis",
+      "Bathydraco marri",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Parachaenichthys georgianus",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis"
+    ],
+    "enc1": [
+      "Akarotaxis nudiceps",
+      "Bathydraco antarcticus",
+      "Bathydraco macrolepis",
+      "Bathydraco marri",
+      "Bathydraco scotiae",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Parachaenichthys georgianus",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis",
+      "Vomeridens infuscipinnis"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Akarotaxis nudiceps",
+      "Bathydraco antarcticus",
+      "Bathydraco macrolepis",
+      "Bathydraco marri",
+      "Bathydraco scotiae",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Parachaenichthys georgianus",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis",
+      "Vomeridens infuscipinnis"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Akarotaxis nudiceps",
+      "Bathydraco antarcticus",
+      "Bathydraco macrolepis",
+      "Bathydraco marri",
+      "Bathydraco scotiae",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Parachaenichthys georgianus",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis",
+      "Vomeridens infuscipinnis"
+    ],
+    "nd2": [
+      "Akarotaxis nudiceps",
+      "Bathydraco antarcticus",
+      "Bathydraco macrolepis",
+      "Bathydraco marri",
+      "Bathydraco scotiae",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Parachaenichthys georgianus",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis",
+      "Vomeridens infuscipinnis"
+    ],
+    "nd4": [
+      "Parachaenichthys charcoti"
+    ],
+    "panx2": [
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti"
+    ],
+    "plagl2": [
+      "Akarotaxis nudiceps",
+      "Bathydraco antarcticus",
+      "Bathydraco macrolepis",
+      "Bathydraco marri",
+      "Bathydraco scotiae",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Parachaenichthys georgianus",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis",
+      "Vomeridens infuscipinnis"
+    ],
+    "ptr": [
+      "Akarotaxis nudiceps",
+      "Bathydraco antarcticus",
+      "Bathydraco macrolepis",
+      "Bathydraco marri",
+      "Bathydraco scotiae",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Parachaenichthys georgianus",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis",
+      "Vomeridens infuscipinnis"
+    ],
+    "rag1": [
+      "Akarotaxis nudiceps",
+      "Bathydraco antarcticus",
+      "Bathydraco macrolepis",
+      "Bathydraco marri",
+      "Bathydraco scotiae",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Parachaenichthys georgianus",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis",
+      "Vomeridens infuscipinnis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Akarotaxis nudiceps",
+      "Bathydraco antarcticus",
+      "Bathydraco macrolepis",
+      "Bathydraco marri",
+      "Bathydraco scotiae",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Parachaenichthys georgianus",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis",
+      "Vomeridens infuscipinnis"
+    ],
+    "ripk4": [
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti"
+    ],
+    "sh3px3": [
+      "Akarotaxis nudiceps",
+      "Bathydraco antarcticus",
+      "Bathydraco macrolepis",
+      "Bathydraco marri",
+      "Bathydraco scotiae",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Parachaenichthys georgianus",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis",
+      "Vomeridens infuscipinnis"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Akarotaxis nudiceps",
+      "Bathydraco antarcticus",
+      "Bathydraco scotiae",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Parachaenichthys georgianus",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis"
+    ],
+    "svep1": [
+      "Parachaenichthys charcoti"
+    ],
+    "tbr1": [
+      "Akarotaxis nudiceps",
+      "Bathydraco antarcticus",
+      "Bathydraco macrolepis",
+      "Bathydraco marri",
+      "Bathydraco scotiae",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Parachaenichthys georgianus",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis",
+      "Vomeridens infuscipinnis"
+    ],
+    "vcpip": [
+      "Parachaenichthys charcoti"
+    ],
+    "zic1": [
+      "Akarotaxis nudiceps",
+      "Bathydraco antarcticus",
+      "Bathydraco macrolepis",
+      "Bathydraco marri",
+      "Bathydraco scotiae",
+      "Cygnodraco mawsoni",
+      "Gerlachea australis",
+      "Gymnodraco acuticeps",
+      "Parachaenichthys charcoti",
+      "Parachaenichthys georgianus",
+      "Prionodraco evansii",
+      "Psilodraco breviceps",
+      "Racovitzia glacialis",
+      "Vomeridens infuscipinnis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Bathydraconidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Notothenioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Acanthodraco dewitti": 0.1508,
+    "Akarotaxis nudiceps": 0.1826,
+    "Bathydraco antarcticus": 0.5441,
+    "Bathydraco joannae": 0.6882,
+    "Bathydraco macrolepis": 0.5441,
+    "Bathydraco marri": 0.6882,
+    "Bathydraco scotiae": 0.262,
+    "Cygnodraco mawsoni": 0.1123,
+    "Gerlachea australis": 0.0892,
+    "Gymnodraco acuticeps": 0.095,
+    "Parachaenichthys charcoti": 0.1634,
+    "Parachaenichthys georgianus": 0.1634,
+    "Prionodraco evansii": 0.1264,
+    "Psilodraco breviceps": 0.1485,
+    "Racovitzia glacialis": 0.2082,
+    "Vomeridens infuscipinnis": 0.1258
+  },
+  "tiprates_bamm_lambda": {
+    "Acanthodraco dewitti": 0.1962,
+    "Akarotaxis nudiceps": 0.198,
+    "Bathydraco antarcticus": 0.1999,
+    "Bathydraco joannae": 0.1999,
+    "Bathydraco macrolepis": 0.1999,
+    "Bathydraco marri": 0.1999,
+    "Bathydraco scotiae": 0.1999,
+    "Cygnodraco mawsoni": 0.1962,
+    "Gerlachea australis": 0.1962,
+    "Gymnodraco acuticeps": 0.1962,
+    "Parachaenichthys charcoti": 0.1962,
+    "Parachaenichthys georgianus": 0.1962,
+    "Prionodraco evansii": 0.1962,
+    "Psilodraco breviceps": 0.1962,
+    "Racovitzia glacialis": 0.1962,
+    "Vomeridens infuscipinnis": 0.1962
+  },
+  "tiprates_bamm_mu": {
+    "Acanthodraco dewitti": 0.023,
+    "Akarotaxis nudiceps": 0.024,
+    "Bathydraco antarcticus": 0.0254,
+    "Bathydraco joannae": 0.0254,
+    "Bathydraco macrolepis": 0.0254,
+    "Bathydraco marri": 0.0254,
+    "Bathydraco scotiae": 0.0254,
+    "Cygnodraco mawsoni": 0.023,
+    "Gerlachea australis": 0.023,
+    "Gymnodraco acuticeps": 0.023,
+    "Parachaenichthys charcoti": 0.023,
+    "Parachaenichthys georgianus": 0.023,
+    "Prionodraco evansii": 0.023,
+    "Psilodraco breviceps": 0.023,
+    "Racovitzia glacialis": 0.023,
+    "Vomeridens infuscipinnis": 0.023
+  },
+  "mean_dr": 0.2683,
+  "mean_bamm_lambda": 0.1975,
+  "mean_bamm_mu": 0.0238,
+  "matrix_phylip": "downloads/taxonomy/family/Bathydraconidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Bathydraconidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Bathydraconidae.tre",
+  "phylogram": "downloads/taxonomy/family/Bathydraconidae_phylogram.tre",
+  "rogues": [
+    "Cryodraco_atkinsoni",
+    "Cryodraco_antarcticus",
+    "Chionobathyscus_dewitti",
+    "Channichthys_rhinoceratus",
+    "Chaenocephalus_aceratus",
+    "Chionodraco_myersi",
+    "Chionodraco_rastrospinosus",
+    "Chionodraco_hamatus",
+    "Chaenodraco_wilsoni",
+    "Pagetopsis_macropterus",
+    "Pagetopsis_maculatus",
+    "Neopagetopsis_ionah",
+    "Pseudochaenichthys_georgianus",
+    "Dacodraco_hunteri",
+    "Champsocephalus_gunnari",
+    "Champsocephalus_esox"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Bathydraconidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Bathydraconidae_mrca_phylogram.tre"
+}

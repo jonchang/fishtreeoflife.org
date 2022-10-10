@@ -1,0 +1,170 @@
+{
+  "species": [
+    "Valencia hispanica",
+    "Valencia letourneuxi"
+  ],
+  "sampled_species": [
+    "Valencia hispanica",
+    "Valencia letourneuxi"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Valencia hispanica",
+      "Valencia letourneuxi"
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Valenciidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Cyprinodontiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cyprinodontoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Atherinomorphae"
+    ]
+  },
+  "tiprates_dr": {
+    "Valencia hispanica": 0.0233,
+    "Valencia letourneuxi": 0.0233
+  },
+  "tiprates_bamm_lambda": {
+    "Valencia hispanica": 0.0739,
+    "Valencia letourneuxi": 0.0739
+  },
+  "tiprates_bamm_mu": {
+    "Valencia hispanica": 0.0057,
+    "Valencia letourneuxi": 0.0057
+  },
+  "mean_dr": 0.0233,
+  "mean_bamm_lambda": 0.0739,
+  "mean_bamm_mu": 0.0057,
+  "matrix_phylip": "downloads/taxonomy/family/Valenciidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Valenciidae.nex.xz"
+}

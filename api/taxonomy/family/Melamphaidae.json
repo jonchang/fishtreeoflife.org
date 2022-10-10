@@ -1,0 +1,370 @@
+{
+  "species": [
+    "Melamphaes acanthomus",
+    "Melamphaes danae",
+    "Melamphaes ebelingi",
+    "Melamphaes eulepis",
+    "Melamphaes falsidicus",
+    "Melamphaes hubbsi",
+    "Melamphaes indicus",
+    "Melamphaes janae",
+    "Melamphaes laeviceps",
+    "Melamphaes leprus",
+    "Melamphaes longivelis",
+    "Melamphaes lugubris",
+    "Melamphaes macrocephalus",
+    "Melamphaes manifestus",
+    "Melamphaes microps",
+    "Melamphaes pachystomus",
+    "Melamphaes parini",
+    "Melamphaes parvus",
+    "Melamphaes polylepis",
+    "Melamphaes pumilus",
+    "Melamphaes simus",
+    "Melamphaes spinifer",
+    "Melamphaes suborbitalis",
+    "Melamphaes typhlops",
+    "Melamphaes xestoachidus",
+    "Poromitra agafonovae",
+    "Poromitra atlantica",
+    "Poromitra capito",
+    "Poromitra coronata",
+    "Poromitra crassa",
+    "Poromitra crassiceps",
+    "Poromitra cristiceps",
+    "Poromitra curilensis",
+    "Poromitra decipiens",
+    "Poromitra frontosa",
+    "Poromitra gibbsi",
+    "Poromitra glochidiata",
+    "Poromitra indooceanica",
+    "Poromitra jucunda",
+    "Poromitra kukuevi",
+    "Poromitra macrophthalma",
+    "Poromitra megalops",
+    "Poromitra nigriceps",
+    "Poromitra nigrofulva",
+    "Poromitra oscitans",
+    "Poromitra rugosa",
+    "Poromitra unicornis",
+    "Scopeloberyx bannikovi",
+    "Scopeloberyx malayanus",
+    "Scopeloberyx maxillaris",
+    "Scopeloberyx microlepis",
+    "Scopeloberyx opisthopterus",
+    "Scopeloberyx pequenoi",
+    "Scopeloberyx robustus",
+    "Scopeloberyx rossicus",
+    "Scopeloberyx rubriventer",
+    "Scopelogadus beanii",
+    "Scopelogadus mizolepis bispinosus",
+    "Scopelogadus mizolepis mizolepis",
+    "Scopelogadus unispinis",
+    "Sio nordenskjoldii"
+  ],
+  "sampled_species": [
+    "Melamphaes lugubris",
+    "Melamphaes parvus",
+    "Melamphaes polylepis",
+    "Melamphaes simus",
+    "Melamphaes suborbitalis",
+    "Poromitra capito",
+    "Poromitra crassiceps",
+    "Poromitra megalops",
+    "Scopeloberyx robustus",
+    "Scopelogadus beanii",
+    "Scopelogadus mizolepis bispinosus",
+    "Scopelogadus mizolepis mizolepis",
+    "Sio nordenskjoldii"
+  ],
+  "unsampled_species": [
+    "Melamphaes acanthomus",
+    "Melamphaes danae",
+    "Melamphaes ebelingi",
+    "Melamphaes eulepis",
+    "Melamphaes falsidicus",
+    "Melamphaes hubbsi",
+    "Melamphaes indicus",
+    "Melamphaes janae",
+    "Melamphaes laeviceps",
+    "Melamphaes leprus",
+    "Melamphaes longivelis",
+    "Melamphaes macrocephalus",
+    "Melamphaes manifestus",
+    "Melamphaes microps",
+    "Melamphaes pachystomus",
+    "Melamphaes parini",
+    "Melamphaes pumilus",
+    "Melamphaes spinifer",
+    "Melamphaes typhlops",
+    "Melamphaes xestoachidus",
+    "Poromitra agafonovae",
+    "Poromitra atlantica",
+    "Poromitra coronata",
+    "Poromitra crassa",
+    "Poromitra cristiceps",
+    "Poromitra curilensis",
+    "Poromitra decipiens",
+    "Poromitra frontosa",
+    "Poromitra gibbsi",
+    "Poromitra glochidiata",
+    "Poromitra indooceanica",
+    "Poromitra jucunda",
+    "Poromitra kukuevi",
+    "Poromitra macrophthalma",
+    "Poromitra nigriceps",
+    "Poromitra nigrofulva",
+    "Poromitra oscitans",
+    "Poromitra rugosa",
+    "Poromitra unicornis",
+    "Scopeloberyx bannikovi",
+    "Scopeloberyx malayanus",
+    "Scopeloberyx maxillaris",
+    "Scopeloberyx microlepis",
+    "Scopeloberyx opisthopterus",
+    "Scopeloberyx pequenoi",
+    "Scopeloberyx rossicus",
+    "Scopeloberyx rubriventer",
+    "Scopelogadus unispinis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Poromitra crassiceps",
+      "Scopeloberyx robustus",
+      "Sio nordenskjoldii"
+    ],
+    "16s": [
+      "Melamphaes lugubris",
+      "Melamphaes parvus",
+      "Melamphaes simus",
+      "Poromitra crassiceps",
+      "Scopeloberyx robustus",
+      "Scopelogadus beanii",
+      "Scopelogadus mizolepis bispinosus",
+      "Scopelogadus mizolepis mizolepis",
+      "Sio nordenskjoldii"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Melamphaes lugubris",
+      "Melamphaes suborbitalis",
+      "Poromitra capito",
+      "Poromitra crassiceps",
+      "Poromitra megalops",
+      "Scopeloberyx robustus",
+      "Scopelogadus beanii",
+      "Scopelogadus mizolepis bispinosus",
+      "Scopelogadus mizolepis mizolepis"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Melamphaes suborbitalis",
+      "Poromitra crassiceps",
+      "Scopelogadus beanii"
+    ],
+    "glyt": [
+      "Melamphaes polylepis",
+      "Poromitra crassiceps",
+      "Scopelogadus beanii"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Melamphaes suborbitalis",
+      "Poromitra crassiceps",
+      "Scopelogadus beanii"
+    ],
+    "myh6": [
+      "Melamphaes polylepis",
+      "Melamphaes suborbitalis",
+      "Poromitra crassiceps",
+      "Scopelogadus beanii"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Melamphaes suborbitalis",
+      "Poromitra crassiceps",
+      "Scopelogadus beanii"
+    ],
+    "plagl2": [
+      "Melamphaes polylepis",
+      "Melamphaes suborbitalis",
+      "Poromitra crassiceps",
+      "Scopelogadus beanii"
+    ],
+    "ptr": [
+      "Melamphaes polylepis",
+      "Melamphaes suborbitalis",
+      "Poromitra crassiceps",
+      "Scopelogadus beanii"
+    ],
+    "rag1": [
+      "Melamphaes polylepis",
+      "Melamphaes suborbitalis",
+      "Poromitra crassiceps",
+      "Scopelogadus beanii"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Melamphaes suborbitalis"
+    ],
+    "ripk4": [
+      "Melamphaes lugubris",
+      "Melamphaes suborbitalis",
+      "Poromitra crassiceps",
+      "Scopelogadus beanii"
+    ],
+    "sh3px3": [
+      "Melamphaes polylepis",
+      "Poromitra crassiceps",
+      "Scopelogadus beanii"
+    ],
+    "sidkey": [
+      "Melamphaes suborbitalis"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Melamphaes suborbitalis"
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Melamphaes polylepis",
+      "Melamphaes suborbitalis",
+      "Poromitra crassiceps",
+      "Scopelogadus beanii"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Melamphaidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Beryciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Berycimorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Melamphaes lugubris": 0.116,
+    "Melamphaes parvus": 0.1026,
+    "Melamphaes polylepis": 0.0817,
+    "Melamphaes simus": 0.0664,
+    "Melamphaes suborbitalis": 0.0899,
+    "Poromitra capito": 0.0703,
+    "Poromitra crassiceps": 0.0602,
+    "Poromitra megalops": 0.0518,
+    "Scopeloberyx robustus": 0.0427,
+    "Scopelogadus beanii": 0.0694,
+    "Sio nordenskjoldii": 0.0172,
+    "Scopelogadus mizolepis bispinosus": 0.0402,
+    "Scopelogadus mizolepis mizolepis": 0.0728
+  },
+  "tiprates_bamm_lambda": {
+    "Melamphaes lugubris": 0.0548,
+    "Melamphaes parvus": 0.0548,
+    "Melamphaes polylepis": 0.0548,
+    "Melamphaes simus": 0.0548,
+    "Melamphaes suborbitalis": 0.0548,
+    "Poromitra capito": 0.0548,
+    "Poromitra crassiceps": 0.0548,
+    "Poromitra megalops": 0.0548,
+    "Scopeloberyx robustus": 0.0548,
+    "Scopelogadus beanii": 0.0548,
+    "Sio nordenskjoldii": 0.0548,
+    "Scopelogadus mizolepis bispinosus": 0.0548,
+    "Scopelogadus mizolepis mizolepis": 0.0548
+  },
+  "tiprates_bamm_mu": {
+    "Melamphaes lugubris": 0.0003,
+    "Melamphaes parvus": 0.0003,
+    "Melamphaes polylepis": 0.0003,
+    "Melamphaes simus": 0.0003,
+    "Melamphaes suborbitalis": 0.0003,
+    "Poromitra capito": 0.0003,
+    "Poromitra crassiceps": 0.0003,
+    "Poromitra megalops": 0.0003,
+    "Scopeloberyx robustus": 0.0003,
+    "Scopelogadus beanii": 0.0003,
+    "Sio nordenskjoldii": 0.0003,
+    "Scopelogadus mizolepis bispinosus": 0.0003,
+    "Scopelogadus mizolepis mizolepis": 0.0003
+  },
+  "mean_dr": 0.0678,
+  "mean_bamm_lambda": 0.0548,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Melamphaidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Melamphaidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Melamphaidae.tre",
+  "phylogram": "downloads/taxonomy/family/Melamphaidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

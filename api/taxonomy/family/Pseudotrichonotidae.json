@@ -1,0 +1,165 @@
+{
+  "species": [
+    "Pseudotrichonotus altivelis",
+    "Pseudotrichonotus xanthotaenia"
+  ],
+  "sampled_species": [
+    "Pseudotrichonotus altivelis"
+  ],
+  "unsampled_species": [
+    "Pseudotrichonotus xanthotaenia"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Pseudotrichonotus altivelis"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Pseudotrichonotus altivelis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Pseudotrichonotus altivelis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Pseudotrichonotidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Aulopiformes"
+    ],
+    "section": [
+      "Aulopa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Aulopoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Pseudotrichonotus altivelis": 0.02
+  },
+  "tiprates_bamm_lambda": {
+    "Pseudotrichonotus altivelis": 0.0347
+  },
+  "tiprates_bamm_mu": {
+    "Pseudotrichonotus altivelis": 0.001
+  },
+  "mean_dr": 0.02,
+  "mean_bamm_lambda": 0.0347,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Pseudotrichonotidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Pseudotrichonotidae.nex.xz"
+}

@@ -1,0 +1,408 @@
+{
+  "species": [
+    "Aurigequula fasciata",
+    "Equulites absconditus",
+    "Equulites antongil",
+    "Equulites elongatus",
+    "Equulites klunzingeri",
+    "Equulites laterofenestra",
+    "Equulites leuciscus",
+    "Equulites moretoniensis",
+    "Equulites rivulatus",
+    "Equulites stercorarius",
+    "Eubleekeria jonesi",
+    "Eubleekeria kupanensis",
+    "Eubleekeria rapsoni",
+    "Eubleekeria splendens",
+    "Gazza achlamys",
+    "Gazza dentex",
+    "Gazza minuta",
+    "Gazza rhombea",
+    "Gazza squamiventralis",
+    "Karalla daura",
+    "Karalla dussumieri",
+    "Leiognathus aureus",
+    "Leiognathus berbis",
+    "Leiognathus brevirostris",
+    "Leiognathus equulus",
+    "Leiognathus lineolatus",
+    "Leiognathus longispinis",
+    "Leiognathus oblongus",
+    "Leiognathus parviceps",
+    "Leiognathus robustus",
+    "Leiognathus striatus",
+    "Nuchequula blochii",
+    "Nuchequula flavaxilla",
+    "Nuchequula gerreoides",
+    "Nuchequula glenysae",
+    "Nuchequula longicornis",
+    "Nuchequula mannusella",
+    "Nuchequula nuchalis",
+    "Photopectoralis bindus",
+    "Photopectoralis hataii",
+    "Photopectoralis panayensis",
+    "Secutor hanedai",
+    "Secutor indicius",
+    "Secutor insidiator",
+    "Secutor interruptus",
+    "Secutor mazavasaoka",
+    "Secutor megalolepis",
+    "Secutor ruconius"
+  ],
+  "sampled_species": [
+    "Aurigequula fasciata",
+    "Equulites elongatus",
+    "Equulites laterofenestra",
+    "Equulites leuciscus",
+    "Equulites rivulatus",
+    "Equulites stercorarius",
+    "Eubleekeria jonesi",
+    "Eubleekeria splendens",
+    "Gazza achlamys",
+    "Gazza minuta",
+    "Gazza rhombea",
+    "Gazza squamiventralis",
+    "Karalla daura",
+    "Karalla dussumieri",
+    "Leiognathus equulus",
+    "Leiognathus lineolatus",
+    "Leiognathus longispinis",
+    "Leiognathus robustus",
+    "Nuchequula blochii",
+    "Nuchequula gerreoides",
+    "Nuchequula mannusella",
+    "Nuchequula nuchalis",
+    "Photopectoralis bindus",
+    "Photopectoralis panayensis",
+    "Secutor hanedai",
+    "Secutor indicius",
+    "Secutor insidiator",
+    "Secutor megalolepis",
+    "Secutor ruconius"
+  ],
+  "unsampled_species": [
+    "Equulites absconditus",
+    "Equulites antongil",
+    "Equulites klunzingeri",
+    "Equulites moretoniensis",
+    "Eubleekeria kupanensis",
+    "Eubleekeria rapsoni",
+    "Gazza dentex",
+    "Leiognathus aureus",
+    "Leiognathus berbis",
+    "Leiognathus brevirostris",
+    "Leiognathus oblongus",
+    "Leiognathus parviceps",
+    "Leiognathus striatus",
+    "Nuchequula flavaxilla",
+    "Nuchequula glenysae",
+    "Nuchequula longicornis",
+    "Photopectoralis hataii",
+    "Secutor interruptus",
+    "Secutor mazavasaoka"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Aurigequula fasciata",
+      "Equulites elongatus",
+      "Equulites laterofenestra",
+      "Equulites leuciscus",
+      "Equulites rivulatus",
+      "Equulites stercorarius",
+      "Eubleekeria jonesi",
+      "Eubleekeria splendens",
+      "Gazza achlamys",
+      "Gazza minuta",
+      "Gazza rhombea",
+      "Gazza squamiventralis",
+      "Karalla daura",
+      "Karalla dussumieri",
+      "Leiognathus equulus",
+      "Leiognathus lineolatus",
+      "Leiognathus longispinis",
+      "Leiognathus robustus",
+      "Nuchequula blochii",
+      "Nuchequula gerreoides",
+      "Nuchequula mannusella",
+      "Nuchequula nuchalis",
+      "Photopectoralis bindus",
+      "Photopectoralis panayensis",
+      "Secutor hanedai",
+      "Secutor indicius",
+      "Secutor insidiator",
+      "Secutor megalolepis",
+      "Secutor ruconius"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Aurigequula fasciata",
+      "Equulites elongatus",
+      "Equulites leuciscus",
+      "Equulites rivulatus",
+      "Equulites stercorarius",
+      "Eubleekeria jonesi",
+      "Eubleekeria splendens",
+      "Gazza achlamys",
+      "Gazza minuta",
+      "Gazza squamiventralis",
+      "Karalla daura",
+      "Karalla dussumieri",
+      "Leiognathus equulus",
+      "Leiognathus lineolatus",
+      "Leiognathus robustus",
+      "Nuchequula gerreoides",
+      "Nuchequula mannusella",
+      "Nuchequula nuchalis",
+      "Photopectoralis bindus",
+      "Photopectoralis panayensis",
+      "Secutor indicius",
+      "Secutor insidiator",
+      "Secutor megalolepis",
+      "Secutor ruconius"
+    ],
+    "cytb": [
+      "Gazza squamiventralis",
+      "Leiognathus equulus"
+    ],
+    "enc1": [
+      "Gazza minuta",
+      "Leiognathus equulus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Gazza minuta",
+      "Leiognathus equulus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Gazza minuta",
+      "Leiognathus equulus"
+    ],
+    "nd2": [
+      "Gazza squamiventralis",
+      "Leiognathus equulus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Gazza minuta",
+      "Leiognathus equulus"
+    ],
+    "ptr": [
+      "Gazza minuta",
+      "Leiognathus equulus"
+    ],
+    "rag1": [
+      "Equulites stercorarius",
+      "Gazza minuta",
+      "Leiognathus equulus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Aurigequula fasciata"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Gazza minuta",
+      "Leiognathus equulus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Gazza minuta",
+      "Leiognathus equulus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Leiognathidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Chaetodontiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Aurigequula fasciata": 0.0501,
+    "Equulites elongatus": 0.0922,
+    "Equulites laterofenestra": 0.0556,
+    "Equulites leuciscus": 0.091,
+    "Equulites rivulatus": 0.0583,
+    "Equulites stercorarius": 0.0462,
+    "Eubleekeria jonesi": 0.0732,
+    "Eubleekeria splendens": 0.0948,
+    "Gazza achlamys": 0.0427,
+    "Gazza minuta": 0.0457,
+    "Gazza rhombea": 0.0348,
+    "Gazza squamiventralis": 0.0379,
+    "Karalla daura": 0.0342,
+    "Karalla dussumieri": 0.0342,
+    "Leiognathus equulus": 0.0385,
+    "Leiognathus longispinis": 0.0327,
+    "Leiognathus robustus": 0.04,
+    "Nuchequula blochii": 0.0542,
+    "Nuchequula gerreoides": 0.0716,
+    "Nuchequula mannusella": 0.0584,
+    "Nuchequula nuchalis": 0.0742,
+    "Photopectoralis bindus": 0.0606,
+    "Photopectoralis panayensis": 0.1419,
+    "Secutor hanedai": 0.0823,
+    "Secutor indicius": 0.054,
+    "Secutor insidiator": 0.1476,
+    "Secutor megalolepis": 0.0826,
+    "Secutor ruconius": 0.0682,
+    "Leiognathus lineolatus": 0.0573
+  },
+  "tiprates_bamm_lambda": {
+    "Aurigequula fasciata": 0.0576,
+    "Equulites elongatus": 0.0576,
+    "Equulites laterofenestra": 0.0576,
+    "Equulites leuciscus": 0.0576,
+    "Equulites rivulatus": 0.0576,
+    "Equulites stercorarius": 0.0576,
+    "Eubleekeria jonesi": 0.0576,
+    "Eubleekeria splendens": 0.0576,
+    "Gazza achlamys": 0.0576,
+    "Gazza minuta": 0.0576,
+    "Gazza rhombea": 0.0576,
+    "Gazza squamiventralis": 0.0576,
+    "Karalla daura": 0.0576,
+    "Karalla dussumieri": 0.0576,
+    "Leiognathus equulus": 0.0576,
+    "Leiognathus longispinis": 0.0576,
+    "Leiognathus robustus": 0.0576,
+    "Nuchequula blochii": 0.0576,
+    "Nuchequula gerreoides": 0.0576,
+    "Nuchequula mannusella": 0.0576,
+    "Nuchequula nuchalis": 0.0576,
+    "Photopectoralis bindus": 0.0576,
+    "Photopectoralis panayensis": 0.0576,
+    "Secutor hanedai": 0.0576,
+    "Secutor indicius": 0.0576,
+    "Secutor insidiator": 0.0576,
+    "Secutor megalolepis": 0.0576,
+    "Secutor ruconius": 0.0576,
+    "Leiognathus lineolatus": 0.0576
+  },
+  "tiprates_bamm_mu": {
+    "Aurigequula fasciata": 0.0003,
+    "Equulites elongatus": 0.0003,
+    "Equulites laterofenestra": 0.0003,
+    "Equulites leuciscus": 0.0003,
+    "Equulites rivulatus": 0.0003,
+    "Equulites stercorarius": 0.0003,
+    "Eubleekeria jonesi": 0.0003,
+    "Eubleekeria splendens": 0.0003,
+    "Gazza achlamys": 0.0003,
+    "Gazza minuta": 0.0003,
+    "Gazza rhombea": 0.0003,
+    "Gazza squamiventralis": 0.0003,
+    "Karalla daura": 0.0003,
+    "Karalla dussumieri": 0.0003,
+    "Leiognathus equulus": 0.0003,
+    "Leiognathus longispinis": 0.0003,
+    "Leiognathus robustus": 0.0003,
+    "Nuchequula blochii": 0.0003,
+    "Nuchequula gerreoides": 0.0003,
+    "Nuchequula mannusella": 0.0003,
+    "Nuchequula nuchalis": 0.0003,
+    "Photopectoralis bindus": 0.0003,
+    "Photopectoralis panayensis": 0.0003,
+    "Secutor hanedai": 0.0003,
+    "Secutor indicius": 0.0003,
+    "Secutor insidiator": 0.0003,
+    "Secutor megalolepis": 0.0003,
+    "Secutor ruconius": 0.0003,
+    "Leiognathus lineolatus": 0.0003
+  },
+  "mean_dr": 0.064,
+  "mean_bamm_lambda": 0.0576,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Leiognathidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Leiognathidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Leiognathidae.tre",
+  "phylogram": "downloads/taxonomy/family/Leiognathidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

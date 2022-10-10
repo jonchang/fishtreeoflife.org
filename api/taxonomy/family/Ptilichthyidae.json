@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Ptilichthys goodei"
+  ],
+  "sampled_species": [
+    "Ptilichthys goodei"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Ptilichthys goodei"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Ptilichthys goodei"
+    ],
+    "cytb": [
+      "Ptilichthys goodei"
+    ],
+    "enc1": [
+      "Ptilichthys goodei"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Ptilichthys goodei"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Ptilichthys goodei"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Ptilichthys goodei"
+    ],
+    "ptr": [
+      "Ptilichthys goodei"
+    ],
+    "rag1": [
+      "Ptilichthys goodei"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Ptilichthys goodei"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Ptilichthys goodei"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Ptilichthys goodei"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Ptilichthys goodei"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Ptilichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Zoarcales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Ptilichthys goodei": 0.0984
+  },
+  "tiprates_bamm_lambda": {
+    "Ptilichthys goodei": 0.0814
+  },
+  "tiprates_bamm_mu": {
+    "Ptilichthys goodei": 0.0038
+  },
+  "mean_dr": 0.0984,
+  "mean_bamm_lambda": 0.0814,
+  "mean_bamm_mu": 0.0038,
+  "matrix_phylip": "downloads/taxonomy/family/Ptilichthyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Ptilichthyidae.nex.xz"
+}

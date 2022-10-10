@@ -1,0 +1,202 @@
+{
+  "species": [
+    "Serrivomer beanii",
+    "Serrivomer bertini",
+    "Serrivomer brevidentatus",
+    "Serrivomer danae",
+    "Serrivomer garmani",
+    "Serrivomer jesperseni",
+    "Serrivomer lanceolatoides",
+    "Serrivomer samoensis",
+    "Serrivomer schmidti",
+    "Serrivomer sector",
+    "Stemonidium hypomelas"
+  ],
+  "sampled_species": [
+    "Serrivomer jesperseni",
+    "Serrivomer samoensis",
+    "Serrivomer sector",
+    "Stemonidium hypomelas"
+  ],
+  "unsampled_species": [
+    "Serrivomer beanii",
+    "Serrivomer bertini",
+    "Serrivomer brevidentatus",
+    "Serrivomer danae",
+    "Serrivomer garmani",
+    "Serrivomer lanceolatoides",
+    "Serrivomer schmidti"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Serrivomer jesperseni",
+      "Serrivomer samoensis",
+      "Serrivomer sector",
+      "Stemonidium hypomelas"
+    ],
+    "16s": [
+      "Serrivomer jesperseni",
+      "Serrivomer sector"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Serrivomer jesperseni",
+      "Serrivomer sector"
+    ],
+    "cytb": [
+      "Stemonidium hypomelas"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Serrivomeridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Anguilliformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Serrivomer jesperseni": 0.0649,
+    "Serrivomer samoensis": 0.0832,
+    "Serrivomer sector": 0.0878,
+    "Stemonidium hypomelas": 0.0197
+  },
+  "tiprates_bamm_lambda": {
+    "Serrivomer jesperseni": 0.0567,
+    "Serrivomer samoensis": 0.0567,
+    "Serrivomer sector": 0.0567,
+    "Stemonidium hypomelas": 0.0567
+  },
+  "tiprates_bamm_mu": {
+    "Serrivomer jesperseni": 0.0031,
+    "Serrivomer samoensis": 0.0031,
+    "Serrivomer sector": 0.0031,
+    "Stemonidium hypomelas": 0.0031
+  },
+  "mean_dr": 0.0639,
+  "mean_bamm_lambda": 0.0567,
+  "mean_bamm_mu": 0.0031,
+  "matrix_phylip": "downloads/taxonomy/family/Serrivomeridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Serrivomeridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Serrivomeridae.tre",
+  "phylogram": "downloads/taxonomy/family/Serrivomeridae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

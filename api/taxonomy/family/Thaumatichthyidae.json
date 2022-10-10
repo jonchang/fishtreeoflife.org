@@ -1,0 +1,93 @@
+{
+  "species": [
+    "Lasiognathus amphirhamphus",
+    "Lasiognathus beebei",
+    "Lasiognathus intermedius",
+    "Lasiognathus saccostoma",
+    "Lasiognathus waltoni",
+    "Thaumatichthys axeli",
+    "Thaumatichthys binghami",
+    "Thaumatichthys pagidostomus"
+  ],
+  "sampled_species": [
+
+  ],
+  "unsampled_species": [
+    "Lasiognathus amphirhamphus",
+    "Lasiognathus beebei",
+    "Lasiognathus intermedius",
+    "Lasiognathus saccostoma",
+    "Lasiognathus waltoni",
+    "Thaumatichthys axeli",
+    "Thaumatichthys binghami",
+    "Thaumatichthys pagidostomus"
+  ],
+  "gene_sampling": [
+
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Thaumatichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lophiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Ceratioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+  },
+  "tiprates_bamm_lambda": {
+  },
+  "tiprates_bamm_mu": {
+  },
+  "mean_dr": "NaN",
+  "mean_bamm_lambda": "NaN",
+  "mean_bamm_mu": "NaN"
+}

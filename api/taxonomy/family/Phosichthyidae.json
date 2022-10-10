@@ -1,0 +1,344 @@
+{
+  "species": [
+    "Ichthyococcus australis",
+    "Ichthyococcus elongatus",
+    "Ichthyococcus intermedius",
+    "Ichthyococcus irregularis",
+    "Ichthyococcus ovatus",
+    "Ichthyococcus parini",
+    "Ichthyococcus polli",
+    "Phosichthys argenteus",
+    "Pollichthys mauli",
+    "Polymetme andriashevi",
+    "Polymetme corythaeola",
+    "Polymetme elongata",
+    "Polymetme illustris",
+    "Polymetme surugaensis",
+    "Polymetme thaeocoryla",
+    "Vinciguerria attenuata",
+    "Vinciguerria lucetia",
+    "Vinciguerria mabahiss",
+    "Vinciguerria nimbaria",
+    "Vinciguerria poweriae",
+    "Woodsia meyerwaardeni",
+    "Woodsia nonsuchae",
+    "Yarrella argenteola",
+    "Yarrella blackfordi"
+  ],
+  "sampled_species": [
+    "Ichthyococcus ovatus",
+    "Phosichthys argenteus",
+    "Pollichthys mauli",
+    "Polymetme corythaeola",
+    "Polymetme thaeocoryla",
+    "Vinciguerria nimbaria",
+    "Yarrella blackfordi"
+  ],
+  "unsampled_species": [
+    "Ichthyococcus australis",
+    "Ichthyococcus elongatus",
+    "Ichthyococcus intermedius",
+    "Ichthyococcus irregularis",
+    "Ichthyococcus parini",
+    "Ichthyococcus polli",
+    "Polymetme andriashevi",
+    "Polymetme elongata",
+    "Polymetme illustris",
+    "Polymetme surugaensis",
+    "Vinciguerria attenuata",
+    "Vinciguerria lucetia",
+    "Vinciguerria mabahiss",
+    "Vinciguerria poweriae",
+    "Woodsia meyerwaardeni",
+    "Woodsia nonsuchae",
+    "Yarrella argenteola"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Vinciguerria nimbaria"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Ichthyococcus ovatus",
+      "Phosichthys argenteus",
+      "Pollichthys mauli",
+      "Polymetme corythaeola",
+      "Polymetme thaeocoryla",
+      "Vinciguerria nimbaria",
+      "Yarrella blackfordi"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Phosichthys argenteus",
+      "Pollichthys mauli",
+      "Polymetme thaeocoryla",
+      "Vinciguerria nimbaria",
+      "Yarrella blackfordi"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Ichthyococcus ovatus",
+      "Phosichthys argenteus",
+      "Pollichthys mauli"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Polymetme corythaeola"
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Ichthyococcus ovatus",
+      "Phosichthys argenteus",
+      "Polymetme thaeocoryla",
+      "Vinciguerria nimbaria",
+      "Yarrella blackfordi"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Pollichthys mauli",
+      "Yarrella blackfordi"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Polymetme thaeocoryla",
+      "Vinciguerria nimbaria",
+      "Yarrella blackfordi"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Phosichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Stomiatiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Stomiatii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Ichthyococcus ovatus": 0.0329,
+    "Phosichthys argenteus": 0.0255,
+    "Pollichthys mauli": 0.0212,
+    "Polymetme corythaeola": 0.0786,
+    "Polymetme thaeocoryla": 0.0774,
+    "Vinciguerria nimbaria": 0.0218,
+    "Yarrella blackfordi": 0.0369
+  },
+  "tiprates_bamm_lambda": {
+    "Ichthyococcus ovatus": 0.0365,
+    "Phosichthys argenteus": 0.0368,
+    "Pollichthys mauli": 0.0347,
+    "Polymetme corythaeola": 0.0356,
+    "Polymetme thaeocoryla": 0.0356,
+    "Vinciguerria nimbaria": 0.0345,
+    "Yarrella blackfordi": 0.0356
+  },
+  "tiprates_bamm_mu": {
+    "Ichthyococcus ovatus": 0.0015,
+    "Phosichthys argenteus": 0.0016,
+    "Pollichthys mauli": 0.0012,
+    "Polymetme corythaeola": 0.0013,
+    "Polymetme thaeocoryla": 0.0013,
+    "Vinciguerria nimbaria": 0.001,
+    "Yarrella blackfordi": 0.0013
+  },
+  "mean_dr": 0.042,
+  "mean_bamm_lambda": 0.0356,
+  "mean_bamm_mu": 0.0013,
+  "matrix_phylip": "downloads/taxonomy/family/Phosichthyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Phosichthyidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Phosichthyidae.tre",
+  "phylogram": "downloads/taxonomy/family/Phosichthyidae_phylogram.tre",
+  "rogues": [
+    "Eustomias_acinosus",
+    "Eustomias_filifer",
+    "Eustomias_jimcraddocki",
+    "Eustomias_furcifer",
+    "Eustomias_polyaster",
+    "Grammatostomias_flagellibarba",
+    "Aristostomias_tittmanni",
+    "Aristostomias_scintillans",
+    "Aristostomias_polydactylus",
+    "Pachystomias_microdon",
+    "Malacosteus_niger",
+    "Bathophilus_vaillanti",
+    "Bathophilus_pawneei",
+    "Photonectes_dinema",
+    "Photonectes_braueri",
+    "Photonectes_margarita",
+    "Echiostoma_barbatum",
+    "Tactostoma_macropus",
+    "Idiacanthus_fasciola",
+    "Idiacanthus_atlanticus",
+    "Idiacanthus_antrostomus",
+    "Melanostomias_margaritifer",
+    "Leptostomias_gladiator",
+    "Leptostomias_longibarba",
+    "Thysanactis_dentex",
+    "Flagellostomias_boureei",
+    "Odontostomias_micropogon",
+    "Trigonolampa_miriceps",
+    "Chirostomias_pliopterus",
+    "Astronesthes_similus",
+    "Borostomias_panamensis",
+    "Astronesthes_gemmifer",
+    "Neonesthes_capensis",
+    "Borostomias_antarcticus",
+    "Stomias_gracilis",
+    "Stomias_boa_boa",
+    "Borostomias_elucens",
+    "Rhadinesthes_decimus",
+    "Heterophotus_ophistoma",
+    "Stomias_atriventer",
+    "Stomias_affinis",
+    "Astronesthes_macropogon",
+    "Chauliodus_sloani",
+    "Chauliodus_danae",
+    "Chauliodus_macouni",
+    "Argyropelecus_lychnus",
+    "Argyropelecus_aculeatus",
+    "Argyropelecus_olfersii",
+    "Argyropelecus_sladeni",
+    "Argyropelecus_hemigymnus",
+    "Argyropelecus_affinis",
+    "Argyropelecus_gigas",
+    "Maurolicus_walvisensis",
+    "Maurolicus_japonicus",
+    "Maurolicus_muelleri",
+    "Maurolicus_australis",
+    "Maurolicus_weitzmani",
+    "Polyipnus_matsubarai",
+    "Polyipnus_asteroides",
+    "Polyipnus_stereope",
+    "Polyipnus_kiwiensis",
+    "Polyipnus_indicus",
+    "Polyipnus_polli",
+    "Polyipnus_clarus",
+    "Valenciennellus_tripunctulatus",
+    "Danaphos_oculatus",
+    "Sternoptyx_diaphana",
+    "Sternoptyx_pseudobscura",
+    "Sternoptyx_obscura",
+    "Triplophos_hemingi",
+    "Diplophos_taenia",
+    "Cyclothone_pygmaea",
+    "Cyclothone_microdon",
+    "Cyclothone_kobayashii",
+    "Cyclothone_pseudopallida",
+    "Cyclothone_livida",
+    "Cyclothone_signata",
+    "Cyclothone_alba",
+    "Cyclothone_atraria",
+    "Cyclothone_pallida",
+    "Cyclothone_acclinidens",
+    "Cyclothone_obscura",
+    "Cyclothone_parapallida",
+    "Sigmops_longipinnis",
+    "Gonostoma_elongatum",
+    "Sigmops_ebelingi",
+    "Sigmops_gracilis",
+    "Sigmops_bathyphilus",
+    "Gonostoma_atlanticum",
+    "Gonostoma_denudatum",
+    "Bonapartia_pedaliota",
+    "Margrethia_obtusirostra"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Phosichthyidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Phosichthyidae_mrca_phylogram.tre"
+}

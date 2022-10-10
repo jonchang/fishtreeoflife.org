@@ -1,0 +1,184 @@
+{
+  "species": [
+    "Melanocetus eustalus",
+    "Melanocetus johnsonii",
+    "Melanocetus murrayi",
+    "Melanocetus niger",
+    "Melanocetus polyactis",
+    "Melanocetus rossi"
+  ],
+  "sampled_species": [
+    "Melanocetus johnsonii",
+    "Melanocetus murrayi"
+  ],
+  "unsampled_species": [
+    "Melanocetus eustalus",
+    "Melanocetus niger",
+    "Melanocetus polyactis",
+    "Melanocetus rossi"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Melanocetus johnsonii"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Melanocetus johnsonii"
+    ],
+    "cytb": [
+      "Melanocetus johnsonii"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Melanocetus johnsonii",
+      "Melanocetus murrayi"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Melanocetus johnsonii",
+      "Melanocetus murrayi"
+    ],
+    "myh6": [
+      "Melanocetus murrayi"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Melanocetus johnsonii"
+    ],
+    "panx2": [
+      "Melanocetus johnsonii",
+      "Melanocetus murrayi"
+    ],
+    "plagl2": [
+      "Melanocetus johnsonii",
+      "Melanocetus murrayi"
+    ],
+    "ptr": [
+      "Melanocetus johnsonii",
+      "Melanocetus murrayi"
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Melanocetus johnsonii",
+      "Melanocetus murrayi"
+    ],
+    "sh3px3": [
+      "Melanocetus johnsonii"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Melanocetus johnsonii"
+    ],
+    "vcpip": [
+      "Melanocetus johnsonii",
+      "Melanocetus murrayi"
+    ],
+    "zic1": [
+      "Melanocetus johnsonii",
+      "Melanocetus murrayi"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Melanocetidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lophiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Ceratioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Melanocetus johnsonii": 0.1741,
+    "Melanocetus murrayi": 0.1894
+  },
+  "tiprates_bamm_lambda": {
+    "Melanocetus johnsonii": 0.088,
+    "Melanocetus murrayi": 0.088
+  },
+  "tiprates_bamm_mu": {
+    "Melanocetus johnsonii": 0.0304,
+    "Melanocetus murrayi": 0.0304
+  },
+  "mean_dr": 0.1818,
+  "mean_bamm_lambda": 0.088,
+  "mean_bamm_mu": 0.0304,
+  "matrix_phylip": "downloads/taxonomy/family/Melanocetidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Melanocetidae.nex.xz"
+}

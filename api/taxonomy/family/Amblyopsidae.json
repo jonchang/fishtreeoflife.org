@@ -1,0 +1,257 @@
+{
+  "species": [
+    "Amblyopsis rosae",
+    "Amblyopsis spelaea",
+    "Chologaster cornuta",
+    "Forbesichthys agassizii",
+    "Forbesichthys papilliferus",
+    "Speoplatyrhinus poulsoni",
+    "Typhlichthys subterraneus"
+  ],
+  "sampled_species": [
+    "Amblyopsis rosae",
+    "Amblyopsis spelaea",
+    "Chologaster cornuta",
+    "Forbesichthys agassizii",
+    "Forbesichthys papilliferus",
+    "Speoplatyrhinus poulsoni",
+    "Typhlichthys subterraneus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Chologaster cornuta"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Typhlichthys subterraneus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus"
+    ],
+    "nd2": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus"
+    ],
+    "ptr": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus"
+    ],
+    "rag1": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Amblyopsidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Percopsiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Percopsaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Amblyopsis rosae": 0.0313,
+    "Amblyopsis spelaea": 0.0616,
+    "Chologaster cornuta": 0.0214,
+    "Forbesichthys agassizii": 0.1034,
+    "Speoplatyrhinus poulsoni": 0.0554,
+    "Typhlichthys subterraneus": 0.0554
+  },
+  "tiprates_bamm_lambda": {
+    "Amblyopsis rosae": 0.0524,
+    "Amblyopsis spelaea": 0.0524,
+    "Chologaster cornuta": 0.0524,
+    "Forbesichthys agassizii": 0.0524,
+    "Speoplatyrhinus poulsoni": 0.0524,
+    "Typhlichthys subterraneus": 0.0524
+  },
+  "tiprates_bamm_mu": {
+    "Amblyopsis rosae": 0.0007,
+    "Amblyopsis spelaea": 0.0007,
+    "Chologaster cornuta": 0.0007,
+    "Forbesichthys agassizii": 0.0007,
+    "Speoplatyrhinus poulsoni": 0.0007,
+    "Typhlichthys subterraneus": 0.0007
+  },
+  "mean_dr": 0.0548,
+  "mean_bamm_lambda": 0.0524,
+  "mean_bamm_mu": 0.0007,
+  "matrix_phylip": "downloads/taxonomy/family/Amblyopsidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Amblyopsidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Amblyopsidae.tre",
+  "phylogram": "downloads/taxonomy/family/Amblyopsidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

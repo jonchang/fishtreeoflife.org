@@ -1,0 +1,348 @@
+{
+  "species": [
+    "Cyttus australis",
+    "Cyttus novaezealandiae",
+    "Cyttus traversi",
+    "Grammicolepis brachiusculus",
+    "Macrurocyttus acanthopodus",
+    "Xenolepidichthys dalgleishi",
+    "Allocyttus folletti",
+    "Allocyttus guineensis",
+    "Allocyttus niger",
+    "Allocyttus verrucosus",
+    "Neocyttus acanthorhynchus",
+    "Neocyttus helgae",
+    "Neocyttus psilorhynchus",
+    "Neocyttus rhomboidalis",
+    "Oreosoma atlanticum",
+    "Pseudocyttus maculatus",
+    "Cyttopsis cypho",
+    "Cyttopsis rosea",
+    "Parazen pacificus",
+    "Stethopristes eos",
+    "Zenopsis conchifer",
+    "Zenopsis nebulosa",
+    "Zenopsis oblonga",
+    "Zenopsis stabilispinosa",
+    "Zeus capensis",
+    "Zeus faber",
+    "Capromimus abbreviatus",
+    "Cyttomimus affinis",
+    "Cyttomimus stelgis",
+    "Zenion hololepis",
+    "Zenion japonicum",
+    "Zenion leptolepis",
+    "Zenion longipinnis"
+  ],
+  "sampled_species": [
+    "Cyttus australis",
+    "Cyttus traversi",
+    "Grammicolepis brachiusculus",
+    "Xenolepidichthys dalgleishi",
+    "Allocyttus folletti",
+    "Allocyttus niger",
+    "Allocyttus verrucosus",
+    "Neocyttus helgae",
+    "Neocyttus psilorhynchus",
+    "Neocyttus rhomboidalis",
+    "Oreosoma atlanticum",
+    "Pseudocyttus maculatus",
+    "Cyttopsis cypho",
+    "Cyttopsis rosea",
+    "Zenopsis conchifer",
+    "Zenopsis nebulosa",
+    "Zeus capensis",
+    "Zeus faber",
+    "Zenion hololepis"
+  ],
+  "unsampled_species": [
+    "Cyttus novaezealandiae",
+    "Macrurocyttus acanthopodus",
+    "Allocyttus guineensis",
+    "Neocyttus acanthorhynchus",
+    "Parazen pacificus",
+    "Stethopristes eos",
+    "Zenopsis oblonga",
+    "Zenopsis stabilispinosa",
+    "Capromimus abbreviatus",
+    "Cyttomimus affinis",
+    "Cyttomimus stelgis",
+    "Zenion japonicum",
+    "Zenion leptolepis",
+    "Zenion longipinnis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Cyttus australis",
+      "Neocyttus helgae",
+      "Zenopsis conchifer",
+      "Zenopsis nebulosa",
+      "Zeus capensis",
+      "Zeus faber"
+    ],
+    "16s": [
+      "Cyttus australis",
+      "Cyttus traversi",
+      "Xenolepidichthys dalgleishi",
+      "Allocyttus folletti",
+      "Allocyttus niger",
+      "Allocyttus verrucosus",
+      "Neocyttus helgae",
+      "Neocyttus rhomboidalis",
+      "Pseudocyttus maculatus",
+      "Zenopsis conchifer",
+      "Zeus capensis",
+      "Zeus faber"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Cyttus australis",
+      "Cyttus traversi",
+      "Xenolepidichthys dalgleishi",
+      "Allocyttus folletti",
+      "Allocyttus niger",
+      "Allocyttus verrucosus",
+      "Neocyttus helgae",
+      "Neocyttus psilorhynchus",
+      "Neocyttus rhomboidalis",
+      "Oreosoma atlanticum",
+      "Pseudocyttus maculatus",
+      "Cyttopsis cypho",
+      "Cyttopsis rosea",
+      "Zenopsis conchifer",
+      "Zenopsis nebulosa",
+      "Zeus capensis",
+      "Zeus faber",
+      "Zenion hololepis"
+    ],
+    "cytb": [
+      "Allocyttus folletti",
+      "Pseudocyttus maculatus",
+      "Zeus faber"
+    ],
+    "enc1": [
+      "Zeus faber"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Cyttopsis rosea",
+      "Zenopsis conchifer",
+      "Zeus faber"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Cyttopsis rosea"
+    ],
+    "myh6": [
+      "Cyttopsis rosea",
+      "Zenopsis conchifer",
+      "Zeus faber"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Cyttopsis rosea",
+      "Zenopsis conchifer"
+    ],
+    "plagl2": [
+      "Cyttopsis rosea",
+      "Zenopsis conchifer",
+      "Zeus faber"
+    ],
+    "ptr": [
+      "Cyttopsis rosea",
+      "Zenopsis conchifer",
+      "Zeus faber"
+    ],
+    "rag1": [
+      "Cyttus traversi",
+      "Grammicolepis brachiusculus",
+      "Allocyttus verrucosus",
+      "Cyttopsis rosea",
+      "Zenopsis conchifer",
+      "Zeus faber"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Grammicolepis brachiusculus",
+      "Neocyttus helgae",
+      "Neocyttus rhomboidalis",
+      "Zenopsis conchifer",
+      "Zeus faber"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Cyttopsis rosea",
+      "Zenopsis conchifer",
+      "Zeus faber"
+    ],
+    "sidkey": [
+      "Cyttopsis rosea",
+      "Zenopsis conchifer"
+    ],
+    "sreb2": [
+      "Zeus faber"
+    ],
+    "svep1": [
+      "Cyttopsis rosea",
+      "Zenopsis conchifer"
+    ],
+    "tbr1": [
+      "Zeus faber"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Zeus faber"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Cyttidae",
+      "Grammicolepididae",
+      "Oreosomatidae",
+      "Parazenidae",
+      "Zeidae",
+      "Zenionidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Zeiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Allocyttus folletti": 0.029,
+    "Allocyttus niger": 0.0622,
+    "Allocyttus verrucosus": 0.036,
+    "Cyttopsis cypho": 0.0238,
+    "Cyttopsis rosea": 0.0238,
+    "Cyttus australis": 0.0293,
+    "Cyttus traversi": 0.0292,
+    "Grammicolepis brachiusculus": 0.0249,
+    "Neocyttus helgae": 0.0733,
+    "Neocyttus psilorhynchus": 0.0729,
+    "Neocyttus rhomboidalis": 0.0618,
+    "Oreosoma atlanticum": 0.0417,
+    "Pseudocyttus maculatus": 0.0542,
+    "Xenolepidichthys dalgleishi": 0.0222,
+    "Zenion hololepis": 0.0291,
+    "Zenopsis conchifer": 0.0674,
+    "Zenopsis nebulosa": 0.0727,
+    "Zeus capensis": 0.03,
+    "Zeus faber": 0.03
+  },
+  "tiprates_bamm_lambda": {
+    "Allocyttus folletti": 0.0521,
+    "Allocyttus niger": 0.0521,
+    "Allocyttus verrucosus": 0.0521,
+    "Cyttopsis cypho": 0.0521,
+    "Cyttopsis rosea": 0.0521,
+    "Cyttus australis": 0.0521,
+    "Cyttus traversi": 0.0521,
+    "Grammicolepis brachiusculus": 0.0521,
+    "Neocyttus helgae": 0.0521,
+    "Neocyttus psilorhynchus": 0.0521,
+    "Neocyttus rhomboidalis": 0.0521,
+    "Oreosoma atlanticum": 0.0521,
+    "Pseudocyttus maculatus": 0.0521,
+    "Xenolepidichthys dalgleishi": 0.0521,
+    "Zenion hololepis": 0.0521,
+    "Zenopsis conchifer": 0.0521,
+    "Zenopsis nebulosa": 0.0521,
+    "Zeus capensis": 0.0521,
+    "Zeus faber": 0.0521
+  },
+  "tiprates_bamm_mu": {
+    "Allocyttus folletti": 0.0004,
+    "Allocyttus niger": 0.0004,
+    "Allocyttus verrucosus": 0.0004,
+    "Cyttopsis cypho": 0.0004,
+    "Cyttopsis rosea": 0.0004,
+    "Cyttus australis": 0.0004,
+    "Cyttus traversi": 0.0004,
+    "Grammicolepis brachiusculus": 0.0004,
+    "Neocyttus helgae": 0.0004,
+    "Neocyttus psilorhynchus": 0.0004,
+    "Neocyttus rhomboidalis": 0.0004,
+    "Oreosoma atlanticum": 0.0004,
+    "Pseudocyttus maculatus": 0.0004,
+    "Xenolepidichthys dalgleishi": 0.0004,
+    "Zenion hololepis": 0.0004,
+    "Zenopsis conchifer": 0.0004,
+    "Zenopsis nebulosa": 0.0004,
+    "Zeus capensis": 0.0004,
+    "Zeus faber": 0.0004
+  },
+  "mean_dr": 0.0428,
+  "mean_bamm_lambda": 0.0521,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/order/Zeiformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Zeiformes.nex.xz",
+  "chronogram": "downloads/taxonomy/order/Zeiformes.tre",
+  "phylogram": "downloads/taxonomy/order/Zeiformes_phylogram.tre",
+  "rogues": [
+
+  ]
+}

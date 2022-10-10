@@ -1,0 +1,265 @@
+{
+  "species": [
+    "Chlorophthalmus acutifrons",
+    "Chlorophthalmus agassizi",
+    "Chlorophthalmus albatrossis",
+    "Chlorophthalmus atlanticus",
+    "Chlorophthalmus bicornis",
+    "Chlorophthalmus borealis",
+    "Chlorophthalmus brasiliensis",
+    "Chlorophthalmus chalybeius",
+    "Chlorophthalmus corniger",
+    "Chlorophthalmus ichthyandri",
+    "Chlorophthalmus mento",
+    "Chlorophthalmus nigromarginatus",
+    "Chlorophthalmus pectoralis",
+    "Chlorophthalmus proridens",
+    "Chlorophthalmus punctatus",
+    "Chlorophthalmus zvezdae",
+    "Parasudis fraserbrunneri",
+    "Parasudis truculenta"
+  ],
+  "sampled_species": [
+    "Chlorophthalmus acutifrons",
+    "Chlorophthalmus agassizi",
+    "Chlorophthalmus albatrossis",
+    "Chlorophthalmus corniger",
+    "Chlorophthalmus nigromarginatus",
+    "Chlorophthalmus punctatus",
+    "Parasudis truculenta"
+  ],
+  "unsampled_species": [
+    "Chlorophthalmus atlanticus",
+    "Chlorophthalmus bicornis",
+    "Chlorophthalmus borealis",
+    "Chlorophthalmus brasiliensis",
+    "Chlorophthalmus chalybeius",
+    "Chlorophthalmus ichthyandri",
+    "Chlorophthalmus mento",
+    "Chlorophthalmus pectoralis",
+    "Chlorophthalmus proridens",
+    "Chlorophthalmus zvezdae",
+    "Parasudis fraserbrunneri"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Chlorophthalmus acutifrons",
+      "Chlorophthalmus agassizi",
+      "Chlorophthalmus albatrossis",
+      "Chlorophthalmus nigromarginatus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Chlorophthalmus acutifrons",
+      "Chlorophthalmus agassizi",
+      "Chlorophthalmus albatrossis",
+      "Chlorophthalmus corniger",
+      "Chlorophthalmus nigromarginatus",
+      "Chlorophthalmus punctatus",
+      "Parasudis truculenta"
+    ],
+    "cytb": [
+      "Chlorophthalmus agassizi",
+      "Chlorophthalmus albatrossis",
+      "Chlorophthalmus nigromarginatus"
+    ],
+    "enc1": [
+      "Chlorophthalmus agassizi",
+      "Parasudis truculenta"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Parasudis truculenta"
+    ],
+    "myh6": [
+      "Chlorophthalmus agassizi",
+      "Parasudis truculenta"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Parasudis truculenta"
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Chlorophthalmus agassizi",
+      "Parasudis truculenta"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Chlorophthalmus agassizi"
+    ],
+    "ripk4": [
+      "Parasudis truculenta"
+    ],
+    "sh3px3": [
+      "Parasudis truculenta"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Chlorophthalmus agassizi",
+      "Parasudis truculenta"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Chlorophthalmidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Aulopiformes"
+    ],
+    "section": [
+      "Aulopa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Alepisauroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Chlorophthalmus acutifrons": 0.0708,
+    "Chlorophthalmus agassizi": 0.04,
+    "Chlorophthalmus albatrossis": 0.0428,
+    "Chlorophthalmus corniger": 0.0441,
+    "Chlorophthalmus nigromarginatus": 0.073,
+    "Chlorophthalmus punctatus": 0.0427,
+    "Parasudis truculenta": 0.0339
+  },
+  "tiprates_bamm_lambda": {
+    "Chlorophthalmus acutifrons": 0.0348,
+    "Chlorophthalmus agassizi": 0.0348,
+    "Chlorophthalmus albatrossis": 0.0348,
+    "Chlorophthalmus corniger": 0.0348,
+    "Chlorophthalmus nigromarginatus": 0.0348,
+    "Chlorophthalmus punctatus": 0.0348,
+    "Parasudis truculenta": 0.0348
+  },
+  "tiprates_bamm_mu": {
+    "Chlorophthalmus acutifrons": 0.001,
+    "Chlorophthalmus agassizi": 0.001,
+    "Chlorophthalmus albatrossis": 0.001,
+    "Chlorophthalmus corniger": 0.001,
+    "Chlorophthalmus nigromarginatus": 0.001,
+    "Chlorophthalmus punctatus": 0.001,
+    "Parasudis truculenta": 0.001
+  },
+  "mean_dr": 0.0496,
+  "mean_bamm_lambda": 0.0348,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Chlorophthalmidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Chlorophthalmidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Chlorophthalmidae.tre",
+  "phylogram": "downloads/taxonomy/family/Chlorophthalmidae_phylogram.tre",
+  "rogues": [
+    "Coccorella_atlantica",
+    "Evermannella_indica",
+    "Evermannella_balbo",
+    "Lestidiops_jayakari_jayakari",
+    "Stemonosudis_intermedia",
+    "Lestrolepis_intermedia",
+    "Lestidium_atlanticum",
+    "Lestidiops_ringens",
+    "Stemonosudis_macrura",
+    "Lestidiops_pacificus",
+    "Magnisudis_prionosa",
+    "Magnisudis_atlantica",
+    "Notolepis_coatsi",
+    "Anotopterus_nikparini",
+    "Anotopterus_pharao",
+    "Macroparalepis_johnfitchi",
+    "Alepisaurus_ferox",
+    "Alepisaurus_brevirostris",
+    "Omosudis_lowii",
+    "Sudis_atrox",
+    "Scopelosaurus_harryi",
+    "Scopelosaurus_hamiltoni",
+    "Scopelosaurus_lepidus",
+    "Ahliesaurus_berryi",
+    "Benthalbella_dentata",
+    "Benthalbella_linguidens",
+    "Benthalbella_elongata",
+    "Benthalbella_infans",
+    "Benthalbella_macropinna"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Chlorophthalmidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Chlorophthalmidae_mrca_phylogram.tre"
+}

@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Normanichthys crockeri"
+  ],
+  "sampled_species": [
+    "Normanichthys crockeri"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Normanichthys crockeri"
+    ],
+    "4c4": [
+      "Normanichthys crockeri"
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Normanichthys crockeri"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Normanichthys crockeri"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Normanichthys crockeri"
+    ],
+    "ptr": [
+      "Normanichthys crockeri"
+    ],
+    "rag1": [
+      "Normanichthys crockeri"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Normanichthys crockeri"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Normanichthys crockeri"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Normanichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Cottales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Normanichthys crockeri": 0.0357
+  },
+  "tiprates_bamm_lambda": {
+    "Normanichthys crockeri": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Normanichthys crockeri": 0.0003
+  },
+  "mean_dr": 0.0357,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Normanichthyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Normanichthyidae.nex.xz"
+}

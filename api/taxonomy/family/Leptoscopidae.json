@@ -1,0 +1,87 @@
+{
+  "species": [
+    "Crapatalus angusticeps",
+    "Crapatalus munroi",
+    "Crapatalus novaezelandiae",
+    "Leptoscopus macropygus",
+    "Lesueurina platycephala"
+  ],
+  "sampled_species": [
+
+  ],
+  "unsampled_species": [
+    "Crapatalus angusticeps",
+    "Crapatalus munroi",
+    "Crapatalus novaezelandiae",
+    "Leptoscopus macropygus",
+    "Lesueurina platycephala"
+  ],
+  "gene_sampling": [
+
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Leptoscopidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pempheriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+  },
+  "tiprates_bamm_lambda": {
+  },
+  "tiprates_bamm_mu": {
+  },
+  "mean_dr": "NaN",
+  "mean_bamm_lambda": "NaN",
+  "mean_bamm_mu": "NaN"
+}

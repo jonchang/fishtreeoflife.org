@@ -1,0 +1,177 @@
+{
+  "species": [
+    "Monodactylus argenteus",
+    "Monodactylus falciformis",
+    "Monodactylus kottelati",
+    "Monodactylus sebae",
+    "Schuettea scalaripinnis",
+    "Schuettea woodwardi"
+  ],
+  "sampled_species": [
+    "Monodactylus argenteus",
+    "Monodactylus falciformis"
+  ],
+  "unsampled_species": [
+    "Monodactylus kottelati",
+    "Monodactylus sebae",
+    "Schuettea scalaripinnis",
+    "Schuettea woodwardi"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Monodactylus argenteus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Monodactylus argenteus",
+      "Monodactylus falciformis"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Monodactylus argenteus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Monodactylus argenteus"
+    ],
+    "ptr": [
+      "Monodactylus argenteus"
+    ],
+    "rag1": [
+      "Monodactylus argenteus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Monodactylus argenteus"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Monodactylus argenteus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Monodactylus argenteus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Monodactylidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Monodactylus argenteus": 0.0568,
+    "Monodactylus falciformis": 0.0611
+  },
+  "tiprates_bamm_lambda": {
+    "Monodactylus argenteus": 0.0581,
+    "Monodactylus falciformis": 0.0581
+  },
+  "tiprates_bamm_mu": {
+    "Monodactylus argenteus": 0.0005,
+    "Monodactylus falciformis": 0.0005
+  },
+  "mean_dr": 0.059,
+  "mean_bamm_lambda": 0.0581,
+  "mean_bamm_mu": 0.0005,
+  "matrix_phylip": "downloads/taxonomy/family/Monodactylidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Monodactylidae.nex.xz"
+}

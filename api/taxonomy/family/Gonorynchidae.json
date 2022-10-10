@@ -1,0 +1,177 @@
+{
+  "species": [
+    "Gonorynchus abbreviatus",
+    "Gonorynchus forsteri",
+    "Gonorynchus gonorynchus",
+    "Gonorynchus greyi",
+    "Gonorynchus moseleyi"
+  ],
+  "sampled_species": [
+    "Gonorynchus forsteri",
+    "Gonorynchus greyi"
+  ],
+  "unsampled_species": [
+    "Gonorynchus abbreviatus",
+    "Gonorynchus gonorynchus",
+    "Gonorynchus moseleyi"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Gonorynchus greyi"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Gonorynchus forsteri",
+      "Gonorynchus greyi"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Gonorynchus greyi"
+    ],
+    "ptr": [
+      "Gonorynchus greyi"
+    ],
+    "rag1": [
+      "Gonorynchus forsteri",
+      "Gonorynchus greyi"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Gonorynchus greyi"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Gonorynchus greyi"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Gonorynchus greyi"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Gonorynchus forsteri",
+      "Gonorynchus greyi"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Gonorynchidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gonorynchiformes"
+    ],
+    "section": [
+      "Anotophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Gonorynchoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Gonorynchus forsteri": 0.0402,
+    "Gonorynchus greyi": 0.0378
+  },
+  "tiprates_bamm_lambda": {
+    "Gonorynchus forsteri": 0.0335,
+    "Gonorynchus greyi": 0.0335
+  },
+  "tiprates_bamm_mu": {
+    "Gonorynchus forsteri": 0.0021,
+    "Gonorynchus greyi": 0.0021
+  },
+  "mean_dr": 0.039,
+  "mean_bamm_lambda": 0.0335,
+  "mean_bamm_mu": 0.0021,
+  "matrix_phylip": "downloads/taxonomy/family/Gonorynchidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Gonorynchidae.nex.xz"
+}

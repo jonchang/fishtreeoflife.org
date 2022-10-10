@@ -1,0 +1,261 @@
+{
+  "species": [
+    "Brama australis",
+    "Brama brama",
+    "Brama caribbea",
+    "Brama dussumieri",
+    "Brama japonica",
+    "Brama myersi",
+    "Brama orcini",
+    "Brama pauciradiata",
+    "Eumegistus brevorti",
+    "Eumegistus illustris",
+    "Pteraclis aesticola",
+    "Pteraclis carolinus",
+    "Pteraclis velifera",
+    "Pterycombus brama",
+    "Pterycombus petersii",
+    "Taractes asper",
+    "Taractes rubescens",
+    "Taractichthys longipinnis",
+    "Taractichthys steindachneri",
+    "Xenobrama microlepis"
+  ],
+  "sampled_species": [
+    "Brama australis",
+    "Brama brama",
+    "Brama japonica",
+    "Pterycombus brama",
+    "Pterycombus petersii",
+    "Taractes asper",
+    "Taractes rubescens",
+    "Taractichthys longipinnis",
+    "Taractichthys steindachneri",
+    "Xenobrama microlepis"
+  ],
+  "unsampled_species": [
+    "Brama caribbea",
+    "Brama dussumieri",
+    "Brama myersi",
+    "Brama orcini",
+    "Brama pauciradiata",
+    "Eumegistus brevorti",
+    "Eumegistus illustris",
+    "Pteraclis aesticola",
+    "Pteraclis carolinus",
+    "Pteraclis velifera"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Brama brama"
+    ],
+    "16s": [
+      "Brama australis",
+      "Brama brama",
+      "Brama japonica",
+      "Taractes asper",
+      "Taractichthys longipinnis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Brama brama",
+      "Brama japonica",
+      "Pterycombus brama",
+      "Pterycombus petersii",
+      "Taractes asper",
+      "Taractes rubescens",
+      "Taractichthys longipinnis",
+      "Taractichthys steindachneri",
+      "Xenobrama microlepis"
+    ],
+    "cytb": [
+      "Brama australis",
+      "Brama brama",
+      "Brama japonica",
+      "Taractes asper",
+      "Taractichthys longipinnis"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Brama brama",
+      "Pterycombus brama"
+    ],
+    "kiaa1239": [
+      "Brama brama",
+      "Pterycombus brama"
+    ],
+    "myh6": [
+      "Brama brama"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Pterycombus brama",
+      "Taractichthys longipinnis"
+    ],
+    "plagl2": [
+      "Taractichthys longipinnis"
+    ],
+    "ptr": [
+      "Taractichthys longipinnis"
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Brama brama",
+      "Pterycombus brama",
+      "Taractichthys longipinnis"
+    ],
+    "ripk4": [
+      "Pterycombus brama"
+    ],
+    "sh3px3": [
+      "Brama brama",
+      "Pterycombus brama"
+    ],
+    "sidkey": [
+      "Pterycombus brama",
+      "Taractichthys longipinnis"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Pterycombus brama"
+    ],
+    "tbr1": [
+      "Brama brama",
+      "Pterycombus brama",
+      "Taractichthys longipinnis"
+    ],
+    "vcpip": [
+      "Brama brama",
+      "Pterycombus brama",
+      "Taractichthys longipinnis"
+    ],
+    "zic1": [
+      "Pterycombus brama",
+      "Taractichthys longipinnis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Bramidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Scombriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Pelagiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Brama australis": 0.1116,
+    "Brama brama": 0.1612,
+    "Brama japonica": 0.1497,
+    "Pterycombus brama": 0.076,
+    "Pterycombus petersii": 0.076,
+    "Taractes asper": 0.1003,
+    "Taractes rubescens": 0.1003,
+    "Taractichthys longipinnis": 0.067,
+    "Taractichthys steindachneri": 0.067,
+    "Xenobrama microlepis": 0.0341
+  },
+  "tiprates_bamm_lambda": {
+    "Brama australis": 0.0551,
+    "Brama brama": 0.0551,
+    "Brama japonica": 0.0551,
+    "Pterycombus brama": 0.0551,
+    "Pterycombus petersii": 0.0551,
+    "Taractes asper": 0.0551,
+    "Taractes rubescens": 0.0551,
+    "Taractichthys longipinnis": 0.0551,
+    "Taractichthys steindachneri": 0.0551,
+    "Xenobrama microlepis": 0.0551
+  },
+  "tiprates_bamm_mu": {
+    "Brama australis": 0.0003,
+    "Brama brama": 0.0003,
+    "Brama japonica": 0.0003,
+    "Pterycombus brama": 0.0003,
+    "Pterycombus petersii": 0.0003,
+    "Taractes asper": 0.0003,
+    "Taractes rubescens": 0.0003,
+    "Taractichthys longipinnis": 0.0003,
+    "Taractichthys steindachneri": 0.0003,
+    "Xenobrama microlepis": 0.0003
+  },
+  "mean_dr": 0.0943,
+  "mean_bamm_lambda": 0.0551,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Bramidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Bramidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Bramidae.tre",
+  "phylogram": "downloads/taxonomy/family/Bramidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

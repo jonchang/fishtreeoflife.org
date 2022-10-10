@@ -1,0 +1,434 @@
+{
+  "species": [
+    "Gnathodentex aureolineatus",
+    "Gymnocranius audleyi",
+    "Gymnocranius elongatus",
+    "Gymnocranius euanus",
+    "Gymnocranius frenatus",
+    "Gymnocranius grandoculis",
+    "Gymnocranius griseus",
+    "Gymnocranius microdon",
+    "Gymnocranius oblongus",
+    "Lethrinus amboinensis",
+    "Lethrinus atkinsoni",
+    "Lethrinus atlanticus",
+    "Lethrinus borbonicus",
+    "Lethrinus conchyliatus",
+    "Lethrinus crocineus",
+    "Lethrinus enigmaticus",
+    "Lethrinus erythracanthus",
+    "Lethrinus erythropterus",
+    "Lethrinus genivittatus",
+    "Lethrinus haematopterus",
+    "Lethrinus harak",
+    "Lethrinus laticaudis",
+    "Lethrinus lentjan",
+    "Lethrinus mahsena",
+    "Lethrinus microdon",
+    "Lethrinus miniatus",
+    "Lethrinus nebulosus",
+    "Lethrinus obsoletus",
+    "Lethrinus olivaceus",
+    "Lethrinus ornatus",
+    "Lethrinus ravus",
+    "Lethrinus reticulatus",
+    "Lethrinus rubrioperculatus",
+    "Lethrinus semicinctus",
+    "Lethrinus variegatus",
+    "Lethrinus xanthochilus",
+    "Monotaxis grandoculis",
+    "Wattsia mossambica"
+  ],
+  "sampled_species": [
+    "Gnathodentex aureolineatus",
+    "Gymnocranius audleyi",
+    "Gymnocranius elongatus",
+    "Gymnocranius grandoculis",
+    "Gymnocranius griseus",
+    "Lethrinus atkinsoni",
+    "Lethrinus atlanticus",
+    "Lethrinus borbonicus",
+    "Lethrinus conchyliatus",
+    "Lethrinus crocineus",
+    "Lethrinus erythracanthus",
+    "Lethrinus erythropterus",
+    "Lethrinus genivittatus",
+    "Lethrinus harak",
+    "Lethrinus laticaudis",
+    "Lethrinus lentjan",
+    "Lethrinus mahsena",
+    "Lethrinus microdon",
+    "Lethrinus miniatus",
+    "Lethrinus nebulosus",
+    "Lethrinus obsoletus",
+    "Lethrinus olivaceus",
+    "Lethrinus ornatus",
+    "Lethrinus ravus",
+    "Lethrinus reticulatus",
+    "Lethrinus rubrioperculatus",
+    "Lethrinus semicinctus",
+    "Lethrinus xanthochilus",
+    "Monotaxis grandoculis",
+    "Wattsia mossambica"
+  ],
+  "unsampled_species": [
+    "Gymnocranius euanus",
+    "Gymnocranius frenatus",
+    "Gymnocranius microdon",
+    "Gymnocranius oblongus",
+    "Lethrinus amboinensis",
+    "Lethrinus enigmaticus",
+    "Lethrinus haematopterus",
+    "Lethrinus variegatus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Lethrinus lentjan"
+    ],
+    "16s": [
+      "Lethrinus lentjan",
+      "Lethrinus nebulosus",
+      "Lethrinus ornatus",
+      "Lethrinus rubrioperculatus"
+    ],
+    "4c4": [
+      "Lethrinus nebulosus"
+    ],
+    "coi": [
+      "Gnathodentex aureolineatus",
+      "Gymnocranius audleyi",
+      "Gymnocranius elongatus",
+      "Gymnocranius grandoculis",
+      "Gymnocranius griseus",
+      "Lethrinus atkinsoni",
+      "Lethrinus conchyliatus",
+      "Lethrinus crocineus",
+      "Lethrinus harak",
+      "Lethrinus laticaudis",
+      "Lethrinus lentjan",
+      "Lethrinus mahsena",
+      "Lethrinus miniatus",
+      "Lethrinus nebulosus",
+      "Lethrinus olivaceus",
+      "Lethrinus ornatus",
+      "Lethrinus ravus",
+      "Lethrinus rubrioperculatus",
+      "Lethrinus semicinctus",
+      "Monotaxis grandoculis"
+    ],
+    "cytb": [
+      "Gymnocranius elongatus",
+      "Gymnocranius grandoculis",
+      "Gymnocranius griseus",
+      "Lethrinus atkinsoni",
+      "Lethrinus atlanticus",
+      "Lethrinus borbonicus",
+      "Lethrinus erythracanthus",
+      "Lethrinus erythropterus",
+      "Lethrinus genivittatus",
+      "Lethrinus harak",
+      "Lethrinus laticaudis",
+      "Lethrinus lentjan",
+      "Lethrinus microdon",
+      "Lethrinus miniatus",
+      "Lethrinus nebulosus",
+      "Lethrinus obsoletus",
+      "Lethrinus olivaceus",
+      "Lethrinus ornatus",
+      "Lethrinus reticulatus",
+      "Lethrinus rubrioperculatus",
+      "Lethrinus semicinctus",
+      "Wattsia mossambica"
+    ],
+    "enc1": [
+      "Lethrinus erythracanthus",
+      "Monotaxis grandoculis"
+    ],
+    "ficd": [
+      "Gymnocranius grandoculis",
+      "Lethrinus atkinsoni",
+      "Lethrinus harak",
+      "Lethrinus obsoletus",
+      "Lethrinus olivaceus"
+    ],
+    "glyt": [
+      "Lethrinus erythracanthus",
+      "Monotaxis grandoculis"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Gymnocranius grandoculis",
+      "Lethrinus atkinsoni",
+      "Lethrinus harak",
+      "Lethrinus obsoletus",
+      "Lethrinus olivaceus"
+    ],
+    "myh6": [
+      "Gnathodentex aureolineatus",
+      "Lethrinus obsoletus",
+      "Monotaxis grandoculis"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Lethrinus harak",
+      "Lethrinus obsoletus",
+      "Lethrinus olivaceus"
+    ],
+    "plagl2": [
+      "Gymnocranius grandoculis",
+      "Lethrinus erythracanthus",
+      "Lethrinus obsoletus",
+      "Lethrinus olivaceus",
+      "Lethrinus ornatus",
+      "Monotaxis grandoculis"
+    ],
+    "ptr": [
+      "Gymnocranius grandoculis",
+      "Lethrinus atkinsoni",
+      "Lethrinus erythracanthus",
+      "Monotaxis grandoculis"
+    ],
+    "rag1": [
+      "Gnathodentex aureolineatus",
+      "Gymnocranius elongatus",
+      "Lethrinus atkinsoni",
+      "Lethrinus atlanticus",
+      "Lethrinus erythracanthus",
+      "Lethrinus harak",
+      "Lethrinus lentjan",
+      "Lethrinus obsoletus",
+      "Lethrinus olivaceus",
+      "Lethrinus ornatus",
+      "Lethrinus xanthochilus",
+      "Monotaxis grandoculis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Gnathodentex aureolineatus",
+      "Lethrinus olivaceus",
+      "Monotaxis grandoculis"
+    ],
+    "ripk4": [
+      "Lethrinus atkinsoni",
+      "Lethrinus harak",
+      "Lethrinus obsoletus",
+      "Lethrinus olivaceus"
+    ],
+    "sh3px3": [
+      "Gymnocranius grandoculis",
+      "Lethrinus atkinsoni",
+      "Lethrinus erythracanthus",
+      "Lethrinus obsoletus",
+      "Lethrinus olivaceus",
+      "Lethrinus ornatus",
+      "Monotaxis grandoculis"
+    ],
+    "sidkey": [
+      "Gymnocranius grandoculis",
+      "Lethrinus obsoletus",
+      "Lethrinus olivaceus"
+    ],
+    "sreb2": [
+      "Lethrinus erythracanthus",
+      "Monotaxis grandoculis"
+    ],
+    "svep1": [
+      "Lethrinus harak",
+      "Lethrinus obsoletus",
+      "Lethrinus olivaceus"
+    ],
+    "tbr1": [
+      "Lethrinus atkinsoni",
+      "Lethrinus erythracanthus",
+      "Lethrinus harak",
+      "Lethrinus obsoletus",
+      "Lethrinus olivaceus",
+      "Monotaxis grandoculis"
+    ],
+    "vcpip": [
+      "Lethrinus atkinsoni",
+      "Lethrinus harak",
+      "Lethrinus obsoletus"
+    ],
+    "zic1": [
+      "Gymnocranius grandoculis",
+      "Lethrinus atkinsoni",
+      "Lethrinus erythracanthus",
+      "Lethrinus harak",
+      "Lethrinus obsoletus",
+      "Lethrinus olivaceus",
+      "Monotaxis grandoculis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Lethrinidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Spariformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Gnathodentex aureolineatus": 0.0242,
+    "Gymnocranius audleyi": 0.0575,
+    "Gymnocranius elongatus": 0.0559,
+    "Gymnocranius grandoculis": 0.0613,
+    "Gymnocranius griseus": 0.0619,
+    "Lethrinus atkinsoni": 0.0911,
+    "Lethrinus atlanticus": 0.0586,
+    "Lethrinus borbonicus": 0.0639,
+    "Lethrinus conchyliatus": 0.12,
+    "Lethrinus crocineus": 0.0719,
+    "Lethrinus erythracanthus": 0.0402,
+    "Lethrinus erythropterus": 0.0363,
+    "Lethrinus genivittatus": 0.0195,
+    "Lethrinus harak": 0.0848,
+    "Lethrinus laticaudis": 0.1133,
+    "Lethrinus lentjan": 0.0949,
+    "Lethrinus mahsena": 0.0934,
+    "Lethrinus microdon": 0.0461,
+    "Lethrinus miniatus": 0.0492,
+    "Lethrinus nebulosus": 0.0708,
+    "Lethrinus obsoletus": 0.1071,
+    "Lethrinus olivaceus": 0.0493,
+    "Lethrinus ornatus": 0.0727,
+    "Lethrinus ravus": 0.0439,
+    "Lethrinus reticulatus": 0.0621,
+    "Lethrinus rubrioperculatus": 0.1174,
+    "Lethrinus semicinctus": 0.0449,
+    "Lethrinus xanthochilus": 0.0577,
+    "Monotaxis grandoculis": 0.0242,
+    "Wattsia mossambica": 0.0231
+  },
+  "tiprates_bamm_lambda": {
+    "Gnathodentex aureolineatus": 0.0579,
+    "Gymnocranius audleyi": 0.0579,
+    "Gymnocranius elongatus": 0.0579,
+    "Gymnocranius grandoculis": 0.0579,
+    "Gymnocranius griseus": 0.0579,
+    "Lethrinus atkinsoni": 0.0577,
+    "Lethrinus atlanticus": 0.0577,
+    "Lethrinus borbonicus": 0.0577,
+    "Lethrinus conchyliatus": 0.0577,
+    "Lethrinus crocineus": 0.0576,
+    "Lethrinus erythracanthus": 0.0577,
+    "Lethrinus erythropterus": 0.0577,
+    "Lethrinus genivittatus": 0.0579,
+    "Lethrinus harak": 0.0576,
+    "Lethrinus laticaudis": 0.0576,
+    "Lethrinus lentjan": 0.0576,
+    "Lethrinus mahsena": 0.0577,
+    "Lethrinus microdon": 0.0577,
+    "Lethrinus miniatus": 0.0577,
+    "Lethrinus nebulosus": 0.0576,
+    "Lethrinus obsoletus": 0.0576,
+    "Lethrinus olivaceus": 0.0577,
+    "Lethrinus ornatus": 0.0576,
+    "Lethrinus ravus": 0.0577,
+    "Lethrinus reticulatus": 0.0577,
+    "Lethrinus rubrioperculatus": 0.0577,
+    "Lethrinus semicinctus": 0.0577,
+    "Lethrinus xanthochilus": 0.0577,
+    "Monotaxis grandoculis": 0.0579,
+    "Wattsia mossambica": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Gnathodentex aureolineatus": 0.0003,
+    "Gymnocranius audleyi": 0.0003,
+    "Gymnocranius elongatus": 0.0003,
+    "Gymnocranius grandoculis": 0.0003,
+    "Gymnocranius griseus": 0.0003,
+    "Lethrinus atkinsoni": 0.0004,
+    "Lethrinus atlanticus": 0.0004,
+    "Lethrinus borbonicus": 0.0004,
+    "Lethrinus conchyliatus": 0.0003,
+    "Lethrinus crocineus": 0.0004,
+    "Lethrinus erythracanthus": 0.0004,
+    "Lethrinus erythropterus": 0.0004,
+    "Lethrinus genivittatus": 0.0003,
+    "Lethrinus harak": 0.0004,
+    "Lethrinus laticaudis": 0.0004,
+    "Lethrinus lentjan": 0.0004,
+    "Lethrinus mahsena": 0.0004,
+    "Lethrinus microdon": 0.0003,
+    "Lethrinus miniatus": 0.0003,
+    "Lethrinus nebulosus": 0.0004,
+    "Lethrinus obsoletus": 0.0004,
+    "Lethrinus olivaceus": 0.0003,
+    "Lethrinus ornatus": 0.0004,
+    "Lethrinus ravus": 0.0003,
+    "Lethrinus reticulatus": 0.0003,
+    "Lethrinus rubrioperculatus": 0.0003,
+    "Lethrinus semicinctus": 0.0003,
+    "Lethrinus xanthochilus": 0.0004,
+    "Monotaxis grandoculis": 0.0003,
+    "Wattsia mossambica": 0.0003
+  },
+  "mean_dr": 0.0639,
+  "mean_bamm_lambda": 0.0577,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Lethrinidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Lethrinidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Lethrinidae.tre",
+  "phylogram": "downloads/taxonomy/family/Lethrinidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

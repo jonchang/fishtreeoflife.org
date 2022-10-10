@@ -1,0 +1,169 @@
+{
+  "species": [
+    "Hepsetus akawo",
+    "Hepsetus kingsleyae",
+    "Hepsetus lineata",
+    "Hepsetus odoe"
+  ],
+  "sampled_species": [
+    "Hepsetus odoe"
+  ],
+  "unsampled_species": [
+    "Hepsetus akawo",
+    "Hepsetus kingsleyae",
+    "Hepsetus lineata"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Hepsetus odoe"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Hepsetus odoe"
+    ],
+    "cytb": [
+      "Hepsetus odoe"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Hepsetus odoe"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Hepsetus odoe"
+    ],
+    "rag2": [
+      "Hepsetus odoe"
+    ],
+    "rhodopsin": [
+      "Hepsetus odoe"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Hepsetus odoe"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Hepsetidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Characiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Characoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Hepsetus odoe": 0.0504
+  },
+  "tiprates_bamm_lambda": {
+    "Hepsetus odoe": 0.0733
+  },
+  "tiprates_bamm_mu": {
+    "Hepsetus odoe": 0.0008
+  },
+  "mean_dr": 0.0504,
+  "mean_bamm_lambda": 0.0733,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Hepsetidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Hepsetidae.nex.xz"
+}

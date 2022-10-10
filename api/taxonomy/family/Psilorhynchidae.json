@@ -1,0 +1,204 @@
+{
+  "species": [
+    "Psilorhynchus amplicephalus",
+    "Psilorhynchus arunachalensis",
+    "Psilorhynchus balitora",
+    "Psilorhynchus brachyrhynchus",
+    "Psilorhynchus breviminor",
+    "Psilorhynchus gokkyi",
+    "Psilorhynchus gracilis",
+    "Psilorhynchus hamiltoni",
+    "Psilorhynchus homaloptera",
+    "Psilorhynchus melissa",
+    "Psilorhynchus microphthalmus",
+    "Psilorhynchus nepalensis",
+    "Psilorhynchus pavimentatus",
+    "Psilorhynchus piperatus",
+    "Psilorhynchus pseudecheneis",
+    "Psilorhynchus rahmani",
+    "Psilorhynchus robustus",
+    "Psilorhynchus sucatio",
+    "Psilorhynchus tenura"
+  ],
+  "sampled_species": [
+    "Psilorhynchus homaloptera",
+    "Psilorhynchus sucatio"
+  ],
+  "unsampled_species": [
+    "Psilorhynchus amplicephalus",
+    "Psilorhynchus arunachalensis",
+    "Psilorhynchus balitora",
+    "Psilorhynchus brachyrhynchus",
+    "Psilorhynchus breviminor",
+    "Psilorhynchus gokkyi",
+    "Psilorhynchus gracilis",
+    "Psilorhynchus hamiltoni",
+    "Psilorhynchus melissa",
+    "Psilorhynchus microphthalmus",
+    "Psilorhynchus nepalensis",
+    "Psilorhynchus pavimentatus",
+    "Psilorhynchus piperatus",
+    "Psilorhynchus pseudecheneis",
+    "Psilorhynchus rahmani",
+    "Psilorhynchus robustus",
+    "Psilorhynchus tenura"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Psilorhynchus homaloptera",
+      "Psilorhynchus sucatio"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Psilorhynchus homaloptera",
+      "Psilorhynchus sucatio"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Psilorhynchidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Cypriniformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Cypriniphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Psilorhynchus homaloptera": 0.0629,
+    "Psilorhynchus sucatio": 0.0669
+  },
+  "tiprates_bamm_lambda": {
+    "Psilorhynchus homaloptera": 0.0749,
+    "Psilorhynchus sucatio": 0.0749
+  },
+  "tiprates_bamm_mu": {
+    "Psilorhynchus homaloptera": 0.001,
+    "Psilorhynchus sucatio": 0.001
+  },
+  "mean_dr": 0.0649,
+  "mean_bamm_lambda": 0.0749,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Psilorhynchidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Psilorhynchidae.nex.xz"
+}

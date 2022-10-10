@@ -1,0 +1,218 @@
+{
+  "species": [
+    "Kiunga ballochi",
+    "Kiunga bleheri",
+    "Pseudomugil connieae",
+    "Pseudomugil cyanodorsalis",
+    "Pseudomugil furcatus",
+    "Pseudomugil gertrudae",
+    "Pseudomugil inconspicuus",
+    "Pseudomugil ivantsoffi",
+    "Pseudomugil majusculus",
+    "Pseudomugil mellis",
+    "Pseudomugil novaeguineae",
+    "Pseudomugil paludicola",
+    "Pseudomugil paskai",
+    "Pseudomugil pellucidus",
+    "Pseudomugil reticulatus",
+    "Pseudomugil signifer",
+    "Pseudomugil tenellus",
+    "Scaturiginichthys vermeilipinnis"
+  ],
+  "sampled_species": [
+    "Pseudomugil gertrudae",
+    "Pseudomugil mellis",
+    "Pseudomugil signifer"
+  ],
+  "unsampled_species": [
+    "Kiunga ballochi",
+    "Kiunga bleheri",
+    "Pseudomugil connieae",
+    "Pseudomugil cyanodorsalis",
+    "Pseudomugil furcatus",
+    "Pseudomugil inconspicuus",
+    "Pseudomugil ivantsoffi",
+    "Pseudomugil majusculus",
+    "Pseudomugil novaeguineae",
+    "Pseudomugil paludicola",
+    "Pseudomugil paskai",
+    "Pseudomugil pellucidus",
+    "Pseudomugil reticulatus",
+    "Pseudomugil tenellus",
+    "Scaturiginichthys vermeilipinnis"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Pseudomugil gertrudae",
+      "Pseudomugil signifer"
+    ],
+    "4c4": [
+      "Pseudomugil gertrudae",
+      "Pseudomugil signifer"
+    ],
+    "coi": [
+      "Pseudomugil gertrudae",
+      "Pseudomugil mellis",
+      "Pseudomugil signifer"
+    ],
+    "cytb": [
+      "Pseudomugil mellis",
+      "Pseudomugil signifer"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Pseudomugil signifer"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Pseudomugil gertrudae"
+    ],
+    "myh6": [
+      "Pseudomugil signifer"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Pseudomugil gertrudae"
+    ],
+    "plagl2": [
+      "Pseudomugil gertrudae",
+      "Pseudomugil signifer"
+    ],
+    "ptr": [
+      "Pseudomugil gertrudae",
+      "Pseudomugil signifer"
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Pseudomugil gertrudae",
+      "Pseudomugil signifer"
+    ],
+    "sh3px3": [
+      "Pseudomugil gertrudae"
+    ],
+    "sidkey": [
+      "Pseudomugil gertrudae",
+      "Pseudomugil signifer"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Pseudomugil gertrudae"
+    ],
+    "tbr1": [
+      "Pseudomugil gertrudae"
+    ],
+    "vcpip": [
+      "Pseudomugil gertrudae"
+    ],
+    "zic1": [
+      "Pseudomugil gertrudae",
+      "Pseudomugil signifer"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Pseudomugilidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Atheriniformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Atherinomorphae"
+    ]
+  },
+  "tiprates_dr": {
+    "Pseudomugil gertrudae": 0.0661,
+    "Pseudomugil mellis": 0.0924,
+    "Pseudomugil signifer": 0.0831
+  },
+  "tiprates_bamm_lambda": {
+    "Pseudomugil gertrudae": 0.0556,
+    "Pseudomugil mellis": 0.0556,
+    "Pseudomugil signifer": 0.0556
+  },
+  "tiprates_bamm_mu": {
+    "Pseudomugil gertrudae": 0.0003,
+    "Pseudomugil mellis": 0.0003,
+    "Pseudomugil signifer": 0.0003
+  },
+  "mean_dr": 0.0805,
+  "mean_bamm_lambda": 0.0556,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Pseudomugilidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Pseudomugilidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Pseudomugilidae.tre",
+  "phylogram": "downloads/taxonomy/family/Pseudomugilidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

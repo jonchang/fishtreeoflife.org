@@ -1,0 +1,177 @@
+{
+  "species": [
+    "Hiodon alosoides",
+    "Hiodon tergisus"
+  ],
+  "sampled_species": [
+    "Hiodon alosoides",
+    "Hiodon tergisus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Hiodon alosoides"
+    ],
+    "16s": [
+      "Hiodon alosoides"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Hiodon alosoides",
+      "Hiodon tergisus"
+    ],
+    "cytb": [
+      "Hiodon alosoides"
+    ],
+    "enc1": [
+      "Hiodon alosoides"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Hiodon tergisus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Hiodon alosoides",
+      "Hiodon tergisus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Hiodon alosoides",
+      "Hiodon tergisus"
+    ],
+    "ptr": [
+      "Hiodon alosoides",
+      "Hiodon tergisus"
+    ],
+    "rag1": [
+      "Hiodon alosoides"
+    ],
+    "rag2": [
+      "Hiodon alosoides"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Hiodon alosoides",
+      "Hiodon tergisus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Hiodon alosoides",
+      "Hiodon tergisus"
+    ],
+    "svep1": [
+      "Hiodon alosoides"
+    ],
+    "tbr1": [
+      "Hiodon alosoides",
+      "Hiodon tergisus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Hiodon alosoides",
+      "Hiodon tergisus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Osteoglossomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Hiodontidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Hiodontiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Osteoglossocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Hiodon alosoides": 0.0089,
+    "Hiodon tergisus": 0.0089
+  },
+  "tiprates_bamm_lambda": {
+    "Hiodon alosoides": 0.0327,
+    "Hiodon tergisus": 0.0327
+  },
+  "tiprates_bamm_mu": {
+    "Hiodon alosoides": 0.0018,
+    "Hiodon tergisus": 0.0018
+  },
+  "mean_dr": 0.0089,
+  "mean_bamm_lambda": 0.0327,
+  "mean_bamm_mu": 0.0018,
+  "matrix_phylip": "downloads/taxonomy/order/Hiodontiformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Hiodontiformes.nex.xz"
+}

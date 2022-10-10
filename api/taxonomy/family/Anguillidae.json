@@ -1,0 +1,323 @@
+{
+  "species": [
+    "Anguilla anguilla",
+    "Anguilla australis australis",
+    "Anguilla australis schmidtii",
+    "Anguilla bengalensis bengalensis",
+    "Anguilla bengalensis labiata",
+    "Anguilla bicolor bicolor",
+    "Anguilla bicolor pacifica",
+    "Anguilla breviceps",
+    "Anguilla celebesensis",
+    "Anguilla dieffenbachii",
+    "Anguilla interioris",
+    "Anguilla japonica",
+    "Anguilla luzonensis",
+    "Anguilla malgumora",
+    "Anguilla marmorata",
+    "Anguilla megastoma",
+    "Anguilla mossambica",
+    "Anguilla nebulosa",
+    "Anguilla nigricans",
+    "Anguilla obscura",
+    "Anguilla reinhardtii",
+    "Anguilla rostrata",
+    "Neoanguilla nepalensis"
+  ],
+  "sampled_species": [
+    "Anguilla anguilla",
+    "Anguilla australis australis",
+    "Anguilla australis schmidtii",
+    "Anguilla bengalensis bengalensis",
+    "Anguilla bengalensis labiata",
+    "Anguilla bicolor bicolor",
+    "Anguilla bicolor pacifica",
+    "Anguilla celebesensis",
+    "Anguilla dieffenbachii",
+    "Anguilla interioris",
+    "Anguilla japonica",
+    "Anguilla luzonensis",
+    "Anguilla malgumora",
+    "Anguilla marmorata",
+    "Anguilla megastoma",
+    "Anguilla mossambica",
+    "Anguilla nebulosa",
+    "Anguilla obscura",
+    "Anguilla reinhardtii",
+    "Anguilla rostrata"
+  ],
+  "unsampled_species": [
+    "Anguilla breviceps",
+    "Anguilla nigricans",
+    "Neoanguilla nepalensis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Anguilla anguilla",
+      "Anguilla australis australis",
+      "Anguilla australis schmidtii",
+      "Anguilla bengalensis labiata",
+      "Anguilla bicolor bicolor",
+      "Anguilla bicolor pacifica",
+      "Anguilla celebesensis",
+      "Anguilla dieffenbachii",
+      "Anguilla interioris",
+      "Anguilla japonica",
+      "Anguilla malgumora",
+      "Anguilla marmorata",
+      "Anguilla megastoma",
+      "Anguilla mossambica",
+      "Anguilla nebulosa",
+      "Anguilla obscura",
+      "Anguilla reinhardtii",
+      "Anguilla rostrata"
+    ],
+    "16s": [
+      "Anguilla anguilla",
+      "Anguilla australis australis",
+      "Anguilla bicolor bicolor",
+      "Anguilla celebesensis",
+      "Anguilla interioris",
+      "Anguilla japonica",
+      "Anguilla luzonensis",
+      "Anguilla malgumora",
+      "Anguilla marmorata",
+      "Anguilla nebulosa",
+      "Anguilla obscura",
+      "Anguilla reinhardtii",
+      "Anguilla rostrata"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Anguilla anguilla",
+      "Anguilla australis australis",
+      "Anguilla bengalensis bengalensis",
+      "Anguilla japonica",
+      "Anguilla marmorata",
+      "Anguilla megastoma",
+      "Anguilla reinhardtii",
+      "Anguilla rostrata"
+    ],
+    "cytb": [
+      "Anguilla anguilla",
+      "Anguilla australis australis",
+      "Anguilla australis schmidtii",
+      "Anguilla bengalensis labiata",
+      "Anguilla bicolor bicolor",
+      "Anguilla bicolor pacifica",
+      "Anguilla celebesensis",
+      "Anguilla dieffenbachii",
+      "Anguilla interioris",
+      "Anguilla japonica",
+      "Anguilla luzonensis",
+      "Anguilla malgumora",
+      "Anguilla marmorata",
+      "Anguilla megastoma",
+      "Anguilla mossambica",
+      "Anguilla nebulosa",
+      "Anguilla obscura",
+      "Anguilla reinhardtii",
+      "Anguilla rostrata"
+    ],
+    "enc1": [
+      "Anguilla rostrata"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Anguilla japonica",
+      "Anguilla rostrata"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Anguilla japonica",
+      "Anguilla rostrata"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Anguilla japonica"
+    ],
+    "ptr": [
+      "Anguilla japonica",
+      "Anguilla rostrata"
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Anguilla anguilla",
+      "Anguilla japonica",
+      "Anguilla rostrata"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Anguilla japonica",
+      "Anguilla rostrata"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Anguilla rostrata"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Anguillidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Anguilliformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Anguilla anguilla": 0.0859,
+    "Anguilla australis australis": 0.0548,
+    "Anguilla celebesensis": 0.0953,
+    "Anguilla dieffenbachii": 0.0372,
+    "Anguilla interioris": 0.1332,
+    "Anguilla japonica": 0.0675,
+    "Anguilla luzonensis": 0.1359,
+    "Anguilla malgumora": 0.0587,
+    "Anguilla marmorata": 0.1056,
+    "Anguilla megastoma": 0.0967,
+    "Anguilla mossambica": 0.0574,
+    "Anguilla nebulosa": 0.2167,
+    "Anguilla obscura": 0.1251,
+    "Anguilla reinhardtii": 0.0687,
+    "Anguilla rostrata": 0.0854,
+    "Anguilla bengalensis bengalensis": 0.1073,
+    "Anguilla bicolor bicolor": 0.1996,
+    "Anguilla bengalensis labiata": 0.2149
+  },
+  "tiprates_bamm_lambda": {
+    "Anguilla anguilla": 0.0594,
+    "Anguilla australis australis": 0.0585,
+    "Anguilla celebesensis": 0.0603,
+    "Anguilla dieffenbachii": 0.059,
+    "Anguilla interioris": 0.0605,
+    "Anguilla japonica": 0.0594,
+    "Anguilla luzonensis": 0.0605,
+    "Anguilla malgumora": 0.0597,
+    "Anguilla marmorata": 0.0605,
+    "Anguilla megastoma": 0.0603,
+    "Anguilla mossambica": 0.0594,
+    "Anguilla nebulosa": 0.0605,
+    "Anguilla obscura": 0.0605,
+    "Anguilla reinhardtii": 0.0602,
+    "Anguilla rostrata": 0.0594,
+    "Anguilla bengalensis bengalensis": 0.0605,
+    "Anguilla bicolor bicolor": 0.0605,
+    "Anguilla bengalensis labiata": 0.0605
+  },
+  "tiprates_bamm_mu": {
+    "Anguilla anguilla": 0.0045,
+    "Anguilla australis australis": 0.0043,
+    "Anguilla celebesensis": 0.0046,
+    "Anguilla dieffenbachii": 0.0042,
+    "Anguilla interioris": 0.0046,
+    "Anguilla japonica": 0.0045,
+    "Anguilla luzonensis": 0.0046,
+    "Anguilla malgumora": 0.0046,
+    "Anguilla marmorata": 0.0046,
+    "Anguilla megastoma": 0.0046,
+    "Anguilla mossambica": 0.0045,
+    "Anguilla nebulosa": 0.0046,
+    "Anguilla obscura": 0.0046,
+    "Anguilla reinhardtii": 0.0046,
+    "Anguilla rostrata": 0.0045,
+    "Anguilla bengalensis bengalensis": 0.0046,
+    "Anguilla bicolor bicolor": 0.0046,
+    "Anguilla bengalensis labiata": 0.0046
+  },
+  "mean_dr": 0.1081,
+  "mean_bamm_lambda": 0.06,
+  "mean_bamm_mu": 0.0045,
+  "matrix_phylip": "downloads/taxonomy/family/Anguillidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Anguillidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Anguillidae.tre",
+  "phylogram": "downloads/taxonomy/family/Anguillidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "species": [
+    "Panturichthys fowleri",
+    "Panturichthys isognathus",
+    "Panturichthys longus",
+    "Panturichthys mauritanicus",
+    "Pythonichthys asodes",
+    "Pythonichthys macrurus",
+    "Pythonichthys microphthalmus",
+    "Pythonichthys sanguineus"
+  ],
+  "sampled_species": [
+    "Pythonichthys asodes"
+  ],
+  "unsampled_species": [
+    "Panturichthys fowleri",
+    "Panturichthys isognathus",
+    "Panturichthys longus",
+    "Panturichthys mauritanicus",
+    "Pythonichthys macrurus",
+    "Pythonichthys microphthalmus",
+    "Pythonichthys sanguineus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Pythonichthys asodes"
+    ],
+    "16s": [
+      "Pythonichthys asodes"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Heterenchelyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Anguilliformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Pythonichthys asodes": 0.0427
+  },
+  "tiprates_bamm_lambda": {
+    "Pythonichthys asodes": 0.0567
+  },
+  "tiprates_bamm_mu": {
+    "Pythonichthys asodes": 0.0031
+  },
+  "mean_dr": 0.0427,
+  "mean_bamm_lambda": 0.0567,
+  "mean_bamm_mu": 0.0031,
+  "matrix_phylip": "downloads/taxonomy/family/Heterenchelyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Heterenchelyidae.nex.xz"
+}

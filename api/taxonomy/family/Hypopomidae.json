@@ -1,0 +1,275 @@
+{
+  "species": [
+    "Brachyhypopomus beebei",
+    "Brachyhypopomus bombilla",
+    "Brachyhypopomus brevirostris",
+    "Brachyhypopomus bullocki",
+    "Brachyhypopomus diazi",
+    "Brachyhypopomus draco",
+    "Brachyhypopomus gauderio",
+    "Brachyhypopomus janeiroensis",
+    "Brachyhypopomus jureiae",
+    "Brachyhypopomus occidentalis",
+    "Brachyhypopomus pinnicaudatus",
+    "Hypopomus artedi",
+    "Hypopygus benoneae",
+    "Hypopygus hoedemani",
+    "Hypopygus isbruckeri",
+    "Hypopygus lepturus",
+    "Hypopygus minissimus",
+    "Hypopygus neblinae",
+    "Hypopygus nijsseni",
+    "Hypopygus ortegai",
+    "Microsternarchus bilineatus",
+    "Racenisia fimbriipinna",
+    "Steatogenys duidae",
+    "Steatogenys elegans",
+    "Steatogenys ocellatus",
+    "Stegostenopos cryptogenes"
+  ],
+  "sampled_species": [
+    "Brachyhypopomus brevirostris",
+    "Brachyhypopomus diazi",
+    "Brachyhypopomus gauderio",
+    "Brachyhypopomus pinnicaudatus",
+    "Hypopomus artedi",
+    "Microsternarchus bilineatus"
+  ],
+  "unsampled_species": [
+    "Brachyhypopomus beebei",
+    "Brachyhypopomus bombilla",
+    "Brachyhypopomus bullocki",
+    "Brachyhypopomus draco",
+    "Brachyhypopomus janeiroensis",
+    "Brachyhypopomus jureiae",
+    "Brachyhypopomus occidentalis",
+    "Hypopygus benoneae",
+    "Hypopygus hoedemani",
+    "Hypopygus isbruckeri",
+    "Hypopygus lepturus",
+    "Hypopygus minissimus",
+    "Hypopygus neblinae",
+    "Hypopygus nijsseni",
+    "Hypopygus ortegai",
+    "Racenisia fimbriipinna",
+    "Steatogenys duidae",
+    "Steatogenys elegans",
+    "Steatogenys ocellatus",
+    "Stegostenopos cryptogenes"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Brachyhypopomus pinnicaudatus",
+      "Microsternarchus bilineatus"
+    ],
+    "16s": [
+      "Brachyhypopomus brevirostris",
+      "Brachyhypopomus diazi",
+      "Brachyhypopomus pinnicaudatus",
+      "Hypopomus artedi",
+      "Microsternarchus bilineatus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Brachyhypopomus pinnicaudatus"
+    ],
+    "cytb": [
+      "Brachyhypopomus brevirostris",
+      "Brachyhypopomus diazi",
+      "Hypopomus artedi"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Brachyhypopomus gauderio"
+    ],
+    "rag2": [
+      "Brachyhypopomus brevirostris",
+      "Brachyhypopomus diazi",
+      "Hypopomus artedi"
+    ],
+    "rhodopsin": [
+      "Brachyhypopomus gauderio"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Hypopomidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gymnotiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Sternopygoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Brachyhypopomus brevirostris": 0.0889,
+    "Brachyhypopomus diazi": 0.1019,
+    "Brachyhypopomus gauderio": 0.0579,
+    "Brachyhypopomus pinnicaudatus": 0.1044,
+    "Hypopomus artedi": 0.0763,
+    "Microsternarchus bilineatus": 0.0842
+  },
+  "tiprates_bamm_lambda": {
+    "Brachyhypopomus brevirostris": 0.0733,
+    "Brachyhypopomus diazi": 0.0733,
+    "Brachyhypopomus gauderio": 0.0733,
+    "Brachyhypopomus pinnicaudatus": 0.0733,
+    "Hypopomus artedi": 0.0733,
+    "Microsternarchus bilineatus": 0.0733
+  },
+  "tiprates_bamm_mu": {
+    "Brachyhypopomus brevirostris": 0.0008,
+    "Brachyhypopomus diazi": 0.0008,
+    "Brachyhypopomus gauderio": 0.0008,
+    "Brachyhypopomus pinnicaudatus": 0.0008,
+    "Hypopomus artedi": 0.0008,
+    "Microsternarchus bilineatus": 0.0008
+  },
+  "mean_dr": 0.0856,
+  "mean_bamm_lambda": 0.0733,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Hypopomidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Hypopomidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Hypopomidae.tre",
+  "phylogram": "downloads/taxonomy/family/Hypopomidae_phylogram.tre",
+  "rogues": [
+    "Gymnotus_carapo",
+    "Gymnotus_ucamara",
+    "Gymnotus_arapaima",
+    "Gymnotus_mamiraua",
+    "Gymnotus_inaequilabiatus",
+    "Gymnotus_sp",
+    "Gymnotus_curupira",
+    "Gymnotus_tigre",
+    "Gymnotus_obscurus",
+    "Gymnotus_varzea",
+    "Gymnotus_pantanal",
+    "Gymnotus_cylindricus",
+    "Gymnotus_cataniapo",
+    "Gymnotus_pedanopterus",
+    "Gymnotus_pantherinus",
+    "Gymnotus_coatesi",
+    "Gymnotus_javari",
+    "Gymnotus_coropinae",
+    "Gymnotus_stenoleucus",
+    "Gymnotus_jonasi",
+    "Rhamphichthys_marmoratus",
+    "Gymnorhamphichthys_petiti",
+    "Sternarchogiton_preto",
+    "Compsaraia_compsus",
+    "Adontosternarchus_clarkae",
+    "Sternarchogiton_labiatus",
+    "Sternarchogiton_nattereri",
+    "Sternarchorhamphus_muelleri",
+    "Orthosternarchus_tamandua",
+    "Parapteronotus_hasemani",
+    "Apteronotus_albifrons",
+    "Apteronotus_leptorhynchus"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Hypopomidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Hypopomidae_mrca_phylogram.tre"
+}

@@ -1,0 +1,222 @@
+{
+  "species": [
+    "Chaunacops coloratus",
+    "Chaunacops melanostomus",
+    "Chaunacops roseus",
+    "Chaunax abei",
+    "Chaunax breviradius",
+    "Chaunax endeavouri",
+    "Chaunax fimbriatus",
+    "Chaunax flammeus",
+    "Chaunax latipunctatus",
+    "Chaunax nudiventer",
+    "Chaunax penicillatus",
+    "Chaunax pictus",
+    "Chaunax stigmaeus",
+    "Chaunax suttkusi",
+    "Chaunax tosaensis",
+    "Chaunax umbrinus"
+  ],
+  "sampled_species": [
+    "Chaunacops coloratus",
+    "Chaunax abei",
+    "Chaunax pictus",
+    "Chaunax stigmaeus",
+    "Chaunax suttkusi"
+  ],
+  "unsampled_species": [
+    "Chaunacops melanostomus",
+    "Chaunacops roseus",
+    "Chaunax breviradius",
+    "Chaunax endeavouri",
+    "Chaunax fimbriatus",
+    "Chaunax flammeus",
+    "Chaunax latipunctatus",
+    "Chaunax nudiventer",
+    "Chaunax penicillatus",
+    "Chaunax tosaensis",
+    "Chaunax umbrinus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Chaunacops coloratus"
+    ],
+    "16s": [
+      "Chaunacops coloratus",
+      "Chaunax pictus",
+      "Chaunax suttkusi"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Chaunacops coloratus",
+      "Chaunax abei",
+      "Chaunax pictus"
+    ],
+    "cytb": [
+      "Chaunacops coloratus",
+      "Chaunax suttkusi"
+    ],
+    "enc1": [
+      "Chaunacops coloratus",
+      "Chaunax suttkusi"
+    ],
+    "ficd": [
+      "Chaunax suttkusi"
+    ],
+    "glyt": [
+      "Chaunax suttkusi"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Chaunax stigmaeus"
+    ],
+    "myh6": [
+      "Chaunax stigmaeus",
+      "Chaunax suttkusi"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Chaunacops coloratus",
+      "Chaunax suttkusi"
+    ],
+    "panx2": [
+      "Chaunax stigmaeus",
+      "Chaunax suttkusi"
+    ],
+    "plagl2": [
+      "Chaunax suttkusi"
+    ],
+    "ptr": [
+      "Chaunax suttkusi"
+    ],
+    "rag1": [
+      "Chaunax suttkusi"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Chaunax stigmaeus",
+      "Chaunax suttkusi"
+    ],
+    "sh3px3": [
+      "Chaunax suttkusi"
+    ],
+    "sidkey": [
+      "Chaunax stigmaeus",
+      "Chaunax suttkusi"
+    ],
+    "sreb2": [
+      "Chaunax suttkusi"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Chaunacops coloratus",
+      "Chaunax suttkusi"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Chaunax suttkusi"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Chaunacidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lophiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Chaunacoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Chaunacops coloratus": 0.0451,
+    "Chaunax abei": 0.1542,
+    "Chaunax pictus": 0.1478,
+    "Chaunax stigmaeus": 0.0702,
+    "Chaunax suttkusi": 0.0974
+  },
+  "tiprates_bamm_lambda": {
+    "Chaunacops coloratus": 0.0618,
+    "Chaunax abei": 0.0618,
+    "Chaunax pictus": 0.0618,
+    "Chaunax stigmaeus": 0.0618,
+    "Chaunax suttkusi": 0.0618
+  },
+  "tiprates_bamm_mu": {
+    "Chaunacops coloratus": 0.0015,
+    "Chaunax abei": 0.0015,
+    "Chaunax pictus": 0.0015,
+    "Chaunax stigmaeus": 0.0015,
+    "Chaunax suttkusi": 0.0015
+  },
+  "mean_dr": 0.1029,
+  "mean_bamm_lambda": 0.0618,
+  "mean_bamm_mu": 0.0015,
+  "matrix_phylip": "downloads/taxonomy/family/Chaunacidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Chaunacidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Chaunacidae.tre",
+  "phylogram": "downloads/taxonomy/family/Chaunacidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

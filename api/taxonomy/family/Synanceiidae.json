@@ -1,0 +1,271 @@
+{
+  "species": [
+    "Choridactylus lineatus",
+    "Choridactylus multibarbus",
+    "Choridactylus natalensis",
+    "Choridactylus striatus",
+    "Dampierosa daruma",
+    "Erosa erosa",
+    "Inimicus brachyrhynchus",
+    "Inimicus caledonicus",
+    "Inimicus cuvieri",
+    "Inimicus didactylus",
+    "Inimicus filamentosus",
+    "Inimicus gruzovi",
+    "Inimicus japonicus",
+    "Inimicus joubini",
+    "Inimicus sinensis",
+    "Inimicus smirnovi",
+    "Leptosynanceia asteroblepa",
+    "Minous andriashevi",
+    "Minous coccineus",
+    "Minous dempsterae",
+    "Minous inermis",
+    "Minous longimanus",
+    "Minous monodactylus",
+    "Minous pictus",
+    "Minous pusillus",
+    "Minous quincarinatus",
+    "Minous trachycephalus",
+    "Minous usachevi",
+    "Minous versicolor",
+    "Pseudosynanceia melanostigma",
+    "Synanceia alula",
+    "Synanceia horrida",
+    "Synanceia nana",
+    "Synanceia platyrhyncha",
+    "Synanceia verrucosa",
+    "Trachicephalus uranoscopus"
+  ],
+  "sampled_species": [
+    "Inimicus didactylus",
+    "Inimicus sinensis",
+    "Minous trachycephalus",
+    "Synanceia verrucosa"
+  ],
+  "unsampled_species": [
+    "Choridactylus lineatus",
+    "Choridactylus multibarbus",
+    "Choridactylus natalensis",
+    "Choridactylus striatus",
+    "Dampierosa daruma",
+    "Erosa erosa",
+    "Inimicus brachyrhynchus",
+    "Inimicus caledonicus",
+    "Inimicus cuvieri",
+    "Inimicus filamentosus",
+    "Inimicus gruzovi",
+    "Inimicus japonicus",
+    "Inimicus joubini",
+    "Inimicus smirnovi",
+    "Leptosynanceia asteroblepa",
+    "Minous andriashevi",
+    "Minous coccineus",
+    "Minous dempsterae",
+    "Minous inermis",
+    "Minous longimanus",
+    "Minous monodactylus",
+    "Minous pictus",
+    "Minous pusillus",
+    "Minous quincarinatus",
+    "Minous usachevi",
+    "Minous versicolor",
+    "Pseudosynanceia melanostigma",
+    "Synanceia alula",
+    "Synanceia horrida",
+    "Synanceia nana",
+    "Synanceia platyrhyncha",
+    "Trachicephalus uranoscopus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Inimicus sinensis",
+      "Synanceia verrucosa"
+    ],
+    "4c4": [
+      "Synanceia verrucosa"
+    ],
+    "coi": [
+      "Inimicus sinensis",
+      "Synanceia verrucosa"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Inimicus didactylus",
+      "Minous trachycephalus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Inimicus didactylus",
+      "Minous trachycephalus"
+    ],
+    "hoxc6a": [
+      "Synanceia verrucosa"
+    ],
+    "kiaa1239": [
+      "Synanceia verrucosa"
+    ],
+    "myh6": [
+      "Inimicus didactylus",
+      "Synanceia verrucosa"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Inimicus didactylus",
+      "Minous trachycephalus",
+      "Synanceia verrucosa"
+    ],
+    "ptr": [
+      "Inimicus didactylus",
+      "Synanceia verrucosa"
+    ],
+    "rag1": [
+      "Inimicus didactylus",
+      "Minous trachycephalus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Synanceia verrucosa"
+    ],
+    "ripk4": [
+      "Synanceia verrucosa"
+    ],
+    "sh3px3": [
+      "Inimicus didactylus",
+      "Minous trachycephalus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Inimicus didactylus",
+      "Minous trachycephalus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Inimicus didactylus",
+      "Minous trachycephalus"
+    ],
+    "vcpip": [
+      "Synanceia verrucosa"
+    ],
+    "zic1": [
+      "Inimicus didactylus",
+      "Minous trachycephalus",
+      "Synanceia verrucosa"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Synanceiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Scorpaenoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Inimicus didactylus": 0.0793,
+    "Inimicus sinensis": 0.0333,
+    "Minous trachycephalus": 0.1187,
+    "Synanceia verrucosa": 0.1023
+  },
+  "tiprates_bamm_lambda": {
+    "Inimicus didactylus": 0.0578,
+    "Inimicus sinensis": 0.0581,
+    "Minous trachycephalus": 0.0578,
+    "Synanceia verrucosa": 0.0578
+  },
+  "tiprates_bamm_mu": {
+    "Inimicus didactylus": 0.0009,
+    "Inimicus sinensis": 0.0003,
+    "Minous trachycephalus": 0.0009,
+    "Synanceia verrucosa": 0.0009
+  },
+  "mean_dr": 0.0834,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0007,
+  "matrix_phylip": "downloads/taxonomy/family/Synanceiidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Synanceiidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Synanceiidae.tre",
+  "phylogram": "downloads/taxonomy/family/Synanceiidae_phylogram.tre",
+  "rogues": [
+    "Coccotropsis_gymnoderma",
+    "Aetapcus_maculatus",
+    "Ocosia_zaspilota",
+    "Paracentropogon_rubripinnis",
+    "Aploactisoma_milesii",
+    "Apistus_carinatus",
+    "Gymnapistes_marmoratus",
+    "Glyptauchen_panduratus",
+    "Notesthes_robusta"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Synanceiidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Synanceiidae_mrca_phylogram.tre"
+}

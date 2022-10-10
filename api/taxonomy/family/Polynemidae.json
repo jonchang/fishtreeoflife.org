@@ -1,0 +1,317 @@
+{
+  "species": [
+    "Eleutheronema rhadinum",
+    "Eleutheronema tetradactylum",
+    "Eleutheronema tridactylum",
+    "Filimanus heptadactyla",
+    "Filimanus hexanema",
+    "Filimanus perplexa",
+    "Filimanus sealei",
+    "Filimanus similis",
+    "Filimanus xanthonema",
+    "Galeoides decadactylus",
+    "Leptomelanosoma indicum",
+    "Parapolynemus verekeri",
+    "Pentanemus quinquarius",
+    "Polydactylus approximans",
+    "Polydactylus bifurcus",
+    "Polydactylus longipes",
+    "Polydactylus luparensis",
+    "Polydactylus macrochir",
+    "Polydactylus macrophthalmus",
+    "Polydactylus malagasyensis",
+    "Polydactylus microstomus",
+    "Polydactylus mullani",
+    "Polydactylus multiradiatus",
+    "Polydactylus nigripinnis",
+    "Polydactylus octonemus",
+    "Polydactylus oligodon",
+    "Polydactylus opercularis",
+    "Polydactylus persicus",
+    "Polydactylus plebeius",
+    "Polydactylus quadrifilis",
+    "Polydactylus sexfilis",
+    "Polydactylus sextarius",
+    "Polydactylus siamensis",
+    "Polydactylus virginicus",
+    "Polynemus aquilonaris",
+    "Polynemus bidentatus",
+    "Polynemus dubius",
+    "Polynemus hornadayi",
+    "Polynemus kapuasensis",
+    "Polynemus melanochir dulcis",
+    "Polynemus melanochir melanochir",
+    "Polynemus multifilis",
+    "Polynemus paradiseus"
+  ],
+  "sampled_species": [
+    "Eleutheronema rhadinum",
+    "Eleutheronema tetradactylum",
+    "Filimanus heptadactyla",
+    "Leptomelanosoma indicum",
+    "Pentanemus quinquarius",
+    "Polydactylus approximans",
+    "Polydactylus macrochir",
+    "Polydactylus malagasyensis",
+    "Polydactylus octonemus",
+    "Polydactylus plebeius",
+    "Polydactylus sextarius",
+    "Polydactylus virginicus",
+    "Polynemus paradiseus"
+  ],
+  "unsampled_species": [
+    "Eleutheronema tridactylum",
+    "Filimanus hexanema",
+    "Filimanus perplexa",
+    "Filimanus sealei",
+    "Filimanus similis",
+    "Filimanus xanthonema",
+    "Galeoides decadactylus",
+    "Parapolynemus verekeri",
+    "Polydactylus bifurcus",
+    "Polydactylus longipes",
+    "Polydactylus luparensis",
+    "Polydactylus macrophthalmus",
+    "Polydactylus microstomus",
+    "Polydactylus mullani",
+    "Polydactylus multiradiatus",
+    "Polydactylus nigripinnis",
+    "Polydactylus oligodon",
+    "Polydactylus opercularis",
+    "Polydactylus persicus",
+    "Polydactylus quadrifilis",
+    "Polydactylus sexfilis",
+    "Polydactylus siamensis",
+    "Polynemus aquilonaris",
+    "Polynemus bidentatus",
+    "Polynemus dubius",
+    "Polynemus hornadayi",
+    "Polynemus kapuasensis",
+    "Polynemus melanochir dulcis",
+    "Polynemus melanochir melanochir",
+    "Polynemus multifilis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Eleutheronema tetradactylum",
+      "Pentanemus quinquarius"
+    ],
+    "16s": [
+      "Eleutheronema tetradactylum",
+      "Pentanemus quinquarius",
+      "Polydactylus approximans"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Eleutheronema tetradactylum",
+      "Filimanus heptadactyla",
+      "Leptomelanosoma indicum",
+      "Polydactylus approximans",
+      "Polydactylus malagasyensis",
+      "Polydactylus plebeius",
+      "Polydactylus sextarius",
+      "Polydactylus virginicus",
+      "Polynemus paradiseus"
+    ],
+    "cytb": [
+      "Polydactylus plebeius"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Leptomelanosoma indicum",
+      "Polydactylus octonemus"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Leptomelanosoma indicum",
+      "Polydactylus virginicus"
+    ],
+    "kiaa1239": [
+      "Leptomelanosoma indicum",
+      "Polydactylus octonemus",
+      "Polydactylus virginicus"
+    ],
+    "myh6": [
+      "Polydactylus octonemus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Leptomelanosoma indicum",
+      "Polydactylus octonemus"
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+      "Polydactylus octonemus",
+      "Polydactylus virginicus"
+    ],
+    "rag1": [
+      "Eleutheronema rhadinum",
+      "Pentanemus quinquarius",
+      "Polydactylus macrochir",
+      "Polydactylus sextarius"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Eleutheronema rhadinum",
+      "Pentanemus quinquarius",
+      "Polydactylus sextarius"
+    ],
+    "ripk4": [
+      "Leptomelanosoma indicum",
+      "Polydactylus octonemus"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Leptomelanosoma indicum",
+      "Polydactylus octonemus"
+    ],
+    "tbr1": [
+      "Leptomelanosoma indicum",
+      "Polydactylus virginicus"
+    ],
+    "vcpip": [
+      "Leptomelanosoma indicum",
+      "Polydactylus octonemus",
+      "Polydactylus virginicus"
+    ],
+    "zic1": [
+      "Leptomelanosoma indicum",
+      "Polydactylus octonemus",
+      "Polydactylus virginicus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Polynemidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Carangaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Eleutheronema rhadinum": 0.0513,
+    "Eleutheronema tetradactylum": 0.0515,
+    "Filimanus heptadactyla": 0.091,
+    "Leptomelanosoma indicum": 0.045,
+    "Pentanemus quinquarius": 0.061,
+    "Polydactylus approximans": 0.0577,
+    "Polydactylus macrochir": 0.0627,
+    "Polydactylus malagasyensis": 0.106,
+    "Polydactylus octonemus": 0.1257,
+    "Polydactylus plebeius": 0.0506,
+    "Polydactylus sextarius": 0.1016,
+    "Polydactylus virginicus": 0.1164,
+    "Polynemus paradiseus": 0.0495
+  },
+  "tiprates_bamm_lambda": {
+    "Eleutheronema rhadinum": 0.055,
+    "Eleutheronema tetradactylum": 0.055,
+    "Filimanus heptadactyla": 0.055,
+    "Leptomelanosoma indicum": 0.055,
+    "Pentanemus quinquarius": 0.055,
+    "Polydactylus approximans": 0.055,
+    "Polydactylus macrochir": 0.055,
+    "Polydactylus malagasyensis": 0.055,
+    "Polydactylus octonemus": 0.055,
+    "Polydactylus plebeius": 0.055,
+    "Polydactylus sextarius": 0.055,
+    "Polydactylus virginicus": 0.055,
+    "Polynemus paradiseus": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Eleutheronema rhadinum": 0.0003,
+    "Eleutheronema tetradactylum": 0.0003,
+    "Filimanus heptadactyla": 0.0003,
+    "Leptomelanosoma indicum": 0.0003,
+    "Pentanemus quinquarius": 0.0003,
+    "Polydactylus approximans": 0.0003,
+    "Polydactylus macrochir": 0.0003,
+    "Polydactylus malagasyensis": 0.0003,
+    "Polydactylus octonemus": 0.0003,
+    "Polydactylus plebeius": 0.0003,
+    "Polydactylus sextarius": 0.0003,
+    "Polydactylus virginicus": 0.0003,
+    "Polynemus paradiseus": 0.0003
+  },
+  "mean_dr": 0.0746,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Polynemidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Polynemidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Polynemidae.tre",
+  "phylogram": "downloads/taxonomy/family/Polynemidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

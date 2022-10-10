@@ -1,0 +1,227 @@
+{
+  "species": [
+    "Pseudotriacanthus strigilifer",
+    "Triacanthus biaculeatus",
+    "Triacanthus nieuhofii",
+    "Tripodichthys angustifrons",
+    "Tripodichthys blochii",
+    "Tripodichthys oxycephalus",
+    "Trixiphichthys weberi"
+  ],
+  "sampled_species": [
+    "Pseudotriacanthus strigilifer",
+    "Triacanthus biaculeatus",
+    "Triacanthus nieuhofii",
+    "Trixiphichthys weberi"
+  ],
+  "unsampled_species": [
+    "Tripodichthys angustifrons",
+    "Tripodichthys blochii",
+    "Tripodichthys oxycephalus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Pseudotriacanthus strigilifer",
+      "Trixiphichthys weberi"
+    ],
+    "16s": [
+      "Pseudotriacanthus strigilifer",
+      "Trixiphichthys weberi"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Pseudotriacanthus strigilifer",
+      "Triacanthus biaculeatus",
+      "Triacanthus nieuhofii",
+      "Trixiphichthys weberi"
+    ],
+    "cytb": [
+      "Pseudotriacanthus strigilifer",
+      "Triacanthus nieuhofii",
+      "Trixiphichthys weberi"
+    ],
+    "enc1": [
+      "Pseudotriacanthus strigilifer",
+      "Triacanthus nieuhofii",
+      "Trixiphichthys weberi"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Pseudotriacanthus strigilifer",
+      "Triacanthus biaculeatus",
+      "Triacanthus nieuhofii",
+      "Trixiphichthys weberi"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Pseudotriacanthus strigilifer",
+      "Triacanthus biaculeatus",
+      "Triacanthus nieuhofii",
+      "Trixiphichthys weberi"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Pseudotriacanthus strigilifer",
+      "Triacanthus biaculeatus",
+      "Triacanthus nieuhofii",
+      "Trixiphichthys weberi"
+    ],
+    "ptr": [
+      "Pseudotriacanthus strigilifer",
+      "Triacanthus biaculeatus",
+      "Triacanthus nieuhofii",
+      "Trixiphichthys weberi"
+    ],
+    "rag1": [
+      "Pseudotriacanthus strigilifer",
+      "Triacanthus biaculeatus",
+      "Triacanthus nieuhofii"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Pseudotriacanthus strigilifer",
+      "Triacanthus nieuhofii",
+      "Trixiphichthys weberi"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Pseudotriacanthus strigilifer",
+      "Triacanthus biaculeatus",
+      "Triacanthus nieuhofii",
+      "Trixiphichthys weberi"
+    ],
+    "sidkey": [
+      "Pseudotriacanthus strigilifer",
+      "Triacanthus nieuhofii",
+      "Trixiphichthys weberi"
+    ],
+    "sreb2": [
+      "Pseudotriacanthus strigilifer",
+      "Triacanthus biaculeatus",
+      "Triacanthus nieuhofii",
+      "Trixiphichthys weberi"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Pseudotriacanthus strigilifer",
+      "Triacanthus biaculeatus",
+      "Triacanthus nieuhofii",
+      "Trixiphichthys weberi"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Pseudotriacanthus strigilifer",
+      "Triacanthus biaculeatus",
+      "Triacanthus nieuhofii"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Triacanthidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Tetraodontiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Triacanthoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Pseudotriacanthus strigilifer": 0.0317,
+    "Triacanthus biaculeatus": 0.0545,
+    "Triacanthus nieuhofii": 0.0545,
+    "Trixiphichthys weberi": 0.0222
+  },
+  "tiprates_bamm_lambda": {
+    "Pseudotriacanthus strigilifer": 0.0872,
+    "Triacanthus biaculeatus": 0.0872,
+    "Triacanthus nieuhofii": 0.0872,
+    "Trixiphichthys weberi": 0.0872
+  },
+  "tiprates_bamm_mu": {
+    "Pseudotriacanthus strigilifer": 0.0124,
+    "Triacanthus biaculeatus": 0.0124,
+    "Triacanthus nieuhofii": 0.0124,
+    "Trixiphichthys weberi": 0.0124
+  },
+  "mean_dr": 0.0407,
+  "mean_bamm_lambda": 0.0872,
+  "mean_bamm_mu": 0.0124,
+  "matrix_phylip": "downloads/taxonomy/suborder/Triacanthoidei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/suborder/Triacanthoidei.nex.xz",
+  "chronogram": "downloads/taxonomy/suborder/Triacanthoidei.tre",
+  "phylogram": "downloads/taxonomy/suborder/Triacanthoidei_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "species": [
+    "Archolaemus blax",
+    "Archolaemus ferreirai",
+    "Archolaemus janeae",
+    "Archolaemus luciae",
+    "Archolaemus orientalis",
+    "Archolaemus santosi",
+    "Distocyclus conirostris",
+    "Distocyclus goajira",
+    "Eigenmannia humboldtii",
+    "Eigenmannia limbata",
+    "Eigenmannia macrops",
+    "Eigenmannia microstoma",
+    "Eigenmannia nigra",
+    "Eigenmannia trilineata",
+    "Eigenmannia vicentespelaea",
+    "Eigenmannia virescens",
+    "Japigny kirschbaum",
+    "Rhabdolichops caviceps",
+    "Rhabdolichops eastwardi",
+    "Rhabdolichops electrogrammus",
+    "Rhabdolichops jegui",
+    "Rhabdolichops lundbergi",
+    "Rhabdolichops navalha",
+    "Rhabdolichops nigrimans",
+    "Rhabdolichops stewarti",
+    "Rhabdolichops troscheli",
+    "Rhabdolichops zareti",
+    "Sternopygus aequilabiatus",
+    "Sternopygus arenatus",
+    "Sternopygus astrabes",
+    "Sternopygus branco",
+    "Sternopygus castroi",
+    "Sternopygus macrurus",
+    "Sternopygus obtusirostris",
+    "Sternopygus pejeraton",
+    "Sternopygus xingu"
+  ],
+  "sampled_species": [
+    "Archolaemus blax",
+    "Eigenmannia humboldtii",
+    "Eigenmannia trilineata",
+    "Eigenmannia virescens",
+    "Rhabdolichops eastwardi",
+    "Sternopygus macrurus"
+  ],
+  "unsampled_species": [
+    "Archolaemus ferreirai",
+    "Archolaemus janeae",
+    "Archolaemus luciae",
+    "Archolaemus orientalis",
+    "Archolaemus santosi",
+    "Distocyclus conirostris",
+    "Distocyclus goajira",
+    "Eigenmannia limbata",
+    "Eigenmannia macrops",
+    "Eigenmannia microstoma",
+    "Eigenmannia nigra",
+    "Eigenmannia vicentespelaea",
+    "Japigny kirschbaum",
+    "Rhabdolichops caviceps",
+    "Rhabdolichops electrogrammus",
+    "Rhabdolichops jegui",
+    "Rhabdolichops lundbergi",
+    "Rhabdolichops navalha",
+    "Rhabdolichops nigrimans",
+    "Rhabdolichops stewarti",
+    "Rhabdolichops troscheli",
+    "Rhabdolichops zareti",
+    "Sternopygus aequilabiatus",
+    "Sternopygus arenatus",
+    "Sternopygus astrabes",
+    "Sternopygus branco",
+    "Sternopygus castroi",
+    "Sternopygus obtusirostris",
+    "Sternopygus pejeraton",
+    "Sternopygus xingu"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Archolaemus blax",
+      "Eigenmannia humboldtii",
+      "Eigenmannia virescens",
+      "Rhabdolichops eastwardi",
+      "Sternopygus macrurus"
+    ],
+    "16s": [
+      "Archolaemus blax",
+      "Eigenmannia humboldtii",
+      "Eigenmannia virescens",
+      "Rhabdolichops eastwardi",
+      "Sternopygus macrurus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Eigenmannia trilineata",
+      "Eigenmannia virescens",
+      "Sternopygus macrurus"
+    ],
+    "cytb": [
+      "Archolaemus blax",
+      "Sternopygus macrurus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+      "Archolaemus blax",
+      "Eigenmannia virescens"
+    ],
+    "nd4": [
+      "Archolaemus blax",
+      "Eigenmannia virescens"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Eigenmannia virescens"
+    ],
+    "rag2": [
+      "Sternopygus macrurus"
+    ],
+    "rhodopsin": [
+      "Eigenmannia virescens"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Sternopygidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gymnotiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Sternopygoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Archolaemus blax": 0.0798,
+    "Eigenmannia humboldtii": 0.0485,
+    "Eigenmannia trilineata": 0.0814,
+    "Eigenmannia virescens": 0.0769,
+    "Rhabdolichops eastwardi": 0.0624,
+    "Sternopygus macrurus": 0.0521
+  },
+  "tiprates_bamm_lambda": {
+    "Archolaemus blax": 0.0733,
+    "Eigenmannia humboldtii": 0.0733,
+    "Eigenmannia trilineata": 0.0733,
+    "Eigenmannia virescens": 0.0733,
+    "Rhabdolichops eastwardi": 0.0733,
+    "Sternopygus macrurus": 0.0733
+  },
+  "tiprates_bamm_mu": {
+    "Archolaemus blax": 0.0009,
+    "Eigenmannia humboldtii": 0.0009,
+    "Eigenmannia trilineata": 0.0009,
+    "Eigenmannia virescens": 0.0009,
+    "Rhabdolichops eastwardi": 0.0009,
+    "Sternopygus macrurus": 0.0008
+  },
+  "mean_dr": 0.0668,
+  "mean_bamm_lambda": 0.0733,
+  "mean_bamm_mu": 0.0009,
+  "matrix_phylip": "downloads/taxonomy/family/Sternopygidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Sternopygidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Sternopygidae.tre",
+  "phylogram": "downloads/taxonomy/family/Sternopygidae_phylogram.tre",
+  "rogues": [
+    "Gymnotus_carapo",
+    "Gymnotus_ucamara",
+    "Gymnotus_arapaima",
+    "Gymnotus_mamiraua",
+    "Gymnotus_inaequilabiatus",
+    "Gymnotus_sp",
+    "Gymnotus_curupira",
+    "Gymnotus_tigre",
+    "Gymnotus_obscurus",
+    "Gymnotus_varzea",
+    "Gymnotus_pantanal",
+    "Gymnotus_cylindricus",
+    "Gymnotus_cataniapo",
+    "Gymnotus_pedanopterus",
+    "Gymnotus_pantherinus",
+    "Gymnotus_coatesi",
+    "Gymnotus_javari",
+    "Gymnotus_coropinae",
+    "Gymnotus_stenoleucus",
+    "Gymnotus_jonasi",
+    "Rhamphichthys_marmoratus",
+    "Gymnorhamphichthys_petiti",
+    "Brachyhypopomus_gauderio",
+    "Sternarchogiton_preto",
+    "Compsaraia_compsus",
+    "Adontosternarchus_clarkae",
+    "Sternarchogiton_labiatus",
+    "Sternarchogiton_nattereri",
+    "Sternarchorhamphus_muelleri",
+    "Orthosternarchus_tamandua",
+    "Parapteronotus_hasemani",
+    "Apteronotus_albifrons",
+    "Apteronotus_leptorhynchus",
+    "Brachyhypopomus_pinnicaudatus",
+    "Brachyhypopomus_diazi",
+    "Brachyhypopomus_brevirostris",
+    "Microsternarchus_bilineatus",
+    "Hypopomus_artedi"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Sternopygidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Sternopygidae_mrca_phylogram.tre"
+}

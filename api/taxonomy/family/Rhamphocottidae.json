@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Rhamphocottus richardsonii"
+  ],
+  "sampled_species": [
+    "Rhamphocottus richardsonii"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Rhamphocottus richardsonii"
+    ],
+    "4c4": [
+      "Rhamphocottus richardsonii"
+    ],
+    "coi": [
+      "Rhamphocottus richardsonii"
+    ],
+    "cytb": [
+      "Rhamphocottus richardsonii"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Rhamphocottidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Cottales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Rhamphocottus richardsonii": 0.0648
+  },
+  "tiprates_bamm_lambda": {
+    "Rhamphocottus richardsonii": 0.1174
+  },
+  "tiprates_bamm_mu": {
+    "Rhamphocottus richardsonii": 0.0087
+  },
+  "mean_dr": 0.0648,
+  "mean_bamm_lambda": 0.1174,
+  "mean_bamm_mu": 0.0087,
+  "matrix_phylip": "downloads/taxonomy/family/Rhamphocottidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Rhamphocottidae.nex.xz"
+}

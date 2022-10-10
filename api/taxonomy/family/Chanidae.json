@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Chanos chanos"
+  ],
+  "sampled_species": [
+    "Chanos chanos"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Chanos chanos"
+    ],
+    "16s": [
+      "Chanos chanos"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Chanos chanos"
+    ],
+    "cytb": [
+      "Chanos chanos"
+    ],
+    "enc1": [
+      "Chanos chanos"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Chanos chanos"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Chanos chanos"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Chanos chanos"
+    ],
+    "plagl2": [
+      "Chanos chanos"
+    ],
+    "ptr": [
+      "Chanos chanos"
+    ],
+    "rag1": [
+      "Chanos chanos"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Chanos chanos"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Chanos chanos"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Chanos chanos"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Chanos chanos"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Chanos chanos"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Chanidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gonorynchiformes"
+    ],
+    "section": [
+      "Anotophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Chanoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Chanos chanos": 0.0071
+  },
+  "tiprates_bamm_lambda": {
+    "Chanos chanos": 0.0335
+  },
+  "tiprates_bamm_mu": {
+    "Chanos chanos": 0.0021
+  },
+  "mean_dr": 0.0071,
+  "mean_bamm_lambda": 0.0335,
+  "mean_bamm_mu": 0.0021,
+  "matrix_phylip": "downloads/taxonomy/family/Chanidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Chanidae.nex.xz"
+}

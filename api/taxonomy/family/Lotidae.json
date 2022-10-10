@@ -1,0 +1,264 @@
+{
+  "species": [
+    "Brosme brosme",
+    "Ciliata mustela",
+    "Ciliata septentrionalis",
+    "Ciliata tchangi",
+    "Enchelyopus cimbrius",
+    "Lota lota",
+    "Molva dypterygia",
+    "Molva macrophthalma",
+    "Molva molva"
+  ],
+  "sampled_species": [
+    "Brosme brosme",
+    "Ciliata mustela",
+    "Ciliata septentrionalis",
+    "Enchelyopus cimbrius",
+    "Lota lota",
+    "Molva dypterygia",
+    "Molva macrophthalma",
+    "Molva molva"
+  ],
+  "unsampled_species": [
+    "Ciliata tchangi"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Brosme brosme",
+      "Ciliata mustela",
+      "Enchelyopus cimbrius",
+      "Lota lota",
+      "Molva dypterygia",
+      "Molva macrophthalma",
+      "Molva molva"
+    ],
+    "16s": [
+      "Ciliata mustela",
+      "Enchelyopus cimbrius",
+      "Lota lota",
+      "Molva macrophthalma",
+      "Molva molva"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Brosme brosme",
+      "Enchelyopus cimbrius",
+      "Lota lota",
+      "Molva dypterygia",
+      "Molva molva"
+    ],
+    "cytb": [
+      "Brosme brosme",
+      "Ciliata mustela",
+      "Ciliata septentrionalis",
+      "Enchelyopus cimbrius",
+      "Lota lota",
+      "Molva dypterygia",
+      "Molva macrophthalma",
+      "Molva molva"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Enchelyopus cimbrius"
+    ],
+    "glyt": [
+      "Lota lota"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Lota lota"
+    ],
+    "myh6": [
+      "Enchelyopus cimbrius",
+      "Lota lota"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Enchelyopus cimbrius",
+      "Lota lota"
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+      "Lota lota"
+    ],
+    "rag1": [
+      "Ciliata mustela",
+      "Enchelyopus cimbrius",
+      "Lota lota",
+      "Molva molva"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Brosme brosme",
+      "Ciliata septentrionalis",
+      "Enchelyopus cimbrius",
+      "Molva dypterygia",
+      "Molva molva"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Lota lota"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Enchelyopus cimbrius",
+      "Lota lota"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Lotidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gadiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Gadoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Brosme brosme": 0.0554,
+    "Ciliata mustela": 0.0545,
+    "Ciliata septentrionalis": 0.0528,
+    "Enchelyopus cimbrius": 0.0746,
+    "Lota lota": 0.0616,
+    "Molva dypterygia": 0.0375,
+    "Molva macrophthalma": 0.0375,
+    "Molva molva": 0.027
+  },
+  "tiprates_bamm_lambda": {
+    "Brosme brosme": 0.0522,
+    "Ciliata mustela": 0.0522,
+    "Ciliata septentrionalis": 0.0522,
+    "Enchelyopus cimbrius": 0.0522,
+    "Lota lota": 0.0522,
+    "Molva dypterygia": 0.0522,
+    "Molva macrophthalma": 0.0522,
+    "Molva molva": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Brosme brosme": 0.0003,
+    "Ciliata mustela": 0.0003,
+    "Ciliata septentrionalis": 0.0003,
+    "Enchelyopus cimbrius": 0.0003,
+    "Lota lota": 0.0003,
+    "Molva dypterygia": 0.0003,
+    "Molva macrophthalma": 0.0003,
+    "Molva molva": 0.0003
+  },
+  "mean_dr": 0.0501,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Lotidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Lotidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Lotidae.tre",
+  "phylogram": "downloads/taxonomy/family/Lotidae_phylogram.tre",
+  "rogues": [
+    "Gadus_macrocephalus",
+    "Gadus_ogac",
+    "Theragra_chalcogramma",
+    "Arctogadus_glacialis",
+    "Arctogadus_borisovi",
+    "Gadus_morhua",
+    "Boreogadus_saida",
+    "Merlangius_merlangus",
+    "Melanogrammus_aeglefinus",
+    "Pollachius_virens",
+    "Pollachius_pollachius",
+    "Eleginus_nawaga",
+    "Eleginus_gracilis",
+    "Microgadus_proximus",
+    "Microgadus_tomcod",
+    "Trisopterus_minutus",
+    "Trisopterus_capelanus",
+    "Trisopterus_esmarkii",
+    "Trisopterus_luscus",
+    "Micromesistius_poutassou",
+    "Micromesistius_australis",
+    "Gadiculus_argenteus",
+    "Gaidropsarus_argentatus",
+    "Gaidropsarus_ensis",
+    "Gaidropsarus_biscayensis",
+    "Gaidropsarus_vulgaris",
+    "Gaidropsarus_mediterraneus"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Lotidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Lotidae_mrca_phylogram.tre"
+}

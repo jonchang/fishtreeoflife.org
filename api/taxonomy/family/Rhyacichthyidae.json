@@ -1,0 +1,193 @@
+{
+  "species": [
+    "Protogobius attiti",
+    "Rhyacichthys aspro",
+    "Rhyacichthys guilberti"
+  ],
+  "sampled_species": [
+    "Protogobius attiti",
+    "Rhyacichthys aspro",
+    "Rhyacichthys guilberti"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Protogobius attiti",
+      "Rhyacichthys guilberti"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Protogobius attiti",
+      "Rhyacichthys guilberti"
+    ],
+    "cytb": [
+      "Protogobius attiti"
+    ],
+    "enc1": [
+      "Rhyacichthys aspro"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Rhyacichthys aspro"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+      "Protogobius attiti",
+      "Rhyacichthys aspro"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Rhyacichthys aspro"
+    ],
+    "ptr": [
+      "Rhyacichthys aspro"
+    ],
+    "rag1": [
+      "Rhyacichthys aspro"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Protogobius attiti",
+      "Rhyacichthys guilberti"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Rhyacichthys aspro"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Rhyacichthys aspro"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Rhyacichthys aspro"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Rhyacichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gobiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Gobiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Gobioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Protogobius attiti": 0.0383,
+    "Rhyacichthys aspro": 0.0413,
+    "Rhyacichthys guilberti": 0.0388
+  },
+  "tiprates_bamm_lambda": {
+    "Protogobius attiti": 0.0548,
+    "Rhyacichthys aspro": 0.0548,
+    "Rhyacichthys guilberti": 0.0548
+  },
+  "tiprates_bamm_mu": {
+    "Protogobius attiti": 0.0003,
+    "Rhyacichthys aspro": 0.0003,
+    "Rhyacichthys guilberti": 0.0003
+  },
+  "mean_dr": 0.0395,
+  "mean_bamm_lambda": 0.0548,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Rhyacichthyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Rhyacichthyidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Rhyacichthyidae.tre",
+  "phylogram": "downloads/taxonomy/family/Rhyacichthyidae_phylogram.tre",
+  "rogues": [
+    "Odontobutis_sinensis",
+    "Odontobutis_yaluensis",
+    "Odontobutis_potamophila",
+    "Odontobutis_haifengensis",
+    "Odontobutis_hikimius",
+    "Odontobutis_obscura",
+    "Odontobutis_interrupta",
+    "Perccottus_glenii",
+    "Micropercops_swinhonis"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Rhyacichthyidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Rhyacichthyidae_mrca_phylogram.tre"
+}

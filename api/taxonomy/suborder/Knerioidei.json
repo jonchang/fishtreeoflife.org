@@ -1,0 +1,227 @@
+{
+  "species": [
+    "Cromeria nilotica",
+    "Cromeria occidentalis",
+    "Grasseichthys gabonensis",
+    "Kneria angolensis",
+    "Kneria ansorgii",
+    "Kneria auriculata",
+    "Kneria katangae",
+    "Kneria maydelli",
+    "Kneria paucisquamata",
+    "Kneria polli",
+    "Kneria ruaha",
+    "Kneria rukwaensis",
+    "Kneria sjolandersi",
+    "Kneria stappersii",
+    "Kneria uluguru",
+    "Kneria wittei",
+    "Parakneria abbreviata",
+    "Parakneria cameronensis",
+    "Parakneria damasi",
+    "Parakneria fortuita",
+    "Parakneria kissi",
+    "Parakneria ladigesi",
+    "Parakneria lufirae",
+    "Parakneria malaissei",
+    "Parakneria marmorata",
+    "Parakneria mossambica",
+    "Parakneria spekii",
+    "Parakneria tanzaniae",
+    "Parakneria thysi",
+    "Parakneria vilhenae",
+    "Phractolaemus ansorgii"
+  ],
+  "sampled_species": [
+    "Cromeria nilotica",
+    "Parakneria cameronensis"
+  ],
+  "unsampled_species": [
+    "Cromeria occidentalis",
+    "Grasseichthys gabonensis",
+    "Kneria angolensis",
+    "Kneria ansorgii",
+    "Kneria auriculata",
+    "Kneria katangae",
+    "Kneria maydelli",
+    "Kneria paucisquamata",
+    "Kneria polli",
+    "Kneria ruaha",
+    "Kneria rukwaensis",
+    "Kneria sjolandersi",
+    "Kneria stappersii",
+    "Kneria uluguru",
+    "Kneria wittei",
+    "Parakneria abbreviata",
+    "Parakneria damasi",
+    "Parakneria fortuita",
+    "Parakneria kissi",
+    "Parakneria ladigesi",
+    "Parakneria lufirae",
+    "Parakneria malaissei",
+    "Parakneria marmorata",
+    "Parakneria mossambica",
+    "Parakneria spekii",
+    "Parakneria tanzaniae",
+    "Parakneria thysi",
+    "Parakneria vilhenae",
+    "Phractolaemus ansorgii"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Cromeria nilotica"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Cromeria nilotica"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Cromeria nilotica"
+    ],
+    "ptr": [
+      "Cromeria nilotica"
+    ],
+    "rag1": [
+      "Cromeria nilotica",
+      "Parakneria cameronensis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Parakneria cameronensis"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Cromeria nilotica"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Cromeria nilotica"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Cromeria nilotica"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Cromeria nilotica"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Kneriidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gonorynchiformes"
+    ],
+    "section": [
+      "Anotophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Knerioidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Cromeria nilotica": 0.0678,
+    "Parakneria cameronensis": 0.0727
+  },
+  "tiprates_bamm_lambda": {
+    "Cromeria nilotica": 0.0335,
+    "Parakneria cameronensis": 0.0335
+  },
+  "tiprates_bamm_mu": {
+    "Cromeria nilotica": 0.0021,
+    "Parakneria cameronensis": 0.0021
+  },
+  "mean_dr": 0.0702,
+  "mean_bamm_lambda": 0.0335,
+  "mean_bamm_mu": 0.0021,
+  "matrix_phylip": "downloads/taxonomy/suborder/Knerioidei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/suborder/Knerioidei.nex.xz"
+}

@@ -1,0 +1,261 @@
+{
+  "species": [
+    "Pampus argenteus",
+    "Pampus chinensis",
+    "Pampus echinogaster",
+    "Pampus minor",
+    "Pampus punctatissimus",
+    "Peprilus burti",
+    "Peprilus medius",
+    "Peprilus ovatus",
+    "Peprilus paru",
+    "Peprilus simillimus",
+    "Peprilus snyderi",
+    "Peprilus triacanthus",
+    "Stromateus brasiliensis",
+    "Stromateus fiatola",
+    "Stromateus stellatus"
+  ],
+  "sampled_species": [
+    "Pampus argenteus",
+    "Pampus chinensis",
+    "Pampus echinogaster",
+    "Pampus minor",
+    "Pampus punctatissimus",
+    "Peprilus burti",
+    "Peprilus paru",
+    "Peprilus simillimus",
+    "Stromateus brasiliensis",
+    "Stromateus fiatola",
+    "Stromateus stellatus"
+  ],
+  "unsampled_species": [
+    "Peprilus medius",
+    "Peprilus ovatus",
+    "Peprilus snyderi",
+    "Peprilus triacanthus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Pampus argenteus"
+    ],
+    "16s": [
+      "Pampus argenteus",
+      "Pampus chinensis",
+      "Pampus echinogaster",
+      "Pampus minor",
+      "Pampus punctatissimus",
+      "Peprilus paru",
+      "Peprilus simillimus",
+      "Stromateus stellatus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Pampus argenteus",
+      "Pampus chinensis",
+      "Pampus echinogaster",
+      "Pampus minor",
+      "Pampus punctatissimus",
+      "Peprilus paru",
+      "Peprilus simillimus",
+      "Stromateus brasiliensis",
+      "Stromateus fiatola",
+      "Stromateus stellatus"
+    ],
+    "cytb": [
+      "Pampus argenteus",
+      "Pampus chinensis",
+      "Pampus punctatissimus",
+      "Peprilus simillimus",
+      "Stromateus stellatus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Peprilus paru",
+      "Peprilus simillimus"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Peprilus simillimus"
+    ],
+    "kiaa1239": [
+      "Peprilus burti",
+      "Peprilus paru"
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+      "Pampus argenteus",
+      "Pampus chinensis",
+      "Pampus echinogaster",
+      "Pampus minor",
+      "Pampus punctatissimus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Peprilus burti",
+      "Peprilus paru",
+      "Peprilus simillimus"
+    ],
+    "plagl2": [
+      "Peprilus burti",
+      "Peprilus paru"
+    ],
+    "ptr": [
+      "Peprilus simillimus"
+    ],
+    "rag1": [
+      "Stromateus fiatola"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Pampus argenteus"
+    ],
+    "ripk4": [
+      "Peprilus burti",
+      "Peprilus paru",
+      "Peprilus simillimus"
+    ],
+    "sh3px3": [
+      "Peprilus burti",
+      "Peprilus paru"
+    ],
+    "sidkey": [
+      "Peprilus burti",
+      "Peprilus paru"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Peprilus burti",
+      "Peprilus paru",
+      "Peprilus simillimus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Stromateidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Scombriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Pelagiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Pampus argenteus": 0.048,
+    "Pampus chinensis": 0.0398,
+    "Pampus echinogaster": 0.0593,
+    "Pampus minor": 0.048,
+    "Pampus punctatissimus": 0.0593,
+    "Peprilus burti": 0.0296,
+    "Peprilus paru": 0.0301,
+    "Peprilus simillimus": 0.0285,
+    "Stromateus brasiliensis": 0.0517,
+    "Stromateus fiatola": 0.0254,
+    "Stromateus stellatus": 0.0517
+  },
+  "tiprates_bamm_lambda": {
+    "Pampus argenteus": 0.055,
+    "Pampus chinensis": 0.055,
+    "Pampus echinogaster": 0.055,
+    "Pampus minor": 0.055,
+    "Pampus punctatissimus": 0.055,
+    "Peprilus burti": 0.055,
+    "Peprilus paru": 0.055,
+    "Peprilus simillimus": 0.055,
+    "Stromateus brasiliensis": 0.055,
+    "Stromateus fiatola": 0.055,
+    "Stromateus stellatus": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Pampus argenteus": 0.0003,
+    "Pampus chinensis": 0.0003,
+    "Pampus echinogaster": 0.0003,
+    "Pampus minor": 0.0003,
+    "Pampus punctatissimus": 0.0003,
+    "Peprilus burti": 0.0003,
+    "Peprilus paru": 0.0003,
+    "Peprilus simillimus": 0.0003,
+    "Stromateus brasiliensis": 0.0003,
+    "Stromateus fiatola": 0.0003,
+    "Stromateus stellatus": 0.0003
+  },
+  "mean_dr": 0.0429,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Stromateidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Stromateidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Stromateidae.tre",
+  "phylogram": "downloads/taxonomy/family/Stromateidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

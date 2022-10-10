@@ -1,0 +1,316 @@
+{
+  "species": [
+    "Esox americanus americanus",
+    "Esox americanus vermiculatus",
+    "Esox cisalpinus",
+    "Esox lucius",
+    "Esox masquinongy",
+    "Esox niger",
+    "Esox reichertii",
+    "Dallia admirabilis",
+    "Dallia delicatissima",
+    "Dallia pectoralis",
+    "Novumbra hubbsi",
+    "Umbra krameri",
+    "Umbra limi",
+    "Umbra pygmaea"
+  ],
+  "sampled_species": [
+    "Esox americanus americanus",
+    "Esox americanus vermiculatus",
+    "Esox cisalpinus",
+    "Esox lucius",
+    "Esox masquinongy",
+    "Esox niger",
+    "Esox reichertii",
+    "Dallia pectoralis",
+    "Novumbra hubbsi",
+    "Umbra krameri",
+    "Umbra limi",
+    "Umbra pygmaea"
+  ],
+  "unsampled_species": [
+    "Dallia admirabilis",
+    "Dallia delicatissima"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Esox americanus americanus",
+      "Esox lucius",
+      "Esox masquinongy",
+      "Esox niger",
+      "Esox reichertii",
+      "Dallia pectoralis",
+      "Novumbra hubbsi",
+      "Umbra krameri",
+      "Umbra limi",
+      "Umbra pygmaea"
+    ],
+    "16s": [
+      "Esox americanus americanus",
+      "Esox lucius",
+      "Esox masquinongy",
+      "Esox niger",
+      "Esox reichertii",
+      "Dallia pectoralis",
+      "Novumbra hubbsi",
+      "Umbra krameri",
+      "Umbra limi",
+      "Umbra pygmaea"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Esox americanus americanus",
+      "Esox americanus vermiculatus",
+      "Esox cisalpinus",
+      "Esox lucius",
+      "Esox masquinongy",
+      "Esox niger",
+      "Dallia pectoralis",
+      "Novumbra hubbsi",
+      "Umbra krameri",
+      "Umbra limi",
+      "Umbra pygmaea"
+    ],
+    "cytb": [
+      "Esox americanus americanus",
+      "Esox americanus vermiculatus",
+      "Esox cisalpinus",
+      "Esox lucius",
+      "Esox masquinongy",
+      "Esox niger",
+      "Esox reichertii",
+      "Dallia pectoralis",
+      "Novumbra hubbsi",
+      "Umbra krameri",
+      "Umbra limi",
+      "Umbra pygmaea"
+    ],
+    "enc1": [
+      "Esox lucius",
+      "Esox reichertii",
+      "Dallia pectoralis",
+      "Umbra pygmaea"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Esox americanus americanus",
+      "Esox lucius",
+      "Esox reichertii",
+      "Dallia pectoralis",
+      "Novumbra hubbsi",
+      "Umbra pygmaea"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Esox americanus americanus",
+      "Esox lucius",
+      "Esox reichertii",
+      "Dallia pectoralis",
+      "Novumbra hubbsi",
+      "Umbra limi",
+      "Umbra pygmaea"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Esox lucius",
+      "Esox reichertii",
+      "Dallia pectoralis"
+    ],
+    "ptr": [
+      "Esox americanus americanus",
+      "Esox lucius",
+      "Esox reichertii",
+      "Dallia pectoralis",
+      "Novumbra hubbsi",
+      "Umbra pygmaea"
+    ],
+    "rag1": [
+      "Esox americanus americanus",
+      "Esox lucius",
+      "Esox masquinongy",
+      "Esox niger",
+      "Esox reichertii",
+      "Dallia pectoralis",
+      "Novumbra hubbsi",
+      "Umbra krameri",
+      "Umbra limi",
+      "Umbra pygmaea"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Esox americanus americanus",
+      "Esox lucius",
+      "Esox reichertii",
+      "Dallia pectoralis",
+      "Umbra limi",
+      "Umbra pygmaea"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Esox americanus americanus",
+      "Esox lucius",
+      "Esox reichertii",
+      "Umbra pygmaea"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Esox americanus americanus",
+      "Esox lucius",
+      "Esox reichertii",
+      "Dallia pectoralis",
+      "Umbra limi",
+      "Umbra pygmaea"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Esox americanus americanus",
+      "Esox lucius",
+      "Esox reichertii",
+      "Dallia pectoralis",
+      "Umbra pygmaea"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Esox americanus americanus",
+      "Esox lucius",
+      "Esox reichertii",
+      "Dallia pectoralis",
+      "Umbra limi",
+      "Umbra pygmaea"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Esocidae",
+      "Umbridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Esociformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Protacanthopterygii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Dallia pectoralis": 0.019,
+    "Esox americanus americanus": 0.0472,
+    "Esox cisalpinus": 0.0538,
+    "Esox lucius": 0.0538,
+    "Esox masquinongy": 0.0172,
+    "Esox niger": 0.0472,
+    "Esox reichertii": 0.0281,
+    "Novumbra hubbsi": 0.0111,
+    "Umbra krameri": 0.0121,
+    "Umbra limi": 0.0235,
+    "Umbra pygmaea": 0.0235
+  },
+  "tiprates_bamm_lambda": {
+    "Dallia pectoralis": 0.0341,
+    "Esox americanus americanus": 0.0341,
+    "Esox cisalpinus": 0.0341,
+    "Esox lucius": 0.0341,
+    "Esox masquinongy": 0.0341,
+    "Esox niger": 0.0341,
+    "Esox reichertii": 0.0341,
+    "Novumbra hubbsi": 0.0341,
+    "Umbra krameri": 0.0341,
+    "Umbra limi": 0.0341,
+    "Umbra pygmaea": 0.0341
+  },
+  "tiprates_bamm_mu": {
+    "Dallia pectoralis": 0.0017,
+    "Esox americanus americanus": 0.0017,
+    "Esox cisalpinus": 0.0017,
+    "Esox lucius": 0.0017,
+    "Esox masquinongy": 0.0017,
+    "Esox niger": 0.0017,
+    "Esox reichertii": 0.0017,
+    "Novumbra hubbsi": 0.0017,
+    "Umbra krameri": 0.0017,
+    "Umbra limi": 0.0017,
+    "Umbra pygmaea": 0.0017
+  },
+  "mean_dr": 0.0306,
+  "mean_bamm_lambda": 0.0341,
+  "mean_bamm_mu": 0.0017,
+  "matrix_phylip": "downloads/taxonomy/order/Esociformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Esociformes.nex.xz",
+  "chronogram": "downloads/taxonomy/order/Esociformes.tre",
+  "phylogram": "downloads/taxonomy/order/Esociformes_phylogram.tre",
+  "rogues": [
+
+  ]
+}

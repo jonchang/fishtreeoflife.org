@@ -1,0 +1,375 @@
+{
+  "species": [
+    "Coelophrys arca",
+    "Coelophrys bradburyae",
+    "Coelophrys brevicaudata",
+    "Coelophrys brevipes",
+    "Coelophrys micropa",
+    "Coelophrys mollis",
+    "Coelophrys oblonga",
+    "Dibranchus accinctus",
+    "Dibranchus atlanticus",
+    "Dibranchus cracens",
+    "Dibranchus discors",
+    "Dibranchus erinaceus",
+    "Dibranchus hystrix",
+    "Dibranchus japonicus",
+    "Dibranchus nasutus",
+    "Dibranchus nudivomer",
+    "Dibranchus sparsus",
+    "Dibranchus spinosus",
+    "Dibranchus spongiosa",
+    "Dibranchus tremendus",
+    "Dibranchus velutinus",
+    "Halicmetus niger",
+    "Halicmetus reticulatus",
+    "Halicmetus ruber",
+    "Halieutaea brevicauda",
+    "Halieutaea coccinea",
+    "Halieutaea fitzsimonsi",
+    "Halieutaea fumosa",
+    "Halieutaea hancocki",
+    "Halieutaea indica",
+    "Halieutaea nigra",
+    "Halieutaea retifera",
+    "Halieutaea stellata",
+    "Halieutichthys aculeatus",
+    "Halieutichthys bispinosus",
+    "Halieutichthys caribbaeus",
+    "Halieutichthys intermedius",
+    "Halieutopsis andriashevi",
+    "Halieutopsis bathyoreos",
+    "Halieutopsis galatea",
+    "Halieutopsis ingerorum",
+    "Halieutopsis margaretae",
+    "Halieutopsis simula",
+    "Halieutopsis stellifera",
+    "Halieutopsis tumifrons",
+    "Halieutopsis vermicularis",
+    "Malthopsis annulifera",
+    "Malthopsis gigas",
+    "Malthopsis gnoma",
+    "Malthopsis jordani",
+    "Malthopsis kobayashii",
+    "Malthopsis lutea",
+    "Malthopsis mitrigera",
+    "Malthopsis retifera",
+    "Malthopsis tiarella",
+    "Ogcocephalus corniger",
+    "Ogcocephalus cubifrons",
+    "Ogcocephalus darwini",
+    "Ogcocephalus declivirostris",
+    "Ogcocephalus nasutus",
+    "Ogcocephalus notatus",
+    "Ogcocephalus pantostictus",
+    "Ogcocephalus parvus",
+    "Ogcocephalus porrectus",
+    "Ogcocephalus pumilus",
+    "Ogcocephalus radiatus",
+    "Ogcocephalus rostellum",
+    "Ogcocephalus vespertilio",
+    "Solocisquama carinata",
+    "Solocisquama erythrina",
+    "Solocisquama stellulata",
+    "Zalieutes elater",
+    "Zalieutes mcgintyi"
+  ],
+  "sampled_species": [
+    "Dibranchus atlanticus",
+    "Dibranchus tremendus",
+    "Halieutichthys aculeatus",
+    "Malthopsis lutea",
+    "Malthopsis tiarella",
+    "Ogcocephalus nasutus",
+    "Ogcocephalus parvus",
+    "Ogcocephalus radiatus",
+    "Ogcocephalus vespertilio",
+    "Zalieutes elater"
+  ],
+  "unsampled_species": [
+    "Coelophrys arca",
+    "Coelophrys bradburyae",
+    "Coelophrys brevicaudata",
+    "Coelophrys brevipes",
+    "Coelophrys micropa",
+    "Coelophrys mollis",
+    "Coelophrys oblonga",
+    "Dibranchus accinctus",
+    "Dibranchus cracens",
+    "Dibranchus discors",
+    "Dibranchus erinaceus",
+    "Dibranchus hystrix",
+    "Dibranchus japonicus",
+    "Dibranchus nasutus",
+    "Dibranchus nudivomer",
+    "Dibranchus sparsus",
+    "Dibranchus spinosus",
+    "Dibranchus spongiosa",
+    "Dibranchus velutinus",
+    "Halicmetus niger",
+    "Halicmetus reticulatus",
+    "Halicmetus ruber",
+    "Halieutaea brevicauda",
+    "Halieutaea coccinea",
+    "Halieutaea fitzsimonsi",
+    "Halieutaea fumosa",
+    "Halieutaea hancocki",
+    "Halieutaea indica",
+    "Halieutaea nigra",
+    "Halieutaea retifera",
+    "Halieutaea stellata",
+    "Halieutichthys bispinosus",
+    "Halieutichthys caribbaeus",
+    "Halieutichthys intermedius",
+    "Halieutopsis andriashevi",
+    "Halieutopsis bathyoreos",
+    "Halieutopsis galatea",
+    "Halieutopsis ingerorum",
+    "Halieutopsis margaretae",
+    "Halieutopsis simula",
+    "Halieutopsis stellifera",
+    "Halieutopsis tumifrons",
+    "Halieutopsis vermicularis",
+    "Malthopsis annulifera",
+    "Malthopsis gigas",
+    "Malthopsis gnoma",
+    "Malthopsis jordani",
+    "Malthopsis kobayashii",
+    "Malthopsis mitrigera",
+    "Malthopsis retifera",
+    "Ogcocephalus corniger",
+    "Ogcocephalus cubifrons",
+    "Ogcocephalus darwini",
+    "Ogcocephalus declivirostris",
+    "Ogcocephalus notatus",
+    "Ogcocephalus pantostictus",
+    "Ogcocephalus porrectus",
+    "Ogcocephalus pumilus",
+    "Ogcocephalus rostellum",
+    "Solocisquama carinata",
+    "Solocisquama erythrina",
+    "Solocisquama stellulata",
+    "Zalieutes mcgintyi"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Dibranchus atlanticus",
+      "Halieutichthys aculeatus",
+      "Ogcocephalus nasutus",
+      "Zalieutes elater"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Dibranchus atlanticus",
+      "Malthopsis lutea",
+      "Malthopsis tiarella",
+      "Ogcocephalus nasutus",
+      "Ogcocephalus vespertilio"
+    ],
+    "cytb": [
+      "Halieutichthys aculeatus",
+      "Ogcocephalus nasutus"
+    ],
+    "enc1": [
+      "Ogcocephalus nasutus",
+      "Ogcocephalus parvus"
+    ],
+    "ficd": [
+      "Dibranchus tremendus",
+      "Ogcocephalus parvus"
+    ],
+    "glyt": [
+      "Halieutichthys aculeatus",
+      "Ogcocephalus nasutus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Dibranchus tremendus",
+      "Halieutichthys aculeatus",
+      "Ogcocephalus parvus"
+    ],
+    "myh6": [
+      "Dibranchus tremendus",
+      "Halieutichthys aculeatus",
+      "Ogcocephalus nasutus",
+      "Ogcocephalus parvus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Dibranchus tremendus",
+      "Ogcocephalus parvus",
+      "Ogcocephalus radiatus"
+    ],
+    "plagl2": [
+      "Dibranchus tremendus",
+      "Halieutichthys aculeatus",
+      "Ogcocephalus nasutus",
+      "Ogcocephalus parvus",
+      "Ogcocephalus radiatus"
+    ],
+    "ptr": [
+      "Dibranchus tremendus",
+      "Halieutichthys aculeatus",
+      "Ogcocephalus nasutus",
+      "Ogcocephalus parvus",
+      "Ogcocephalus radiatus"
+    ],
+    "rag1": [
+      "Ogcocephalus nasutus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Ogcocephalus nasutus"
+    ],
+    "ripk4": [
+      "Dibranchus tremendus"
+    ],
+    "sh3px3": [
+      "Halieutichthys aculeatus",
+      "Ogcocephalus nasutus"
+    ],
+    "sidkey": [
+      "Dibranchus tremendus",
+      "Ogcocephalus nasutus",
+      "Ogcocephalus parvus",
+      "Ogcocephalus radiatus"
+    ],
+    "sreb2": [
+      "Ogcocephalus nasutus"
+    ],
+    "svep1": [
+      "Dibranchus tremendus",
+      "Halieutichthys aculeatus",
+      "Ogcocephalus parvus"
+    ],
+    "tbr1": [
+      "Dibranchus tremendus",
+      "Ogcocephalus nasutus",
+      "Ogcocephalus parvus"
+    ],
+    "vcpip": [
+      "Dibranchus tremendus",
+      "Ogcocephalus parvus"
+    ],
+    "zic1": [
+      "Ogcocephalus nasutus",
+      "Ogcocephalus parvus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Ogcocephalidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lophiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Ogcocephaloidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Dibranchus atlanticus": 0.1021,
+    "Dibranchus tremendus": 0.0984,
+    "Halieutichthys aculeatus": 0.0641,
+    "Malthopsis lutea": 0.0776,
+    "Malthopsis tiarella": 0.0708,
+    "Ogcocephalus nasutus": 0.2337,
+    "Ogcocephalus parvus": 0.1451,
+    "Ogcocephalus radiatus": 0.1513,
+    "Ogcocephalus vespertilio": 0.2279,
+    "Zalieutes elater": 0.1036
+  },
+  "tiprates_bamm_lambda": {
+    "Dibranchus atlanticus": 0.0615,
+    "Dibranchus tremendus": 0.0615,
+    "Halieutichthys aculeatus": 0.0615,
+    "Malthopsis lutea": 0.0615,
+    "Malthopsis tiarella": 0.0615,
+    "Ogcocephalus nasutus": 0.0615,
+    "Ogcocephalus parvus": 0.0615,
+    "Ogcocephalus radiatus": 0.0615,
+    "Ogcocephalus vespertilio": 0.0615,
+    "Zalieutes elater": 0.0615
+  },
+  "tiprates_bamm_mu": {
+    "Dibranchus atlanticus": 0.0016,
+    "Dibranchus tremendus": 0.0012,
+    "Halieutichthys aculeatus": 0.0016,
+    "Malthopsis lutea": 0.0012,
+    "Malthopsis tiarella": 0.0012,
+    "Ogcocephalus nasutus": 0.0016,
+    "Ogcocephalus parvus": 0.0012,
+    "Ogcocephalus radiatus": 0.0012,
+    "Ogcocephalus vespertilio": 0.0016,
+    "Zalieutes elater": 0.0016
+  },
+  "mean_dr": 0.1275,
+  "mean_bamm_lambda": 0.0615,
+  "mean_bamm_mu": 0.0014,
+  "matrix_phylip": "downloads/taxonomy/family/Ogcocephalidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Ogcocephalidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Ogcocephalidae.tre",
+  "phylogram": "downloads/taxonomy/family/Ogcocephalidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

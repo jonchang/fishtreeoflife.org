@@ -1,0 +1,123 @@
+{
+  "species": [
+    "Aphyonus bolini",
+    "Aphyonus brevidorsalis",
+    "Aphyonus gelatinosus",
+    "Aphyonus rassi",
+    "Barathronus affinis",
+    "Barathronus bicolor",
+    "Barathronus bruuni",
+    "Barathronus diaphanus",
+    "Barathronus maculatus",
+    "Barathronus multidens",
+    "Barathronus pacificus",
+    "Barathronus parfaiti",
+    "Barathronus solomonensis",
+    "Barathronus unicolor",
+    "Meteoria erythrops",
+    "Nybelinella brevidorsalis",
+    "Nybelinella erikssoni",
+    "Parasciadonus brevibrachium",
+    "Parasciadonus pauciradiatus",
+    "Sciadonus cryptophthalmus",
+    "Sciadonus galatheae",
+    "Sciadonus jonassoni",
+    "Sciadonus pedicellaris"
+  ],
+  "sampled_species": [
+
+  ],
+  "unsampled_species": [
+    "Aphyonus bolini",
+    "Aphyonus brevidorsalis",
+    "Aphyonus gelatinosus",
+    "Aphyonus rassi",
+    "Barathronus affinis",
+    "Barathronus bicolor",
+    "Barathronus bruuni",
+    "Barathronus diaphanus",
+    "Barathronus maculatus",
+    "Barathronus multidens",
+    "Barathronus pacificus",
+    "Barathronus parfaiti",
+    "Barathronus solomonensis",
+    "Barathronus unicolor",
+    "Meteoria erythrops",
+    "Nybelinella brevidorsalis",
+    "Nybelinella erikssoni",
+    "Parasciadonus brevibrachium",
+    "Parasciadonus pauciradiatus",
+    "Sciadonus cryptophthalmus",
+    "Sciadonus galatheae",
+    "Sciadonus jonassoni",
+    "Sciadonus pedicellaris"
+  ],
+  "gene_sampling": [
+
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Aphyonidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Ophidiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ophidiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Bythitoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+  },
+  "tiprates_bamm_lambda": {
+  },
+  "tiprates_bamm_mu": {
+  },
+  "mean_dr": "NaN",
+  "mean_bamm_lambda": "NaN",
+  "mean_bamm_mu": "NaN"
+}

@@ -1,0 +1,305 @@
+{
+  "species": [
+    "Sillaginodes punctatus",
+    "Sillaginopodys chondropus",
+    "Sillaginops macrolepis",
+    "Sillaginopsis panijus",
+    "Sillago aeolus",
+    "Sillago analis",
+    "Sillago arabica",
+    "Sillago argentifasciata",
+    "Sillago asiatica",
+    "Sillago attenuata",
+    "Sillago bassensis",
+    "Sillago boutani",
+    "Sillago burrus",
+    "Sillago caudicula",
+    "Sillago ciliata",
+    "Sillago flindersi",
+    "Sillago indica",
+    "Sillago ingenuua",
+    "Sillago intermedius",
+    "Sillago japonica",
+    "Sillago lutea",
+    "Sillago maculata",
+    "Sillago megacephalus",
+    "Sillago microps",
+    "Sillago nierstraszi",
+    "Sillago parvisquamis",
+    "Sillago robusta",
+    "Sillago schomburgkii",
+    "Sillago sihama",
+    "Sillago sinica",
+    "Sillago soringa",
+    "Sillago vincenti",
+    "Sillago vittata"
+  ],
+  "sampled_species": [
+    "Sillaginodes punctatus",
+    "Sillaginopodys chondropus",
+    "Sillago aeolus",
+    "Sillago analis",
+    "Sillago asiatica",
+    "Sillago bassensis",
+    "Sillago ciliata",
+    "Sillago flindersi",
+    "Sillago ingenuua",
+    "Sillago japonica",
+    "Sillago maculata",
+    "Sillago parvisquamis",
+    "Sillago robusta",
+    "Sillago sihama",
+    "Sillago sinica",
+    "Sillago vincenti"
+  ],
+  "unsampled_species": [
+    "Sillaginops macrolepis",
+    "Sillaginopsis panijus",
+    "Sillago arabica",
+    "Sillago argentifasciata",
+    "Sillago attenuata",
+    "Sillago boutani",
+    "Sillago burrus",
+    "Sillago caudicula",
+    "Sillago indica",
+    "Sillago intermedius",
+    "Sillago lutea",
+    "Sillago megacephalus",
+    "Sillago microps",
+    "Sillago nierstraszi",
+    "Sillago schomburgkii",
+    "Sillago soringa",
+    "Sillago vittata"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Sillago sihama",
+      "Sillago vincenti"
+    ],
+    "16s": [
+      "Sillaginodes punctatus",
+      "Sillaginopodys chondropus",
+      "Sillago bassensis",
+      "Sillago flindersi",
+      "Sillago japonica",
+      "Sillago sihama",
+      "Sillago vincenti"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Sillaginodes punctatus",
+      "Sillaginopodys chondropus",
+      "Sillago aeolus",
+      "Sillago analis",
+      "Sillago asiatica",
+      "Sillago bassensis",
+      "Sillago ciliata",
+      "Sillago flindersi",
+      "Sillago ingenuua",
+      "Sillago japonica",
+      "Sillago maculata",
+      "Sillago parvisquamis",
+      "Sillago robusta",
+      "Sillago sihama",
+      "Sillago sinica"
+    ],
+    "cytb": [
+      "Sillago aeolus",
+      "Sillago asiatica",
+      "Sillago bassensis",
+      "Sillago japonica",
+      "Sillago sihama"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Sillago sihama"
+    ],
+    "kiaa1239": [
+      "Sillago sihama"
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+      "Sillaginopodys chondropus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Sillago aeolus",
+      "Sillago sihama"
+    ],
+    "rag2": [
+      "Sillago analis",
+      "Sillago ciliata",
+      "Sillago japonica"
+    ],
+    "rhodopsin": [
+      "Sillago sihama"
+    ],
+    "ripk4": [
+      "Sillago sihama"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Sillago sihama"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Sillaginidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Sillaginodes punctatus": 0.0323,
+    "Sillaginopodys chondropus": 0.0286,
+    "Sillago aeolus": 0.0654,
+    "Sillago analis": 0.0563,
+    "Sillago asiatica": 0.1091,
+    "Sillago bassensis": 0.0374,
+    "Sillago ciliata": 0.054,
+    "Sillago flindersi": 0.0357,
+    "Sillago ingenuua": 0.0309,
+    "Sillago japonica": 0.0541,
+    "Sillago maculata": 0.0654,
+    "Sillago parvisquamis": 0.0563,
+    "Sillago robusta": 0.0283,
+    "Sillago sihama": 0.0533,
+    "Sillago sinica": 0.1091,
+    "Sillago vincenti": 0.0422
+  },
+  "tiprates_bamm_lambda": {
+    "Sillaginodes punctatus": 0.0578,
+    "Sillaginopodys chondropus": 0.0578,
+    "Sillago aeolus": 0.0578,
+    "Sillago analis": 0.0578,
+    "Sillago asiatica": 0.0578,
+    "Sillago bassensis": 0.0578,
+    "Sillago ciliata": 0.0578,
+    "Sillago flindersi": 0.0578,
+    "Sillago ingenuua": 0.0578,
+    "Sillago japonica": 0.0578,
+    "Sillago maculata": 0.0578,
+    "Sillago parvisquamis": 0.0578,
+    "Sillago robusta": 0.0578,
+    "Sillago sihama": 0.0578,
+    "Sillago sinica": 0.0578,
+    "Sillago vincenti": 0.0578
+  },
+  "tiprates_bamm_mu": {
+    "Sillaginodes punctatus": 0.0003,
+    "Sillaginopodys chondropus": 0.0003,
+    "Sillago aeolus": 0.0003,
+    "Sillago analis": 0.0003,
+    "Sillago asiatica": 0.0006,
+    "Sillago bassensis": 0.0003,
+    "Sillago ciliata": 0.0003,
+    "Sillago flindersi": 0.0003,
+    "Sillago ingenuua": 0.0003,
+    "Sillago japonica": 0.0006,
+    "Sillago maculata": 0.0003,
+    "Sillago parvisquamis": 0.0006,
+    "Sillago robusta": 0.0003,
+    "Sillago sihama": 0.0006,
+    "Sillago sinica": 0.0006,
+    "Sillago vincenti": 0.0006
+  },
+  "mean_dr": 0.0537,
+  "mean_bamm_lambda": 0.0578,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Sillaginidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Sillaginidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Sillaginidae.tre",
+  "phylogram": "downloads/taxonomy/family/Sillaginidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

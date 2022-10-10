@@ -1,0 +1,449 @@
+{
+  "species": [
+    "Arrhamphus sclerolepis krefftii",
+    "Arrhamphus sclerolepis sclerolepis",
+    "Chriodorus atherinoides",
+    "Euleptorhamphus velox",
+    "Euleptorhamphus viridis",
+    "Hemiramphus archipelagicus",
+    "Hemiramphus balao",
+    "Hemiramphus bermudensis",
+    "Hemiramphus brasiliensis",
+    "Hemiramphus convexus",
+    "Hemiramphus depauperatus",
+    "Hemiramphus far",
+    "Hemiramphus lutkei",
+    "Hemiramphus marginatus",
+    "Hemiramphus robustus",
+    "Hemiramphus saltator",
+    "Hyporhamphus acutus acutus",
+    "Hyporhamphus acutus pacificus",
+    "Hyporhamphus affinis",
+    "Hyporhamphus australis",
+    "Hyporhamphus balinensis",
+    "Hyporhamphus brederi",
+    "Hyporhamphus capensis",
+    "Hyporhamphus collettei",
+    "Hyporhamphus dussumieri",
+    "Hyporhamphus erythrorinchus",
+    "Hyporhamphus gamberur",
+    "Hyporhamphus gernaerti",
+    "Hyporhamphus gilli",
+    "Hyporhamphus ihi",
+    "Hyporhamphus improvisus",
+    "Hyporhamphus intermedius",
+    "Hyporhamphus limbatus",
+    "Hyporhamphus meeki",
+    "Hyporhamphus melanochir",
+    "Hyporhamphus melanopterus",
+    "Hyporhamphus mexicanus",
+    "Hyporhamphus naos",
+    "Hyporhamphus neglectissimus",
+    "Hyporhamphus neglectus",
+    "Hyporhamphus paucirastris",
+    "Hyporhamphus picarti",
+    "Hyporhamphus quoyi",
+    "Hyporhamphus regularis ardelio",
+    "Hyporhamphus regularis regularis",
+    "Hyporhamphus roberti hildebrandi",
+    "Hyporhamphus roberti roberti",
+    "Hyporhamphus rosae",
+    "Hyporhamphus sajori",
+    "Hyporhamphus sindensis",
+    "Hyporhamphus snyderi",
+    "Hyporhamphus taiwanensis",
+    "Hyporhamphus unicuspis",
+    "Hyporhamphus unifasciatus",
+    "Hyporhamphus xanthopterus",
+    "Hyporhamphus yuri",
+    "Melapedalion breve",
+    "Oxyporhamphus micropterus micropterus",
+    "Oxyporhamphus micropterus similis",
+    "Rhynchorhamphus arabicus",
+    "Rhynchorhamphus georgii",
+    "Rhynchorhamphus malabaricus",
+    "Rhynchorhamphus naga"
+  ],
+  "sampled_species": [
+    "Arrhamphus sclerolepis sclerolepis",
+    "Chriodorus atherinoides",
+    "Euleptorhamphus viridis",
+    "Hemiramphus archipelagicus",
+    "Hemiramphus balao",
+    "Hemiramphus brasiliensis",
+    "Hemiramphus far",
+    "Hemiramphus saltator",
+    "Hyporhamphus affinis",
+    "Hyporhamphus dussumieri",
+    "Hyporhamphus limbatus",
+    "Hyporhamphus melanochir",
+    "Hyporhamphus quoyi",
+    "Hyporhamphus sajori",
+    "Hyporhamphus unifasciatus",
+    "Hyporhamphus xanthopterus",
+    "Oxyporhamphus micropterus micropterus",
+    "Oxyporhamphus micropterus similis"
+  ],
+  "unsampled_species": [
+    "Arrhamphus sclerolepis krefftii",
+    "Euleptorhamphus velox",
+    "Hemiramphus bermudensis",
+    "Hemiramphus convexus",
+    "Hemiramphus depauperatus",
+    "Hemiramphus lutkei",
+    "Hemiramphus marginatus",
+    "Hemiramphus robustus",
+    "Hyporhamphus acutus acutus",
+    "Hyporhamphus acutus pacificus",
+    "Hyporhamphus australis",
+    "Hyporhamphus balinensis",
+    "Hyporhamphus brederi",
+    "Hyporhamphus capensis",
+    "Hyporhamphus collettei",
+    "Hyporhamphus erythrorinchus",
+    "Hyporhamphus gamberur",
+    "Hyporhamphus gernaerti",
+    "Hyporhamphus gilli",
+    "Hyporhamphus ihi",
+    "Hyporhamphus improvisus",
+    "Hyporhamphus intermedius",
+    "Hyporhamphus meeki",
+    "Hyporhamphus melanopterus",
+    "Hyporhamphus mexicanus",
+    "Hyporhamphus naos",
+    "Hyporhamphus neglectissimus",
+    "Hyporhamphus neglectus",
+    "Hyporhamphus paucirastris",
+    "Hyporhamphus picarti",
+    "Hyporhamphus regularis ardelio",
+    "Hyporhamphus regularis regularis",
+    "Hyporhamphus roberti hildebrandi",
+    "Hyporhamphus roberti roberti",
+    "Hyporhamphus rosae",
+    "Hyporhamphus sindensis",
+    "Hyporhamphus snyderi",
+    "Hyporhamphus taiwanensis",
+    "Hyporhamphus unicuspis",
+    "Hyporhamphus yuri",
+    "Melapedalion breve",
+    "Rhynchorhamphus arabicus",
+    "Rhynchorhamphus georgii",
+    "Rhynchorhamphus malabaricus",
+    "Rhynchorhamphus naga"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Hyporhamphus unifasciatus"
+    ],
+    "16s": [
+      "Arrhamphus sclerolepis sclerolepis",
+      "Chriodorus atherinoides",
+      "Euleptorhamphus viridis",
+      "Hemiramphus balao",
+      "Hemiramphus brasiliensis",
+      "Hemiramphus far",
+      "Hemiramphus saltator",
+      "Hyporhamphus melanochir",
+      "Hyporhamphus quoyi",
+      "Hyporhamphus sajori",
+      "Hyporhamphus unifasciatus",
+      "Oxyporhamphus micropterus micropterus"
+    ],
+    "4c4": [
+      "Arrhamphus sclerolepis sclerolepis",
+      "Chriodorus atherinoides",
+      "Euleptorhamphus viridis",
+      "Hemiramphus balao",
+      "Hemiramphus brasiliensis",
+      "Hemiramphus far",
+      "Hyporhamphus quoyi",
+      "Hyporhamphus sajori",
+      "Oxyporhamphus micropterus micropterus"
+    ],
+    "coi": [
+      "Chriodorus atherinoides",
+      "Hemiramphus archipelagicus",
+      "Hemiramphus balao",
+      "Hemiramphus brasiliensis",
+      "Hemiramphus far",
+      "Hyporhamphus affinis",
+      "Hyporhamphus dussumieri",
+      "Hyporhamphus limbatus",
+      "Hyporhamphus quoyi",
+      "Hyporhamphus sajori",
+      "Hyporhamphus unifasciatus",
+      "Hyporhamphus xanthopterus",
+      "Oxyporhamphus micropterus micropterus"
+    ],
+    "cytb": [
+      "Arrhamphus sclerolepis sclerolepis",
+      "Chriodorus atherinoides",
+      "Euleptorhamphus viridis",
+      "Hemiramphus balao",
+      "Hemiramphus brasiliensis",
+      "Hemiramphus far",
+      "Hyporhamphus quoyi",
+      "Hyporhamphus sajori",
+      "Hyporhamphus unifasciatus",
+      "Oxyporhamphus micropterus micropterus",
+      "Oxyporhamphus micropterus similis"
+    ],
+    "enc1": [
+      "Arrhamphus sclerolepis sclerolepis"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Hyporhamphus affinis",
+      "Oxyporhamphus micropterus micropterus"
+    ],
+    "kiaa1239": [
+      "Hyporhamphus affinis",
+      "Hyporhamphus dussumieri"
+    ],
+    "myh6": [
+      "Arrhamphus sclerolepis sclerolepis",
+      "Hyporhamphus dussumieri",
+      "Oxyporhamphus micropterus micropterus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Hemiramphus brasiliensis",
+      "Hyporhamphus affinis",
+      "Hyporhamphus dussumieri",
+      "Oxyporhamphus micropterus micropterus"
+    ],
+    "plagl2": [
+      "Arrhamphus sclerolepis sclerolepis",
+      "Hemiramphus brasiliensis"
+    ],
+    "ptr": [
+      "Arrhamphus sclerolepis sclerolepis"
+    ],
+    "rag1": [
+      "Arrhamphus sclerolepis sclerolepis",
+      "Hemiramphus brasiliensis"
+    ],
+    "rag2": [
+      "Euleptorhamphus viridis",
+      "Hemiramphus balao",
+      "Hemiramphus brasiliensis",
+      "Hemiramphus far",
+      "Hyporhamphus quoyi",
+      "Hyporhamphus sajori",
+      "Oxyporhamphus micropterus micropterus",
+      "Oxyporhamphus micropterus similis"
+    ],
+    "rhodopsin": [
+      "Hyporhamphus sajori"
+    ],
+    "ripk4": [
+      "Hemiramphus brasiliensis",
+      "Hyporhamphus affinis",
+      "Oxyporhamphus micropterus micropterus"
+    ],
+    "sh3px3": [
+      "Arrhamphus sclerolepis sclerolepis",
+      "Hemiramphus brasiliensis",
+      "Hyporhamphus affinis"
+    ],
+    "sidkey": [
+      "Hemiramphus brasiliensis",
+      "Oxyporhamphus micropterus micropterus"
+    ],
+    "sreb2": [
+      "Arrhamphus sclerolepis sclerolepis"
+    ],
+    "svep1": [
+      "Hyporhamphus affinis"
+    ],
+    "tbr1": [
+      "Arrhamphus sclerolepis sclerolepis"
+    ],
+    "vcpip": [
+      "Hemiramphus brasiliensis"
+    ],
+    "zic1": [
+      "Arrhamphus sclerolepis sclerolepis",
+      "Hemiramphus brasiliensis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Hemiramphidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Beloniformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Belonoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Atherinomorphae"
+    ]
+  },
+  "tiprates_dr": {
+    "Arrhamphus sclerolepis sclerolepis": 0.0585,
+    "Chriodorus atherinoides": 0.0593,
+    "Euleptorhamphus viridis": 0.0515,
+    "Hemiramphus archipelagicus": 0.0948,
+    "Hemiramphus balao": 0.2463,
+    "Hemiramphus brasiliensis": 0.1088,
+    "Hemiramphus far": 0.0793,
+    "Hemiramphus saltator": 0.2478,
+    "Hyporhamphus affinis": 0.083,
+    "Hyporhamphus dussumieri": 0.0553,
+    "Hyporhamphus limbatus": 0.0719,
+    "Hyporhamphus melanochir": 0.0992,
+    "Hyporhamphus quoyi": 0.1029,
+    "Hyporhamphus sajori": 0.064,
+    "Hyporhamphus unifasciatus": 0.0574,
+    "Hyporhamphus xanthopterus": 0.089,
+    "Oxyporhamphus micropterus micropterus": 0.0786,
+    "Oxyporhamphus micropterus similis": 0.0786
+  },
+  "tiprates_bamm_lambda": {
+    "Arrhamphus sclerolepis sclerolepis": 0.0555,
+    "Chriodorus atherinoides": 0.0555,
+    "Euleptorhamphus viridis": 0.0562,
+    "Hemiramphus archipelagicus": 0.0563,
+    "Hemiramphus balao": 0.0563,
+    "Hemiramphus brasiliensis": 0.0563,
+    "Hemiramphus far": 0.0563,
+    "Hemiramphus saltator": 0.0563,
+    "Hyporhamphus affinis": 0.0555,
+    "Hyporhamphus dussumieri": 0.0555,
+    "Hyporhamphus limbatus": 0.0555,
+    "Hyporhamphus melanochir": 0.0555,
+    "Hyporhamphus quoyi": 0.0555,
+    "Hyporhamphus sajori": 0.0555,
+    "Hyporhamphus unifasciatus": 0.0555,
+    "Hyporhamphus xanthopterus": 0.0555,
+    "Oxyporhamphus micropterus micropterus": 0.0563,
+    "Oxyporhamphus micropterus similis": 0.0563
+  },
+  "tiprates_bamm_mu": {
+    "Arrhamphus sclerolepis sclerolepis": 0.0003,
+    "Chriodorus atherinoides": 0.0003,
+    "Euleptorhamphus viridis": 0.0009,
+    "Hemiramphus archipelagicus": 0.0011,
+    "Hemiramphus balao": 0.0011,
+    "Hemiramphus brasiliensis": 0.0011,
+    "Hemiramphus far": 0.0011,
+    "Hemiramphus saltator": 0.0011,
+    "Hyporhamphus affinis": 0.0003,
+    "Hyporhamphus dussumieri": 0.0003,
+    "Hyporhamphus limbatus": 0.0003,
+    "Hyporhamphus melanochir": 0.0003,
+    "Hyporhamphus quoyi": 0.0003,
+    "Hyporhamphus sajori": 0.0003,
+    "Hyporhamphus unifasciatus": 0.0003,
+    "Hyporhamphus xanthopterus": 0.0003,
+    "Oxyporhamphus micropterus micropterus": 0.0011,
+    "Oxyporhamphus micropterus similis": 0.0011
+  },
+  "mean_dr": 0.0959,
+  "mean_bamm_lambda": 0.0559,
+  "mean_bamm_mu": 0.0007,
+  "matrix_phylip": "downloads/taxonomy/family/Hemiramphidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Hemiramphidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Hemiramphidae.tre",
+  "phylogram": "downloads/taxonomy/family/Hemiramphidae_phylogram.tre",
+  "rogues": [
+    "Cheilopogon_dorsomacula",
+    "Cheilopogon_abei",
+    "Cheilopogon_xenopterus",
+    "Cheilopogon_exsiliens",
+    "Cheilopogon_cyanopterus",
+    "Cheilopogon_spilonotopterus",
+    "Cheilopogon_atrisignis",
+    "Prognichthys_brevipinnis",
+    "Hirundichthys_speculiger",
+    "Hirundichthys_affinis",
+    "Hirundichthys_albimaculatus",
+    "Hirundichthys_marginatus",
+    "Cheilopogon_agoo",
+    "Cheilopogon_furcatus",
+    "Cheilopogon_melanurus",
+    "Cheilopogon_pinnatibarbatus_californicus",
+    "Cheilopogon_doederleinii",
+    "Cheilopogon_antoncichi",
+    "Cheilopogon_unicolor",
+    "Cheilopogon_pinnatibarbatus_pinnatibarbatus",
+    "Cheilopogon_pinnatibarbatus_japonicus",
+    "Prognichthys_glaphyrae",
+    "Prognichthys_gibbifrons",
+    "Prognichthys_occidentalis",
+    "Prognichthys_tringa",
+    "Prognichthys_sealei",
+    "Hirundichthys_rondeletii",
+    "Hirundichthys_oxycephalus",
+    "Cheilopogon_pitcairnensis",
+    "Cypselurus_angusticeps",
+    "Cypselurus_hexazona",
+    "Exocoetus_obtusirostris",
+    "Exocoetus_monocirrhus",
+    "Exocoetus_peruvianus",
+    "Exocoetus_volitans",
+    "Cypselurus_callopterus",
+    "Cypselurus_poecilopterus",
+    "Fodiator_rostratus",
+    "Fodiator_acutus",
+    "Parexocoetus_hillianus",
+    "Parexocoetus_brachypterus",
+    "Parexocoetus_mento"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Hemiramphidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Hemiramphidae_mrca_phylogram.tre"
+}

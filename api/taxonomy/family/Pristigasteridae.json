@@ -1,0 +1,288 @@
+{
+  "species": [
+    "Chirocentrodon bleekerianus",
+    "Ilisha africana",
+    "Ilisha amazonica",
+    "Ilisha compressa",
+    "Ilisha elongata",
+    "Ilisha filigera",
+    "Ilisha fuerthii",
+    "Ilisha kampeni",
+    "Ilisha lunula",
+    "Ilisha macrogaster",
+    "Ilisha megaloptera",
+    "Ilisha melastoma",
+    "Ilisha novacula",
+    "Ilisha obfuscata",
+    "Ilisha pristigastroides",
+    "Ilisha sirishai",
+    "Ilisha striatula",
+    "Neoopisthopterus cubanus",
+    "Neoopisthopterus tropicus",
+    "Odontognathus compressus",
+    "Odontognathus mucronatus",
+    "Odontognathus panamensis",
+    "Opisthopterus dovii",
+    "Opisthopterus effulgens",
+    "Opisthopterus equatorialis",
+    "Opisthopterus macrops",
+    "Opisthopterus tardoore",
+    "Opisthopterus valenciennesi",
+    "Pellona altamazonica",
+    "Pellona castelnaeana",
+    "Pellona dayi",
+    "Pellona ditchela",
+    "Pellona flavipinnis",
+    "Pellona harroweri",
+    "Pliosteostoma lutipinnis",
+    "Pristigaster cayana",
+    "Pristigaster whiteheadi",
+    "Raconda russeliana"
+  ],
+  "sampled_species": [
+    "Ilisha elongata",
+    "Ilisha melastoma",
+    "Ilisha striatula",
+    "Odontognathus mucronatus",
+    "Opisthopterus tardoore",
+    "Pellona castelnaeana",
+    "Pellona ditchela",
+    "Pellona flavipinnis",
+    "Pellona harroweri"
+  ],
+  "unsampled_species": [
+    "Chirocentrodon bleekerianus",
+    "Ilisha africana",
+    "Ilisha amazonica",
+    "Ilisha compressa",
+    "Ilisha filigera",
+    "Ilisha fuerthii",
+    "Ilisha kampeni",
+    "Ilisha lunula",
+    "Ilisha macrogaster",
+    "Ilisha megaloptera",
+    "Ilisha novacula",
+    "Ilisha obfuscata",
+    "Ilisha pristigastroides",
+    "Ilisha sirishai",
+    "Neoopisthopterus cubanus",
+    "Neoopisthopterus tropicus",
+    "Odontognathus compressus",
+    "Odontognathus panamensis",
+    "Opisthopterus dovii",
+    "Opisthopterus effulgens",
+    "Opisthopterus equatorialis",
+    "Opisthopterus macrops",
+    "Opisthopterus valenciennesi",
+    "Pellona altamazonica",
+    "Pellona dayi",
+    "Pliosteostoma lutipinnis",
+    "Pristigaster cayana",
+    "Pristigaster whiteheadi",
+    "Raconda russeliana"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Ilisha elongata",
+      "Pellona castelnaeana",
+      "Pellona flavipinnis"
+    ],
+    "16s": [
+      "Ilisha elongata",
+      "Pellona castelnaeana",
+      "Pellona flavipinnis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Ilisha elongata",
+      "Ilisha melastoma",
+      "Ilisha striatula",
+      "Odontognathus mucronatus",
+      "Opisthopterus tardoore",
+      "Pellona ditchela",
+      "Pellona harroweri"
+    ],
+    "cytb": [
+      "Ilisha elongata",
+      "Pellona castelnaeana",
+      "Pellona flavipinnis"
+    ],
+    "enc1": [
+      "Pellona flavipinnis"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Ilisha elongata",
+      "Pellona flavipinnis"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Ilisha elongata",
+      "Pellona flavipinnis"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Ilisha elongata",
+      "Pellona flavipinnis"
+    ],
+    "ptr": [
+      "Ilisha elongata"
+    ],
+    "rag1": [
+      "Ilisha elongata",
+      "Pellona castelnaeana",
+      "Pellona flavipinnis"
+    ],
+    "rag2": [
+      "Ilisha elongata",
+      "Pellona castelnaeana",
+      "Pellona flavipinnis"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Ilisha elongata"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Pellona castelnaeana"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Pellona flavipinnis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Pristigasteridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Clupeiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Clupei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Clupeoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Ilisha elongata": 0.0741,
+    "Ilisha melastoma": 0.072,
+    "Ilisha striatula": 0.0581,
+    "Odontognathus mucronatus": 0.052,
+    "Opisthopterus tardoore": 0.1057,
+    "Pellona castelnaeana": 0.1151,
+    "Pellona ditchela": 0.0457,
+    "Pellona flavipinnis": 0.1161,
+    "Pellona harroweri": 0.0444
+  },
+  "tiprates_bamm_lambda": {
+    "Ilisha elongata": 0.0473,
+    "Ilisha melastoma": 0.0473,
+    "Ilisha striatula": 0.047,
+    "Odontognathus mucronatus": 0.0459,
+    "Opisthopterus tardoore": 0.0473,
+    "Pellona castelnaeana": 0.0473,
+    "Pellona ditchela": 0.0459,
+    "Pellona flavipinnis": 0.0473,
+    "Pellona harroweri": 0.0459
+  },
+  "tiprates_bamm_mu": {
+    "Ilisha elongata": 0.0055,
+    "Ilisha melastoma": 0.0055,
+    "Ilisha striatula": 0.0049,
+    "Odontognathus mucronatus": 0.0039,
+    "Opisthopterus tardoore": 0.0055,
+    "Pellona castelnaeana": 0.0055,
+    "Pellona ditchela": 0.0039,
+    "Pellona flavipinnis": 0.0055,
+    "Pellona harroweri": 0.0039
+  },
+  "mean_dr": 0.0759,
+  "mean_bamm_lambda": 0.0468,
+  "mean_bamm_mu": 0.0049,
+  "matrix_phylip": "downloads/taxonomy/family/Pristigasteridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Pristigasteridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Pristigasteridae.tre",
+  "phylogram": "downloads/taxonomy/family/Pristigasteridae_phylogram.tre",
+  "rogues": [
+    "Tenualosa_toli",
+    "Tenualosa_macrura"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Pristigasteridae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Pristigasteridae_mrca_phylogram.tre"
+}

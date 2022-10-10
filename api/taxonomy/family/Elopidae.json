@@ -1,0 +1,198 @@
+{
+  "species": [
+    "Elops affinis",
+    "Elops hawaiensis",
+    "Elops lacerta",
+    "Elops machnata",
+    "Elops saurus",
+    "Elops senegalensis",
+    "Elops smithi"
+  ],
+  "sampled_species": [
+    "Elops affinis",
+    "Elops hawaiensis",
+    "Elops machnata",
+    "Elops saurus"
+  ],
+  "unsampled_species": [
+    "Elops lacerta",
+    "Elops senegalensis",
+    "Elops smithi"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Elops affinis",
+      "Elops hawaiensis",
+      "Elops machnata",
+      "Elops saurus"
+    ],
+    "16s": [
+      "Elops affinis",
+      "Elops hawaiensis",
+      "Elops saurus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Elops affinis",
+      "Elops hawaiensis",
+      "Elops machnata",
+      "Elops saurus"
+    ],
+    "cytb": [
+      "Elops hawaiensis",
+      "Elops saurus"
+    ],
+    "enc1": [
+      "Elops saurus"
+    ],
+    "ficd": [
+      "Elops saurus"
+    ],
+    "glyt": [
+      "Elops saurus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Elops saurus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Elops saurus"
+    ],
+    "plagl2": [
+      "Elops saurus"
+    ],
+    "ptr": [
+      "Elops saurus"
+    ],
+    "rag1": [
+      "Elops saurus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Elops saurus"
+    ],
+    "ripk4": [
+      "Elops saurus"
+    ],
+    "sh3px3": [
+      "Elops saurus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Elops saurus"
+    ],
+    "svep1": [
+      "Elops saurus"
+    ],
+    "tbr1": [
+      "Elops saurus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Elops saurus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Elopidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Elopiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Elops affinis": 0.0353,
+    "Elops hawaiensis": 0.0414,
+    "Elops machnata": 0.0409,
+    "Elops saurus": 0.0381
+  },
+  "tiprates_bamm_lambda": {
+    "Elops affinis": 0.0353,
+    "Elops hawaiensis": 0.0353,
+    "Elops machnata": 0.0353,
+    "Elops saurus": 0.0353
+  },
+  "tiprates_bamm_mu": {
+    "Elops affinis": 0.005,
+    "Elops hawaiensis": 0.005,
+    "Elops machnata": 0.005,
+    "Elops saurus": 0.005
+  },
+  "mean_dr": 0.0389,
+  "mean_bamm_lambda": 0.0353,
+  "mean_bamm_mu": 0.005,
+  "matrix_phylip": "downloads/taxonomy/family/Elopidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Elopidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Elopidae.tre",
+  "phylogram": "downloads/taxonomy/family/Elopidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

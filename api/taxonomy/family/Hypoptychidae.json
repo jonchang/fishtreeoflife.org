@@ -1,0 +1,178 @@
+{
+  "species": [
+    "Aulichthys japonicus",
+    "Hypoptychus dybowskii"
+  ],
+  "sampled_species": [
+    "Aulichthys japonicus",
+    "Hypoptychus dybowskii"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Aulichthys japonicus"
+    ],
+    "16s": [
+      "Aulichthys japonicus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Aulichthys japonicus"
+    ],
+    "cytb": [
+      "Aulichthys japonicus"
+    ],
+    "enc1": [
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Hypoptychus dybowskii"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "ptr": [
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "rag1": [
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Hypoptychidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Gasterosteales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Aulichthys japonicus": 0.0262,
+    "Hypoptychus dybowskii": 0.0262
+  },
+  "tiprates_bamm_lambda": {
+    "Aulichthys japonicus": 0.058,
+    "Hypoptychus dybowskii": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Aulichthys japonicus": 0.0003,
+    "Hypoptychus dybowskii": 0.0003
+  },
+  "mean_dr": 0.0262,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Hypoptychidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Hypoptychidae.nex.xz"
+}

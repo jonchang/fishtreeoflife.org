@@ -1,0 +1,255 @@
+{
+  "species": [
+    "Atractosteus spatula",
+    "Atractosteus tristoechus",
+    "Atractosteus tropicus",
+    "Lepisosteus oculatus",
+    "Lepisosteus osseus",
+    "Lepisosteus platostomus",
+    "Lepisosteus platyrhincus"
+  ],
+  "sampled_species": [
+    "Atractosteus spatula",
+    "Atractosteus tristoechus",
+    "Atractosteus tropicus",
+    "Lepisosteus oculatus",
+    "Lepisosteus osseus",
+    "Lepisosteus platostomus",
+    "Lepisosteus platyrhincus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Atractosteus spatula",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "16s": [
+      "Atractosteus spatula",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Atractosteus spatula",
+      "Atractosteus tristoechus",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "cytb": [
+      "Atractosteus spatula",
+      "Atractosteus tristoechus",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "enc1": [
+      "Atractosteus spatula",
+      "Atractosteus tristoechus",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Atractosteus spatula",
+      "Atractosteus tristoechus",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Lepisosteus osseus"
+    ],
+    "plagl2": [
+      "Lepisosteus osseus"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus"
+    ],
+    "rag2": [
+      "Lepisosteus osseus"
+    ],
+    "rhodopsin": [
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Atractosteus spatula",
+      "Atractosteus tristoechus",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Atractosteus spatula",
+      "Atractosteus tristoechus",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Atractosteus spatula",
+      "Atractosteus tristoechus",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Lepisosteidae"
+    ],
+    "infraclass": [
+      "Holostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+
+    ],
+    "order": [
+      "Lepisosteiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Atractosteus spatula": 0.0195,
+    "Atractosteus tristoechus": 0.0195,
+    "Atractosteus tropicus": 0.01,
+    "Lepisosteus oculatus": 0.0195,
+    "Lepisosteus osseus": 0.0191,
+    "Lepisosteus platostomus": 0.0191,
+    "Lepisosteus platyrhincus": 0.0195
+  },
+  "tiprates_bamm_lambda": {
+    "Atractosteus spatula": 0.0606,
+    "Atractosteus tristoechus": 0.0606,
+    "Atractosteus tropicus": 0.0606,
+    "Lepisosteus oculatus": 0.0606,
+    "Lepisosteus osseus": 0.0606,
+    "Lepisosteus platostomus": 0.0606,
+    "Lepisosteus platyrhincus": 0.0606
+  },
+  "tiprates_bamm_mu": {
+    "Atractosteus spatula": 0.0671,
+    "Atractosteus tristoechus": 0.0671,
+    "Atractosteus tropicus": 0.0671,
+    "Lepisosteus oculatus": 0.0671,
+    "Lepisosteus osseus": 0.0671,
+    "Lepisosteus platostomus": 0.0671,
+    "Lepisosteus platyrhincus": 0.0671
+  },
+  "mean_dr": 0.018,
+  "mean_bamm_lambda": 0.0606,
+  "mean_bamm_mu": 0.0671,
+  "matrix_phylip": "downloads/taxonomy/family/Lepisosteidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Lepisosteidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Lepisosteidae.tre",
+  "phylogram": "downloads/taxonomy/family/Lepisosteidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

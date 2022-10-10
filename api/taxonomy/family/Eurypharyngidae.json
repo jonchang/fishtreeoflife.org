@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Eurypharynx pelecanoides"
+  ],
+  "sampled_species": [
+    "Eurypharynx pelecanoides"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Eurypharynx pelecanoides"
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Eurypharynx pelecanoides"
+    ],
+    "cytb": [
+      "Eurypharynx pelecanoides"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Eurypharynx pelecanoides"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Eurypharynx pelecanoides"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+      "Eurypharynx pelecanoides"
+    ],
+    "rag1": [
+      "Eurypharynx pelecanoides"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Eurypharynx pelecanoides"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Eurypharynx pelecanoides"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Eurypharyngidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Anguilliformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Eurypharynx pelecanoides": 0.0701
+  },
+  "tiprates_bamm_lambda": {
+    "Eurypharynx pelecanoides": 0.0567
+  },
+  "tiprates_bamm_mu": {
+    "Eurypharynx pelecanoides": 0.0031
+  },
+  "mean_dr": 0.0701,
+  "mean_bamm_lambda": 0.0567,
+  "mean_bamm_mu": 0.0031,
+  "matrix_phylip": "downloads/taxonomy/family/Eurypharyngidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Eurypharyngidae.nex.xz"
+}

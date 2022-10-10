@@ -1,0 +1,235 @@
+{
+  "species": [
+    "Carapus acus",
+    "Carapus bermudensis",
+    "Carapus boraborensis",
+    "Carapus dubius",
+    "Carapus mourlani",
+    "Carapus sluiteri",
+    "Echiodon anchipterus",
+    "Echiodon atopus",
+    "Echiodon coheni",
+    "Echiodon cryomargarites",
+    "Echiodon dawsoni",
+    "Echiodon dentatus",
+    "Echiodon drummondii",
+    "Echiodon exsilium",
+    "Echiodon neotes",
+    "Echiodon pegasus",
+    "Echiodon pukaki",
+    "Echiodon rendahli",
+    "Encheliophis chardewalli",
+    "Encheliophis gracilis",
+    "Encheliophis homei",
+    "Encheliophis sagamianus",
+    "Encheliophis vermicularis",
+    "Encheliophis vermiops",
+    "Eurypleuron cinereum",
+    "Eurypleuron owasianum",
+    "Onuxodon fowleri",
+    "Onuxodon margaritiferae",
+    "Onuxodon parvibrachium",
+    "Pyramodon lindas",
+    "Pyramodon parini",
+    "Pyramodon punctatus",
+    "Pyramodon ventralis",
+    "Snyderidia canina",
+    "Tetragondacnus spilotus"
+  ],
+  "sampled_species": [
+    "Carapus boraborensis",
+    "Echiodon cryomargarites"
+  ],
+  "unsampled_species": [
+    "Carapus acus",
+    "Carapus bermudensis",
+    "Carapus dubius",
+    "Carapus mourlani",
+    "Carapus sluiteri",
+    "Echiodon anchipterus",
+    "Echiodon atopus",
+    "Echiodon coheni",
+    "Echiodon dawsoni",
+    "Echiodon dentatus",
+    "Echiodon drummondii",
+    "Echiodon exsilium",
+    "Echiodon neotes",
+    "Echiodon pegasus",
+    "Echiodon pukaki",
+    "Echiodon rendahli",
+    "Encheliophis chardewalli",
+    "Encheliophis gracilis",
+    "Encheliophis homei",
+    "Encheliophis sagamianus",
+    "Encheliophis vermicularis",
+    "Encheliophis vermiops",
+    "Eurypleuron cinereum",
+    "Eurypleuron owasianum",
+    "Onuxodon fowleri",
+    "Onuxodon margaritiferae",
+    "Onuxodon parvibrachium",
+    "Pyramodon lindas",
+    "Pyramodon parini",
+    "Pyramodon punctatus",
+    "Pyramodon ventralis",
+    "Snyderidia canina",
+    "Tetragondacnus spilotus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Carapus boraborensis",
+      "Echiodon cryomargarites"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Carapidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Ophidiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ophidiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Ophidioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Echiodon cryomargarites": 0.0673,
+    "Carapus boraborensis": 0.0788
+  },
+  "tiprates_bamm_lambda": {
+    "Echiodon cryomargarites": 0.055,
+    "Carapus boraborensis": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Echiodon cryomargarites": 0.0003,
+    "Carapus boraborensis": 0.0003
+  },
+  "mean_dr": 0.073,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Carapidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Carapidae.nex.xz"
+}

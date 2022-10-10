@@ -1,0 +1,215 @@
+{
+  "species": [
+    "Gigantactis balushkini",
+    "Gigantactis elsmani",
+    "Gigantactis gargantua",
+    "Gigantactis gibbsi",
+    "Gigantactis golovani",
+    "Gigantactis gracilicauda",
+    "Gigantactis herwigi",
+    "Gigantactis ios",
+    "Gigantactis kreffti",
+    "Gigantactis longicauda",
+    "Gigantactis longicirra",
+    "Gigantactis macronema",
+    "Gigantactis meadi",
+    "Gigantactis microdontis",
+    "Gigantactis microphthalmus",
+    "Gigantactis paxtoni",
+    "Gigantactis perlatus",
+    "Gigantactis savagei",
+    "Gigantactis vanhoeffeni",
+    "Gigantactis watermani",
+    "Rhynchactis leptonema",
+    "Rhynchactis macrothrix",
+    "Rhynchactis microthrix"
+  ],
+  "sampled_species": [
+    "Gigantactis ios",
+    "Gigantactis vanhoeffeni"
+  ],
+  "unsampled_species": [
+    "Gigantactis balushkini",
+    "Gigantactis elsmani",
+    "Gigantactis gargantua",
+    "Gigantactis gibbsi",
+    "Gigantactis golovani",
+    "Gigantactis gracilicauda",
+    "Gigantactis herwigi",
+    "Gigantactis kreffti",
+    "Gigantactis longicauda",
+    "Gigantactis longicirra",
+    "Gigantactis macronema",
+    "Gigantactis meadi",
+    "Gigantactis microdontis",
+    "Gigantactis microphthalmus",
+    "Gigantactis paxtoni",
+    "Gigantactis perlatus",
+    "Gigantactis savagei",
+    "Gigantactis watermani",
+    "Rhynchactis leptonema",
+    "Rhynchactis macrothrix",
+    "Rhynchactis microthrix"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Gigantactis vanhoeffeni"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Gigantactis vanhoeffeni"
+    ],
+    "cytb": [
+      "Gigantactis vanhoeffeni"
+    ],
+    "enc1": [
+      "Gigantactis vanhoeffeni"
+    ],
+    "ficd": [
+      "Gigantactis ios",
+      "Gigantactis vanhoeffeni"
+    ],
+    "glyt": [
+      "Gigantactis vanhoeffeni"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Gigantactis ios"
+    ],
+    "myh6": [
+      "Gigantactis ios",
+      "Gigantactis vanhoeffeni"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Gigantactis ios",
+      "Gigantactis vanhoeffeni"
+    ],
+    "plagl2": [
+      "Gigantactis ios",
+      "Gigantactis vanhoeffeni"
+    ],
+    "ptr": [
+      "Gigantactis vanhoeffeni"
+    ],
+    "rag1": [
+      "Gigantactis vanhoeffeni"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Gigantactis ios",
+      "Gigantactis vanhoeffeni"
+    ],
+    "sh3px3": [
+      "Gigantactis vanhoeffeni"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Gigantactis vanhoeffeni"
+    ],
+    "tbr1": [
+      "Gigantactis vanhoeffeni"
+    ],
+    "vcpip": [
+      "Gigantactis vanhoeffeni"
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Gigantactinidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lophiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Ceratioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Gigantactis ios": 0.1818,
+    "Gigantactis vanhoeffeni": 0.1787
+  },
+  "tiprates_bamm_lambda": {
+    "Gigantactis ios": 0.0618,
+    "Gigantactis vanhoeffeni": 0.0618
+  },
+  "tiprates_bamm_mu": {
+    "Gigantactis ios": 0.0015,
+    "Gigantactis vanhoeffeni": 0.0015
+  },
+  "mean_dr": 0.1802,
+  "mean_bamm_lambda": 0.0618,
+  "mean_bamm_mu": 0.0015,
+  "matrix_phylip": "downloads/taxonomy/family/Gigantactinidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Gigantactinidae.nex.xz"
+}

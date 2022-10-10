@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Gymnarchus niloticus"
+  ],
+  "sampled_species": [
+    "Gymnarchus niloticus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Gymnarchus niloticus"
+    ],
+    "16s": [
+      "Gymnarchus niloticus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Gymnarchus niloticus"
+    ],
+    "cytb": [
+      "Gymnarchus niloticus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Gymnarchus niloticus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Gymnarchus niloticus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Gymnarchus niloticus"
+    ],
+    "ptr": [
+      "Gymnarchus niloticus"
+    ],
+    "rag1": [
+      "Gymnarchus niloticus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Gymnarchus niloticus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Gymnarchus niloticus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Gymnarchus niloticus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Gymnarchus niloticus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Osteoglossomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Gymnarchidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Osteoglossiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Osteoglossocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Gymnarchus niloticus": 0.0205
+  },
+  "tiprates_bamm_lambda": {
+    "Gymnarchus niloticus": 0.0329
+  },
+  "tiprates_bamm_mu": {
+    "Gymnarchus niloticus": 0.0025
+  },
+  "mean_dr": 0.0205,
+  "mean_bamm_lambda": 0.0329,
+  "mean_bamm_mu": 0.0025,
+  "matrix_phylip": "downloads/taxonomy/family/Gymnarchidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Gymnarchidae.nex.xz"
+}

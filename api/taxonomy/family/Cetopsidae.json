@@ -1,0 +1,270 @@
+{
+  "species": [
+    "Cetopsidium ferreirai",
+    "Cetopsidium minutum",
+    "Cetopsidium morenoi",
+    "Cetopsidium orientale",
+    "Cetopsidium pemon",
+    "Cetopsidium roae",
+    "Cetopsidium soniae",
+    "Cetopsis amphiloxa",
+    "Cetopsis arcana",
+    "Cetopsis baudoensis",
+    "Cetopsis caiapo",
+    "Cetopsis candiru",
+    "Cetopsis coecutiens",
+    "Cetopsis fimbriata",
+    "Cetopsis gobioides",
+    "Cetopsis jurubidae",
+    "Cetopsis montana",
+    "Cetopsis motatanensis",
+    "Cetopsis oliveirai",
+    "Cetopsis orinoco",
+    "Cetopsis othonops",
+    "Cetopsis parma",
+    "Cetopsis pearsoni",
+    "Cetopsis plumbea",
+    "Cetopsis sandrae",
+    "Cetopsis sarcodes",
+    "Cetopsis starnesi",
+    "Cetopsis umbrosa",
+    "Denticetopsis epa",
+    "Denticetopsis iwokrama",
+    "Denticetopsis macilenta",
+    "Denticetopsis praecox",
+    "Denticetopsis royeroi",
+    "Denticetopsis sauli",
+    "Denticetopsis seducta",
+    "Helogenes castaneus",
+    "Helogenes gouldingi",
+    "Helogenes marmoratus",
+    "Helogenes uruyensis",
+    "Paracetopsis atahualpa",
+    "Paracetopsis bleekeri",
+    "Paracetopsis esmeraldas"
+  ],
+  "sampled_species": [
+    "Cetopsidium soniae",
+    "Cetopsis candiru",
+    "Cetopsis coecutiens",
+    "Cetopsis gobioides",
+    "Helogenes marmoratus"
+  ],
+  "unsampled_species": [
+    "Cetopsidium ferreirai",
+    "Cetopsidium minutum",
+    "Cetopsidium morenoi",
+    "Cetopsidium orientale",
+    "Cetopsidium pemon",
+    "Cetopsidium roae",
+    "Cetopsis amphiloxa",
+    "Cetopsis arcana",
+    "Cetopsis baudoensis",
+    "Cetopsis caiapo",
+    "Cetopsis fimbriata",
+    "Cetopsis jurubidae",
+    "Cetopsis montana",
+    "Cetopsis motatanensis",
+    "Cetopsis oliveirai",
+    "Cetopsis orinoco",
+    "Cetopsis othonops",
+    "Cetopsis parma",
+    "Cetopsis pearsoni",
+    "Cetopsis plumbea",
+    "Cetopsis sandrae",
+    "Cetopsis sarcodes",
+    "Cetopsis starnesi",
+    "Cetopsis umbrosa",
+    "Denticetopsis epa",
+    "Denticetopsis iwokrama",
+    "Denticetopsis macilenta",
+    "Denticetopsis praecox",
+    "Denticetopsis royeroi",
+    "Denticetopsis sauli",
+    "Denticetopsis seducta",
+    "Helogenes castaneus",
+    "Helogenes gouldingi",
+    "Helogenes uruyensis",
+    "Paracetopsis atahualpa",
+    "Paracetopsis bleekeri",
+    "Paracetopsis esmeraldas"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Cetopsis candiru"
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Cetopsidium soniae",
+      "Cetopsis candiru",
+      "Cetopsis gobioides"
+    ],
+    "cytb": [
+      "Cetopsis candiru",
+      "Cetopsis coecutiens",
+      "Helogenes marmoratus"
+    ],
+    "enc1": [
+      "Helogenes marmoratus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Helogenes marmoratus"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Cetopsis candiru",
+      "Cetopsis coecutiens",
+      "Helogenes marmoratus"
+    ],
+    "rag2": [
+      "Cetopsis candiru",
+      "Cetopsis coecutiens",
+      "Helogenes marmoratus"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Helogenes marmoratus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Helogenes marmoratus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Cetopsidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Cetopsidium soniae": 0.0613,
+    "Cetopsis candiru": 0.0873,
+    "Cetopsis coecutiens": 0.0765,
+    "Cetopsis gobioides": 0.0667,
+    "Helogenes marmoratus": 0.0582
+  },
+  "tiprates_bamm_lambda": {
+    "Cetopsidium soniae": 0.0745,
+    "Cetopsis candiru": 0.0745,
+    "Cetopsis coecutiens": 0.0745,
+    "Cetopsis gobioides": 0.0745,
+    "Helogenes marmoratus": 0.0745
+  },
+  "tiprates_bamm_mu": {
+    "Cetopsidium soniae": 0.0008,
+    "Cetopsis candiru": 0.0008,
+    "Cetopsis coecutiens": 0.0008,
+    "Cetopsis gobioides": 0.0008,
+    "Helogenes marmoratus": 0.0008
+  },
+  "mean_dr": 0.07,
+  "mean_bamm_lambda": 0.0745,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Cetopsidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Cetopsidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Cetopsidae.tre",
+  "phylogram": "downloads/taxonomy/family/Cetopsidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

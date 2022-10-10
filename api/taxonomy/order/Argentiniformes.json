@@ -1,0 +1,460 @@
+{
+  "species": [
+    "Argentina aliceae",
+    "Argentina australiae",
+    "Argentina brasiliensis",
+    "Argentina brucei",
+    "Argentina elongata",
+    "Argentina euchus",
+    "Argentina georgei",
+    "Argentina kagoshimae",
+    "Argentina sialis",
+    "Argentina silus",
+    "Argentina sphyraena",
+    "Argentina stewarti",
+    "Argentina striata",
+    "Glossanodon australis",
+    "Glossanodon danieli",
+    "Glossanodon elongatus",
+    "Glossanodon kotakamaru",
+    "Glossanodon leioglossus",
+    "Glossanodon lineatus",
+    "Glossanodon melanomanus",
+    "Glossanodon mildredae",
+    "Glossanodon nazca",
+    "Glossanodon polli",
+    "Glossanodon pseudolineatus",
+    "Glossanodon pygmaeus",
+    "Glossanodon semifasciatus",
+    "Glossanodon struhsakeri",
+    "Bathylagichthys australis",
+    "Bathylagichthys greyae",
+    "Bathylagichthys longipinnis",
+    "Bathylagichthys parini",
+    "Bathylagichthys problematicus",
+    "Bathylagoides argyrogaster",
+    "Bathylagoides nigrigenys",
+    "Bathylagoides wesethi",
+    "Bathylagus andriashevi",
+    "Bathylagus antarcticus",
+    "Bathylagus euryops",
+    "Bathylagus gracilis",
+    "Bathylagus niger",
+    "Bathylagus pacificus",
+    "Bathylagus tenuis",
+    "Dolicholagus longirostris",
+    "Leuroglossus callorhini",
+    "Leuroglossus schmidti",
+    "Leuroglossus stilbius",
+    "Lipolagus ochotensis",
+    "Melanolagus bericoides",
+    "Pseudobathylagus milleri",
+    "Microstoma microstoma",
+    "Nansenia ahlstromi",
+    "Nansenia antarctica",
+    "Nansenia ardesiaca",
+    "Nansenia atlantica",
+    "Nansenia candida",
+    "Nansenia crassa",
+    "Nansenia groenlandica",
+    "Nansenia iberica",
+    "Nansenia indica",
+    "Nansenia longicauda",
+    "Nansenia macrolepis",
+    "Nansenia megalopa",
+    "Nansenia oblita",
+    "Nansenia obscura",
+    "Nansenia pelagica",
+    "Nansenia tenera",
+    "Nansenia tenuicauda",
+    "Xenophthalmichthys danae",
+    "Bathylychnops brachyrhynchus",
+    "Bathylychnops chilensis",
+    "Bathylychnops exilis",
+    "Dolichopteroides binocularis",
+    "Dolichopteryx anascopa",
+    "Dolichopteryx andriashevi",
+    "Dolichopteryx longipes",
+    "Dolichopteryx minuscula",
+    "Dolichopteryx parini",
+    "Dolichopteryx pseudolongipes",
+    "Dolichopteryx rostrata",
+    "Dolichopteryx trunovi",
+    "Dolichopteryx vityazi",
+    "Ioichthys kashkini",
+    "Macropinna microstoma",
+    "Opisthoproctus grimaldii",
+    "Opisthoproctus soleatus",
+    "Rhynchohyalus natalensis",
+    "Winteria telescopa"
+  ],
+  "sampled_species": [
+    "Argentina sialis",
+    "Argentina silus",
+    "Argentina sphyraena",
+    "Argentina striata",
+    "Bathylagus antarcticus",
+    "Bathylagus euryops",
+    "Bathylagus pacificus",
+    "Bathylagus tenuis",
+    "Dolicholagus longirostris",
+    "Lipolagus ochotensis",
+    "Pseudobathylagus milleri",
+    "Nansenia antarctica",
+    "Nansenia ardesiaca",
+    "Nansenia longicauda",
+    "Macropinna microstoma",
+    "Rhynchohyalus natalensis"
+  ],
+  "unsampled_species": [
+    "Argentina aliceae",
+    "Argentina australiae",
+    "Argentina brasiliensis",
+    "Argentina brucei",
+    "Argentina elongata",
+    "Argentina euchus",
+    "Argentina georgei",
+    "Argentina kagoshimae",
+    "Argentina stewarti",
+    "Glossanodon australis",
+    "Glossanodon danieli",
+    "Glossanodon elongatus",
+    "Glossanodon kotakamaru",
+    "Glossanodon leioglossus",
+    "Glossanodon lineatus",
+    "Glossanodon melanomanus",
+    "Glossanodon mildredae",
+    "Glossanodon nazca",
+    "Glossanodon polli",
+    "Glossanodon pseudolineatus",
+    "Glossanodon pygmaeus",
+    "Glossanodon semifasciatus",
+    "Glossanodon struhsakeri",
+    "Bathylagichthys australis",
+    "Bathylagichthys greyae",
+    "Bathylagichthys longipinnis",
+    "Bathylagichthys parini",
+    "Bathylagichthys problematicus",
+    "Bathylagoides argyrogaster",
+    "Bathylagoides nigrigenys",
+    "Bathylagoides wesethi",
+    "Bathylagus andriashevi",
+    "Bathylagus gracilis",
+    "Bathylagus niger",
+    "Leuroglossus callorhini",
+    "Leuroglossus schmidti",
+    "Leuroglossus stilbius",
+    "Melanolagus bericoides",
+    "Microstoma microstoma",
+    "Nansenia ahlstromi",
+    "Nansenia atlantica",
+    "Nansenia candida",
+    "Nansenia crassa",
+    "Nansenia groenlandica",
+    "Nansenia iberica",
+    "Nansenia indica",
+    "Nansenia macrolepis",
+    "Nansenia megalopa",
+    "Nansenia oblita",
+    "Nansenia obscura",
+    "Nansenia pelagica",
+    "Nansenia tenera",
+    "Nansenia tenuicauda",
+    "Xenophthalmichthys danae",
+    "Bathylychnops brachyrhynchus",
+    "Bathylychnops chilensis",
+    "Bathylychnops exilis",
+    "Dolichopteroides binocularis",
+    "Dolichopteryx anascopa",
+    "Dolichopteryx andriashevi",
+    "Dolichopteryx longipes",
+    "Dolichopteryx minuscula",
+    "Dolichopteryx parini",
+    "Dolichopteryx pseudolongipes",
+    "Dolichopteryx rostrata",
+    "Dolichopteryx trunovi",
+    "Dolichopteryx vityazi",
+    "Ioichthys kashkini",
+    "Opisthoproctus grimaldii",
+    "Opisthoproctus soleatus",
+    "Winteria telescopa"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Argentina sialis",
+      "Bathylagus euryops",
+      "Lipolagus ochotensis"
+    ],
+    "16s": [
+      "Argentina sialis",
+      "Bathylagus euryops",
+      "Lipolagus ochotensis",
+      "Pseudobathylagus milleri"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Argentina silus",
+      "Argentina sphyraena",
+      "Argentina striata",
+      "Bathylagus antarcticus",
+      "Bathylagus pacificus",
+      "Bathylagus tenuis",
+      "Dolicholagus longirostris",
+      "Pseudobathylagus milleri",
+      "Nansenia antarctica",
+      "Nansenia ardesiaca",
+      "Nansenia longicauda",
+      "Macropinna microstoma"
+    ],
+    "cytb": [
+      "Argentina silus",
+      "Argentina sphyraena",
+      "Lipolagus ochotensis",
+      "Pseudobathylagus milleri"
+    ],
+    "enc1": [
+      "Argentina sialis",
+      "Argentina striata",
+      "Dolicholagus longirostris",
+      "Nansenia longicauda"
+    ],
+    "ficd": [
+      "Nansenia longicauda",
+      "Rhynchohyalus natalensis"
+    ],
+    "glyt": [
+      "Argentina sialis",
+      "Argentina silus",
+      "Argentina striata",
+      "Bathylagus euryops",
+      "Nansenia ardesiaca",
+      "Nansenia longicauda",
+      "Macropinna microstoma"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Argentina sialis",
+      "Argentina silus",
+      "Argentina striata",
+      "Bathylagus euryops",
+      "Dolicholagus longirostris",
+      "Nansenia ardesiaca",
+      "Nansenia longicauda",
+      "Macropinna microstoma"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Argentina sialis",
+      "Nansenia longicauda"
+    ],
+    "plagl2": [
+      "Argentina sialis"
+    ],
+    "ptr": [
+      "Argentina silus",
+      "Argentina striata",
+      "Macropinna microstoma"
+    ],
+    "rag1": [
+      "Argentina sialis",
+      "Argentina silus",
+      "Argentina striata",
+      "Bathylagus euryops",
+      "Dolicholagus longirostris",
+      "Lipolagus ochotensis",
+      "Nansenia longicauda",
+      "Macropinna microstoma"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Argentina sialis",
+      "Argentina silus",
+      "Argentina sphyraena",
+      "Argentina striata",
+      "Bathylagus euryops"
+    ],
+    "ripk4": [
+      "Argentina sialis",
+      "Argentina striata"
+    ],
+    "sh3px3": [
+      "Argentina sialis",
+      "Argentina silus",
+      "Argentina striata",
+      "Bathylagus euryops",
+      "Nansenia ardesiaca",
+      "Nansenia longicauda",
+      "Macropinna microstoma"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Argentina sialis",
+      "Argentina striata"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Argentina sialis",
+      "Argentina silus",
+      "Argentina striata",
+      "Bathylagus euryops",
+      "Nansenia ardesiaca",
+      "Nansenia longicauda",
+      "Macropinna microstoma"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Argentina sialis",
+      "Argentina silus",
+      "Argentina striata",
+      "Bathylagus euryops",
+      "Dolicholagus longirostris",
+      "Nansenia ardesiaca",
+      "Nansenia longicauda",
+      "Macropinna microstoma",
+      "Rhynchohyalus natalensis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Argentinidae",
+      "Bathylagidae",
+      "Microstomatidae",
+      "Opisthoproctidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Argentiniformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Protacanthopterygii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Argentina sialis": 0.1119,
+    "Argentina silus": 0.1066,
+    "Argentina sphyraena": 0.1276,
+    "Argentina striata": 0.1196,
+    "Bathylagus antarcticus": 0.1377,
+    "Bathylagus euryops": 0.1041,
+    "Bathylagus pacificus": 0.2382,
+    "Bathylagus tenuis": 0.0707,
+    "Dolicholagus longirostris": 0.0332,
+    "Lipolagus ochotensis": 0.0446,
+    "Macropinna microstoma": 0.1525,
+    "Nansenia antarctica": 0.1029,
+    "Nansenia ardesiaca": 0.1324,
+    "Nansenia longicauda": 0.1279,
+    "Pseudobathylagus milleri": 0.2382,
+    "Rhynchohyalus natalensis": 0.1491
+  },
+  "tiprates_bamm_lambda": {
+    "Argentina sialis": 0.2031,
+    "Argentina silus": 0.2031,
+    "Argentina sphyraena": 0.2031,
+    "Argentina striata": 0.2031,
+    "Bathylagus antarcticus": 0.1944,
+    "Bathylagus euryops": 0.1944,
+    "Bathylagus pacificus": 0.1944,
+    "Bathylagus tenuis": 0.1944,
+    "Dolicholagus longirostris": 0.1924,
+    "Lipolagus ochotensis": 0.1924,
+    "Macropinna microstoma": 0.2031,
+    "Nansenia antarctica": 0.2008,
+    "Nansenia ardesiaca": 0.2008,
+    "Nansenia longicauda": 0.2008,
+    "Pseudobathylagus milleri": 0.1944,
+    "Rhynchohyalus natalensis": 0.2031
+  },
+  "tiprates_bamm_mu": {
+    "Argentina sialis": 0.1535,
+    "Argentina silus": 0.1535,
+    "Argentina sphyraena": 0.1535,
+    "Argentina striata": 0.1535,
+    "Bathylagus antarcticus": 0.1475,
+    "Bathylagus euryops": 0.1475,
+    "Bathylagus pacificus": 0.1475,
+    "Bathylagus tenuis": 0.1475,
+    "Dolicholagus longirostris": 0.1469,
+    "Lipolagus ochotensis": 0.1469,
+    "Macropinna microstoma": 0.1535,
+    "Nansenia antarctica": 0.1523,
+    "Nansenia ardesiaca": 0.1523,
+    "Nansenia longicauda": 0.1523,
+    "Pseudobathylagus milleri": 0.1475,
+    "Rhynchohyalus natalensis": 0.1535
+  },
+  "mean_dr": 0.1248,
+  "mean_bamm_lambda": 0.1986,
+  "mean_bamm_mu": 0.1506,
+  "matrix_phylip": "downloads/taxonomy/order/Argentiniformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Argentiniformes.nex.xz",
+  "chronogram": "downloads/taxonomy/order/Argentiniformes.tre",
+  "phylogram": "downloads/taxonomy/order/Argentiniformes_phylogram.tre",
+  "rogues": [
+
+  ]
+}

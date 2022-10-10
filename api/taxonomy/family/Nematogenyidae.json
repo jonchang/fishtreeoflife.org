@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Nematogenys inermis"
+  ],
+  "sampled_species": [
+    "Nematogenys inermis"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Nematogenys inermis"
+    ],
+    "16s": [
+      "Nematogenys inermis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Nematogenys inermis"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Nematogenys inermis"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Nematogenys inermis"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Nematogenys inermis"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Nematogenys inermis"
+    ],
+    "ptr": [
+      "Nematogenys inermis"
+    ],
+    "rag1": [
+      "Nematogenys inermis"
+    ],
+    "rag2": [
+      "Nematogenys inermis"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Nematogenys inermis"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Nematogenys inermis"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Nematogenys inermis"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Nematogenys inermis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Nematogenyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Loricaroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Nematogenys inermis": 0.0117
+  },
+  "tiprates_bamm_lambda": {
+    "Nematogenys inermis": 0.0737
+  },
+  "tiprates_bamm_mu": {
+    "Nematogenys inermis": 0.0008
+  },
+  "mean_dr": 0.0117,
+  "mean_bamm_lambda": 0.0737,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Nematogenyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Nematogenyidae.nex.xz"
+}

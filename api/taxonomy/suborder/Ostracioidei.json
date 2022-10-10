@@ -1,0 +1,490 @@
+{
+  "species": [
+    "Anoplocapros amygdaloides",
+    "Anoplocapros inermis",
+    "Anoplocapros lenticularis",
+    "Anoplocapros robustus",
+    "Aracana aurita",
+    "Aracana ornata",
+    "Caprichthys gymnura",
+    "Capropygia unistriata",
+    "Kentrocapros aculeatus",
+    "Kentrocapros eco",
+    "Kentrocapros flavofasciatus",
+    "Kentrocapros rosapinto",
+    "Polyplacapros tyleri",
+    "Acanthostracion guineensis",
+    "Acanthostracion notacanthus",
+    "Acanthostracion polygonius",
+    "Acanthostracion quadricornis",
+    "Lactophrys bicaudalis",
+    "Lactophrys trigonus",
+    "Lactoria cornuta",
+    "Lactoria diaphana",
+    "Lactoria fornasini",
+    "Lactoria paschae",
+    "Ostracion cubicus",
+    "Ostracion cyanurus",
+    "Ostracion immaculatus",
+    "Ostracion meleagris",
+    "Ostracion rhinorhynchos",
+    "Ostracion solorensis",
+    "Ostracion trachys",
+    "Ostracion whitleyi",
+    "Paracanthostracion lindsayi",
+    "Rhinesomus triqueter",
+    "Rhynchostracion nasus",
+    "Tetrosomus concatenatus",
+    "Tetrosomus fornasini",
+    "Tetrosomus gibbosus",
+    "Tetrosomus reipublicae",
+    "Tetrosomus stellifer"
+  ],
+  "sampled_species": [
+    "Anoplocapros amygdaloides",
+    "Anoplocapros inermis",
+    "Anoplocapros lenticularis",
+    "Aracana aurita",
+    "Aracana ornata",
+    "Caprichthys gymnura",
+    "Capropygia unistriata",
+    "Kentrocapros rosapinto",
+    "Acanthostracion polygonius",
+    "Acanthostracion quadricornis",
+    "Lactophrys bicaudalis",
+    "Lactophrys trigonus",
+    "Lactoria cornuta",
+    "Lactoria diaphana",
+    "Ostracion cubicus",
+    "Ostracion immaculatus",
+    "Ostracion meleagris",
+    "Ostracion rhinorhynchos",
+    "Ostracion solorensis",
+    "Ostracion whitleyi",
+    "Rhinesomus triqueter",
+    "Rhynchostracion nasus",
+    "Tetrosomus concatenatus",
+    "Tetrosomus fornasini",
+    "Tetrosomus gibbosus",
+    "Tetrosomus reipublicae"
+  ],
+  "unsampled_species": [
+    "Anoplocapros robustus",
+    "Kentrocapros aculeatus",
+    "Kentrocapros eco",
+    "Kentrocapros flavofasciatus",
+    "Polyplacapros tyleri",
+    "Acanthostracion guineensis",
+    "Acanthostracion notacanthus",
+    "Lactoria fornasini",
+    "Lactoria paschae",
+    "Ostracion cyanurus",
+    "Ostracion trachys",
+    "Paracanthostracion lindsayi",
+    "Tetrosomus stellifer"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Anoplocapros inermis",
+      "Aracana ornata",
+      "Acanthostracion polygonius",
+      "Acanthostracion quadricornis",
+      "Lactophrys bicaudalis",
+      "Rhinesomus triqueter",
+      "Tetrosomus concatenatus"
+    ],
+    "16s": [
+      "Anoplocapros inermis",
+      "Aracana ornata",
+      "Acanthostracion polygonius",
+      "Acanthostracion quadricornis",
+      "Lactophrys bicaudalis",
+      "Lactoria diaphana",
+      "Ostracion cubicus",
+      "Rhinesomus triqueter",
+      "Tetrosomus concatenatus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Anoplocapros amygdaloides",
+      "Anoplocapros inermis",
+      "Anoplocapros lenticularis",
+      "Aracana aurita",
+      "Aracana ornata",
+      "Caprichthys gymnura",
+      "Capropygia unistriata",
+      "Kentrocapros rosapinto",
+      "Acanthostracion polygonius",
+      "Acanthostracion quadricornis",
+      "Lactophrys bicaudalis",
+      "Lactophrys trigonus",
+      "Lactoria cornuta",
+      "Lactoria diaphana",
+      "Ostracion cubicus",
+      "Ostracion immaculatus",
+      "Ostracion meleagris",
+      "Ostracion rhinorhynchos",
+      "Ostracion solorensis",
+      "Ostracion whitleyi",
+      "Rhinesomus triqueter",
+      "Rhynchostracion nasus",
+      "Tetrosomus concatenatus",
+      "Tetrosomus fornasini",
+      "Tetrosomus gibbosus",
+      "Tetrosomus reipublicae"
+    ],
+    "cytb": [
+      "Anoplocapros amygdaloides",
+      "Anoplocapros inermis",
+      "Anoplocapros lenticularis",
+      "Aracana aurita",
+      "Aracana ornata",
+      "Caprichthys gymnura",
+      "Capropygia unistriata",
+      "Kentrocapros rosapinto",
+      "Acanthostracion polygonius",
+      "Acanthostracion quadricornis",
+      "Lactophrys trigonus",
+      "Lactoria cornuta",
+      "Lactoria diaphana",
+      "Ostracion cubicus",
+      "Ostracion meleagris",
+      "Ostracion rhinorhynchos",
+      "Ostracion solorensis",
+      "Rhinesomus triqueter",
+      "Rhynchostracion nasus",
+      "Tetrosomus fornasini",
+      "Tetrosomus gibbosus",
+      "Tetrosomus reipublicae"
+    ],
+    "enc1": [
+      "Anoplocapros lenticularis",
+      "Aracana aurita",
+      "Acanthostracion quadricornis",
+      "Lactoria cornuta",
+      "Ostracion cubicus",
+      "Rhinesomus triqueter"
+    ],
+    "ficd": [
+      "Ostracion cubicus"
+    ],
+    "glyt": [
+      "Anoplocapros lenticularis",
+      "Aracana aurita",
+      "Acanthostracion quadricornis",
+      "Lactoria cornuta",
+      "Ostracion cubicus",
+      "Rhinesomus triqueter"
+    ],
+    "hoxc6a": [
+      "Ostracion cubicus"
+    ],
+    "kiaa1239": [
+      "Ostracion cubicus"
+    ],
+    "myh6": [
+      "Anoplocapros lenticularis",
+      "Aracana aurita",
+      "Acanthostracion quadricornis",
+      "Lactoria cornuta",
+      "Ostracion cubicus",
+      "Rhinesomus triqueter"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Anoplocapros lenticularis",
+      "Aracana aurita",
+      "Acanthostracion quadricornis",
+      "Lactoria cornuta",
+      "Ostracion cubicus",
+      "Rhinesomus triqueter"
+    ],
+    "ptr": [
+      "Anoplocapros lenticularis",
+      "Aracana aurita",
+      "Acanthostracion quadricornis",
+      "Lactoria cornuta",
+      "Ostracion cubicus",
+      "Rhinesomus triqueter"
+    ],
+    "rag1": [
+      "Anoplocapros inermis",
+      "Anoplocapros lenticularis",
+      "Aracana aurita",
+      "Aracana ornata",
+      "Caprichthys gymnura",
+      "Capropygia unistriata",
+      "Kentrocapros rosapinto",
+      "Acanthostracion polygonius",
+      "Acanthostracion quadricornis",
+      "Lactophrys bicaudalis",
+      "Lactophrys trigonus",
+      "Lactoria cornuta",
+      "Lactoria diaphana",
+      "Ostracion cubicus",
+      "Ostracion meleagris",
+      "Ostracion rhinorhynchos",
+      "Ostracion solorensis",
+      "Ostracion whitleyi",
+      "Rhinesomus triqueter",
+      "Rhynchostracion nasus",
+      "Tetrosomus concatenatus",
+      "Tetrosomus fornasini",
+      "Tetrosomus gibbosus",
+      "Tetrosomus reipublicae"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Anoplocapros inermis",
+      "Anoplocapros lenticularis",
+      "Aracana aurita",
+      "Caprichthys gymnura",
+      "Capropygia unistriata",
+      "Kentrocapros rosapinto",
+      "Acanthostracion polygonius",
+      "Acanthostracion quadricornis",
+      "Lactophrys trigonus",
+      "Lactoria cornuta",
+      "Lactoria diaphana",
+      "Ostracion cubicus",
+      "Ostracion meleagris",
+      "Ostracion rhinorhynchos",
+      "Ostracion solorensis",
+      "Ostracion whitleyi",
+      "Rhinesomus triqueter",
+      "Rhynchostracion nasus",
+      "Tetrosomus concatenatus",
+      "Tetrosomus fornasini",
+      "Tetrosomus gibbosus",
+      "Tetrosomus reipublicae"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Anoplocapros lenticularis",
+      "Aracana aurita",
+      "Acanthostracion quadricornis",
+      "Lactoria cornuta",
+      "Ostracion cubicus",
+      "Rhinesomus triqueter"
+    ],
+    "sidkey": [
+      "Anoplocapros lenticularis",
+      "Aracana aurita",
+      "Acanthostracion quadricornis",
+      "Lactoria cornuta",
+      "Ostracion cubicus"
+    ],
+    "sreb2": [
+      "Anoplocapros lenticularis",
+      "Aracana aurita",
+      "Acanthostracion quadricornis",
+      "Lactoria cornuta",
+      "Ostracion cubicus",
+      "Rhinesomus triqueter"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Anoplocapros lenticularis",
+      "Aracana aurita",
+      "Acanthostracion quadricornis",
+      "Lactoria cornuta",
+      "Ostracion cubicus",
+      "Rhinesomus triqueter"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Anoplocapros inermis",
+      "Anoplocapros lenticularis",
+      "Aracana aurita",
+      "Aracana ornata",
+      "Caprichthys gymnura",
+      "Capropygia unistriata",
+      "Kentrocapros rosapinto",
+      "Acanthostracion polygonius",
+      "Acanthostracion quadricornis",
+      "Lactophrys trigonus",
+      "Lactoria cornuta",
+      "Lactoria diaphana",
+      "Ostracion cubicus",
+      "Ostracion meleagris",
+      "Ostracion rhinorhynchos",
+      "Ostracion solorensis",
+      "Ostracion whitleyi",
+      "Rhinesomus triqueter",
+      "Rhynchostracion nasus",
+      "Tetrosomus concatenatus",
+      "Tetrosomus fornasini",
+      "Tetrosomus gibbosus",
+      "Tetrosomus reipublicae"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Aracanidae",
+      "Ostraciidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Tetraodontiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Ostracioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Acanthostracion polygonius": 0.0761,
+    "Acanthostracion quadricornis": 0.0721,
+    "Anoplocapros amygdaloides": 0.1862,
+    "Anoplocapros inermis": 0.1168,
+    "Anoplocapros lenticularis": 0.1846,
+    "Aracana aurita": 0.1175,
+    "Aracana ornata": 0.1175,
+    "Caprichthys gymnura": 0.0759,
+    "Capropygia unistriata": 0.0788,
+    "Kentrocapros rosapinto": 0.0692,
+    "Lactophrys bicaudalis": 0.0512,
+    "Lactophrys trigonus": 0.0648,
+    "Lactoria cornuta": 0.0597,
+    "Lactoria diaphana": 0.058,
+    "Ostracion cubicus": 0.3598,
+    "Ostracion immaculatus": 0.3598,
+    "Ostracion meleagris": 0.1211,
+    "Ostracion rhinorhynchos": 0.083,
+    "Ostracion solorensis": 0.3089,
+    "Ostracion whitleyi": 0.3038,
+    "Rhinesomus triqueter": 0.0659,
+    "Rhynchostracion nasus": 0.0496,
+    "Tetrosomus concatenatus": 0.1288,
+    "Tetrosomus gibbosus": 0.072,
+    "Tetrosomus reipublicae": 0.1267,
+    "Tetrosomus fornasini": 0.0615
+  },
+  "tiprates_bamm_lambda": {
+    "Acanthostracion polygonius": 0.0855,
+    "Acanthostracion quadricornis": 0.0855,
+    "Anoplocapros amygdaloides": 0.0875,
+    "Anoplocapros inermis": 0.0875,
+    "Anoplocapros lenticularis": 0.0875,
+    "Aracana aurita": 0.0875,
+    "Aracana ornata": 0.0875,
+    "Caprichthys gymnura": 0.0859,
+    "Capropygia unistriata": 0.0859,
+    "Kentrocapros rosapinto": 0.0859,
+    "Lactophrys bicaudalis": 0.0855,
+    "Lactophrys trigonus": 0.0855,
+    "Lactoria cornuta": 0.0855,
+    "Lactoria diaphana": 0.0855,
+    "Ostracion cubicus": 0.0873,
+    "Ostracion immaculatus": 0.0873,
+    "Ostracion meleagris": 0.0873,
+    "Ostracion rhinorhynchos": 0.086,
+    "Ostracion solorensis": 0.0873,
+    "Ostracion whitleyi": 0.0873,
+    "Rhinesomus triqueter": 0.0855,
+    "Rhynchostracion nasus": 0.086,
+    "Tetrosomus concatenatus": 0.0855,
+    "Tetrosomus gibbosus": 0.0855,
+    "Tetrosomus reipublicae": 0.0855,
+    "Tetrosomus fornasini": 0.0855
+  },
+  "tiprates_bamm_mu": {
+    "Acanthostracion polygonius": 0.0118,
+    "Acanthostracion quadricornis": 0.0118,
+    "Anoplocapros amygdaloides": 0.0137,
+    "Anoplocapros inermis": 0.0137,
+    "Anoplocapros lenticularis": 0.0137,
+    "Aracana aurita": 0.0137,
+    "Aracana ornata": 0.0137,
+    "Caprichthys gymnura": 0.0123,
+    "Capropygia unistriata": 0.0123,
+    "Kentrocapros rosapinto": 0.0123,
+    "Lactophrys bicaudalis": 0.0118,
+    "Lactophrys trigonus": 0.0118,
+    "Lactoria cornuta": 0.0118,
+    "Lactoria diaphana": 0.0118,
+    "Ostracion cubicus": 0.0125,
+    "Ostracion immaculatus": 0.0125,
+    "Ostracion meleagris": 0.0125,
+    "Ostracion rhinorhynchos": 0.0121,
+    "Ostracion solorensis": 0.0125,
+    "Ostracion whitleyi": 0.0125,
+    "Rhinesomus triqueter": 0.0118,
+    "Rhynchostracion nasus": 0.0121,
+    "Tetrosomus concatenatus": 0.0118,
+    "Tetrosomus gibbosus": 0.0118,
+    "Tetrosomus reipublicae": 0.0118,
+    "Tetrosomus fornasini": 0.0118
+  },
+  "mean_dr": 0.1296,
+  "mean_bamm_lambda": 0.0863,
+  "mean_bamm_mu": 0.0124,
+  "matrix_phylip": "downloads/taxonomy/suborder/Ostracioidei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/suborder/Ostracioidei.nex.xz",
+  "chronogram": "downloads/taxonomy/suborder/Ostracioidei.tre",
+  "phylogram": "downloads/taxonomy/suborder/Ostracioidei_phylogram.tre",
+  "rogues": [
+
+  ]
+}

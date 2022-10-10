@@ -1,0 +1,172 @@
+{
+  "species": [
+    "Polyodon spathula",
+    "Psephurus gladius"
+  ],
+  "sampled_species": [
+    "Polyodon spathula",
+    "Psephurus gladius"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Polyodon spathula",
+      "Psephurus gladius"
+    ],
+    "16s": [
+      "Polyodon spathula",
+      "Psephurus gladius"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Polyodon spathula"
+    ],
+    "cytb": [
+      "Polyodon spathula",
+      "Psephurus gladius"
+    ],
+    "enc1": [
+      "Polyodon spathula"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Polyodon spathula"
+    ],
+    "ptr": [
+      "Polyodon spathula"
+    ],
+    "rag1": [
+      "Polyodon spathula"
+    ],
+    "rag2": [
+      "Polyodon spathula"
+    ],
+    "rhodopsin": [
+      "Polyodon spathula"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Polyodon spathula"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Polyodon spathula"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Polyodon spathula"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Polyodontidae"
+    ],
+    "infraclass": [
+
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+
+    ],
+    "order": [
+      "Acipenseriformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Chondrostei"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Polyodon spathula": 0.0065,
+    "Psephurus gladius": 0.0065
+  },
+  "tiprates_bamm_lambda": {
+    "Polyodon spathula": 0.0576,
+    "Psephurus gladius": 0.0576
+  },
+  "tiprates_bamm_mu": {
+    "Polyodon spathula": 0.047,
+    "Psephurus gladius": 0.047
+  },
+  "mean_dr": 0.0065,
+  "mean_bamm_lambda": 0.0576,
+  "mean_bamm_mu": 0.047,
+  "matrix_phylip": "downloads/taxonomy/family/Polyodontidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Polyodontidae.nex.xz"
+}

@@ -1,0 +1,167 @@
+{
+  "species": [
+    "Ereunias grallator",
+    "Marukawichthys ambulator",
+    "Marukawichthys pacificus"
+  ],
+  "sampled_species": [
+    "Marukawichthys ambulator"
+  ],
+  "unsampled_species": [
+    "Ereunias grallator",
+    "Marukawichthys pacificus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Marukawichthys ambulator"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Ereuniidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Cottales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Marukawichthys ambulator": 0.0858
+  },
+  "tiprates_bamm_lambda": {
+    "Marukawichthys ambulator": 0.1174
+  },
+  "tiprates_bamm_mu": {
+    "Marukawichthys ambulator": 0.0087
+  },
+  "mean_dr": 0.0858,
+  "mean_bamm_lambda": 0.1174,
+  "mean_bamm_mu": 0.0087,
+  "matrix_phylip": "downloads/taxonomy/family/Ereuniidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Ereuniidae.nex.xz"
+}

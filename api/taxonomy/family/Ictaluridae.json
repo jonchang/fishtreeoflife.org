@@ -1,0 +1,525 @@
+{
+  "species": [
+    "Ameiurus brunneus",
+    "Ameiurus catus",
+    "Ameiurus melas",
+    "Ameiurus natalis",
+    "Ameiurus nebulosus",
+    "Ameiurus platycephalus",
+    "Ameiurus serracanthus",
+    "Ictalurus australis",
+    "Ictalurus balsanus",
+    "Ictalurus dugesii",
+    "Ictalurus furcatus",
+    "Ictalurus lupus",
+    "Ictalurus meridionalis",
+    "Ictalurus mexicanus",
+    "Ictalurus ochoterenai",
+    "Ictalurus pricei",
+    "Ictalurus punctatus",
+    "Noturus albater",
+    "Noturus baileyi",
+    "Noturus crypticus",
+    "Noturus elegans",
+    "Noturus eleutherus",
+    "Noturus exilis",
+    "Noturus fasciatus",
+    "Noturus flavater",
+    "Noturus flavipinnis",
+    "Noturus flavus",
+    "Noturus funebris",
+    "Noturus furiosus",
+    "Noturus gilberti",
+    "Noturus gladiator",
+    "Noturus gyrinus",
+    "Noturus hildebrandi",
+    "Noturus insignis",
+    "Noturus lachneri",
+    "Noturus leptacanthus",
+    "Noturus maydeni",
+    "Noturus miurus",
+    "Noturus munitus",
+    "Noturus nocturnus",
+    "Noturus phaeus",
+    "Noturus placidus",
+    "Noturus stanauli",
+    "Noturus stigmosus",
+    "Noturus taylori",
+    "Noturus trautmani",
+    "Prietella lundbergi",
+    "Prietella phreatophila",
+    "Pylodictis olivaris",
+    "Satan eurystomus",
+    "Trogloglanis pattersoni"
+  ],
+  "sampled_species": [
+    "Ameiurus brunneus",
+    "Ameiurus catus",
+    "Ameiurus melas",
+    "Ameiurus natalis",
+    "Ameiurus nebulosus",
+    "Ameiurus platycephalus",
+    "Ameiurus serracanthus",
+    "Ictalurus furcatus",
+    "Ictalurus lupus",
+    "Ictalurus pricei",
+    "Ictalurus punctatus",
+    "Noturus albater",
+    "Noturus baileyi",
+    "Noturus crypticus",
+    "Noturus elegans",
+    "Noturus eleutherus",
+    "Noturus exilis",
+    "Noturus flavater",
+    "Noturus flavipinnis",
+    "Noturus flavus",
+    "Noturus funebris",
+    "Noturus furiosus",
+    "Noturus gilberti",
+    "Noturus gladiator",
+    "Noturus gyrinus",
+    "Noturus hildebrandi",
+    "Noturus insignis",
+    "Noturus lachneri",
+    "Noturus leptacanthus",
+    "Noturus maydeni",
+    "Noturus miurus",
+    "Noturus munitus",
+    "Noturus nocturnus",
+    "Noturus phaeus",
+    "Noturus placidus",
+    "Noturus stanauli",
+    "Noturus stigmosus",
+    "Noturus taylori",
+    "Prietella phreatophila",
+    "Pylodictis olivaris"
+  ],
+  "unsampled_species": [
+    "Ictalurus australis",
+    "Ictalurus balsanus",
+    "Ictalurus dugesii",
+    "Ictalurus meridionalis",
+    "Ictalurus mexicanus",
+    "Ictalurus ochoterenai",
+    "Noturus fasciatus",
+    "Noturus trautmani",
+    "Prietella lundbergi",
+    "Satan eurystomus",
+    "Trogloglanis pattersoni"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Ameiurus brunneus",
+      "Ameiurus catus",
+      "Ameiurus melas",
+      "Ameiurus natalis",
+      "Ameiurus nebulosus",
+      "Ictalurus furcatus",
+      "Ictalurus lupus",
+      "Ictalurus pricei",
+      "Ictalurus punctatus",
+      "Noturus exilis",
+      "Noturus gyrinus",
+      "Pylodictis olivaris"
+    ],
+    "16s": [
+      "Ameiurus brunneus",
+      "Ameiurus catus",
+      "Ameiurus melas",
+      "Ameiurus natalis",
+      "Ameiurus nebulosus",
+      "Ictalurus punctatus",
+      "Noturus exilis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Ameiurus brunneus",
+      "Ameiurus catus",
+      "Ameiurus melas",
+      "Ameiurus natalis",
+      "Ameiurus nebulosus",
+      "Ameiurus platycephalus",
+      "Ameiurus serracanthus",
+      "Ictalurus furcatus",
+      "Ictalurus lupus",
+      "Ictalurus punctatus",
+      "Noturus albater",
+      "Noturus crypticus",
+      "Noturus elegans",
+      "Noturus eleutherus",
+      "Noturus exilis",
+      "Noturus flavater",
+      "Noturus flavipinnis",
+      "Noturus flavus",
+      "Noturus funebris",
+      "Noturus furiosus",
+      "Noturus gyrinus",
+      "Noturus hildebrandi",
+      "Noturus insignis",
+      "Noturus lachneri",
+      "Noturus leptacanthus",
+      "Noturus miurus",
+      "Noturus nocturnus",
+      "Noturus phaeus",
+      "Noturus stanauli",
+      "Noturus stigmosus",
+      "Noturus taylori",
+      "Pylodictis olivaris"
+    ],
+    "cytb": [
+      "Ameiurus brunneus",
+      "Ameiurus catus",
+      "Ameiurus melas",
+      "Ameiurus natalis",
+      "Ameiurus nebulosus",
+      "Ameiurus platycephalus",
+      "Ameiurus serracanthus",
+      "Ictalurus furcatus",
+      "Ictalurus lupus",
+      "Ictalurus pricei",
+      "Ictalurus punctatus",
+      "Noturus albater",
+      "Noturus baileyi",
+      "Noturus crypticus",
+      "Noturus elegans",
+      "Noturus eleutherus",
+      "Noturus exilis",
+      "Noturus flavater",
+      "Noturus flavipinnis",
+      "Noturus flavus",
+      "Noturus funebris",
+      "Noturus furiosus",
+      "Noturus gilberti",
+      "Noturus gladiator",
+      "Noturus gyrinus",
+      "Noturus hildebrandi",
+      "Noturus insignis",
+      "Noturus lachneri",
+      "Noturus leptacanthus",
+      "Noturus maydeni",
+      "Noturus miurus",
+      "Noturus munitus",
+      "Noturus nocturnus",
+      "Noturus phaeus",
+      "Noturus placidus",
+      "Noturus stanauli",
+      "Noturus stigmosus",
+      "Noturus taylori",
+      "Prietella phreatophila",
+      "Pylodictis olivaris"
+    ],
+    "enc1": [
+      "Ictalurus punctatus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Ameiurus natalis",
+      "Ictalurus punctatus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Ameiurus natalis",
+      "Ictalurus punctatus",
+      "Noturus gyrinus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Ictalurus punctatus",
+      "Noturus albater",
+      "Noturus exilis",
+      "Noturus flavus"
+    ],
+    "panx2": [
+      "Ictalurus punctatus"
+    ],
+    "plagl2": [
+      "Ameiurus natalis",
+      "Ictalurus punctatus"
+    ],
+    "ptr": [
+      "Ameiurus natalis",
+      "Ictalurus punctatus"
+    ],
+    "rag1": [
+      "Ameiurus natalis",
+      "Ameiurus nebulosus",
+      "Ictalurus punctatus",
+      "Noturus gyrinus",
+      "Noturus insignis",
+      "Pylodictis olivaris"
+    ],
+    "rag2": [
+      "Ameiurus brunneus",
+      "Ameiurus catus",
+      "Ameiurus melas",
+      "Ameiurus natalis",
+      "Ameiurus nebulosus",
+      "Ameiurus platycephalus",
+      "Ameiurus serracanthus",
+      "Ictalurus furcatus",
+      "Ictalurus lupus",
+      "Ictalurus punctatus",
+      "Noturus albater",
+      "Noturus baileyi",
+      "Noturus crypticus",
+      "Noturus elegans",
+      "Noturus eleutherus",
+      "Noturus exilis",
+      "Noturus flavater",
+      "Noturus flavipinnis",
+      "Noturus flavus",
+      "Noturus funebris",
+      "Noturus furiosus",
+      "Noturus gilberti",
+      "Noturus gyrinus",
+      "Noturus hildebrandi",
+      "Noturus insignis",
+      "Noturus lachneri",
+      "Noturus leptacanthus",
+      "Noturus maydeni",
+      "Noturus miurus",
+      "Noturus munitus",
+      "Noturus nocturnus",
+      "Noturus phaeus",
+      "Noturus placidus",
+      "Noturus stanauli",
+      "Noturus stigmosus",
+      "Noturus taylori",
+      "Prietella phreatophila",
+      "Pylodictis olivaris"
+    ],
+    "rhodopsin": [
+      "Ameiurus nebulosus",
+      "Ictalurus punctatus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Ameiurus natalis",
+      "Ictalurus punctatus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Ameiurus natalis"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Ameiurus natalis",
+      "Ictalurus punctatus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Ictalurus punctatus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Ictaluridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Ameiurus brunneus": 0.096,
+    "Ameiurus catus": 0.0496,
+    "Ameiurus melas": 0.1158,
+    "Ameiurus natalis": 0.0488,
+    "Ameiurus nebulosus": 0.1158,
+    "Ameiurus platycephalus": 0.0496,
+    "Ameiurus serracanthus": 0.096,
+    "Ictalurus furcatus": 0.0546,
+    "Ictalurus lupus": 0.0988,
+    "Ictalurus pricei": 0.1011,
+    "Ictalurus punctatus": 0.0686,
+    "Noturus albater": 0.1458,
+    "Noturus baileyi": 0.1798,
+    "Noturus crypticus": 0.1295,
+    "Noturus elegans": 0.1357,
+    "Noturus eleutherus": 0.1473,
+    "Noturus exilis": 0.0355,
+    "Noturus flavater": 0.1431,
+    "Noturus flavipinnis": 0.1017,
+    "Noturus flavus": 0.0706,
+    "Noturus funebris": 0.0897,
+    "Noturus furiosus": 0.1458,
+    "Noturus gilberti": 0.0698,
+    "Noturus gladiator": 0.3262,
+    "Noturus gyrinus": 0.103,
+    "Noturus hildebrandi": 0.1775,
+    "Noturus insignis": 0.0606,
+    "Noturus lachneri": 0.1025,
+    "Noturus leptacanthus": 0.0895,
+    "Noturus maydeni": 0.1495,
+    "Noturus miurus": 0.0938,
+    "Noturus munitus": 0.2542,
+    "Noturus nocturnus": 0.0591,
+    "Noturus phaeus": 0.0692,
+    "Noturus placidus": 0.2585,
+    "Noturus stanauli": 0.1309,
+    "Noturus stigmosus": 0.3268,
+    "Noturus taylori": 0.0714,
+    "Prietella phreatophila": 0.0501,
+    "Pylodictis olivaris": 0.0581
+  },
+  "tiprates_bamm_lambda": {
+    "Ameiurus brunneus": 0.0745,
+    "Ameiurus catus": 0.0745,
+    "Ameiurus melas": 0.0745,
+    "Ameiurus natalis": 0.0745,
+    "Ameiurus nebulosus": 0.0745,
+    "Ameiurus platycephalus": 0.0745,
+    "Ameiurus serracanthus": 0.0745,
+    "Ictalurus furcatus": 0.0745,
+    "Ictalurus lupus": 0.0745,
+    "Ictalurus pricei": 0.0745,
+    "Ictalurus punctatus": 0.0745,
+    "Noturus albater": 0.0748,
+    "Noturus baileyi": 0.0748,
+    "Noturus crypticus": 0.0748,
+    "Noturus elegans": 0.0748,
+    "Noturus eleutherus": 0.0756,
+    "Noturus exilis": 0.0745,
+    "Noturus flavater": 0.0756,
+    "Noturus flavipinnis": 0.0752,
+    "Noturus flavus": 0.0745,
+    "Noturus funebris": 0.0745,
+    "Noturus furiosus": 0.0756,
+    "Noturus gilberti": 0.0745,
+    "Noturus gladiator": 0.0756,
+    "Noturus gyrinus": 0.0745,
+    "Noturus hildebrandi": 0.0748,
+    "Noturus insignis": 0.0745,
+    "Noturus lachneri": 0.0745,
+    "Noturus leptacanthus": 0.0745,
+    "Noturus maydeni": 0.0748,
+    "Noturus miurus": 0.0748,
+    "Noturus munitus": 0.0756,
+    "Noturus nocturnus": 0.0745,
+    "Noturus phaeus": 0.0745,
+    "Noturus placidus": 0.0756,
+    "Noturus stanauli": 0.0748,
+    "Noturus stigmosus": 0.0756,
+    "Noturus taylori": 0.0747,
+    "Prietella phreatophila": 0.0745,
+    "Pylodictis olivaris": 0.0745
+  },
+  "tiprates_bamm_mu": {
+    "Ameiurus brunneus": 0.0008,
+    "Ameiurus catus": 0.0008,
+    "Ameiurus melas": 0.0008,
+    "Ameiurus natalis": 0.0008,
+    "Ameiurus nebulosus": 0.0008,
+    "Ameiurus platycephalus": 0.0008,
+    "Ameiurus serracanthus": 0.0008,
+    "Ictalurus furcatus": 0.0008,
+    "Ictalurus lupus": 0.0008,
+    "Ictalurus pricei": 0.0008,
+    "Ictalurus punctatus": 0.0008,
+    "Noturus albater": 0.0011,
+    "Noturus baileyi": 0.0011,
+    "Noturus crypticus": 0.0011,
+    "Noturus elegans": 0.0011,
+    "Noturus eleutherus": 0.0019,
+    "Noturus exilis": 0.0009,
+    "Noturus flavater": 0.0019,
+    "Noturus flavipinnis": 0.0015,
+    "Noturus flavus": 0.001,
+    "Noturus funebris": 0.001,
+    "Noturus furiosus": 0.0019,
+    "Noturus gilberti": 0.001,
+    "Noturus gladiator": 0.0019,
+    "Noturus gyrinus": 0.001,
+    "Noturus hildebrandi": 0.0011,
+    "Noturus insignis": 0.001,
+    "Noturus lachneri": 0.001,
+    "Noturus leptacanthus": 0.001,
+    "Noturus maydeni": 0.0011,
+    "Noturus miurus": 0.0011,
+    "Noturus munitus": 0.0019,
+    "Noturus nocturnus": 0.001,
+    "Noturus phaeus": 0.001,
+    "Noturus placidus": 0.0019,
+    "Noturus stanauli": 0.0011,
+    "Noturus stigmosus": 0.0019,
+    "Noturus taylori": 0.0011,
+    "Prietella phreatophila": 0.0008,
+    "Pylodictis olivaris": 0.0008
+  },
+  "mean_dr": 0.1167,
+  "mean_bamm_lambda": 0.0748,
+  "mean_bamm_mu": 0.0011,
+  "matrix_phylip": "downloads/taxonomy/family/Ictaluridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Ictaluridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Ictaluridae.tre",
+  "phylogram": "downloads/taxonomy/family/Ictaluridae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

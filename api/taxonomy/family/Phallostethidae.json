@@ -1,0 +1,205 @@
+{
+  "species": [
+    "Gulaphallus bikolanus",
+    "Gulaphallus eximius",
+    "Gulaphallus falcifer",
+    "Gulaphallus mirabilis",
+    "Gulaphallus panayensis",
+    "Neostethus amaricola",
+    "Neostethus bicornis",
+    "Neostethus borneensis",
+    "Neostethus ctenophorus",
+    "Neostethus djajaorum",
+    "Neostethus lankesteri",
+    "Neostethus palawanensis",
+    "Neostethus robertsi",
+    "Neostethus thessa",
+    "Neostethus villadolidi",
+    "Neostethus zamboangae",
+    "Phallostethus cuulong",
+    "Phallostethus dunckeri",
+    "Phallostethus lehi",
+    "Phenacostethus posthon",
+    "Phenacostethus smithi",
+    "Phenacostethus trewavasae"
+  ],
+  "sampled_species": [
+    "Neostethus bicornis"
+  ],
+  "unsampled_species": [
+    "Gulaphallus bikolanus",
+    "Gulaphallus eximius",
+    "Gulaphallus falcifer",
+    "Gulaphallus mirabilis",
+    "Gulaphallus panayensis",
+    "Neostethus amaricola",
+    "Neostethus borneensis",
+    "Neostethus ctenophorus",
+    "Neostethus djajaorum",
+    "Neostethus lankesteri",
+    "Neostethus palawanensis",
+    "Neostethus robertsi",
+    "Neostethus thessa",
+    "Neostethus villadolidi",
+    "Neostethus zamboangae",
+    "Phallostethus cuulong",
+    "Phallostethus dunckeri",
+    "Phallostethus lehi",
+    "Phenacostethus posthon",
+    "Phenacostethus smithi",
+    "Phenacostethus trewavasae"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Neostethus bicornis"
+    ],
+    "4c4": [
+      "Neostethus bicornis"
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Neostethus bicornis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Phallostethidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Atheriniformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Atherinomorphae"
+    ]
+  },
+  "tiprates_dr": {
+    "Neostethus bicornis": 0.0633
+  },
+  "tiprates_bamm_lambda": {
+    "Neostethus bicornis": 0.0556
+  },
+  "tiprates_bamm_mu": {
+    "Neostethus bicornis": 0.0003
+  },
+  "mean_dr": 0.0633,
+  "mean_bamm_lambda": 0.0556,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Phallostethidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Phallostethidae.nex.xz"
+}

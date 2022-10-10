@@ -1,0 +1,186 @@
+{
+  "species": [
+    "Drepane africana",
+    "Drepane longimana",
+    "Drepane punctata"
+  ],
+  "sampled_species": [
+    "Drepane africana",
+    "Drepane longimana",
+    "Drepane punctata"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Drepane africana",
+      "Drepane punctata"
+    ],
+    "16s": [
+      "Drepane africana",
+      "Drepane punctata"
+    ],
+    "4c4": [
+      "Drepane africana"
+    ],
+    "coi": [
+      "Drepane longimana",
+      "Drepane punctata"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Drepane punctata"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Drepane punctata"
+    ],
+    "myh6": [
+      "Drepane punctata"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Drepane punctata"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Drepane africana",
+      "Drepane punctata"
+    ],
+    "rag2": [
+      "Drepane africana"
+    ],
+    "rhodopsin": [
+      "Drepane africana"
+    ],
+    "ripk4": [
+      "Drepane punctata"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Drepane punctata"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Drepaneidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Ephippiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Drepane africana": 0.0303,
+    "Drepane longimana": 0.028,
+    "Drepane punctata": 0.0274
+  },
+  "tiprates_bamm_lambda": {
+    "Drepane africana": 0.0578,
+    "Drepane longimana": 0.0578,
+    "Drepane punctata": 0.0578
+  },
+  "tiprates_bamm_mu": {
+    "Drepane africana": 0.0008,
+    "Drepane longimana": 0.0008,
+    "Drepane punctata": 0.0008
+  },
+  "mean_dr": 0.0285,
+  "mean_bamm_lambda": 0.0578,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Drepaneidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Drepaneidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Drepaneidae.tre",
+  "phylogram": "downloads/taxonomy/family/Drepaneidae_phylogram.tre",
+  "rogues": [
+    "Ephippus_orbis",
+    "Tripterodon_orbis"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Drepaneidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Drepaneidae_mrca_phylogram.tre"
+}

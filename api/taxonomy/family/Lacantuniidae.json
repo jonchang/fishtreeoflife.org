@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Lacantunia enigmatica"
+  ],
+  "sampled_species": [
+    "Lacantunia enigmatica"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Lacantunia enigmatica"
+    ],
+    "rag2": [
+      "Lacantunia enigmatica"
+    ],
+    "rhodopsin": [
+      "Lacantunia enigmatica"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Lacantuniidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Lacantunia enigmatica": 0.0466
+  },
+  "tiprates_bamm_lambda": {
+    "Lacantunia enigmatica": 0.0754
+  },
+  "tiprates_bamm_mu": {
+    "Lacantunia enigmatica": 0.0024
+  },
+  "mean_dr": 0.0466,
+  "mean_bamm_lambda": 0.0754,
+  "mean_bamm_mu": 0.0024,
+  "matrix_phylip": "downloads/taxonomy/family/Lacantuniidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Lacantuniidae.nex.xz"
+}

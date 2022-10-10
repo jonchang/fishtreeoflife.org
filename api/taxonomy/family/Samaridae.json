@@ -1,0 +1,297 @@
+{
+  "species": [
+    "Plagiopsetta glossa",
+    "Plagiopsetta gracilis",
+    "Plagiopsetta stigmosa",
+    "Samaris chesterfieldensis",
+    "Samaris costae",
+    "Samaris cristatus",
+    "Samaris macrolepis",
+    "Samaris spinea",
+    "Samariscus asanoi",
+    "Samariscus corallinus",
+    "Samariscus desoutterae",
+    "Samariscus filipectoralis",
+    "Samariscus huysmani",
+    "Samariscus inornatus",
+    "Samariscus japonicus",
+    "Samariscus latus",
+    "Samariscus leopardus",
+    "Samariscus longimanus",
+    "Samariscus luzonensis",
+    "Samariscus macrognathus",
+    "Samariscus maculatus",
+    "Samariscus multiradiatus",
+    "Samariscus neocaledonia",
+    "Samariscus nielseni",
+    "Samariscus sunieri",
+    "Samariscus triocellatus",
+    "Samariscus xenicus"
+  ],
+  "sampled_species": [
+    "Plagiopsetta glossa",
+    "Samaris cristatus",
+    "Samariscus japonicus",
+    "Samariscus latus",
+    "Samariscus xenicus"
+  ],
+  "unsampled_species": [
+    "Plagiopsetta gracilis",
+    "Plagiopsetta stigmosa",
+    "Samaris chesterfieldensis",
+    "Samaris costae",
+    "Samaris macrolepis",
+    "Samaris spinea",
+    "Samariscus asanoi",
+    "Samariscus corallinus",
+    "Samariscus desoutterae",
+    "Samariscus filipectoralis",
+    "Samariscus huysmani",
+    "Samariscus inornatus",
+    "Samariscus leopardus",
+    "Samariscus longimanus",
+    "Samariscus luzonensis",
+    "Samariscus macrognathus",
+    "Samariscus maculatus",
+    "Samariscus multiradiatus",
+    "Samariscus neocaledonia",
+    "Samariscus nielseni",
+    "Samariscus sunieri",
+    "Samariscus triocellatus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Plagiopsetta glossa",
+      "Samariscus xenicus"
+    ],
+    "16s": [
+      "Plagiopsetta glossa",
+      "Samariscus xenicus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Plagiopsetta glossa"
+    ],
+    "glyt": [
+      "Samariscus latus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Plagiopsetta glossa",
+      "Samariscus xenicus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Samariscus japonicus"
+    ],
+    "plagl2": [
+      "Samariscus latus"
+    ],
+    "ptr": [
+      "Samariscus japonicus",
+      "Samariscus xenicus"
+    ],
+    "rag1": [
+      "Samaris cristatus",
+      "Samariscus latus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Samaris cristatus",
+      "Samariscus latus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Samaridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pleuronectiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Pleuronectoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Plagiopsetta glossa": 0.0572,
+    "Samaris cristatus": 0.099,
+    "Samariscus japonicus": 0.0756,
+    "Samariscus latus": 0.0591,
+    "Samariscus xenicus": 0.0854
+  },
+  "tiprates_bamm_lambda": {
+    "Plagiopsetta glossa": 0.0919,
+    "Samaris cristatus": 0.0918,
+    "Samariscus japonicus": 0.0919,
+    "Samariscus latus": 0.0918,
+    "Samariscus xenicus": 0.0919
+  },
+  "tiprates_bamm_mu": {
+    "Plagiopsetta glossa": 0.0116,
+    "Samaris cristatus": 0.0116,
+    "Samariscus japonicus": 0.0116,
+    "Samariscus latus": 0.0116,
+    "Samariscus xenicus": 0.0116
+  },
+  "mean_dr": 0.0752,
+  "mean_bamm_lambda": 0.0918,
+  "mean_bamm_mu": 0.0116,
+  "matrix_phylip": "downloads/taxonomy/family/Samaridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Samaridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Samaridae.tre",
+  "phylogram": "downloads/taxonomy/family/Samaridae_phylogram.tre",
+  "rogues": [
+    "Solea_aegyptiaca",
+    "Solea_senegalensis",
+    "Solea_solea",
+    "Pegusa_impar",
+    "Synapturichthys_kleinii",
+    "Pegusa_cadenati",
+    "Pegusa_lascaris",
+    "Solea_ovata",
+    "Pegusa_nasuta",
+    "Microchirus_variegatus",
+    "Monochirus_hispidus",
+    "Microchirus_ocellatus",
+    "Bathysolea_profundicola",
+    "Microchirus_boscanion",
+    "Dicologlossa_hexophthalma",
+    "Microchirus_azevia",
+    "Dicologlossa_cuneata",
+    "Buglossidium_luteum",
+    "Austroglossus_pectoralis",
+    "Austroglossus_microlepis",
+    "Zebrias_fasciatus",
+    "Zebrias_zebra",
+    "Soleichthys_heterorhinos",
+    "Pseudaesopia_japonica",
+    "Pardachirus_morrowi",
+    "Pardachirus_marmoratus",
+    "Heteromycteris_japonicus",
+    "Synaptura_lusitanica_lusitanica",
+    "Cynoglossus_robustus",
+    "Cynoglossus_attenuatus",
+    "Cynoglossus_oligolepis",
+    "Cynoglossus_itinus",
+    "Cynoglossus_interruptus",
+    "Cynoglossus_kopsii",
+    "Cynoglossus_marleyi",
+    "Cynoglossus_lingua",
+    "Cynoglossus_macrostomus",
+    "Cynoglossus_puncticeps",
+    "Cynoglossus_lida",
+    "Cynoglossus_bilineatus",
+    "Cynoglossus_joyneri",
+    "Cynoglossus_lighti",
+    "Cynoglossus_cynoglossus",
+    "Cynoglossus_sinicus",
+    "Cynoglossus_browni",
+    "Cynoglossus_senegalensis",
+    "Paraplagusia_japonica",
+    "Aseraggodes_heemstrai",
+    "Aseraggodes_kobensis",
+    "Trinectes_maculatus",
+    "Trinectes_inscriptus",
+    "Trinectes_paulistanus",
+    "Catathyridium_jenynsii",
+    "Achirus_declivis",
+    "Hypoclinemus_mentalis",
+    "Achirus_lineatus",
+    "Gymnachirus_texae",
+    "Gymnachirus_melas"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Samaridae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Samaridae_mrca_phylogram.tre"
+}

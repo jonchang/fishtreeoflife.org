@@ -1,0 +1,490 @@
+{
+  "species": [
+    "Chaenocephalus aceratus",
+    "Chaenodraco wilsoni",
+    "Champsocephalus esox",
+    "Champsocephalus gunnari",
+    "Channichthys aelitae",
+    "Channichthys bospori",
+    "Channichthys irinae",
+    "Channichthys mithridatis",
+    "Channichthys panticapaei",
+    "Channichthys rhinoceratus",
+    "Channichthys richardsoni",
+    "Channichthys rugosus",
+    "Channichthys velifer",
+    "Chionobathyscus dewitti",
+    "Chionodraco hamatus",
+    "Chionodraco myersi",
+    "Chionodraco rastrospinosus",
+    "Cryodraco antarcticus",
+    "Cryodraco atkinsoni",
+    "Cryodraco pappenheimi",
+    "Dacodraco hunteri",
+    "Neopagetopsis ionah",
+    "Pagetopsis macropterus",
+    "Pagetopsis maculatus",
+    "Pseudochaenichthys georgianus"
+  ],
+  "sampled_species": [
+    "Chaenocephalus aceratus",
+    "Chaenodraco wilsoni",
+    "Champsocephalus esox",
+    "Champsocephalus gunnari",
+    "Channichthys rhinoceratus",
+    "Chionobathyscus dewitti",
+    "Chionodraco hamatus",
+    "Chionodraco myersi",
+    "Chionodraco rastrospinosus",
+    "Cryodraco antarcticus",
+    "Cryodraco atkinsoni",
+    "Dacodraco hunteri",
+    "Neopagetopsis ionah",
+    "Pagetopsis macropterus",
+    "Pagetopsis maculatus",
+    "Pseudochaenichthys georgianus"
+  ],
+  "unsampled_species": [
+    "Channichthys aelitae",
+    "Channichthys bospori",
+    "Channichthys irinae",
+    "Channichthys mithridatis",
+    "Channichthys panticapaei",
+    "Channichthys richardsoni",
+    "Channichthys rugosus",
+    "Channichthys velifer",
+    "Cryodraco pappenheimi"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Chaenocephalus aceratus",
+      "Champsocephalus esox",
+      "Champsocephalus gunnari",
+      "Chionodraco hamatus",
+      "Cryodraco antarcticus",
+      "Pagetopsis macropterus"
+    ],
+    "16s": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus esox",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Cryodraco atkinsoni",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Cryodraco atkinsoni",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ],
+    "cytb": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ],
+    "enc1": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus esox",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Cryodraco atkinsoni",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus esox",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Cryodraco atkinsoni",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus esox",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Cryodraco atkinsoni",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ],
+    "nd2": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus esox",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Cryodraco atkinsoni",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ],
+    "nd4": [
+      "Chaenocephalus aceratus",
+      "Champsocephalus gunnari",
+      "Chionodraco hamatus"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus esox",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Cryodraco atkinsoni",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ],
+    "ptr": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus esox",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Cryodraco atkinsoni",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ],
+    "rag1": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus esox",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Cryodraco atkinsoni",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus esox",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Cryodraco atkinsoni",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ],
+    "ripk4": [
+      "Chionodraco rastrospinosus"
+    ],
+    "sh3px3": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus esox",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Cryodraco atkinsoni",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus esox",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Cryodraco atkinsoni",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus esox",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Cryodraco atkinsoni",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Chaenocephalus aceratus",
+      "Chaenodraco wilsoni",
+      "Champsocephalus esox",
+      "Champsocephalus gunnari",
+      "Channichthys rhinoceratus",
+      "Chionobathyscus dewitti",
+      "Chionodraco hamatus",
+      "Chionodraco myersi",
+      "Chionodraco rastrospinosus",
+      "Cryodraco antarcticus",
+      "Cryodraco atkinsoni",
+      "Dacodraco hunteri",
+      "Neopagetopsis ionah",
+      "Pagetopsis macropterus",
+      "Pagetopsis maculatus",
+      "Pseudochaenichthys georgianus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Channichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Notothenioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Chaenocephalus aceratus": 0.2339,
+    "Chaenodraco wilsoni": 0.2449,
+    "Champsocephalus esox": 0.1641,
+    "Champsocephalus gunnari": 0.1641,
+    "Channichthys rhinoceratus": 0.6524,
+    "Chionobathyscus dewitti": 0.3491,
+    "Chionodraco hamatus": 0.308,
+    "Chionodraco myersi": 0.37,
+    "Chionodraco rastrospinosus": 0.37,
+    "Cryodraco antarcticus": 0.6374,
+    "Cryodraco atkinsoni": 0.6112,
+    "Dacodraco hunteri": 0.1198,
+    "Neopagetopsis ionah": 0.2575,
+    "Pagetopsis macropterus": 0.2736,
+    "Pagetopsis maculatus": 0.2736,
+    "Pseudochaenichthys georgianus": 0.2575
+  },
+  "tiprates_bamm_lambda": {
+    "Chaenocephalus aceratus": 0.2,
+    "Chaenodraco wilsoni": 0.2,
+    "Champsocephalus esox": 0.1974,
+    "Champsocephalus gunnari": 0.1974,
+    "Channichthys rhinoceratus": 0.2,
+    "Chionobathyscus dewitti": 0.2,
+    "Chionodraco hamatus": 0.2,
+    "Chionodraco myersi": 0.2,
+    "Chionodraco rastrospinosus": 0.2,
+    "Cryodraco antarcticus": 0.2,
+    "Cryodraco atkinsoni": 0.2,
+    "Dacodraco hunteri": 0.1977,
+    "Neopagetopsis ionah": 0.198,
+    "Pagetopsis macropterus": 0.198,
+    "Pagetopsis maculatus": 0.198,
+    "Pseudochaenichthys georgianus": 0.198
+  },
+  "tiprates_bamm_mu": {
+    "Chaenocephalus aceratus": 0.0242,
+    "Chaenodraco wilsoni": 0.0242,
+    "Champsocephalus esox": 0.0233,
+    "Champsocephalus gunnari": 0.0233,
+    "Channichthys rhinoceratus": 0.0242,
+    "Chionobathyscus dewitti": 0.0242,
+    "Chionodraco hamatus": 0.0242,
+    "Chionodraco myersi": 0.0242,
+    "Chionodraco rastrospinosus": 0.0242,
+    "Cryodraco antarcticus": 0.0242,
+    "Cryodraco atkinsoni": 0.0242,
+    "Dacodraco hunteri": 0.0233,
+    "Neopagetopsis ionah": 0.0236,
+    "Pagetopsis macropterus": 0.0236,
+    "Pagetopsis maculatus": 0.0236,
+    "Pseudochaenichthys georgianus": 0.0236
+  },
+  "mean_dr": 0.3304,
+  "mean_bamm_lambda": 0.199,
+  "mean_bamm_mu": 0.0239,
+  "matrix_phylip": "downloads/taxonomy/family/Channichthyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Channichthyidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Channichthyidae.tre",
+  "phylogram": "downloads/taxonomy/family/Channichthyidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

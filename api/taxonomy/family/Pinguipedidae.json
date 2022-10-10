@@ -1,0 +1,386 @@
+{
+  "species": [
+    "Kochichthys flavofasciatus",
+    "Parapercis albipinna",
+    "Parapercis alboguttata",
+    "Parapercis allporti",
+    "Parapercis atlantica",
+    "Parapercis aurantiaca",
+    "Parapercis australis",
+    "Parapercis banoni",
+    "Parapercis basimaculata",
+    "Parapercis bicoloripes",
+    "Parapercis bimacula",
+    "Parapercis binivirgata",
+    "Parapercis biordinis",
+    "Parapercis cephalopunctata",
+    "Parapercis clathrata",
+    "Parapercis colemani",
+    "Parapercis colias",
+    "Parapercis compressa",
+    "Parapercis cylindrica",
+    "Parapercis decemfasciata",
+    "Parapercis diagonalis",
+    "Parapercis diplospilus",
+    "Parapercis dockinsi",
+    "Parapercis filamentosa",
+    "Parapercis flavescens",
+    "Parapercis flavolabiata",
+    "Parapercis flavolineata",
+    "Parapercis fuscolineata",
+    "Parapercis gilliesii",
+    "Parapercis haackei",
+    "Parapercis hexophtalma",
+    "Parapercis kamoharai",
+    "Parapercis katoi",
+    "Parapercis kentingensis",
+    "Parapercis lata",
+    "Parapercis lineopunctata",
+    "Parapercis lutevittata",
+    "Parapercis macrophthalma",
+    "Parapercis maculata",
+    "Parapercis maramara",
+    "Parapercis maritzi",
+    "Parapercis millepunctata",
+    "Parapercis multifasciata",
+    "Parapercis multiplicata",
+    "Parapercis muronis",
+    "Parapercis natator",
+    "Parapercis nebulosa",
+    "Parapercis okamurai",
+    "Parapercis ommatura",
+    "Parapercis pacifica",
+    "Parapercis phenax",
+    "Parapercis pulchella",
+    "Parapercis punctata",
+    "Parapercis punctulata",
+    "Parapercis queenslandica",
+    "Parapercis ramsayi",
+    "Parapercis randalli",
+    "Parapercis robinsoni",
+    "Parapercis roseoviridis",
+    "Parapercis rubromaculata",
+    "Parapercis rufa",
+    "Parapercis sagma",
+    "Parapercis schauinslandii",
+    "Parapercis sexfasciata",
+    "Parapercis sexlorata",
+    "Parapercis shaoi",
+    "Parapercis signata",
+    "Parapercis simulata",
+    "Parapercis snyderi",
+    "Parapercis somaliensis",
+    "Parapercis stricticeps",
+    "Parapercis striolata",
+    "Parapercis tetracantha",
+    "Parapercis vittafrons",
+    "Parapercis xanthogramma",
+    "Parapercis xanthozona",
+    "Pinguipes brasilianus",
+    "Pinguipes chilensis",
+    "Prolatilus jugularis",
+    "Pseudopercis numida",
+    "Pseudopercis semifasciata",
+    "Ryukyupercis gushikeni",
+    "Simipercis trispinosa"
+  ],
+  "sampled_species": [
+    "Parapercis clathrata",
+    "Parapercis hexophtalma",
+    "Parapercis lutevittata",
+    "Parapercis millepunctata",
+    "Parapercis multifasciata",
+    "Parapercis pulchella",
+    "Parapercis punctulata",
+    "Parapercis xanthozona",
+    "Pinguipes brasilianus"
+  ],
+  "unsampled_species": [
+    "Kochichthys flavofasciatus",
+    "Parapercis albipinna",
+    "Parapercis alboguttata",
+    "Parapercis allporti",
+    "Parapercis atlantica",
+    "Parapercis aurantiaca",
+    "Parapercis australis",
+    "Parapercis banoni",
+    "Parapercis basimaculata",
+    "Parapercis bicoloripes",
+    "Parapercis bimacula",
+    "Parapercis binivirgata",
+    "Parapercis biordinis",
+    "Parapercis cephalopunctata",
+    "Parapercis colemani",
+    "Parapercis colias",
+    "Parapercis compressa",
+    "Parapercis cylindrica",
+    "Parapercis decemfasciata",
+    "Parapercis diagonalis",
+    "Parapercis diplospilus",
+    "Parapercis dockinsi",
+    "Parapercis filamentosa",
+    "Parapercis flavescens",
+    "Parapercis flavolabiata",
+    "Parapercis flavolineata",
+    "Parapercis fuscolineata",
+    "Parapercis gilliesii",
+    "Parapercis haackei",
+    "Parapercis kamoharai",
+    "Parapercis katoi",
+    "Parapercis kentingensis",
+    "Parapercis lata",
+    "Parapercis lineopunctata",
+    "Parapercis macrophthalma",
+    "Parapercis maculata",
+    "Parapercis maramara",
+    "Parapercis maritzi",
+    "Parapercis multiplicata",
+    "Parapercis muronis",
+    "Parapercis natator",
+    "Parapercis nebulosa",
+    "Parapercis okamurai",
+    "Parapercis ommatura",
+    "Parapercis pacifica",
+    "Parapercis phenax",
+    "Parapercis punctata",
+    "Parapercis queenslandica",
+    "Parapercis ramsayi",
+    "Parapercis randalli",
+    "Parapercis robinsoni",
+    "Parapercis roseoviridis",
+    "Parapercis rubromaculata",
+    "Parapercis rufa",
+    "Parapercis sagma",
+    "Parapercis schauinslandii",
+    "Parapercis sexfasciata",
+    "Parapercis sexlorata",
+    "Parapercis shaoi",
+    "Parapercis signata",
+    "Parapercis simulata",
+    "Parapercis snyderi",
+    "Parapercis somaliensis",
+    "Parapercis stricticeps",
+    "Parapercis striolata",
+    "Parapercis tetracantha",
+    "Parapercis vittafrons",
+    "Parapercis xanthogramma",
+    "Pinguipes chilensis",
+    "Prolatilus jugularis",
+    "Pseudopercis numida",
+    "Pseudopercis semifasciata",
+    "Ryukyupercis gushikeni",
+    "Simipercis trispinosa"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Parapercis clathrata",
+      "Parapercis hexophtalma",
+      "Parapercis lutevittata",
+      "Parapercis millepunctata",
+      "Parapercis multifasciata",
+      "Parapercis pulchella",
+      "Parapercis punctulata",
+      "Parapercis xanthozona",
+      "Pinguipes brasilianus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Parapercis clathrata"
+    ],
+    "hoxc6a": [
+      "Parapercis punctulata"
+    ],
+    "kiaa1239": [
+      "Parapercis clathrata",
+      "Parapercis hexophtalma",
+      "Parapercis punctulata"
+    ],
+    "myh6": [
+      "Parapercis clathrata",
+      "Parapercis hexophtalma",
+      "Parapercis punctulata"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Parapercis clathrata",
+      "Parapercis hexophtalma",
+      "Parapercis punctulata"
+    ],
+    "plagl2": [
+      "Parapercis clathrata",
+      "Parapercis hexophtalma"
+    ],
+    "ptr": [
+      "Parapercis clathrata",
+      "Parapercis hexophtalma",
+      "Parapercis punctulata"
+    ],
+    "rag1": [
+      "Parapercis clathrata"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Parapercis clathrata"
+    ],
+    "ripk4": [
+      "Parapercis clathrata",
+      "Parapercis hexophtalma",
+      "Parapercis punctulata"
+    ],
+    "sh3px3": [
+      "Parapercis clathrata",
+      "Parapercis hexophtalma"
+    ],
+    "sidkey": [
+      "Parapercis clathrata",
+      "Parapercis hexophtalma"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Parapercis clathrata"
+    ],
+    "vcpip": [
+      "Parapercis hexophtalma",
+      "Parapercis punctulata"
+    ],
+    "zic1": [
+      "Parapercis punctulata"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Pinguipedidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Uranoscopiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Parapercis clathrata": 0.1164,
+    "Parapercis hexophtalma": 0.0912,
+    "Parapercis lutevittata": 0.0989,
+    "Parapercis millepunctata": 0.15,
+    "Parapercis multifasciata": 0.0976,
+    "Parapercis pulchella": 0.0796,
+    "Parapercis punctulata": 0.1006,
+    "Parapercis xanthozona": 0.1623,
+    "Pinguipes brasilianus": 0.0489
+  },
+  "tiprates_bamm_lambda": {
+    "Parapercis clathrata": 0.0587,
+    "Parapercis hexophtalma": 0.0587,
+    "Parapercis lutevittata": 0.058,
+    "Parapercis millepunctata": 0.0587,
+    "Parapercis multifasciata": 0.058,
+    "Parapercis pulchella": 0.0584,
+    "Parapercis punctulata": 0.0587,
+    "Parapercis xanthozona": 0.0587,
+    "Pinguipes brasilianus": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Parapercis clathrata": 0.0011,
+    "Parapercis hexophtalma": 0.0011,
+    "Parapercis lutevittata": 0.0004,
+    "Parapercis millepunctata": 0.0011,
+    "Parapercis multifasciata": 0.0004,
+    "Parapercis pulchella": 0.0008,
+    "Parapercis punctulata": 0.0011,
+    "Parapercis xanthozona": 0.0011,
+    "Pinguipes brasilianus": 0.0003
+  },
+  "mean_dr": 0.1051,
+  "mean_bamm_lambda": 0.0584,
+  "mean_bamm_mu": 0.0009,
+  "matrix_phylip": "downloads/taxonomy/family/Pinguipedidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Pinguipedidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Pinguipedidae.tre",
+  "phylogram": "downloads/taxonomy/family/Pinguipedidae_phylogram.tre",
+  "rogues": [
+    "Ammodytes_tobianus",
+    "Hyperoplus_lanceolatus",
+    "Ammodytes_hexapterus",
+    "Ammodytes_dubius",
+    "Ammodytes_americanus",
+    "Ammodytes_personatus",
+    "Cheimarrichthys_fosteri"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Pinguipedidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Pinguipedidae_mrca_phylogram.tre"
+}

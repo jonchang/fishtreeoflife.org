@@ -1,0 +1,226 @@
+{
+  "species": [
+    "Boehlkenchelys longidentata",
+    "Catesbya pseudomuraena",
+    "Chilorhinus platyrhynchus",
+    "Chilorhinus suensonii",
+    "Chlopsis apterus",
+    "Chlopsis bicollaris",
+    "Chlopsis bicolor",
+    "Chlopsis bidentatus",
+    "Chlopsis dentatus",
+    "Chlopsis kazuko",
+    "Chlopsis longidens",
+    "Chlopsis olokun",
+    "Chlopsis slusserorum",
+    "Kaupichthys atronasus",
+    "Kaupichthys brachychirus",
+    "Kaupichthys diodontus",
+    "Kaupichthys hyoproroides",
+    "Kaupichthys japonicus",
+    "Kaupichthys nuchalis",
+    "Powellichthys ventriosus",
+    "Robinsia catherinae",
+    "Xenoconger fryeri"
+  ],
+  "sampled_species": [
+    "Chilorhinus platyrhynchus",
+    "Chilorhinus suensonii",
+    "Kaupichthys hyoproroides",
+    "Kaupichthys nuchalis"
+  ],
+  "unsampled_species": [
+    "Boehlkenchelys longidentata",
+    "Catesbya pseudomuraena",
+    "Chlopsis apterus",
+    "Chlopsis bicollaris",
+    "Chlopsis bicolor",
+    "Chlopsis bidentatus",
+    "Chlopsis dentatus",
+    "Chlopsis kazuko",
+    "Chlopsis longidens",
+    "Chlopsis olokun",
+    "Chlopsis slusserorum",
+    "Kaupichthys atronasus",
+    "Kaupichthys brachychirus",
+    "Kaupichthys diodontus",
+    "Kaupichthys japonicus",
+    "Powellichthys ventriosus",
+    "Robinsia catherinae",
+    "Xenoconger fryeri"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Chilorhinus platyrhynchus",
+      "Chilorhinus suensonii",
+      "Kaupichthys hyoproroides",
+      "Kaupichthys nuchalis"
+    ],
+    "16s": [
+      "Chilorhinus suensonii",
+      "Kaupichthys hyoproroides",
+      "Kaupichthys nuchalis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Chilorhinus suensonii",
+      "Kaupichthys hyoproroides",
+      "Kaupichthys nuchalis"
+    ],
+    "cytb": [
+      "Kaupichthys hyoproroides"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Chlopsidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Anguilliformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Chilorhinus platyrhynchus": 0.04,
+    "Chilorhinus suensonii": 0.04,
+    "Kaupichthys hyoproroides": 0.0727,
+    "Kaupichthys nuchalis": 0.0827
+  },
+  "tiprates_bamm_lambda": {
+    "Chilorhinus platyrhynchus": 0.0569,
+    "Chilorhinus suensonii": 0.0569,
+    "Kaupichthys hyoproroides": 0.0569,
+    "Kaupichthys nuchalis": 0.0569
+  },
+  "tiprates_bamm_mu": {
+    "Chilorhinus platyrhynchus": 0.0034,
+    "Chilorhinus suensonii": 0.0034,
+    "Kaupichthys hyoproroides": 0.0034,
+    "Kaupichthys nuchalis": 0.0034
+  },
+  "mean_dr": 0.0588,
+  "mean_bamm_lambda": 0.0569,
+  "mean_bamm_mu": 0.0034,
+  "matrix_phylip": "downloads/taxonomy/family/Chlopsidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Chlopsidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Chlopsidae.tre",
+  "phylogram": "downloads/taxonomy/family/Chlopsidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

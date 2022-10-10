@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Mene maculata"
+  ],
+  "sampled_species": [
+    "Mene maculata"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Mene maculata"
+    ],
+    "16s": [
+      "Mene maculata"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Mene maculata"
+    ],
+    "cytb": [
+      "Mene maculata"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Mene maculata"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Mene maculata"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Mene maculata"
+    ],
+    "ptr": [
+      "Mene maculata"
+    ],
+    "rag1": [
+      "Mene maculata"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Mene maculata"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Mene maculata"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Mene maculata"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Mene maculata"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Mene maculata"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Menidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Carangaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Mene maculata": 0.016
+  },
+  "tiprates_bamm_lambda": {
+    "Mene maculata": 0.0549
+  },
+  "tiprates_bamm_mu": {
+    "Mene maculata": 0.0006
+  },
+  "mean_dr": 0.016,
+  "mean_bamm_lambda": 0.0549,
+  "mean_bamm_mu": 0.0006,
+  "matrix_phylip": "downloads/taxonomy/family/Menidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Menidae.nex.xz"
+}

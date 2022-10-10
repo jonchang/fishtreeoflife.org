@@ -1,0 +1,169 @@
+{
+  "species": [
+    "Abyssoberyx levisquamosus",
+    "Acanthochaenus luetkenii",
+    "Malacosarcus macrostoma",
+    "Stephanoberyx monae"
+  ],
+  "sampled_species": [
+    "Acanthochaenus luetkenii"
+  ],
+  "unsampled_species": [
+    "Abyssoberyx levisquamosus",
+    "Malacosarcus macrostoma",
+    "Stephanoberyx monae"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Acanthochaenus luetkenii"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Stephanoberycidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Beryciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Berycimorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Acanthochaenus luetkenii": 0.0532
+  },
+  "tiprates_bamm_lambda": {
+    "Acanthochaenus luetkenii": 0.0548
+  },
+  "tiprates_bamm_mu": {
+    "Acanthochaenus luetkenii": 0.0003
+  },
+  "mean_dr": 0.0532,
+  "mean_bamm_lambda": 0.0548,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Stephanoberycidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Stephanoberycidae.nex.xz"
+}

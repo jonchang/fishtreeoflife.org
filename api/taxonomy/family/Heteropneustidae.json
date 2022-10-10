@@ -1,0 +1,174 @@
+{
+  "species": [
+    "Heteropneustes fossilis",
+    "Heteropneustes kemratensis",
+    "Heteropneustes longipectoralis",
+    "Heteropneustes microps"
+  ],
+  "sampled_species": [
+    "Heteropneustes fossilis",
+    "Heteropneustes microps"
+  ],
+  "unsampled_species": [
+    "Heteropneustes kemratensis",
+    "Heteropneustes longipectoralis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Heteropneustes fossilis"
+    ],
+    "16s": [
+      "Heteropneustes fossilis",
+      "Heteropneustes microps"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Heteropneustes fossilis",
+      "Heteropneustes microps"
+    ],
+    "cytb": [
+      "Heteropneustes fossilis"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Heteropneustes fossilis"
+    ],
+    "rag2": [
+      "Heteropneustes fossilis"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Heteropneustidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Heteropneustes fossilis": 0.0568,
+    "Heteropneustes microps": 0.0567
+  },
+  "tiprates_bamm_lambda": {
+    "Heteropneustes fossilis": 0.0792,
+    "Heteropneustes microps": 0.0792
+  },
+  "tiprates_bamm_mu": {
+    "Heteropneustes fossilis": 0.0036,
+    "Heteropneustes microps": 0.0036
+  },
+  "mean_dr": 0.0568,
+  "mean_bamm_lambda": 0.0792,
+  "mean_bamm_mu": 0.0036,
+  "matrix_phylip": "downloads/taxonomy/family/Heteropneustidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Heteropneustidae.nex.xz"
+}

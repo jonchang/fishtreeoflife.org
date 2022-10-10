@@ -1,0 +1,263 @@
+{
+  "species": [
+    "Acanthoclinus fuscus",
+    "Acanthoclinus littoreus",
+    "Acanthoclinus marilynae",
+    "Acanthoclinus matti",
+    "Acanthoclinus rua",
+    "Acanthoplesiops echinatus",
+    "Acanthoplesiops hiatti",
+    "Acanthoplesiops indicus",
+    "Acanthoplesiops naka",
+    "Acanthoplesiops psilogaster",
+    "Assessor flavissimus",
+    "Assessor macneilli",
+    "Assessor randalli",
+    "Beliops batanensis",
+    "Beliops xanthokrossos",
+    "Belonepterygion fasciolatum",
+    "Calloplesiops altivelis",
+    "Calloplesiops argus",
+    "Fraudella carassiops",
+    "Notograptus gregoryi",
+    "Notograptus guttatus",
+    "Paraplesiops alisonae",
+    "Paraplesiops bleekeri",
+    "Paraplesiops meleagris",
+    "Paraplesiops poweri",
+    "Paraplesiops sinclairi",
+    "Plesiops auritus",
+    "Plesiops cephalotaenia",
+    "Plesiops coeruleolineatus",
+    "Plesiops corallicola",
+    "Plesiops facicavus",
+    "Plesiops genaricus",
+    "Plesiops gracilis",
+    "Plesiops insularis",
+    "Plesiops malalaxus",
+    "Plesiops multisquamata",
+    "Plesiops mystaxus",
+    "Plesiops nakaharae",
+    "Plesiops nigricans",
+    "Plesiops oxycephalus",
+    "Plesiops polydactylus",
+    "Plesiops thysanopterus",
+    "Plesiops verecundus",
+    "Steeneichthys nativitatus",
+    "Steeneichthys plesiopsus",
+    "Trachinops brauni",
+    "Trachinops caudimaculatus",
+    "Trachinops noarlungae",
+    "Trachinops taeniatus"
+  ],
+  "sampled_species": [
+    "Plesiops cephalotaenia",
+    "Plesiops coeruleolineatus"
+  ],
+  "unsampled_species": [
+    "Acanthoclinus fuscus",
+    "Acanthoclinus littoreus",
+    "Acanthoclinus marilynae",
+    "Acanthoclinus matti",
+    "Acanthoclinus rua",
+    "Acanthoplesiops echinatus",
+    "Acanthoplesiops hiatti",
+    "Acanthoplesiops indicus",
+    "Acanthoplesiops naka",
+    "Acanthoplesiops psilogaster",
+    "Assessor flavissimus",
+    "Assessor macneilli",
+    "Assessor randalli",
+    "Beliops batanensis",
+    "Beliops xanthokrossos",
+    "Belonepterygion fasciolatum",
+    "Calloplesiops altivelis",
+    "Calloplesiops argus",
+    "Fraudella carassiops",
+    "Notograptus gregoryi",
+    "Notograptus guttatus",
+    "Paraplesiops alisonae",
+    "Paraplesiops bleekeri",
+    "Paraplesiops meleagris",
+    "Paraplesiops poweri",
+    "Paraplesiops sinclairi",
+    "Plesiops auritus",
+    "Plesiops corallicola",
+    "Plesiops facicavus",
+    "Plesiops genaricus",
+    "Plesiops gracilis",
+    "Plesiops insularis",
+    "Plesiops malalaxus",
+    "Plesiops multisquamata",
+    "Plesiops mystaxus",
+    "Plesiops nakaharae",
+    "Plesiops nigricans",
+    "Plesiops oxycephalus",
+    "Plesiops polydactylus",
+    "Plesiops thysanopterus",
+    "Plesiops verecundus",
+    "Steeneichthys nativitatus",
+    "Steeneichthys plesiopsus",
+    "Trachinops brauni",
+    "Trachinops caudimaculatus",
+    "Trachinops noarlungae",
+    "Trachinops taeniatus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Plesiops coeruleolineatus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Plesiops coeruleolineatus"
+    ],
+    "ficd": [
+      "Plesiops coeruleolineatus"
+    ],
+    "glyt": [
+      "Plesiops coeruleolineatus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Plesiops coeruleolineatus"
+    ],
+    "myh6": [
+      "Plesiops coeruleolineatus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Plesiops coeruleolineatus"
+    ],
+    "plagl2": [
+      "Plesiops coeruleolineatus"
+    ],
+    "ptr": [
+      "Plesiops coeruleolineatus"
+    ],
+    "rag1": [
+      "Plesiops cephalotaenia",
+      "Plesiops coeruleolineatus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Plesiops coeruleolineatus"
+    ],
+    "sh3px3": [
+      "Plesiops coeruleolineatus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Plesiops coeruleolineatus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+      "Plesiops coeruleolineatus"
+    ],
+    "zic1": [
+      "Plesiops coeruleolineatus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Plesiopidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Ovalentaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Plesiops cephalotaenia": 0.0648,
+    "Plesiops coeruleolineatus": 0.0553
+  },
+  "tiprates_bamm_lambda": {
+    "Plesiops cephalotaenia": 0.0936,
+    "Plesiops coeruleolineatus": 0.0936
+  },
+  "tiprates_bamm_mu": {
+    "Plesiops cephalotaenia": 0.0032,
+    "Plesiops coeruleolineatus": 0.0032
+  },
+  "mean_dr": 0.0601,
+  "mean_bamm_lambda": 0.0936,
+  "mean_bamm_mu": 0.0032,
+  "matrix_phylip": "downloads/taxonomy/family/Plesiopidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Plesiopidae.nex.xz"
+}

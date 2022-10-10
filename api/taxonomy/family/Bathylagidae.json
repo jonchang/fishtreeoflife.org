@@ -1,0 +1,240 @@
+{
+  "species": [
+    "Bathylagichthys australis",
+    "Bathylagichthys greyae",
+    "Bathylagichthys longipinnis",
+    "Bathylagichthys parini",
+    "Bathylagichthys problematicus",
+    "Bathylagoides argyrogaster",
+    "Bathylagoides nigrigenys",
+    "Bathylagoides wesethi",
+    "Bathylagus andriashevi",
+    "Bathylagus antarcticus",
+    "Bathylagus euryops",
+    "Bathylagus gracilis",
+    "Bathylagus niger",
+    "Bathylagus pacificus",
+    "Bathylagus tenuis",
+    "Dolicholagus longirostris",
+    "Leuroglossus callorhini",
+    "Leuroglossus schmidti",
+    "Leuroglossus stilbius",
+    "Lipolagus ochotensis",
+    "Melanolagus bericoides",
+    "Pseudobathylagus milleri"
+  ],
+  "sampled_species": [
+    "Bathylagus antarcticus",
+    "Bathylagus euryops",
+    "Bathylagus pacificus",
+    "Bathylagus tenuis",
+    "Dolicholagus longirostris",
+    "Lipolagus ochotensis",
+    "Pseudobathylagus milleri"
+  ],
+  "unsampled_species": [
+    "Bathylagichthys australis",
+    "Bathylagichthys greyae",
+    "Bathylagichthys longipinnis",
+    "Bathylagichthys parini",
+    "Bathylagichthys problematicus",
+    "Bathylagoides argyrogaster",
+    "Bathylagoides nigrigenys",
+    "Bathylagoides wesethi",
+    "Bathylagus andriashevi",
+    "Bathylagus gracilis",
+    "Bathylagus niger",
+    "Leuroglossus callorhini",
+    "Leuroglossus schmidti",
+    "Leuroglossus stilbius",
+    "Melanolagus bericoides"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Bathylagus euryops",
+      "Lipolagus ochotensis"
+    ],
+    "16s": [
+      "Bathylagus euryops",
+      "Lipolagus ochotensis",
+      "Pseudobathylagus milleri"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Bathylagus antarcticus",
+      "Bathylagus pacificus",
+      "Bathylagus tenuis",
+      "Dolicholagus longirostris",
+      "Pseudobathylagus milleri"
+    ],
+    "cytb": [
+      "Lipolagus ochotensis",
+      "Pseudobathylagus milleri"
+    ],
+    "enc1": [
+      "Dolicholagus longirostris"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Bathylagus euryops"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Bathylagus euryops",
+      "Dolicholagus longirostris"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Bathylagus euryops",
+      "Dolicholagus longirostris",
+      "Lipolagus ochotensis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Bathylagus euryops"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Bathylagus euryops"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Bathylagus euryops"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Bathylagus euryops",
+      "Dolicholagus longirostris"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Bathylagidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Argentiniformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Protacanthopterygii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Bathylagus antarcticus": 0.1377,
+    "Bathylagus euryops": 0.1041,
+    "Bathylagus pacificus": 0.2382,
+    "Bathylagus tenuis": 0.0707,
+    "Dolicholagus longirostris": 0.0332,
+    "Lipolagus ochotensis": 0.0446,
+    "Pseudobathylagus milleri": 0.2382
+  },
+  "tiprates_bamm_lambda": {
+    "Bathylagus antarcticus": 0.1944,
+    "Bathylagus euryops": 0.1944,
+    "Bathylagus pacificus": 0.1944,
+    "Bathylagus tenuis": 0.1944,
+    "Dolicholagus longirostris": 0.1924,
+    "Lipolagus ochotensis": 0.1924,
+    "Pseudobathylagus milleri": 0.1944
+  },
+  "tiprates_bamm_mu": {
+    "Bathylagus antarcticus": 0.1475,
+    "Bathylagus euryops": 0.1475,
+    "Bathylagus pacificus": 0.1475,
+    "Bathylagus tenuis": 0.1475,
+    "Dolicholagus longirostris": 0.1469,
+    "Lipolagus ochotensis": 0.1469,
+    "Pseudobathylagus milleri": 0.1475
+  },
+  "mean_dr": 0.1238,
+  "mean_bamm_lambda": 0.1938,
+  "mean_bamm_mu": 0.1473,
+  "matrix_phylip": "downloads/taxonomy/family/Bathylagidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Bathylagidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Bathylagidae.tre",
+  "phylogram": "downloads/taxonomy/family/Bathylagidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

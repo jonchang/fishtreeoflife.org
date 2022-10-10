@@ -1,0 +1,285 @@
+{
+  "species": [
+    "Drepane africana",
+    "Drepane longimana",
+    "Drepane punctata",
+    "Chaetodipterus faber",
+    "Chaetodipterus lippei",
+    "Chaetodipterus zonatus",
+    "Ephippus goreensis",
+    "Ephippus orbis",
+    "Parapsettus panamensis",
+    "Platax batavianus",
+    "Platax boersii",
+    "Platax orbicularis",
+    "Platax pinnatus",
+    "Platax teira",
+    "Proteracanthus sarissophorus",
+    "Rhinoprenes pentanemus",
+    "Tripterodon orbis",
+    "Zabidius novemaculeatus"
+  ],
+  "sampled_species": [
+    "Drepane africana",
+    "Drepane longimana",
+    "Drepane punctata",
+    "Chaetodipterus faber",
+    "Ephippus orbis",
+    "Platax batavianus",
+    "Platax boersii",
+    "Platax orbicularis",
+    "Platax pinnatus",
+    "Platax teira",
+    "Tripterodon orbis"
+  ],
+  "unsampled_species": [
+    "Chaetodipterus lippei",
+    "Chaetodipterus zonatus",
+    "Ephippus goreensis",
+    "Parapsettus panamensis",
+    "Proteracanthus sarissophorus",
+    "Rhinoprenes pentanemus",
+    "Zabidius novemaculeatus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Drepane africana",
+      "Drepane punctata",
+      "Chaetodipterus faber",
+      "Platax orbicularis"
+    ],
+    "16s": [
+      "Drepane africana",
+      "Drepane punctata",
+      "Chaetodipterus faber",
+      "Platax orbicularis"
+    ],
+    "4c4": [
+      "Drepane africana",
+      "Chaetodipterus faber",
+      "Platax orbicularis"
+    ],
+    "coi": [
+      "Drepane longimana",
+      "Drepane punctata",
+      "Chaetodipterus faber",
+      "Ephippus orbis",
+      "Platax batavianus",
+      "Platax orbicularis",
+      "Platax pinnatus",
+      "Platax teira",
+      "Tripterodon orbis"
+    ],
+    "cytb": [
+      "Platax orbicularis"
+    ],
+    "enc1": [
+      "Chaetodipterus faber",
+      "Platax boersii",
+      "Platax orbicularis",
+      "Platax teira"
+    ],
+    "ficd": [
+      "Drepane punctata",
+      "Chaetodipterus faber",
+      "Platax orbicularis",
+      "Platax teira"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Chaetodipterus faber",
+      "Platax orbicularis",
+      "Platax teira"
+    ],
+    "kiaa1239": [
+      "Drepane punctata",
+      "Chaetodipterus faber",
+      "Platax teira"
+    ],
+    "myh6": [
+      "Drepane punctata",
+      "Chaetodipterus faber",
+      "Platax boersii",
+      "Platax orbicularis",
+      "Platax teira"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Chaetodipterus faber",
+      "Platax teira"
+    ],
+    "plagl2": [
+      "Drepane punctata",
+      "Chaetodipterus faber",
+      "Platax boersii",
+      "Platax teira"
+    ],
+    "ptr": [
+      "Platax orbicularis",
+      "Platax teira"
+    ],
+    "rag1": [
+      "Drepane africana",
+      "Drepane punctata",
+      "Chaetodipterus faber",
+      "Platax boersii",
+      "Platax orbicularis",
+      "Platax teira"
+    ],
+    "rag2": [
+      "Drepane africana",
+      "Chaetodipterus faber",
+      "Platax orbicularis"
+    ],
+    "rhodopsin": [
+      "Drepane africana"
+    ],
+    "ripk4": [
+      "Drepane punctata",
+      "Platax orbicularis"
+    ],
+    "sh3px3": [
+      "Chaetodipterus faber",
+      "Platax orbicularis"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Chaetodipterus faber",
+      "Platax orbicularis",
+      "Platax teira"
+    ],
+    "tbr1": [
+      "Platax orbicularis",
+      "Platax teira"
+    ],
+    "vcpip": [
+      "Chaetodipterus faber",
+      "Platax teira"
+    ],
+    "zic1": [
+      "Drepane punctata",
+      "Chaetodipterus faber",
+      "Platax boersii",
+      "Platax orbicularis",
+      "Platax teira"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Drepaneidae",
+      "Ephippidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Ephippiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Chaetodipterus faber": 0.0245,
+    "Drepane africana": 0.0303,
+    "Drepane longimana": 0.028,
+    "Drepane punctata": 0.0274,
+    "Ephippus orbis": 0.0653,
+    "Platax batavianus": 0.0283,
+    "Platax boersii": 0.0577,
+    "Platax orbicularis": 0.0322,
+    "Platax pinnatus": 0.028,
+    "Platax teira": 0.0552,
+    "Tripterodon orbis": 0.0419
+  },
+  "tiprates_bamm_lambda": {
+    "Chaetodipterus faber": 0.0579,
+    "Drepane africana": 0.0578,
+    "Drepane longimana": 0.0578,
+    "Drepane punctata": 0.0578,
+    "Ephippus orbis": 0.0578,
+    "Platax batavianus": 0.0579,
+    "Platax boersii": 0.0579,
+    "Platax orbicularis": 0.0579,
+    "Platax pinnatus": 0.0579,
+    "Platax teira": 0.0579,
+    "Tripterodon orbis": 0.0578
+  },
+  "tiprates_bamm_mu": {
+    "Chaetodipterus faber": 0.0007,
+    "Drepane africana": 0.0008,
+    "Drepane longimana": 0.0008,
+    "Drepane punctata": 0.0008,
+    "Ephippus orbis": 0.0008,
+    "Platax batavianus": 0.0007,
+    "Platax boersii": 0.0007,
+    "Platax orbicularis": 0.0007,
+    "Platax pinnatus": 0.0007,
+    "Platax teira": 0.0007,
+    "Tripterodon orbis": 0.0008
+  },
+  "mean_dr": 0.0381,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/order/Ephippiformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Ephippiformes.nex.xz",
+  "chronogram": "downloads/taxonomy/order/Ephippiformes.tre",
+  "phylogram": "downloads/taxonomy/order/Ephippiformes_phylogram.tre",
+  "rogues": [
+
+  ]
+}

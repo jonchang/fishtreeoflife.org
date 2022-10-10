@@ -1,0 +1,170 @@
+{
+  "species": [
+    "Centrarchops chapini",
+    "Dinoperca petersi"
+  ],
+  "sampled_species": [
+    "Centrarchops chapini",
+    "Dinoperca petersi"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Centrarchops chapini",
+      "Dinoperca petersi"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Dinoperca petersi"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Dinoperca petersi"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Dinoperca petersi"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Dinoperca petersi"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Dinoperca petersi"
+    ],
+    "ptr": [
+      "Dinoperca petersi"
+    ],
+    "rag1": [
+      "Dinoperca petersi"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Dinoperca petersi"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Dinoperca petersi"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Dinoperca petersi"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Dinoperca petersi"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Dinopercidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Centrarchops chapini": 0.0373,
+    "Dinoperca petersi": 0.0373
+  },
+  "tiprates_bamm_lambda": {
+    "Centrarchops chapini": 0.0581,
+    "Dinoperca petersi": 0.0581
+  },
+  "tiprates_bamm_mu": {
+    "Centrarchops chapini": 0.0005,
+    "Dinoperca petersi": 0.0005
+  },
+  "mean_dr": 0.0373,
+  "mean_bamm_lambda": 0.0581,
+  "mean_bamm_mu": 0.0005,
+  "matrix_phylip": "downloads/taxonomy/family/Dinopercidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Dinopercidae.nex.xz"
+}

@@ -1,0 +1,194 @@
+{
+  "species": [
+    "Aplodactylus arctidens",
+    "Aplodactylus etheridgii",
+    "Aplodactylus lophodon",
+    "Aplodactylus punctatus",
+    "Aplodactylus westralis"
+  ],
+  "sampled_species": [
+    "Aplodactylus arctidens",
+    "Aplodactylus etheridgii",
+    "Aplodactylus lophodon",
+    "Aplodactylus punctatus",
+    "Aplodactylus westralis"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Aplodactylus arctidens",
+      "Aplodactylus punctatus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+      "Aplodactylus arctidens",
+      "Aplodactylus etheridgii",
+      "Aplodactylus lophodon",
+      "Aplodactylus punctatus",
+      "Aplodactylus westralis"
+    ],
+    "enc1": [
+      "Aplodactylus arctidens"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Aplodactylus arctidens"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Aplodactylus arctidens"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Aplodactylus punctatus"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Aplodactylus arctidens"
+    ],
+    "ptr": [
+      "Aplodactylus arctidens"
+    ],
+    "rag1": [
+      "Aplodactylus arctidens"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Aplodactylus punctatus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Aplodactylus arctidens"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Aplodactylus arctidens"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Aplodactylus arctidens"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Aplodactylus arctidens"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Aplodactylidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Centrarchiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cirrhitioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Aplodactylus arctidens": 0.0522,
+    "Aplodactylus etheridgii": 0.0355,
+    "Aplodactylus lophodon": 0.0355,
+    "Aplodactylus punctatus": 0.0522,
+    "Aplodactylus westralis": 0.0366
+  },
+  "tiprates_bamm_lambda": {
+    "Aplodactylus arctidens": 0.0579,
+    "Aplodactylus etheridgii": 0.0579,
+    "Aplodactylus lophodon": 0.0579,
+    "Aplodactylus punctatus": 0.0579,
+    "Aplodactylus westralis": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Aplodactylus arctidens": 0.0003,
+    "Aplodactylus etheridgii": 0.0003,
+    "Aplodactylus lophodon": 0.0003,
+    "Aplodactylus punctatus": 0.0003,
+    "Aplodactylus westralis": 0.0003
+  },
+  "mean_dr": 0.0424,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Aplodactylidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Aplodactylidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Aplodactylidae.tre",
+  "phylogram": "downloads/taxonomy/family/Aplodactylidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

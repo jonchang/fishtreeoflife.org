@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Zanclus cornutus"
+  ],
+  "sampled_species": [
+    "Zanclus cornutus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Zanclus cornutus"
+    ],
+    "16s": [
+      "Zanclus cornutus"
+    ],
+    "4c4": [
+      "Zanclus cornutus"
+    ],
+    "coi": [
+      "Zanclus cornutus"
+    ],
+    "cytb": [
+      "Zanclus cornutus"
+    ],
+    "enc1": [
+      "Zanclus cornutus"
+    ],
+    "ficd": [
+      "Zanclus cornutus"
+    ],
+    "glyt": [
+      "Zanclus cornutus"
+    ],
+    "hoxc6a": [
+      "Zanclus cornutus"
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Zanclus cornutus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Zanclus cornutus"
+    ],
+    "plagl2": [
+      "Zanclus cornutus"
+    ],
+    "ptr": [
+      "Zanclus cornutus"
+    ],
+    "rag1": [
+      "Zanclus cornutus"
+    ],
+    "rag2": [
+      "Zanclus cornutus"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Zanclus cornutus"
+    ],
+    "sh3px3": [
+      "Zanclus cornutus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Zanclus cornutus"
+    ],
+    "svep1": [
+      "Zanclus cornutus"
+    ],
+    "tbr1": [
+      "Zanclus cornutus"
+    ],
+    "vcpip": [
+      "Zanclus cornutus"
+    ],
+    "zic1": [
+      "Zanclus cornutus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Zanclidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Acanthuriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Zanclus cornutus": 0.0128
+  },
+  "tiprates_bamm_lambda": {
+    "Zanclus cornutus": 0.0582
+  },
+  "tiprates_bamm_mu": {
+    "Zanclus cornutus": 0.0006
+  },
+  "mean_dr": 0.0128,
+  "mean_bamm_lambda": 0.0582,
+  "mean_bamm_mu": 0.0006,
+  "matrix_phylip": "downloads/taxonomy/family/Zanclidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Zanclidae.nex.xz"
+}

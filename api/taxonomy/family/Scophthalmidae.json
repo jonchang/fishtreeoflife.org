@@ -1,0 +1,232 @@
+{
+  "species": [
+    "Lepidorhombus boscii",
+    "Lepidorhombus whiffiagonis",
+    "Phrynorhombus norvegicus",
+    "Scophthalmus aquosus",
+    "Scophthalmus maeoticus",
+    "Scophthalmus maximus",
+    "Scophthalmus rhombus",
+    "Zeugopterus punctatus",
+    "Zeugopterus regius"
+  ],
+  "sampled_species": [
+    "Lepidorhombus boscii",
+    "Lepidorhombus whiffiagonis",
+    "Phrynorhombus norvegicus",
+    "Scophthalmus aquosus",
+    "Scophthalmus maeoticus",
+    "Scophthalmus maximus",
+    "Scophthalmus rhombus",
+    "Zeugopterus punctatus"
+  ],
+  "unsampled_species": [
+    "Zeugopterus regius"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Lepidorhombus boscii",
+      "Lepidorhombus whiffiagonis",
+      "Scophthalmus aquosus",
+      "Scophthalmus maximus",
+      "Scophthalmus rhombus"
+    ],
+    "16s": [
+      "Lepidorhombus boscii",
+      "Lepidorhombus whiffiagonis",
+      "Phrynorhombus norvegicus",
+      "Scophthalmus aquosus",
+      "Scophthalmus maeoticus",
+      "Scophthalmus maximus",
+      "Scophthalmus rhombus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Lepidorhombus boscii",
+      "Lepidorhombus whiffiagonis",
+      "Phrynorhombus norvegicus",
+      "Scophthalmus aquosus",
+      "Scophthalmus maximus",
+      "Scophthalmus rhombus",
+      "Zeugopterus punctatus"
+    ],
+    "cytb": [
+      "Lepidorhombus boscii",
+      "Lepidorhombus whiffiagonis",
+      "Phrynorhombus norvegicus",
+      "Scophthalmus maximus",
+      "Scophthalmus rhombus",
+      "Zeugopterus punctatus"
+    ],
+    "enc1": [
+      "Scophthalmus aquosus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Scophthalmus aquosus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Lepidorhombus boscii"
+    ],
+    "myh6": [
+      "Scophthalmus aquosus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Scophthalmus aquosus"
+    ],
+    "plagl2": [
+      "Scophthalmus aquosus"
+    ],
+    "ptr": [
+      "Scophthalmus aquosus"
+    ],
+    "rag1": [
+      "Scophthalmus aquosus",
+      "Scophthalmus rhombus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Lepidorhombus boscii",
+      "Lepidorhombus whiffiagonis",
+      "Phrynorhombus norvegicus",
+      "Scophthalmus maximus",
+      "Scophthalmus rhombus",
+      "Zeugopterus punctatus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Scophthalmus aquosus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Scophthalmus aquosus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+      "Lepidorhombus boscii"
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Scophthalmidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pleuronectiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Pleuronectoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Lepidorhombus boscii": 0.0327,
+    "Lepidorhombus whiffiagonis": 0.0327,
+    "Phrynorhombus norvegicus": 0.0294,
+    "Scophthalmus aquosus": 0.0167,
+    "Scophthalmus maeoticus": 0.0549,
+    "Scophthalmus maximus": 0.0549,
+    "Scophthalmus rhombus": 0.0275,
+    "Zeugopterus punctatus": 0.0455
+  },
+  "tiprates_bamm_lambda": {
+    "Lepidorhombus boscii": 0.0588,
+    "Lepidorhombus whiffiagonis": 0.0588,
+    "Phrynorhombus norvegicus": 0.0588,
+    "Scophthalmus aquosus": 0.0588,
+    "Scophthalmus maeoticus": 0.0588,
+    "Scophthalmus maximus": 0.0588,
+    "Scophthalmus rhombus": 0.0588,
+    "Zeugopterus punctatus": 0.0588
+  },
+  "tiprates_bamm_mu": {
+    "Lepidorhombus boscii": 0.0012,
+    "Lepidorhombus whiffiagonis": 0.0012,
+    "Phrynorhombus norvegicus": 0.0012,
+    "Scophthalmus aquosus": 0.0012,
+    "Scophthalmus maeoticus": 0.0012,
+    "Scophthalmus maximus": 0.0012,
+    "Scophthalmus rhombus": 0.0012,
+    "Zeugopterus punctatus": 0.0012
+  },
+  "mean_dr": 0.0368,
+  "mean_bamm_lambda": 0.0588,
+  "mean_bamm_mu": 0.0012,
+  "matrix_phylip": "downloads/taxonomy/family/Scophthalmidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Scophthalmidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Scophthalmidae.tre",
+  "phylogram": "downloads/taxonomy/family/Scophthalmidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

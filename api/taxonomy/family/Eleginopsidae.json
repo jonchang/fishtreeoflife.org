@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Eleginops maclovinus"
+  ],
+  "sampled_species": [
+    "Eleginops maclovinus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Eleginops maclovinus"
+    ],
+    "16s": [
+      "Eleginops maclovinus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Eleginops maclovinus"
+    ],
+    "cytb": [
+      "Eleginops maclovinus"
+    ],
+    "enc1": [
+      "Eleginops maclovinus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Eleginops maclovinus"
+    ],
+    "nd2": [
+      "Eleginops maclovinus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+      "Eleginops maclovinus"
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Eleginops maclovinus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Eleginops maclovinus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Eleginops maclovinus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Eleginops maclovinus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Eleginopsidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Notothenioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Eleginops maclovinus": 0.0199
+  },
+  "tiprates_bamm_lambda": {
+    "Eleginops maclovinus": 0.0582
+  },
+  "tiprates_bamm_mu": {
+    "Eleginops maclovinus": 0.0006
+  },
+  "mean_dr": 0.0199,
+  "mean_bamm_lambda": 0.0582,
+  "mean_bamm_mu": 0.0006,
+  "matrix_phylip": "downloads/taxonomy/family/Eleginopsidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Eleginopsidae.nex.xz"
+}

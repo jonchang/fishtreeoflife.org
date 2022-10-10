@@ -1,0 +1,329 @@
+{
+  "species": [
+    "Sphyraena acutipinnis",
+    "Sphyraena afra",
+    "Sphyraena argentea",
+    "Sphyraena barracuda",
+    "Sphyraena borealis",
+    "Sphyraena chrysotaenia",
+    "Sphyraena ensis",
+    "Sphyraena flavicauda",
+    "Sphyraena forsteri",
+    "Sphyraena guachancho",
+    "Sphyraena helleri",
+    "Sphyraena iburiensis",
+    "Sphyraena idiastes",
+    "Sphyraena intermedia",
+    "Sphyraena japonica",
+    "Sphyraena jello",
+    "Sphyraena lucasana",
+    "Sphyraena novaehollandiae",
+    "Sphyraena obtusata",
+    "Sphyraena picudilla",
+    "Sphyraena pinguis",
+    "Sphyraena putnamae",
+    "Sphyraena qenie",
+    "Sphyraena sphyraena",
+    "Sphyraena tome",
+    "Sphyraena viridensis",
+    "Sphyraena waitii"
+  ],
+  "sampled_species": [
+    "Sphyraena acutipinnis",
+    "Sphyraena argentea",
+    "Sphyraena barracuda",
+    "Sphyraena borealis",
+    "Sphyraena chrysotaenia",
+    "Sphyraena ensis",
+    "Sphyraena flavicauda",
+    "Sphyraena forsteri",
+    "Sphyraena guachancho",
+    "Sphyraena helleri",
+    "Sphyraena iburiensis",
+    "Sphyraena idiastes",
+    "Sphyraena japonica",
+    "Sphyraena jello",
+    "Sphyraena obtusata",
+    "Sphyraena picudilla",
+    "Sphyraena pinguis",
+    "Sphyraena putnamae",
+    "Sphyraena sphyraena",
+    "Sphyraena viridensis"
+  ],
+  "unsampled_species": [
+    "Sphyraena afra",
+    "Sphyraena intermedia",
+    "Sphyraena lucasana",
+    "Sphyraena novaehollandiae",
+    "Sphyraena qenie",
+    "Sphyraena tome",
+    "Sphyraena waitii"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Sphyraena barracuda",
+      "Sphyraena guachancho",
+      "Sphyraena jello",
+      "Sphyraena sphyraena"
+    ],
+    "16s": [
+      "Sphyraena argentea",
+      "Sphyraena barracuda",
+      "Sphyraena chrysotaenia",
+      "Sphyraena flavicauda",
+      "Sphyraena guachancho",
+      "Sphyraena idiastes",
+      "Sphyraena sphyraena"
+    ],
+    "4c4": [
+      "Sphyraena argentea",
+      "Sphyraena barracuda",
+      "Sphyraena borealis",
+      "Sphyraena guachancho"
+    ],
+    "coi": [
+      "Sphyraena acutipinnis",
+      "Sphyraena argentea",
+      "Sphyraena barracuda",
+      "Sphyraena chrysotaenia",
+      "Sphyraena ensis",
+      "Sphyraena forsteri",
+      "Sphyraena guachancho",
+      "Sphyraena jello",
+      "Sphyraena obtusata",
+      "Sphyraena picudilla",
+      "Sphyraena pinguis",
+      "Sphyraena putnamae",
+      "Sphyraena sphyraena"
+    ],
+    "cytb": [
+      "Sphyraena acutipinnis",
+      "Sphyraena barracuda",
+      "Sphyraena forsteri",
+      "Sphyraena helleri",
+      "Sphyraena iburiensis",
+      "Sphyraena japonica",
+      "Sphyraena obtusata",
+      "Sphyraena pinguis",
+      "Sphyraena putnamae",
+      "Sphyraena sphyraena",
+      "Sphyraena viridensis"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Sphyraena barracuda"
+    ],
+    "hoxc6a": [
+      "Sphyraena barracuda",
+      "Sphyraena putnamae"
+    ],
+    "kiaa1239": [
+      "Sphyraena argentea",
+      "Sphyraena barracuda"
+    ],
+    "myh6": [
+      "Sphyraena argentea",
+      "Sphyraena barracuda",
+      "Sphyraena putnamae"
+    ],
+    "nd2": [
+      "Sphyraena barracuda"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Sphyraena barracuda",
+      "Sphyraena putnamae"
+    ],
+    "plagl2": [
+      "Sphyraena argentea",
+      "Sphyraena barracuda"
+    ],
+    "ptr": [
+      "Sphyraena argentea",
+      "Sphyraena barracuda",
+      "Sphyraena putnamae"
+    ],
+    "rag1": [
+      "Sphyraena argentea",
+      "Sphyraena barracuda",
+      "Sphyraena guachancho"
+    ],
+    "rag2": [
+      "Sphyraena barracuda",
+      "Sphyraena guachancho"
+    ],
+    "rhodopsin": [
+      "Sphyraena argentea",
+      "Sphyraena barracuda",
+      "Sphyraena guachancho",
+      "Sphyraena sphyraena",
+      "Sphyraena viridensis"
+    ],
+    "ripk4": [
+      "Sphyraena argentea",
+      "Sphyraena barracuda"
+    ],
+    "sh3px3": [
+      "Sphyraena argentea",
+      "Sphyraena barracuda"
+    ],
+    "sidkey": [
+      "Sphyraena argentea"
+    ],
+    "sreb2": [
+      "Sphyraena barracuda"
+    ],
+    "svep1": [
+      "Sphyraena barracuda"
+    ],
+    "tbr1": [
+      "Sphyraena barracuda"
+    ],
+    "vcpip": [
+      "Sphyraena barracuda",
+      "Sphyraena putnamae"
+    ],
+    "zic1": [
+      "Sphyraena barracuda"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Sphyraenidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Carangaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Sphyraena acutipinnis": 0.0307,
+    "Sphyraena argentea": 0.0658,
+    "Sphyraena barracuda": 0.0258,
+    "Sphyraena borealis": 0.065,
+    "Sphyraena chrysotaenia": 0.0552,
+    "Sphyraena ensis": 0.0446,
+    "Sphyraena flavicauda": 0.0237,
+    "Sphyraena forsteri": 0.0217,
+    "Sphyraena guachancho": 0.0434,
+    "Sphyraena helleri": 0.0326,
+    "Sphyraena iburiensis": 0.0365,
+    "Sphyraena idiastes": 0.0378,
+    "Sphyraena japonica": 0.032,
+    "Sphyraena jello": 0.0293,
+    "Sphyraena obtusata": 0.0544,
+    "Sphyraena picudilla": 0.0491,
+    "Sphyraena pinguis": 0.0362,
+    "Sphyraena putnamae": 0.0298,
+    "Sphyraena sphyraena": 0.0483,
+    "Sphyraena viridensis": 0.0419
+  },
+  "tiprates_bamm_lambda": {
+    "Sphyraena acutipinnis": 0.055,
+    "Sphyraena argentea": 0.055,
+    "Sphyraena barracuda": 0.0554,
+    "Sphyraena borealis": 0.055,
+    "Sphyraena chrysotaenia": 0.055,
+    "Sphyraena ensis": 0.0554,
+    "Sphyraena flavicauda": 0.055,
+    "Sphyraena forsteri": 0.0554,
+    "Sphyraena guachancho": 0.0554,
+    "Sphyraena helleri": 0.055,
+    "Sphyraena iburiensis": 0.055,
+    "Sphyraena idiastes": 0.055,
+    "Sphyraena japonica": 0.055,
+    "Sphyraena jello": 0.0554,
+    "Sphyraena obtusata": 0.055,
+    "Sphyraena picudilla": 0.055,
+    "Sphyraena pinguis": 0.055,
+    "Sphyraena putnamae": 0.0554,
+    "Sphyraena sphyraena": 0.055,
+    "Sphyraena viridensis": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Sphyraena acutipinnis": 0.0003,
+    "Sphyraena argentea": 0.0003,
+    "Sphyraena barracuda": 0.0022,
+    "Sphyraena borealis": 0.0003,
+    "Sphyraena chrysotaenia": 0.0003,
+    "Sphyraena ensis": 0.0022,
+    "Sphyraena flavicauda": 0.0003,
+    "Sphyraena forsteri": 0.0022,
+    "Sphyraena guachancho": 0.0022,
+    "Sphyraena helleri": 0.0003,
+    "Sphyraena iburiensis": 0.0003,
+    "Sphyraena idiastes": 0.0003,
+    "Sphyraena japonica": 0.0003,
+    "Sphyraena jello": 0.0022,
+    "Sphyraena obtusata": 0.0003,
+    "Sphyraena picudilla": 0.0003,
+    "Sphyraena pinguis": 0.0003,
+    "Sphyraena putnamae": 0.0022,
+    "Sphyraena sphyraena": 0.0003,
+    "Sphyraena viridensis": 0.0003
+  },
+  "mean_dr": 0.0402,
+  "mean_bamm_lambda": 0.0551,
+  "mean_bamm_mu": 0.0009,
+  "matrix_phylip": "downloads/taxonomy/family/Sphyraenidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Sphyraenidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Sphyraenidae.tre",
+  "phylogram": "downloads/taxonomy/family/Sphyraenidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

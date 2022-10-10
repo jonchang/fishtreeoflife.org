@@ -1,0 +1,335 @@
+{
+  "species": [
+    "Adrianichthys kruyti",
+    "Adrianichthys oophorus",
+    "Adrianichthys poptae",
+    "Adrianichthys roseni",
+    "Oryzias asinua",
+    "Oryzias bonneorum",
+    "Oryzias carnaticus",
+    "Oryzias celebensis",
+    "Oryzias curvinotus",
+    "Oryzias dancena",
+    "Oryzias eversi",
+    "Oryzias hadiatyae",
+    "Oryzias haugiangensis",
+    "Oryzias hubbsi",
+    "Oryzias javanicus",
+    "Oryzias latipes",
+    "Oryzias luzonensis",
+    "Oryzias marmoratus",
+    "Oryzias matanensis",
+    "Oryzias mekongensis",
+    "Oryzias melastigma",
+    "Oryzias minutillus",
+    "Oryzias nebulosus",
+    "Oryzias nigrimas",
+    "Oryzias orthognathus",
+    "Oryzias pectoralis",
+    "Oryzias profundicola",
+    "Oryzias sakaizumii",
+    "Oryzias sarasinorum",
+    "Oryzias setnai",
+    "Oryzias sinensis",
+    "Oryzias songkhramensis",
+    "Oryzias timorensis",
+    "Oryzias uwai",
+    "Oryzias wolasi",
+    "Oryzias woworae"
+  ],
+  "sampled_species": [
+    "Adrianichthys oophorus",
+    "Oryzias carnaticus",
+    "Oryzias celebensis",
+    "Oryzias curvinotus",
+    "Oryzias dancena",
+    "Oryzias eversi",
+    "Oryzias hadiatyae",
+    "Oryzias hubbsi",
+    "Oryzias javanicus",
+    "Oryzias latipes",
+    "Oryzias luzonensis",
+    "Oryzias marmoratus",
+    "Oryzias matanensis",
+    "Oryzias mekongensis",
+    "Oryzias minutillus",
+    "Oryzias nigrimas",
+    "Oryzias profundicola",
+    "Oryzias sarasinorum",
+    "Oryzias sinensis"
+  ],
+  "unsampled_species": [
+    "Adrianichthys kruyti",
+    "Adrianichthys poptae",
+    "Adrianichthys roseni",
+    "Oryzias asinua",
+    "Oryzias bonneorum",
+    "Oryzias haugiangensis",
+    "Oryzias melastigma",
+    "Oryzias nebulosus",
+    "Oryzias orthognathus",
+    "Oryzias pectoralis",
+    "Oryzias sakaizumii",
+    "Oryzias setnai",
+    "Oryzias songkhramensis",
+    "Oryzias timorensis",
+    "Oryzias uwai",
+    "Oryzias wolasi",
+    "Oryzias woworae"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Adrianichthys oophorus",
+      "Oryzias celebensis",
+      "Oryzias curvinotus",
+      "Oryzias dancena",
+      "Oryzias hubbsi",
+      "Oryzias javanicus",
+      "Oryzias latipes",
+      "Oryzias luzonensis",
+      "Oryzias marmoratus",
+      "Oryzias matanensis",
+      "Oryzias mekongensis",
+      "Oryzias minutillus",
+      "Oryzias nigrimas",
+      "Oryzias profundicola",
+      "Oryzias sarasinorum"
+    ],
+    "16s": [
+      "Adrianichthys oophorus",
+      "Oryzias celebensis",
+      "Oryzias curvinotus",
+      "Oryzias dancena",
+      "Oryzias eversi",
+      "Oryzias hadiatyae",
+      "Oryzias hubbsi",
+      "Oryzias javanicus",
+      "Oryzias latipes",
+      "Oryzias luzonensis",
+      "Oryzias marmoratus",
+      "Oryzias matanensis",
+      "Oryzias mekongensis",
+      "Oryzias minutillus",
+      "Oryzias nigrimas",
+      "Oryzias profundicola",
+      "Oryzias sarasinorum"
+    ],
+    "4c4": [
+      "Oryzias matanensis"
+    ],
+    "coi": [
+      "Oryzias sinensis"
+    ],
+    "cytb": [
+      "Adrianichthys oophorus",
+      "Oryzias carnaticus",
+      "Oryzias celebensis",
+      "Oryzias curvinotus",
+      "Oryzias dancena",
+      "Oryzias javanicus",
+      "Oryzias latipes",
+      "Oryzias luzonensis",
+      "Oryzias marmoratus",
+      "Oryzias matanensis",
+      "Oryzias minutillus",
+      "Oryzias nigrimas",
+      "Oryzias sarasinorum",
+      "Oryzias sinensis"
+    ],
+    "enc1": [
+      "Oryzias latipes"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Oryzias latipes"
+    ],
+    "hoxc6a": [
+      "Oryzias latipes"
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Oryzias latipes"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Oryzias latipes"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Oryzias latipes"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Oryzias latipes"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Oryzias latipes"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Oryzias latipes"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Oryzias latipes"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Adrianichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Beloniformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Adrianichthyoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Atherinomorphae"
+    ]
+  },
+  "tiprates_dr": {
+    "Adrianichthys oophorus": 0.0325,
+    "Oryzias carnaticus": 0.055,
+    "Oryzias celebensis": 0.0328,
+    "Oryzias curvinotus": 0.069,
+    "Oryzias dancena": 0.0233,
+    "Oryzias eversi": 0.0919,
+    "Oryzias hadiatyae": 0.1857,
+    "Oryzias hubbsi": 0.0365,
+    "Oryzias javanicus": 0.0315,
+    "Oryzias latipes": 0.045,
+    "Oryzias luzonensis": 0.0685,
+    "Oryzias marmoratus": 0.0604,
+    "Oryzias matanensis": 0.0233,
+    "Oryzias mekongensis": 0.0441,
+    "Oryzias minutillus": 0.0487,
+    "Oryzias nigrimas": 0.0963,
+    "Oryzias profundicola": 0.183,
+    "Oryzias sarasinorum": 0.0899,
+    "Oryzias sinensis": 0.019
+  },
+  "tiprates_bamm_lambda": {
+    "Adrianichthys oophorus": 0.0556,
+    "Oryzias carnaticus": 0.0556,
+    "Oryzias celebensis": 0.0556,
+    "Oryzias curvinotus": 0.0556,
+    "Oryzias dancena": 0.0556,
+    "Oryzias eversi": 0.0556,
+    "Oryzias hadiatyae": 0.0556,
+    "Oryzias hubbsi": 0.0556,
+    "Oryzias javanicus": 0.0556,
+    "Oryzias latipes": 0.0556,
+    "Oryzias luzonensis": 0.0556,
+    "Oryzias marmoratus": 0.0556,
+    "Oryzias matanensis": 0.0556,
+    "Oryzias mekongensis": 0.0556,
+    "Oryzias minutillus": 0.0556,
+    "Oryzias nigrimas": 0.0556,
+    "Oryzias profundicola": 0.0556,
+    "Oryzias sarasinorum": 0.0556,
+    "Oryzias sinensis": 0.0556
+  },
+  "tiprates_bamm_mu": {
+    "Adrianichthys oophorus": 0.0003,
+    "Oryzias carnaticus": 0.0003,
+    "Oryzias celebensis": 0.0003,
+    "Oryzias curvinotus": 0.0003,
+    "Oryzias dancena": 0.0003,
+    "Oryzias eversi": 0.0003,
+    "Oryzias hadiatyae": 0.0003,
+    "Oryzias hubbsi": 0.0003,
+    "Oryzias javanicus": 0.0003,
+    "Oryzias latipes": 0.0003,
+    "Oryzias luzonensis": 0.0003,
+    "Oryzias marmoratus": 0.0003,
+    "Oryzias matanensis": 0.0003,
+    "Oryzias mekongensis": 0.0003,
+    "Oryzias minutillus": 0.0003,
+    "Oryzias nigrimas": 0.0003,
+    "Oryzias profundicola": 0.0003,
+    "Oryzias sarasinorum": 0.0003,
+    "Oryzias sinensis": 0.0003
+  },
+  "mean_dr": 0.0651,
+  "mean_bamm_lambda": 0.0556,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/suborder/Adrianichthyoidei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/suborder/Adrianichthyoidei.nex.xz",
+  "chronogram": "downloads/taxonomy/suborder/Adrianichthyoidei.tre",
+  "phylogram": "downloads/taxonomy/suborder/Adrianichthyoidei_phylogram.tre",
+  "rogues": [
+
+  ]
+}

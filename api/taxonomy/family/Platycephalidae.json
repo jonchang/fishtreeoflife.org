@@ -1,0 +1,464 @@
+{
+  "species": [
+    "Ambiserrula jugosa",
+    "Cociella crocodilus",
+    "Cociella heemstrai",
+    "Cociella hutchinsi",
+    "Cociella punctata",
+    "Cociella somaliensis",
+    "Cymbacephalus beauforti",
+    "Cymbacephalus bosschei",
+    "Cymbacephalus nematophthalmus",
+    "Cymbacephalus staigeri",
+    "Elates ransonnettii",
+    "Grammoplites knappi",
+    "Grammoplites scaber",
+    "Grammoplites suppositus",
+    "Inegocia harrisii",
+    "Inegocia japonica",
+    "Inegocia ochiaii",
+    "Kumococius rodericensis",
+    "Leviprora inops",
+    "Onigocia bimaculata",
+    "Onigocia grandisquama",
+    "Onigocia lacrimalis",
+    "Onigocia macrolepis",
+    "Onigocia oligolepis",
+    "Onigocia pedimacula",
+    "Onigocia sibogae",
+    "Onigocia spinosa",
+    "Papilloculiceps longiceps",
+    "Platycephalus aurimaculatus",
+    "Platycephalus bassensis",
+    "Platycephalus caeruleopunctatus",
+    "Platycephalus chauliodous",
+    "Platycephalus conatus",
+    "Platycephalus cultellatus",
+    "Platycephalus endrachtensis",
+    "Platycephalus fuscus",
+    "Platycephalus indicus",
+    "Platycephalus laevigatus",
+    "Platycephalus longispinis",
+    "Platycephalus marmoratus",
+    "Platycephalus micracanthus",
+    "Platycephalus orbitalis",
+    "Platycephalus richardsoni",
+    "Platycephalus speculator",
+    "Platycephalus westraliae",
+    "Ratabulus diversidens",
+    "Ratabulus fulviguttatus",
+    "Ratabulus megacephalus",
+    "Ratabulus ventralis",
+    "Rogadius asper",
+    "Rogadius mcgroutheri",
+    "Rogadius patriciae",
+    "Rogadius pristiger",
+    "Rogadius serratus",
+    "Rogadius welanderi",
+    "Solitas gruveli",
+    "Sorsogona humerosa",
+    "Sorsogona melanoptera",
+    "Sorsogona nigripinna",
+    "Sorsogona portuguesa",
+    "Sorsogona prionota",
+    "Sorsogona tuberculata",
+    "Suggrundus cooperi",
+    "Suggrundus macracanthus",
+    "Suggrundus meerdervoortii",
+    "Sunagocia arenicola",
+    "Sunagocia carbunculus",
+    "Sunagocia otaitensis",
+    "Sunagocia sainsburyi",
+    "Thysanophrys armata",
+    "Thysanophrys celebica",
+    "Thysanophrys chiltonae",
+    "Thysanophrys cirronasa",
+    "Thysanophrys longirostris",
+    "Thysanophrys papillaris",
+    "Thysanophrys randalli",
+    "Thysanophrys rarita",
+    "Thysanophrys springeri",
+    "Thysanophrys tricaudata"
+  ],
+  "sampled_species": [
+    "Ambiserrula jugosa",
+    "Cociella heemstrai",
+    "Cymbacephalus staigeri",
+    "Inegocia harrisii",
+    "Leviprora inops",
+    "Onigocia bimaculata",
+    "Onigocia grandisquama",
+    "Onigocia macrolepis",
+    "Onigocia spinosa",
+    "Papilloculiceps longiceps",
+    "Platycephalus aurimaculatus",
+    "Platycephalus bassensis",
+    "Platycephalus caeruleopunctatus",
+    "Platycephalus conatus",
+    "Platycephalus endrachtensis",
+    "Platycephalus fuscus",
+    "Platycephalus indicus",
+    "Platycephalus laevigatus",
+    "Platycephalus longispinis",
+    "Platycephalus marmoratus",
+    "Platycephalus orbitalis",
+    "Platycephalus richardsoni",
+    "Platycephalus speculator",
+    "Platycephalus westraliae",
+    "Ratabulus diversidens",
+    "Ratabulus fulviguttatus",
+    "Rogadius patriciae",
+    "Rogadius pristiger",
+    "Sorsogona portuguesa",
+    "Sorsogona prionota",
+    "Sorsogona tuberculata",
+    "Suggrundus macracanthus",
+    "Suggrundus meerdervoortii",
+    "Sunagocia arenicola",
+    "Thysanophrys chiltonae"
+  ],
+  "unsampled_species": [
+    "Cociella crocodilus",
+    "Cociella hutchinsi",
+    "Cociella punctata",
+    "Cociella somaliensis",
+    "Cymbacephalus beauforti",
+    "Cymbacephalus bosschei",
+    "Cymbacephalus nematophthalmus",
+    "Elates ransonnettii",
+    "Grammoplites knappi",
+    "Grammoplites scaber",
+    "Grammoplites suppositus",
+    "Inegocia japonica",
+    "Inegocia ochiaii",
+    "Kumococius rodericensis",
+    "Onigocia lacrimalis",
+    "Onigocia oligolepis",
+    "Onigocia pedimacula",
+    "Onigocia sibogae",
+    "Platycephalus chauliodous",
+    "Platycephalus cultellatus",
+    "Platycephalus micracanthus",
+    "Ratabulus megacephalus",
+    "Ratabulus ventralis",
+    "Rogadius asper",
+    "Rogadius mcgroutheri",
+    "Rogadius serratus",
+    "Rogadius welanderi",
+    "Solitas gruveli",
+    "Sorsogona humerosa",
+    "Sorsogona melanoptera",
+    "Sorsogona nigripinna",
+    "Suggrundus cooperi",
+    "Sunagocia carbunculus",
+    "Sunagocia otaitensis",
+    "Sunagocia sainsburyi",
+    "Thysanophrys armata",
+    "Thysanophrys celebica",
+    "Thysanophrys cirronasa",
+    "Thysanophrys longirostris",
+    "Thysanophrys papillaris",
+    "Thysanophrys randalli",
+    "Thysanophrys rarita",
+    "Thysanophrys springeri",
+    "Thysanophrys tricaudata"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Platycephalus bassensis",
+      "Platycephalus richardsoni"
+    ],
+    "4c4": [
+      "Platycephalus bassensis"
+    ],
+    "coi": [
+      "Ambiserrula jugosa",
+      "Cociella heemstrai",
+      "Cymbacephalus staigeri",
+      "Inegocia harrisii",
+      "Leviprora inops",
+      "Onigocia bimaculata",
+      "Onigocia grandisquama",
+      "Onigocia macrolepis",
+      "Onigocia spinosa",
+      "Papilloculiceps longiceps",
+      "Platycephalus aurimaculatus",
+      "Platycephalus bassensis",
+      "Platycephalus caeruleopunctatus",
+      "Platycephalus conatus",
+      "Platycephalus endrachtensis",
+      "Platycephalus fuscus",
+      "Platycephalus indicus",
+      "Platycephalus laevigatus",
+      "Platycephalus longispinis",
+      "Platycephalus marmoratus",
+      "Platycephalus orbitalis",
+      "Platycephalus richardsoni",
+      "Platycephalus speculator",
+      "Platycephalus westraliae",
+      "Ratabulus diversidens",
+      "Ratabulus fulviguttatus",
+      "Rogadius patriciae",
+      "Rogadius pristiger",
+      "Sorsogona portuguesa",
+      "Sorsogona prionota",
+      "Sorsogona tuberculata",
+      "Suggrundus macracanthus",
+      "Suggrundus meerdervoortii",
+      "Sunagocia arenicola",
+      "Thysanophrys chiltonae"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Thysanophrys chiltonae"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Sunagocia arenicola",
+      "Thysanophrys chiltonae"
+    ],
+    "kiaa1239": [
+      "Sunagocia arenicola",
+      "Thysanophrys chiltonae"
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+      "Platycephalus bassensis"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Onigocia bimaculata"
+    ],
+    "ripk4": [
+      "Sunagocia arenicola",
+      "Thysanophrys chiltonae"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Sunagocia arenicola"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Platycephalidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Ambiserrula jugosa": 0.0407,
+    "Cociella heemstrai": 0.0795,
+    "Cymbacephalus staigeri": 0.0663,
+    "Inegocia harrisii": 0.0491,
+    "Leviprora inops": 0.0361,
+    "Onigocia bimaculata": 0.0579,
+    "Onigocia grandisquama": 0.0664,
+    "Onigocia macrolepis": 0.0623,
+    "Onigocia spinosa": 0.0511,
+    "Papilloculiceps longiceps": 0.0447,
+    "Platycephalus aurimaculatus": 0.0853,
+    "Platycephalus bassensis": 0.0378,
+    "Platycephalus caeruleopunctatus": 0.0411,
+    "Platycephalus conatus": 0.0582,
+    "Platycephalus endrachtensis": 0.0408,
+    "Platycephalus fuscus": 0.078,
+    "Platycephalus indicus": 0.0765,
+    "Platycephalus laevigatus": 0.0224,
+    "Platycephalus marmoratus": 0.0479,
+    "Platycephalus orbitalis": 0.0483,
+    "Platycephalus richardsoni": 0.0873,
+    "Platycephalus speculator": 0.0422,
+    "Platycephalus westraliae": 0.0576,
+    "Ratabulus diversidens": 0.062,
+    "Ratabulus fulviguttatus": 0.0399,
+    "Rogadius patriciae": 0.0653,
+    "Rogadius pristiger": 0.0629,
+    "Sorsogona portuguesa": 0.0515,
+    "Sorsogona prionota": 0.0453,
+    "Sorsogona tuberculata": 0.0466,
+    "Suggrundus macracanthus": 0.0541,
+    "Suggrundus meerdervoortii": 0.0581,
+    "Sunagocia arenicola": 0.0866,
+    "Thysanophrys chiltonae": 0.0686,
+    "Platycephalus longispinis": 0.0382
+  },
+  "tiprates_bamm_lambda": {
+    "Ambiserrula jugosa": 0.0579,
+    "Cociella heemstrai": 0.0579,
+    "Cymbacephalus staigeri": 0.0579,
+    "Inegocia harrisii": 0.0579,
+    "Leviprora inops": 0.0579,
+    "Onigocia bimaculata": 0.0579,
+    "Onigocia grandisquama": 0.0579,
+    "Onigocia macrolepis": 0.0579,
+    "Onigocia spinosa": 0.0579,
+    "Papilloculiceps longiceps": 0.0579,
+    "Platycephalus aurimaculatus": 0.0579,
+    "Platycephalus bassensis": 0.0579,
+    "Platycephalus caeruleopunctatus": 0.0579,
+    "Platycephalus conatus": 0.0579,
+    "Platycephalus endrachtensis": 0.0579,
+    "Platycephalus fuscus": 0.0579,
+    "Platycephalus indicus": 0.0579,
+    "Platycephalus laevigatus": 0.0579,
+    "Platycephalus marmoratus": 0.0579,
+    "Platycephalus orbitalis": 0.0579,
+    "Platycephalus richardsoni": 0.0579,
+    "Platycephalus speculator": 0.0579,
+    "Platycephalus westraliae": 0.0579,
+    "Ratabulus diversidens": 0.0579,
+    "Ratabulus fulviguttatus": 0.0579,
+    "Rogadius patriciae": 0.0579,
+    "Rogadius pristiger": 0.0579,
+    "Sorsogona portuguesa": 0.0579,
+    "Sorsogona prionota": 0.0579,
+    "Sorsogona tuberculata": 0.0579,
+    "Suggrundus macracanthus": 0.0579,
+    "Suggrundus meerdervoortii": 0.0579,
+    "Sunagocia arenicola": 0.0579,
+    "Thysanophrys chiltonae": 0.0579,
+    "Platycephalus longispinis": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Ambiserrula jugosa": 0.0003,
+    "Cociella heemstrai": 0.0003,
+    "Cymbacephalus staigeri": 0.0003,
+    "Inegocia harrisii": 0.0003,
+    "Leviprora inops": 0.0003,
+    "Onigocia bimaculata": 0.0003,
+    "Onigocia grandisquama": 0.0003,
+    "Onigocia macrolepis": 0.0003,
+    "Onigocia spinosa": 0.0003,
+    "Papilloculiceps longiceps": 0.0003,
+    "Platycephalus aurimaculatus": 0.0003,
+    "Platycephalus bassensis": 0.0003,
+    "Platycephalus caeruleopunctatus": 0.0003,
+    "Platycephalus conatus": 0.0003,
+    "Platycephalus endrachtensis": 0.0003,
+    "Platycephalus fuscus": 0.0003,
+    "Platycephalus indicus": 0.0003,
+    "Platycephalus laevigatus": 0.0003,
+    "Platycephalus marmoratus": 0.0003,
+    "Platycephalus orbitalis": 0.0003,
+    "Platycephalus richardsoni": 0.0003,
+    "Platycephalus speculator": 0.0003,
+    "Platycephalus westraliae": 0.0003,
+    "Ratabulus diversidens": 0.0003,
+    "Ratabulus fulviguttatus": 0.0003,
+    "Rogadius patriciae": 0.0003,
+    "Rogadius pristiger": 0.0003,
+    "Sorsogona portuguesa": 0.0003,
+    "Sorsogona prionota": 0.0003,
+    "Sorsogona tuberculata": 0.0003,
+    "Suggrundus macracanthus": 0.0003,
+    "Suggrundus meerdervoortii": 0.0003,
+    "Sunagocia arenicola": 0.0003,
+    "Thysanophrys chiltonae": 0.0003,
+    "Platycephalus longispinis": 0.0003
+  },
+  "mean_dr": 0.0559,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Platycephalidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Platycephalidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Platycephalidae.tre",
+  "phylogram": "downloads/taxonomy/family/Platycephalidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "species": [
+    "Diretmichthys parini",
+    "Diretmoides pauciradiatus",
+    "Diretmoides veriginae",
+    "Diretmus argenteus"
+  ],
+  "sampled_species": [
+    "Diretmichthys parini",
+    "Diretmus argenteus"
+  ],
+  "unsampled_species": [
+    "Diretmoides pauciradiatus",
+    "Diretmoides veriginae"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Diretmus argenteus"
+    ],
+    "16s": [
+      "Diretmus argenteus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Diretmus argenteus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Diretmichthys parini"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Diretmichthys parini"
+    ],
+    "kiaa1239": [
+      "Diretmichthys parini",
+      "Diretmus argenteus"
+    ],
+    "myh6": [
+      "Diretmichthys parini"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Diretmus argenteus"
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Diretmichthys parini",
+      "Diretmus argenteus"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+      "Diretmus argenteus"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Diretmidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Beryciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Berycimorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Diretmichthys parini": 0.0329,
+    "Diretmus argenteus": 0.0314
+  },
+  "tiprates_bamm_lambda": {
+    "Diretmichthys parini": 0.0548,
+    "Diretmus argenteus": 0.0548
+  },
+  "tiprates_bamm_mu": {
+    "Diretmichthys parini": 0.0003,
+    "Diretmus argenteus": 0.0003
+  },
+  "mean_dr": 0.0321,
+  "mean_bamm_lambda": 0.0548,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Diretmidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Diretmidae.nex.xz"
+}

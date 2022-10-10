@@ -1,0 +1,173 @@
+{
+  "species": [
+    "Aphredoderus gib",
+    "Aphredoderus sayanus"
+  ],
+  "sampled_species": [
+    "Aphredoderus gib",
+    "Aphredoderus sayanus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Aphredoderus sayanus"
+    ],
+    "16s": [
+      "Aphredoderus sayanus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Aphredoderus sayanus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Aphredoderus sayanus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Aphredoderus gib",
+      "Aphredoderus sayanus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Aphredoderus gib",
+      "Aphredoderus sayanus"
+    ],
+    "nd2": [
+      "Aphredoderus sayanus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Aphredoderus gib",
+      "Aphredoderus sayanus"
+    ],
+    "ptr": [
+      "Aphredoderus gib",
+      "Aphredoderus sayanus"
+    ],
+    "rag1": [
+      "Aphredoderus gib",
+      "Aphredoderus sayanus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Aphredoderus sayanus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Aphredoderus sayanus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Aphredoderus sayanus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Aphredoderus gib",
+      "Aphredoderus sayanus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Aphredoderus gib",
+      "Aphredoderus sayanus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Aphredoderidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Percopsiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Percopsaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Aphredoderus sayanus": 0.025
+  },
+  "tiprates_bamm_lambda": {
+    "Aphredoderus sayanus": 0.0524
+  },
+  "tiprates_bamm_mu": {
+    "Aphredoderus sayanus": 0.0007
+  },
+  "mean_dr": 0.025,
+  "mean_bamm_lambda": 0.0524,
+  "mean_bamm_mu": 0.0007,
+  "matrix_phylip": "downloads/taxonomy/family/Aphredoderidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Aphredoderidae.nex.xz"
+}

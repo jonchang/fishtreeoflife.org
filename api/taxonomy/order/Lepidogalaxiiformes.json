@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Lepidogalaxias salamandroides"
+  ],
+  "sampled_species": [
+    "Lepidogalaxias salamandroides"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Lepidogalaxias salamandroides"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Lepidogalaxias salamandroides"
+    ],
+    "cytb": [
+      "Lepidogalaxias salamandroides"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Lepidogalaxias salamandroides"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Lepidogalaxias salamandroides"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Lepidogalaxias salamandroides"
+    ],
+    "ptr": [
+      "Lepidogalaxias salamandroides"
+    ],
+    "rag1": [
+      "Lepidogalaxias salamandroides"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Lepidogalaxias salamandroides"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Lepidogalaxias salamandroides"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Lepidogalaxias salamandroides"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Lepidogalaxias salamandroides"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Lepidogalaxias salamandroides"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Lepidogalaxiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lepidogalaxiiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Lepidogalaxii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Lepidogalaxias salamandroides": 0.0054
+  },
+  "tiprates_bamm_lambda": {
+    "Lepidogalaxias salamandroides": 0.0334
+  },
+  "tiprates_bamm_mu": {
+    "Lepidogalaxias salamandroides": 0.0015
+  },
+  "mean_dr": 0.0054,
+  "mean_bamm_lambda": 0.0334,
+  "mean_bamm_mu": 0.0015,
+  "matrix_phylip": "downloads/taxonomy/order/Lepidogalaxiiformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Lepidogalaxiiformes.nex.xz"
+}

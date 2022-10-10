@@ -1,0 +1,416 @@
+{
+  "species": [
+    "Diapterus auratus",
+    "Diapterus aureolus",
+    "Diapterus brevirostris",
+    "Diapterus peruvianus",
+    "Diapterus rhombeus",
+    "Eucinostomus argenteus",
+    "Eucinostomus currani",
+    "Eucinostomus dowii",
+    "Eucinostomus entomelas",
+    "Eucinostomus gracilis",
+    "Eucinostomus gula",
+    "Eucinostomus harengulus",
+    "Eucinostomus havana",
+    "Eucinostomus jonesii",
+    "Eucinostomus melanopterus",
+    "Eugerres axillaris",
+    "Eugerres brasilianus",
+    "Eugerres brevimanus",
+    "Eugerres castroaguirrei",
+    "Eugerres lineatus",
+    "Eugerres mexicanus",
+    "Eugerres periche",
+    "Eugerres plumieri",
+    "Gerres akazakii",
+    "Gerres baconensis",
+    "Gerres chrysops",
+    "Gerres cinereus",
+    "Gerres decacanthus",
+    "Gerres equulus",
+    "Gerres erythrourus",
+    "Gerres filamentosus",
+    "Gerres infasciatus",
+    "Gerres japonicus",
+    "Gerres limbatus",
+    "Gerres longirostris",
+    "Gerres macracanthus",
+    "Gerres maldivensis",
+    "Gerres methueni",
+    "Gerres microphthalmus",
+    "Gerres mozambiquensis",
+    "Gerres nigri",
+    "Gerres oblongus",
+    "Gerres oyena",
+    "Gerres phaiya",
+    "Gerres ryukyuensis",
+    "Gerres septemfasciatus",
+    "Gerres setifer",
+    "Gerres shima",
+    "Gerres silaceus",
+    "Gerres simillimus",
+    "Gerres subfasciatus",
+    "Parequula elongata",
+    "Parequula melbournensis",
+    "Pentaprion longimanus",
+    "Ulaema lefroyi"
+  ],
+  "sampled_species": [
+    "Diapterus auratus",
+    "Diapterus peruvianus",
+    "Diapterus rhombeus",
+    "Eucinostomus argenteus",
+    "Eucinostomus currani",
+    "Eucinostomus gula",
+    "Eucinostomus harengulus",
+    "Eucinostomus jonesii",
+    "Eucinostomus melanopterus",
+    "Eugerres brasilianus",
+    "Eugerres lineatus",
+    "Eugerres plumieri",
+    "Gerres cinereus",
+    "Gerres equulus",
+    "Gerres erythrourus",
+    "Gerres filamentosus",
+    "Gerres japonicus",
+    "Gerres longirostris",
+    "Gerres macracanthus",
+    "Gerres oblongus",
+    "Gerres oyena",
+    "Gerres phaiya",
+    "Ulaema lefroyi"
+  ],
+  "unsampled_species": [
+    "Diapterus aureolus",
+    "Diapterus brevirostris",
+    "Eucinostomus dowii",
+    "Eucinostomus entomelas",
+    "Eucinostomus gracilis",
+    "Eucinostomus havana",
+    "Eugerres axillaris",
+    "Eugerres brevimanus",
+    "Eugerres castroaguirrei",
+    "Eugerres mexicanus",
+    "Eugerres periche",
+    "Gerres akazakii",
+    "Gerres baconensis",
+    "Gerres chrysops",
+    "Gerres decacanthus",
+    "Gerres infasciatus",
+    "Gerres limbatus",
+    "Gerres maldivensis",
+    "Gerres methueni",
+    "Gerres microphthalmus",
+    "Gerres mozambiquensis",
+    "Gerres nigri",
+    "Gerres ryukyuensis",
+    "Gerres septemfasciatus",
+    "Gerres setifer",
+    "Gerres shima",
+    "Gerres silaceus",
+    "Gerres simillimus",
+    "Gerres subfasciatus",
+    "Parequula elongata",
+    "Parequula melbournensis",
+    "Pentaprion longimanus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Diapterus auratus",
+      "Eucinostomus gula",
+      "Eugerres plumieri",
+      "Gerres cinereus"
+    ],
+    "16s": [
+      "Diapterus auratus",
+      "Eucinostomus argenteus",
+      "Eucinostomus currani",
+      "Eucinostomus gula",
+      "Eucinostomus melanopterus",
+      "Eugerres lineatus",
+      "Eugerres plumieri",
+      "Gerres cinereus",
+      "Gerres equulus",
+      "Gerres erythrourus",
+      "Gerres filamentosus",
+      "Gerres macracanthus",
+      "Gerres phaiya"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Diapterus auratus",
+      "Diapterus rhombeus",
+      "Eucinostomus argenteus",
+      "Eucinostomus currani",
+      "Eucinostomus gula",
+      "Eucinostomus harengulus",
+      "Eucinostomus jonesii",
+      "Eucinostomus melanopterus",
+      "Eugerres brasilianus",
+      "Eugerres lineatus",
+      "Eugerres plumieri",
+      "Gerres cinereus",
+      "Gerres equulus",
+      "Gerres erythrourus",
+      "Gerres filamentosus",
+      "Gerres japonicus",
+      "Gerres longirostris",
+      "Gerres oblongus",
+      "Gerres oyena"
+    ],
+    "cytb": [
+      "Eugerres lineatus",
+      "Eugerres plumieri"
+    ],
+    "enc1": [
+      "Eugerres plumieri",
+      "Ulaema lefroyi"
+    ],
+    "ficd": [
+      "Gerres longirostris",
+      "Gerres oyena"
+    ],
+    "glyt": [
+      "Eugerres plumieri",
+      "Ulaema lefroyi"
+    ],
+    "hoxc6a": [
+      "Eucinostomus argenteus",
+      "Eucinostomus gula",
+      "Gerres cinereus",
+      "Gerres longirostris",
+      "Gerres oyena"
+    ],
+    "kiaa1239": [
+      "Eucinostomus argenteus",
+      "Eucinostomus gula",
+      "Gerres cinereus",
+      "Gerres longirostris",
+      "Gerres oyena"
+    ],
+    "myh6": [
+      "Eucinostomus argenteus",
+      "Eucinostomus gula",
+      "Eugerres plumieri",
+      "Gerres cinereus",
+      "Ulaema lefroyi"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Eucinostomus argenteus",
+      "Eucinostomus gula",
+      "Gerres cinereus"
+    ],
+    "plagl2": [
+      "Eugerres plumieri",
+      "Ulaema lefroyi"
+    ],
+    "ptr": [
+      "Eugerres plumieri",
+      "Gerres longirostris",
+      "Gerres oyena",
+      "Ulaema lefroyi"
+    ],
+    "rag1": [
+      "Diapterus auratus",
+      "Diapterus peruvianus",
+      "Eucinostomus gula",
+      "Eugerres plumieri",
+      "Gerres cinereus",
+      "Gerres oyena",
+      "Ulaema lefroyi"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Diapterus auratus",
+      "Eucinostomus gula",
+      "Eugerres plumieri",
+      "Gerres cinereus"
+    ],
+    "ripk4": [
+      "Eucinostomus argenteus",
+      "Eucinostomus gula",
+      "Gerres cinereus",
+      "Gerres longirostris",
+      "Gerres oyena"
+    ],
+    "sh3px3": [
+      "Eugerres plumieri",
+      "Ulaema lefroyi"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Eugerres plumieri",
+      "Ulaema lefroyi"
+    ],
+    "svep1": [
+      "Gerres longirostris"
+    ],
+    "tbr1": [
+      "Eugerres plumieri",
+      "Ulaema lefroyi"
+    ],
+    "vcpip": [
+      "Gerres oyena"
+    ],
+    "zic1": [
+      "Eugerres plumieri",
+      "Gerres cinereus",
+      "Gerres longirostris",
+      "Ulaema lefroyi"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Gerreidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Diapterus auratus": 0.0463,
+    "Diapterus peruvianus": 0.0476,
+    "Diapterus rhombeus": 0.0328,
+    "Eucinostomus argenteus": 0.0621,
+    "Eucinostomus currani": 0.0712,
+    "Eucinostomus gula": 0.0608,
+    "Eucinostomus harengulus": 0.0704,
+    "Eucinostomus jonesii": 0.065,
+    "Eucinostomus melanopterus": 0.0672,
+    "Eugerres brasilianus": 0.0866,
+    "Eugerres lineatus": 0.0791,
+    "Eugerres plumieri": 0.0632,
+    "Gerres cinereus": 0.0403,
+    "Gerres equulus": 0.2114,
+    "Gerres erythrourus": 0.0618,
+    "Gerres filamentosus": 0.0637,
+    "Gerres japonicus": 0.2114,
+    "Gerres longirostris": 0.0407,
+    "Gerres macracanthus": 0.0597,
+    "Gerres oblongus": 0.1136,
+    "Gerres oyena": 0.0608,
+    "Gerres phaiya": 0.0598,
+    "Ulaema lefroyi": 0.0513
+  },
+  "tiprates_bamm_lambda": {
+    "Diapterus auratus": 0.0578,
+    "Diapterus peruvianus": 0.0578,
+    "Diapterus rhombeus": 0.0578,
+    "Eucinostomus argenteus": 0.058,
+    "Eucinostomus currani": 0.058,
+    "Eucinostomus gula": 0.058,
+    "Eucinostomus harengulus": 0.058,
+    "Eucinostomus jonesii": 0.058,
+    "Eucinostomus melanopterus": 0.058,
+    "Eugerres brasilianus": 0.0578,
+    "Eugerres lineatus": 0.0578,
+    "Eugerres plumieri": 0.0578,
+    "Gerres cinereus": 0.0579,
+    "Gerres equulus": 0.0587,
+    "Gerres erythrourus": 0.0587,
+    "Gerres filamentosus": 0.0587,
+    "Gerres japonicus": 0.0587,
+    "Gerres longirostris": 0.0579,
+    "Gerres macracanthus": 0.0587,
+    "Gerres oblongus": 0.0587,
+    "Gerres oyena": 0.0587,
+    "Gerres phaiya": 0.0587,
+    "Ulaema lefroyi": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Diapterus auratus": 0.0003,
+    "Diapterus peruvianus": 0.0003,
+    "Diapterus rhombeus": 0.0003,
+    "Eucinostomus argenteus": 0.0005,
+    "Eucinostomus currani": 0.0005,
+    "Eucinostomus gula": 0.0005,
+    "Eucinostomus harengulus": 0.0005,
+    "Eucinostomus jonesii": 0.0005,
+    "Eucinostomus melanopterus": 0.0005,
+    "Eugerres brasilianus": 0.0003,
+    "Eugerres lineatus": 0.0003,
+    "Eugerres plumieri": 0.0003,
+    "Gerres cinereus": 0.0003,
+    "Gerres equulus": 0.0012,
+    "Gerres erythrourus": 0.0012,
+    "Gerres filamentosus": 0.0012,
+    "Gerres japonicus": 0.0012,
+    "Gerres longirostris": 0.0003,
+    "Gerres macracanthus": 0.0012,
+    "Gerres oblongus": 0.0012,
+    "Gerres oyena": 0.0012,
+    "Gerres phaiya": 0.0012,
+    "Ulaema lefroyi": 0.0003
+  },
+  "mean_dr": 0.0751,
+  "mean_bamm_lambda": 0.0582,
+  "mean_bamm_mu": 0.0007,
+  "matrix_phylip": "downloads/taxonomy/family/Gerreidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Gerreidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Gerreidae.tre",
+  "phylogram": "downloads/taxonomy/family/Gerreidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

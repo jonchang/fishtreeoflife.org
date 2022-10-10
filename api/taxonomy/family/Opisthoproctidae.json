@@ -1,0 +1,203 @@
+{
+  "species": [
+    "Bathylychnops brachyrhynchus",
+    "Bathylychnops chilensis",
+    "Bathylychnops exilis",
+    "Dolichopteroides binocularis",
+    "Dolichopteryx anascopa",
+    "Dolichopteryx andriashevi",
+    "Dolichopteryx longipes",
+    "Dolichopteryx minuscula",
+    "Dolichopteryx parini",
+    "Dolichopteryx pseudolongipes",
+    "Dolichopteryx rostrata",
+    "Dolichopteryx trunovi",
+    "Dolichopteryx vityazi",
+    "Ioichthys kashkini",
+    "Macropinna microstoma",
+    "Opisthoproctus grimaldii",
+    "Opisthoproctus soleatus",
+    "Rhynchohyalus natalensis",
+    "Winteria telescopa"
+  ],
+  "sampled_species": [
+    "Macropinna microstoma",
+    "Rhynchohyalus natalensis"
+  ],
+  "unsampled_species": [
+    "Bathylychnops brachyrhynchus",
+    "Bathylychnops chilensis",
+    "Bathylychnops exilis",
+    "Dolichopteroides binocularis",
+    "Dolichopteryx anascopa",
+    "Dolichopteryx andriashevi",
+    "Dolichopteryx longipes",
+    "Dolichopteryx minuscula",
+    "Dolichopteryx parini",
+    "Dolichopteryx pseudolongipes",
+    "Dolichopteryx rostrata",
+    "Dolichopteryx trunovi",
+    "Dolichopteryx vityazi",
+    "Ioichthys kashkini",
+    "Opisthoproctus grimaldii",
+    "Opisthoproctus soleatus",
+    "Winteria telescopa"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Macropinna microstoma"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Rhynchohyalus natalensis"
+    ],
+    "glyt": [
+      "Macropinna microstoma"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Macropinna microstoma"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+      "Macropinna microstoma"
+    ],
+    "rag1": [
+      "Macropinna microstoma"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Macropinna microstoma"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Macropinna microstoma"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Macropinna microstoma",
+      "Rhynchohyalus natalensis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Opisthoproctidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Argentiniformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Protacanthopterygii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Macropinna microstoma": 0.1525,
+    "Rhynchohyalus natalensis": 0.1491
+  },
+  "tiprates_bamm_lambda": {
+    "Macropinna microstoma": 0.2031,
+    "Rhynchohyalus natalensis": 0.2031
+  },
+  "tiprates_bamm_mu": {
+    "Macropinna microstoma": 0.1535,
+    "Rhynchohyalus natalensis": 0.1535
+  },
+  "mean_dr": 0.1508,
+  "mean_bamm_lambda": 0.2031,
+  "mean_bamm_mu": 0.1535,
+  "matrix_phylip": "downloads/taxonomy/family/Opisthoproctidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Opisthoproctidae.nex.xz"
+}

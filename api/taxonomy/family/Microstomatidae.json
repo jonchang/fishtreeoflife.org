@@ -1,0 +1,217 @@
+{
+  "species": [
+    "Microstoma microstoma",
+    "Nansenia ahlstromi",
+    "Nansenia antarctica",
+    "Nansenia ardesiaca",
+    "Nansenia atlantica",
+    "Nansenia candida",
+    "Nansenia crassa",
+    "Nansenia groenlandica",
+    "Nansenia iberica",
+    "Nansenia indica",
+    "Nansenia longicauda",
+    "Nansenia macrolepis",
+    "Nansenia megalopa",
+    "Nansenia oblita",
+    "Nansenia obscura",
+    "Nansenia pelagica",
+    "Nansenia tenera",
+    "Nansenia tenuicauda",
+    "Xenophthalmichthys danae"
+  ],
+  "sampled_species": [
+    "Nansenia antarctica",
+    "Nansenia ardesiaca",
+    "Nansenia longicauda"
+  ],
+  "unsampled_species": [
+    "Microstoma microstoma",
+    "Nansenia ahlstromi",
+    "Nansenia atlantica",
+    "Nansenia candida",
+    "Nansenia crassa",
+    "Nansenia groenlandica",
+    "Nansenia iberica",
+    "Nansenia indica",
+    "Nansenia macrolepis",
+    "Nansenia megalopa",
+    "Nansenia oblita",
+    "Nansenia obscura",
+    "Nansenia pelagica",
+    "Nansenia tenera",
+    "Nansenia tenuicauda",
+    "Xenophthalmichthys danae"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Nansenia antarctica",
+      "Nansenia ardesiaca",
+      "Nansenia longicauda"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Nansenia longicauda"
+    ],
+    "ficd": [
+      "Nansenia longicauda"
+    ],
+    "glyt": [
+      "Nansenia ardesiaca",
+      "Nansenia longicauda"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Nansenia ardesiaca",
+      "Nansenia longicauda"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Nansenia longicauda"
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Nansenia longicauda"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Nansenia ardesiaca",
+      "Nansenia longicauda"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Nansenia ardesiaca",
+      "Nansenia longicauda"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Nansenia ardesiaca",
+      "Nansenia longicauda"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Microstomatidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Argentiniformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Protacanthopterygii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Nansenia antarctica": 0.1029,
+    "Nansenia ardesiaca": 0.1324,
+    "Nansenia longicauda": 0.1279
+  },
+  "tiprates_bamm_lambda": {
+    "Nansenia antarctica": 0.2008,
+    "Nansenia ardesiaca": 0.2008,
+    "Nansenia longicauda": 0.2008
+  },
+  "tiprates_bamm_mu": {
+    "Nansenia antarctica": 0.1523,
+    "Nansenia ardesiaca": 0.1523,
+    "Nansenia longicauda": 0.1523
+  },
+  "mean_dr": 0.121,
+  "mean_bamm_lambda": 0.2008,
+  "mean_bamm_mu": 0.1523,
+  "matrix_phylip": "downloads/taxonomy/family/Microstomatidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Microstomatidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Microstomatidae.tre",
+  "phylogram": "downloads/taxonomy/family/Microstomatidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

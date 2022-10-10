@@ -1,0 +1,165 @@
+{
+  "species": [
+    "Kurtus gulliveri",
+    "Kurtus indicus"
+  ],
+  "sampled_species": [
+    "Kurtus gulliveri"
+  ],
+  "unsampled_species": [
+    "Kurtus indicus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Kurtus gulliveri"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Kurtus gulliveri"
+    ],
+    "cytb": [
+      "Kurtus gulliveri"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Kurtus gulliveri"
+    ],
+    "hoxc6a": [
+      "Kurtus gulliveri"
+    ],
+    "kiaa1239": [
+      "Kurtus gulliveri"
+    ],
+    "myh6": [
+      "Kurtus gulliveri"
+    ],
+    "nd2": [
+      "Kurtus gulliveri"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Kurtus gulliveri"
+    ],
+    "plagl2": [
+      "Kurtus gulliveri"
+    ],
+    "ptr": [
+      "Kurtus gulliveri"
+    ],
+    "rag1": [
+      "Kurtus gulliveri"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Kurtus gulliveri"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Kurtus gulliveri"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Kurtus gulliveri"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Kurtidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Kurtiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Gobiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Kurtoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Kurtus gulliveri": 0.0179
+  },
+  "tiprates_bamm_lambda": {
+    "Kurtus gulliveri": 0.0549
+  },
+  "tiprates_bamm_mu": {
+    "Kurtus gulliveri": 0.0003
+  },
+  "mean_dr": 0.0179,
+  "mean_bamm_lambda": 0.0549,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Kurtidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Kurtidae.nex.xz"
+}

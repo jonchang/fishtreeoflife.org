@@ -1,0 +1,355 @@
+{
+  "species": [
+    "Electrophorus electricus",
+    "Gymnotus anguillaris",
+    "Gymnotus arapaima",
+    "Gymnotus ardilai",
+    "Gymnotus bahianus",
+    "Gymnotus capanema",
+    "Gymnotus carapo",
+    "Gymnotus cataniapo",
+    "Gymnotus chaviro",
+    "Gymnotus chimarrao",
+    "Gymnotus choco",
+    "Gymnotus coatesi",
+    "Gymnotus coropinae",
+    "Gymnotus curupira",
+    "Gymnotus cylindricus",
+    "Gymnotus diamantinensis",
+    "Gymnotus esmeraldas",
+    "Gymnotus henni",
+    "Gymnotus inaequilabiatus",
+    "Gymnotus interruptus",
+    "Gymnotus javari",
+    "Gymnotus jonasi",
+    "Gymnotus maculosus",
+    "Gymnotus mamiraua",
+    "Gymnotus melanopleura",
+    "Gymnotus obscurus",
+    "Gymnotus omarorum",
+    "Gymnotus onca",
+    "Gymnotus panamensis",
+    "Gymnotus pantanal",
+    "Gymnotus pantherinus",
+    "Gymnotus paraguensis",
+    "Gymnotus pedanopterus",
+    "Gymnotus sp",
+    "Gymnotus stenoleucus",
+    "Gymnotus sylvius",
+    "Gymnotus tigre",
+    "Gymnotus tiquie",
+    "Gymnotus ucamara",
+    "Gymnotus varzea"
+  ],
+  "sampled_species": [
+    "Gymnotus arapaima",
+    "Gymnotus carapo",
+    "Gymnotus cataniapo",
+    "Gymnotus coatesi",
+    "Gymnotus coropinae",
+    "Gymnotus curupira",
+    "Gymnotus cylindricus",
+    "Gymnotus inaequilabiatus",
+    "Gymnotus javari",
+    "Gymnotus jonasi",
+    "Gymnotus mamiraua",
+    "Gymnotus obscurus",
+    "Gymnotus pantanal",
+    "Gymnotus pantherinus",
+    "Gymnotus pedanopterus",
+    "Gymnotus sp",
+    "Gymnotus stenoleucus",
+    "Gymnotus tigre",
+    "Gymnotus ucamara",
+    "Gymnotus varzea"
+  ],
+  "unsampled_species": [
+    "Electrophorus electricus",
+    "Gymnotus anguillaris",
+    "Gymnotus ardilai",
+    "Gymnotus bahianus",
+    "Gymnotus capanema",
+    "Gymnotus chaviro",
+    "Gymnotus chimarrao",
+    "Gymnotus choco",
+    "Gymnotus diamantinensis",
+    "Gymnotus esmeraldas",
+    "Gymnotus henni",
+    "Gymnotus interruptus",
+    "Gymnotus maculosus",
+    "Gymnotus melanopleura",
+    "Gymnotus omarorum",
+    "Gymnotus onca",
+    "Gymnotus panamensis",
+    "Gymnotus paraguensis",
+    "Gymnotus sylvius",
+    "Gymnotus tiquie"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Gymnotus sp"
+    ],
+    "16s": [
+      "Gymnotus arapaima",
+      "Gymnotus carapo",
+      "Gymnotus cataniapo",
+      "Gymnotus coatesi",
+      "Gymnotus coropinae",
+      "Gymnotus curupira",
+      "Gymnotus cylindricus",
+      "Gymnotus javari",
+      "Gymnotus jonasi",
+      "Gymnotus mamiraua",
+      "Gymnotus obscurus",
+      "Gymnotus pantherinus",
+      "Gymnotus pedanopterus",
+      "Gymnotus sp",
+      "Gymnotus stenoleucus",
+      "Gymnotus tigre",
+      "Gymnotus ucamara",
+      "Gymnotus varzea"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Gymnotus carapo",
+      "Gymnotus inaequilabiatus",
+      "Gymnotus pantanal",
+      "Gymnotus pantherinus",
+      "Gymnotus sp"
+    ],
+    "cytb": [
+      "Gymnotus arapaima",
+      "Gymnotus carapo",
+      "Gymnotus cataniapo",
+      "Gymnotus coatesi",
+      "Gymnotus coropinae",
+      "Gymnotus curupira",
+      "Gymnotus cylindricus",
+      "Gymnotus javari",
+      "Gymnotus jonasi",
+      "Gymnotus mamiraua",
+      "Gymnotus obscurus",
+      "Gymnotus pantherinus",
+      "Gymnotus pedanopterus",
+      "Gymnotus stenoleucus",
+      "Gymnotus tigre",
+      "Gymnotus ucamara",
+      "Gymnotus varzea"
+    ],
+    "enc1": [
+      "Gymnotus carapo"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Gymnotus carapo"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+      "Gymnotus carapo",
+      "Gymnotus inaequilabiatus",
+      "Gymnotus pantherinus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Gymnotus carapo"
+    ],
+    "ptr": [
+      "Gymnotus carapo"
+    ],
+    "rag1": [
+      "Gymnotus cylindricus"
+    ],
+    "rag2": [
+      "Gymnotus arapaima",
+      "Gymnotus carapo",
+      "Gymnotus cataniapo",
+      "Gymnotus coatesi",
+      "Gymnotus coropinae",
+      "Gymnotus curupira",
+      "Gymnotus cylindricus",
+      "Gymnotus javari",
+      "Gymnotus jonasi",
+      "Gymnotus mamiraua",
+      "Gymnotus obscurus",
+      "Gymnotus pantherinus",
+      "Gymnotus pedanopterus",
+      "Gymnotus stenoleucus",
+      "Gymnotus tigre",
+      "Gymnotus ucamara",
+      "Gymnotus varzea"
+    ],
+    "rhodopsin": [
+      "Gymnotus cylindricus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Gymnotus carapo"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Gymnotus carapo"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Gymnotus carapo"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Gymnotus carapo"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Gymnotidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gymnotiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Gymnotoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Gymnotus arapaima": 0.3104,
+    "Gymnotus carapo": 0.5929,
+    "Gymnotus cataniapo": 0.0709,
+    "Gymnotus coatesi": 0.1584,
+    "Gymnotus coropinae": 0.117,
+    "Gymnotus curupira": 0.3346,
+    "Gymnotus cylindricus": 0.0703,
+    "Gymnotus inaequilabiatus": 0.1836,
+    "Gymnotus javari": 0.1554,
+    "Gymnotus jonasi": 0.0638,
+    "Gymnotus mamiraua": 0.1492,
+    "Gymnotus obscurus": 0.1604,
+    "Gymnotus pantanal": 0.0941,
+    "Gymnotus pantherinus": 0.0536,
+    "Gymnotus pedanopterus": 0.0777,
+    "Gymnotus stenoleucus": 0.1123,
+    "Gymnotus tigre": 0.3352,
+    "Gymnotus ucamara": 0.5882,
+    "Gymnotus varzea": 0.1354
+  },
+  "tiprates_bamm_lambda": {
+    "Gymnotus arapaima": 0.0891,
+    "Gymnotus carapo": 0.0891,
+    "Gymnotus cataniapo": 0.0734,
+    "Gymnotus coatesi": 0.0733,
+    "Gymnotus coropinae": 0.0733,
+    "Gymnotus curupira": 0.0882,
+    "Gymnotus cylindricus": 0.0791,
+    "Gymnotus inaequilabiatus": 0.0891,
+    "Gymnotus javari": 0.0733,
+    "Gymnotus jonasi": 0.0733,
+    "Gymnotus mamiraua": 0.0891,
+    "Gymnotus obscurus": 0.0882,
+    "Gymnotus pantanal": 0.0821,
+    "Gymnotus pantherinus": 0.0734,
+    "Gymnotus pedanopterus": 0.0734,
+    "Gymnotus stenoleucus": 0.0733,
+    "Gymnotus tigre": 0.0882,
+    "Gymnotus ucamara": 0.0891,
+    "Gymnotus varzea": 0.0882
+  },
+  "tiprates_bamm_mu": {
+    "Gymnotus arapaima": 0.0115,
+    "Gymnotus carapo": 0.0115,
+    "Gymnotus cataniapo": 0.0009,
+    "Gymnotus coatesi": 0.0008,
+    "Gymnotus coropinae": 0.0008,
+    "Gymnotus curupira": 0.011,
+    "Gymnotus cylindricus": 0.0046,
+    "Gymnotus inaequilabiatus": 0.0115,
+    "Gymnotus javari": 0.0008,
+    "Gymnotus jonasi": 0.0008,
+    "Gymnotus mamiraua": 0.0115,
+    "Gymnotus obscurus": 0.011,
+    "Gymnotus pantanal": 0.0071,
+    "Gymnotus pantherinus": 0.0009,
+    "Gymnotus pedanopterus": 0.0009,
+    "Gymnotus stenoleucus": 0.0008,
+    "Gymnotus tigre": 0.011,
+    "Gymnotus ucamara": 0.0115,
+    "Gymnotus varzea": 0.011
+  },
+  "mean_dr": 0.1981,
+  "mean_bamm_lambda": 0.0814,
+  "mean_bamm_mu": 0.0063,
+  "matrix_phylip": "downloads/taxonomy/suborder/Gymnotoidei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/suborder/Gymnotoidei.nex.xz",
+  "chronogram": "downloads/taxonomy/suborder/Gymnotoidei.tre",
+  "phylogram": "downloads/taxonomy/suborder/Gymnotoidei_phylogram.tre",
+  "rogues": [
+
+  ]
+}

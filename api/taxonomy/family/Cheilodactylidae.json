@@ -1,0 +1,356 @@
+{
+  "species": [
+    "Cheilodactylus ephippium",
+    "Cheilodactylus fasciatus",
+    "Cheilodactylus francisi",
+    "Cheilodactylus fuscus",
+    "Cheilodactylus gibbosus",
+    "Cheilodactylus nigripes",
+    "Cheilodactylus pixi",
+    "Cheilodactylus plessisi",
+    "Cheilodactylus quadricornis",
+    "Cheilodactylus rubrolabiatus",
+    "Cheilodactylus spectabilis",
+    "Cheilodactylus variegatus",
+    "Cheilodactylus vestitus",
+    "Cheilodactylus vittatus",
+    "Cheilodactylus zebra",
+    "Cheilodactylus zonatus",
+    "Chirodactylus brachydactylus",
+    "Chirodactylus grandis",
+    "Chirodactylus jessicalenorum",
+    "Dactylophora nigricans",
+    "Nemadactylus bergi",
+    "Nemadactylus douglasii",
+    "Nemadactylus gayi",
+    "Nemadactylus macropterus",
+    "Nemadactylus monodactylus",
+    "Nemadactylus valenciennesi",
+    "Nemadactylus vemae"
+  ],
+  "sampled_species": [
+    "Cheilodactylus ephippium",
+    "Cheilodactylus fasciatus",
+    "Cheilodactylus fuscus",
+    "Cheilodactylus gibbosus",
+    "Cheilodactylus nigripes",
+    "Cheilodactylus pixi",
+    "Cheilodactylus plessisi",
+    "Cheilodactylus quadricornis",
+    "Cheilodactylus spectabilis",
+    "Cheilodactylus variegatus",
+    "Cheilodactylus vestitus",
+    "Cheilodactylus vittatus",
+    "Cheilodactylus zebra",
+    "Cheilodactylus zonatus",
+    "Chirodactylus brachydactylus",
+    "Chirodactylus grandis",
+    "Chirodactylus jessicalenorum",
+    "Nemadactylus bergi",
+    "Nemadactylus douglasii",
+    "Nemadactylus gayi",
+    "Nemadactylus macropterus",
+    "Nemadactylus monodactylus",
+    "Nemadactylus valenciennesi"
+  ],
+  "unsampled_species": [
+    "Cheilodactylus francisi",
+    "Cheilodactylus rubrolabiatus",
+    "Dactylophora nigricans",
+    "Nemadactylus vemae"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Cheilodactylus quadricornis",
+      "Cheilodactylus variegatus",
+      "Cheilodactylus zonatus",
+      "Nemadactylus douglasii",
+      "Nemadactylus macropterus",
+      "Nemadactylus valenciennesi"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Cheilodactylus fasciatus",
+      "Cheilodactylus pixi",
+      "Cheilodactylus zonatus",
+      "Chirodactylus brachydactylus",
+      "Chirodactylus grandis",
+      "Chirodactylus jessicalenorum",
+      "Nemadactylus bergi"
+    ],
+    "cytb": [
+      "Cheilodactylus ephippium",
+      "Cheilodactylus fasciatus",
+      "Cheilodactylus fuscus",
+      "Cheilodactylus gibbosus",
+      "Cheilodactylus nigripes",
+      "Cheilodactylus pixi",
+      "Cheilodactylus plessisi",
+      "Cheilodactylus quadricornis",
+      "Cheilodactylus spectabilis",
+      "Cheilodactylus variegatus",
+      "Cheilodactylus vestitus",
+      "Cheilodactylus vittatus",
+      "Cheilodactylus zebra",
+      "Cheilodactylus zonatus",
+      "Chirodactylus brachydactylus",
+      "Chirodactylus grandis",
+      "Chirodactylus jessicalenorum",
+      "Nemadactylus bergi",
+      "Nemadactylus douglasii",
+      "Nemadactylus gayi",
+      "Nemadactylus macropterus",
+      "Nemadactylus monodactylus",
+      "Nemadactylus valenciennesi"
+    ],
+    "enc1": [
+      "Cheilodactylus variegatus"
+    ],
+    "ficd": [
+      "Cheilodactylus fasciatus",
+      "Cheilodactylus pixi"
+    ],
+    "glyt": [
+      "Cheilodactylus variegatus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Cheilodactylus fasciatus",
+      "Cheilodactylus pixi"
+    ],
+    "myh6": [
+      "Cheilodactylus fasciatus",
+      "Cheilodactylus pixi",
+      "Cheilodactylus variegatus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Cheilodactylus variegatus"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Cheilodactylus pixi",
+      "Cheilodactylus variegatus",
+      "Chirodactylus brachydactylus",
+      "Chirodactylus jessicalenorum"
+    ],
+    "ptr": [
+      "Cheilodactylus variegatus",
+      "Chirodactylus jessicalenorum"
+    ],
+    "rag1": [
+      "Cheilodactylus pixi",
+      "Cheilodactylus variegatus",
+      "Chirodactylus brachydactylus",
+      "Chirodactylus grandis",
+      "Nemadactylus monodactylus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Nemadactylus macropterus",
+      "Nemadactylus monodactylus"
+    ],
+    "ripk4": [
+      "Chirodactylus brachydactylus",
+      "Chirodactylus jessicalenorum"
+    ],
+    "sh3px3": [
+      "Cheilodactylus variegatus"
+    ],
+    "sidkey": [
+      "Chirodactylus brachydactylus",
+      "Chirodactylus jessicalenorum"
+    ],
+    "sreb2": [
+      "Chirodactylus brachydactylus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Cheilodactylus fasciatus",
+      "Cheilodactylus pixi",
+      "Cheilodactylus variegatus",
+      "Chirodactylus brachydactylus",
+      "Chirodactylus jessicalenorum"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Cheilodactylus fasciatus",
+      "Cheilodactylus pixi",
+      "Chirodactylus brachydactylus",
+      "Chirodactylus jessicalenorum"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Cheilodactylidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Centrarchiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cirrhitioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Cheilodactylus ephippium": 0.0562,
+    "Cheilodactylus fasciatus": 0.0328,
+    "Cheilodactylus fuscus": 0.0691,
+    "Cheilodactylus gibbosus": 0.1396,
+    "Cheilodactylus nigripes": 0.0877,
+    "Cheilodactylus pixi": 0.0319,
+    "Cheilodactylus plessisi": 0.1957,
+    "Cheilodactylus quadricornis": 0.1211,
+    "Cheilodactylus spectabilis": 0.0697,
+    "Cheilodactylus variegatus": 0.0674,
+    "Cheilodactylus vestitus": 0.1419,
+    "Cheilodactylus vittatus": 0.1487,
+    "Cheilodactylus zebra": 0.2003,
+    "Cheilodactylus zonatus": 0.1283,
+    "Chirodactylus brachydactylus": 0.1323,
+    "Chirodactylus grandis": 0.0912,
+    "Chirodactylus jessicalenorum": 0.1323,
+    "Nemadactylus bergi": 0.6951,
+    "Nemadactylus douglasii": 0.2215,
+    "Nemadactylus gayi": 0.695,
+    "Nemadactylus macropterus": 0.4356,
+    "Nemadactylus monodactylus": 0.2565,
+    "Nemadactylus valenciennesi": 0.2212
+  },
+  "tiprates_bamm_lambda": {
+    "Cheilodactylus ephippium": 0.0631,
+    "Cheilodactylus fasciatus": 0.0579,
+    "Cheilodactylus fuscus": 0.0631,
+    "Cheilodactylus gibbosus": 0.0643,
+    "Cheilodactylus nigripes": 0.0654,
+    "Cheilodactylus pixi": 0.0579,
+    "Cheilodactylus plessisi": 0.0643,
+    "Cheilodactylus quadricornis": 0.0643,
+    "Cheilodactylus spectabilis": 0.0631,
+    "Cheilodactylus variegatus": 0.0648,
+    "Cheilodactylus vestitus": 0.0643,
+    "Cheilodactylus vittatus": 0.0643,
+    "Cheilodactylus zebra": 0.0643,
+    "Cheilodactylus zonatus": 0.0643,
+    "Chirodactylus brachydactylus": 0.0631,
+    "Chirodactylus grandis": 0.0631,
+    "Chirodactylus jessicalenorum": 0.0631,
+    "Nemadactylus bergi": 0.2237,
+    "Nemadactylus douglasii": 0.2237,
+    "Nemadactylus gayi": 0.2237,
+    "Nemadactylus macropterus": 0.2237,
+    "Nemadactylus monodactylus": 0.2237,
+    "Nemadactylus valenciennesi": 0.2237
+  },
+  "tiprates_bamm_mu": {
+    "Cheilodactylus ephippium": 0.0016,
+    "Cheilodactylus fasciatus": 0.0003,
+    "Cheilodactylus fuscus": 0.0016,
+    "Cheilodactylus gibbosus": 0.0025,
+    "Cheilodactylus nigripes": 0.0034,
+    "Cheilodactylus pixi": 0.0003,
+    "Cheilodactylus plessisi": 0.0025,
+    "Cheilodactylus quadricornis": 0.0025,
+    "Cheilodactylus spectabilis": 0.0016,
+    "Cheilodactylus variegatus": 0.0027,
+    "Cheilodactylus vestitus": 0.0025,
+    "Cheilodactylus vittatus": 0.0025,
+    "Cheilodactylus zebra": 0.0025,
+    "Cheilodactylus zonatus": 0.0025,
+    "Chirodactylus brachydactylus": 0.0016,
+    "Chirodactylus grandis": 0.0016,
+    "Chirodactylus jessicalenorum": 0.0016,
+    "Nemadactylus bergi": 0.0977,
+    "Nemadactylus douglasii": 0.0977,
+    "Nemadactylus gayi": 0.0977,
+    "Nemadactylus macropterus": 0.0977,
+    "Nemadactylus monodactylus": 0.0977,
+    "Nemadactylus valenciennesi": 0.0977
+  },
+  "mean_dr": 0.1901,
+  "mean_bamm_lambda": 0.1051,
+  "mean_bamm_mu": 0.027,
+  "matrix_phylip": "downloads/taxonomy/family/Cheilodactylidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Cheilodactylidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Cheilodactylidae.tre",
+  "phylogram": "downloads/taxonomy/family/Cheilodactylidae_phylogram.tre",
+  "rogues": [
+    "Latridopsis_ciliaris",
+    "Latridopsis_forsteri",
+    "Latris_lineata",
+    "Chironemus_microlepis",
+    "Chironemus_marmoratus",
+    "Chironemus_bicornis",
+    "Chironemus_delfini",
+    "Chironemus_georgianus",
+    "Chironemus_maculosus",
+    "Aplodactylus_arctidens",
+    "Aplodactylus_punctatus",
+    "Aplodactylus_westralis",
+    "Aplodactylus_etheridgii",
+    "Aplodactylus_lophodon"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Cheilodactylidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Cheilodactylidae_mrca_phylogram.tre"
+}

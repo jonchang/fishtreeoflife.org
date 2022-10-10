@@ -1,0 +1,274 @@
+{
+  "species": [
+    "Amia calva",
+    "Atractosteus spatula",
+    "Atractosteus tristoechus",
+    "Atractosteus tropicus",
+    "Lepisosteus oculatus",
+    "Lepisosteus osseus",
+    "Lepisosteus platostomus",
+    "Lepisosteus platyrhincus"
+  ],
+  "sampled_species": [
+    "Amia calva",
+    "Atractosteus spatula",
+    "Atractosteus tristoechus",
+    "Atractosteus tropicus",
+    "Lepisosteus oculatus",
+    "Lepisosteus osseus",
+    "Lepisosteus platostomus",
+    "Lepisosteus platyrhincus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Amia calva",
+      "Atractosteus spatula",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "16s": [
+      "Amia calva",
+      "Atractosteus spatula",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Amia calva",
+      "Atractosteus spatula",
+      "Atractosteus tristoechus",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "cytb": [
+      "Amia calva",
+      "Atractosteus spatula",
+      "Atractosteus tristoechus",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "enc1": [
+      "Atractosteus spatula",
+      "Atractosteus tristoechus",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Amia calva"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Amia calva",
+      "Atractosteus spatula",
+      "Atractosteus tristoechus",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "nd2": [
+      "Amia calva"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Lepisosteus osseus"
+    ],
+    "plagl2": [
+      "Amia calva",
+      "Lepisosteus osseus"
+    ],
+    "ptr": [
+      "Amia calva"
+    ],
+    "rag1": [
+      "Amia calva",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus"
+    ],
+    "rag2": [
+      "Amia calva",
+      "Lepisosteus osseus"
+    ],
+    "rhodopsin": [
+      "Amia calva",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Amia calva"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Amia calva",
+      "Atractosteus spatula",
+      "Atractosteus tristoechus",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Amia calva",
+      "Atractosteus spatula",
+      "Atractosteus tristoechus",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Amia calva",
+      "Atractosteus spatula",
+      "Atractosteus tristoechus",
+      "Atractosteus tropicus",
+      "Lepisosteus oculatus",
+      "Lepisosteus osseus",
+      "Lepisosteus platostomus",
+      "Lepisosteus platyrhincus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Amiidae",
+      "Lepisosteidae"
+    ],
+    "infraclass": [
+      "Holostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+
+    ],
+    "order": [
+      "Amiiformes",
+      "Lepisosteiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Amia calva": 0.0034,
+    "Atractosteus spatula": 0.0195,
+    "Atractosteus tristoechus": 0.0195,
+    "Atractosteus tropicus": 0.01,
+    "Lepisosteus oculatus": 0.0195,
+    "Lepisosteus osseus": 0.0191,
+    "Lepisosteus platostomus": 0.0191,
+    "Lepisosteus platyrhincus": 0.0195
+  },
+  "tiprates_bamm_lambda": {
+    "Amia calva": 0.0522,
+    "Atractosteus spatula": 0.0606,
+    "Atractosteus tristoechus": 0.0606,
+    "Atractosteus tropicus": 0.0606,
+    "Lepisosteus oculatus": 0.0606,
+    "Lepisosteus osseus": 0.0606,
+    "Lepisosteus platostomus": 0.0606,
+    "Lepisosteus platyrhincus": 0.0606
+  },
+  "tiprates_bamm_mu": {
+    "Amia calva": 0.0524,
+    "Atractosteus spatula": 0.0671,
+    "Atractosteus tristoechus": 0.0671,
+    "Atractosteus tropicus": 0.0671,
+    "Lepisosteus oculatus": 0.0671,
+    "Lepisosteus osseus": 0.0671,
+    "Lepisosteus platostomus": 0.0671,
+    "Lepisosteus platyrhincus": 0.0671
+  },
+  "mean_dr": 0.0162,
+  "mean_bamm_lambda": 0.0596,
+  "mean_bamm_mu": 0.0653,
+  "matrix_phylip": "downloads/taxonomy/infraclass/Holostei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/infraclass/Holostei.nex.xz",
+  "chronogram": "downloads/taxonomy/infraclass/Holostei.tre",
+  "phylogram": "downloads/taxonomy/infraclass/Holostei_phylogram.tre",
+  "rogues": [
+
+  ]
+}

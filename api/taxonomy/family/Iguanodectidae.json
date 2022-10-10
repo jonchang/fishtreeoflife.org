@@ -1,0 +1,246 @@
+{
+  "species": [
+    "Bryconops affinis",
+    "Bryconops alburnoides",
+    "Bryconops caudomaculatus",
+    "Bryconops colanegra",
+    "Bryconops colaroja",
+    "Bryconops collettei",
+    "Bryconops cyrtogaster",
+    "Bryconops disruptus",
+    "Bryconops durbini",
+    "Bryconops giacopinii",
+    "Bryconops gracilis",
+    "Bryconops humeralis",
+    "Bryconops imitator",
+    "Bryconops inpai",
+    "Bryconops magoi",
+    "Bryconops melanurus",
+    "Bryconops piracolina",
+    "Bryconops transitoria",
+    "Bryconops vibex",
+    "Iguanodectes adujai",
+    "Iguanodectes geisleri",
+    "Iguanodectes gracilis",
+    "Iguanodectes polylepis",
+    "Iguanodectes purusii",
+    "Iguanodectes rachovii",
+    "Iguanodectes spilurus",
+    "Iguanodectes variatus",
+    "Piabucus caudomaculatus",
+    "Piabucus dentatus",
+    "Piabucus melanostoma"
+  ],
+  "sampled_species": [
+    "Bryconops affinis",
+    "Bryconops melanurus",
+    "Iguanodectes geisleri",
+    "Piabucus melanostoma"
+  ],
+  "unsampled_species": [
+    "Bryconops alburnoides",
+    "Bryconops caudomaculatus",
+    "Bryconops colanegra",
+    "Bryconops colaroja",
+    "Bryconops collettei",
+    "Bryconops cyrtogaster",
+    "Bryconops disruptus",
+    "Bryconops durbini",
+    "Bryconops giacopinii",
+    "Bryconops gracilis",
+    "Bryconops humeralis",
+    "Bryconops imitator",
+    "Bryconops inpai",
+    "Bryconops magoi",
+    "Bryconops piracolina",
+    "Bryconops transitoria",
+    "Bryconops vibex",
+    "Iguanodectes adujai",
+    "Iguanodectes gracilis",
+    "Iguanodectes polylepis",
+    "Iguanodectes purusii",
+    "Iguanodectes rachovii",
+    "Iguanodectes spilurus",
+    "Iguanodectes variatus",
+    "Piabucus caudomaculatus",
+    "Piabucus dentatus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Bryconops affinis",
+      "Bryconops melanurus",
+      "Iguanodectes geisleri",
+      "Piabucus melanostoma"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Bryconops affinis"
+    ],
+    "cytb": [
+      "Bryconops affinis",
+      "Iguanodectes geisleri",
+      "Piabucus melanostoma"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Bryconops affinis",
+      "Iguanodectes geisleri",
+      "Piabucus melanostoma"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Bryconops affinis",
+      "Iguanodectes geisleri",
+      "Piabucus melanostoma"
+    ],
+    "rag2": [
+      "Bryconops affinis",
+      "Iguanodectes geisleri",
+      "Piabucus melanostoma"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Iguanodectidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Characiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Characoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Bryconops affinis": 0.1195,
+    "Bryconops melanurus": 0.1294,
+    "Iguanodectes geisleri": 0.0691,
+    "Piabucus melanostoma": 0.0384
+  },
+  "tiprates_bamm_lambda": {
+    "Bryconops affinis": 0.0731,
+    "Bryconops melanurus": 0.0731,
+    "Iguanodectes geisleri": 0.0731,
+    "Piabucus melanostoma": 0.0731
+  },
+  "tiprates_bamm_mu": {
+    "Bryconops affinis": 0.0008,
+    "Bryconops melanurus": 0.0008,
+    "Iguanodectes geisleri": 0.0008,
+    "Piabucus melanostoma": 0.0008
+  },
+  "mean_dr": 0.0891,
+  "mean_bamm_lambda": 0.0731,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Iguanodectidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Iguanodectidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Iguanodectidae.tre",
+  "phylogram": "downloads/taxonomy/family/Iguanodectidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

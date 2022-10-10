@@ -1,0 +1,283 @@
+{
+  "species": [
+    "Anodontiglanis dahli",
+    "Cnidoglanis macrocephalus",
+    "Euristhmus lepturus",
+    "Euristhmus microceps",
+    "Euristhmus microphthalmus",
+    "Euristhmus nudiceps",
+    "Euristhmus sandrae",
+    "Neosiluroides cooperensis",
+    "Neosilurus ater",
+    "Neosilurus brevidorsalis",
+    "Neosilurus coatesi",
+    "Neosilurus equinus",
+    "Neosilurus gjellerupi",
+    "Neosilurus gloveri",
+    "Neosilurus hyrtlii",
+    "Neosilurus idenburgi",
+    "Neosilurus mollespiculum",
+    "Neosilurus novaeguineae",
+    "Neosilurus pseudospinosus",
+    "Oloplotosus luteus",
+    "Oloplotosus mariae",
+    "Oloplotosus torobo",
+    "Paraplotosus albilabris",
+    "Paraplotosus butleri",
+    "Paraplotosus muelleri",
+    "Plotosus abbreviatus",
+    "Plotosus canius",
+    "Plotosus fisadoha",
+    "Plotosus japonicus",
+    "Plotosus limbatus",
+    "Plotosus lineatus",
+    "Plotosus nhatrangensis",
+    "Plotosus nkunga",
+    "Plotosus papuensis",
+    "Porochilus argenteus",
+    "Porochilus meraukensis",
+    "Porochilus obbesi",
+    "Porochilus rendahli",
+    "Tandanus bostocki",
+    "Tandanus tandanus"
+  ],
+  "sampled_species": [
+    "Cnidoglanis macrocephalus",
+    "Neosilurus ater",
+    "Neosilurus hyrtlii",
+    "Plotosus canius",
+    "Plotosus lineatus",
+    "Plotosus nkunga",
+    "Porochilus rendahli",
+    "Tandanus tandanus"
+  ],
+  "unsampled_species": [
+    "Anodontiglanis dahli",
+    "Euristhmus lepturus",
+    "Euristhmus microceps",
+    "Euristhmus microphthalmus",
+    "Euristhmus nudiceps",
+    "Euristhmus sandrae",
+    "Neosiluroides cooperensis",
+    "Neosilurus brevidorsalis",
+    "Neosilurus coatesi",
+    "Neosilurus equinus",
+    "Neosilurus gjellerupi",
+    "Neosilurus gloveri",
+    "Neosilurus idenburgi",
+    "Neosilurus mollespiculum",
+    "Neosilurus novaeguineae",
+    "Neosilurus pseudospinosus",
+    "Oloplotosus luteus",
+    "Oloplotosus mariae",
+    "Oloplotosus torobo",
+    "Paraplotosus albilabris",
+    "Paraplotosus butleri",
+    "Paraplotosus muelleri",
+    "Plotosus abbreviatus",
+    "Plotosus fisadoha",
+    "Plotosus japonicus",
+    "Plotosus limbatus",
+    "Plotosus nhatrangensis",
+    "Plotosus papuensis",
+    "Porochilus argenteus",
+    "Porochilus meraukensis",
+    "Porochilus obbesi",
+    "Tandanus bostocki"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Neosilurus hyrtlii",
+      "Porochilus rendahli",
+      "Tandanus tandanus"
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Cnidoglanis macrocephalus",
+      "Neosilurus hyrtlii",
+      "Plotosus lineatus",
+      "Plotosus nkunga",
+      "Porochilus rendahli",
+      "Tandanus tandanus"
+    ],
+    "cytb": [
+      "Neosilurus hyrtlii",
+      "Plotosus canius",
+      "Plotosus lineatus",
+      "Porochilus rendahli",
+      "Tandanus tandanus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Plotosus lineatus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Plotosus canius",
+      "Plotosus lineatus"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Plotosus lineatus"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Neosilurus ater",
+      "Plotosus lineatus",
+      "Porochilus rendahli"
+    ],
+    "rag2": [
+      "Neosilurus ater",
+      "Plotosus lineatus",
+      "Porochilus rendahli"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Plotosus lineatus"
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Plotosus lineatus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Plotosidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Cnidoglanis macrocephalus": 0.0805,
+    "Neosilurus ater": 0.0898,
+    "Neosilurus hyrtlii": 0.0878,
+    "Plotosus canius": 0.0557,
+    "Plotosus lineatus": 0.0715,
+    "Plotosus nkunga": 0.084,
+    "Porochilus rendahli": 0.0832,
+    "Tandanus tandanus": 0.0836
+  },
+  "tiprates_bamm_lambda": {
+    "Cnidoglanis macrocephalus": 0.0745,
+    "Neosilurus ater": 0.0745,
+    "Neosilurus hyrtlii": 0.0745,
+    "Plotosus canius": 0.0745,
+    "Plotosus lineatus": 0.0745,
+    "Plotosus nkunga": 0.0745,
+    "Porochilus rendahli": 0.0745,
+    "Tandanus tandanus": 0.0745
+  },
+  "tiprates_bamm_mu": {
+    "Cnidoglanis macrocephalus": 0.0008,
+    "Neosilurus ater": 0.0008,
+    "Neosilurus hyrtlii": 0.0008,
+    "Plotosus canius": 0.0008,
+    "Plotosus lineatus": 0.0008,
+    "Plotosus nkunga": 0.0008,
+    "Porochilus rendahli": 0.0008,
+    "Tandanus tandanus": 0.0008
+  },
+  "mean_dr": 0.0795,
+  "mean_bamm_lambda": 0.0745,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Plotosidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Plotosidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Plotosidae.tre",
+  "phylogram": "downloads/taxonomy/family/Plotosidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

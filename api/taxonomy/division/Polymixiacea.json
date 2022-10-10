@@ -1,0 +1,213 @@
+{
+  "species": [
+    "Polymixia berndti",
+    "Polymixia busakhini",
+    "Polymixia fusca",
+    "Polymixia japonica",
+    "Polymixia longispina",
+    "Polymixia lowei",
+    "Polymixia nobilis",
+    "Polymixia salagomeziensis",
+    "Polymixia sazonovi",
+    "Polymixia yuri"
+  ],
+  "sampled_species": [
+    "Polymixia berndti",
+    "Polymixia japonica",
+    "Polymixia lowei",
+    "Polymixia nobilis"
+  ],
+  "unsampled_species": [
+    "Polymixia busakhini",
+    "Polymixia fusca",
+    "Polymixia longispina",
+    "Polymixia salagomeziensis",
+    "Polymixia sazonovi",
+    "Polymixia yuri"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Polymixia berndti",
+      "Polymixia japonica"
+    ],
+    "16s": [
+      "Polymixia berndti",
+      "Polymixia japonica",
+      "Polymixia lowei"
+    ],
+    "4c4": [
+      "Polymixia lowei"
+    ],
+    "coi": [
+      "Polymixia berndti",
+      "Polymixia lowei"
+    ],
+    "cytb": [
+      "Polymixia nobilis"
+    ],
+    "enc1": [
+      "Polymixia japonica",
+      "Polymixia lowei",
+      "Polymixia nobilis"
+    ],
+    "ficd": [
+      "Polymixia japonica"
+    ],
+    "glyt": [
+      "Polymixia japonica"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Polymixia japonica",
+      "Polymixia lowei"
+    ],
+    "myh6": [
+      "Polymixia japonica",
+      "Polymixia lowei"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Polymixia nobilis"
+    ],
+    "panx2": [
+      "Polymixia japonica",
+      "Polymixia lowei"
+    ],
+    "plagl2": [
+      "Polymixia japonica"
+    ],
+    "ptr": [
+      "Polymixia japonica",
+      "Polymixia lowei",
+      "Polymixia nobilis"
+    ],
+    "rag1": [
+      "Polymixia japonica",
+      "Polymixia lowei"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Polymixia japonica",
+      "Polymixia nobilis"
+    ],
+    "ripk4": [
+      "Polymixia japonica",
+      "Polymixia lowei"
+    ],
+    "sh3px3": [
+      "Polymixia japonica",
+      "Polymixia lowei"
+    ],
+    "sidkey": [
+      "Polymixia lowei"
+    ],
+    "sreb2": [
+      "Polymixia japonica"
+    ],
+    "svep1": [
+      "Polymixia lowei"
+    ],
+    "tbr1": [
+      "Polymixia japonica",
+      "Polymixia lowei",
+      "Polymixia nobilis"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Polymixia japonica",
+      "Polymixia lowei"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Polymixiacea"
+    ],
+    "family": [
+      "Polymixiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Polymixiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Polymixia berndti": 0.0303,
+    "Polymixia japonica": 0.0858,
+    "Polymixia lowei": 0.0463,
+    "Polymixia nobilis": 0.0871
+  },
+  "tiprates_bamm_lambda": {
+    "Polymixia berndti": 0.0522,
+    "Polymixia japonica": 0.0522,
+    "Polymixia lowei": 0.0522,
+    "Polymixia nobilis": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Polymixia berndti": 0.0003,
+    "Polymixia japonica": 0.0003,
+    "Polymixia lowei": 0.0003,
+    "Polymixia nobilis": 0.0003
+  },
+  "mean_dr": 0.0624,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/division/Polymixiacea.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/division/Polymixiacea.nex.xz",
+  "chronogram": "downloads/taxonomy/division/Polymixiacea.tre",
+  "phylogram": "downloads/taxonomy/division/Polymixiacea_phylogram.tre",
+  "rogues": [
+
+  ]
+}

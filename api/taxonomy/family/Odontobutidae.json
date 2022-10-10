@@ -1,0 +1,263 @@
+{
+  "species": [
+    "Micropercops borealis",
+    "Micropercops cinctus",
+    "Micropercops dabryi",
+    "Micropercops swinhonis",
+    "Neodontobutis aurarmus",
+    "Neodontobutis hainanensis",
+    "Neodontobutis macropectoralis",
+    "Neodontobutis ngheanensis",
+    "Neodontobutis tonkinensis",
+    "Odontobutis haifengensis",
+    "Odontobutis hikimius",
+    "Odontobutis interrupta",
+    "Odontobutis obscura",
+    "Odontobutis platycephala",
+    "Odontobutis potamophila",
+    "Odontobutis sinensis",
+    "Odontobutis yaluensis",
+    "Perccottus glenii",
+    "Sineleotris chalmersi",
+    "Sineleotris namxamensis",
+    "Sineleotris saccharae",
+    "Terateleotris aspro"
+  ],
+  "sampled_species": [
+    "Micropercops swinhonis",
+    "Odontobutis haifengensis",
+    "Odontobutis hikimius",
+    "Odontobutis interrupta",
+    "Odontobutis obscura",
+    "Odontobutis potamophila",
+    "Odontobutis sinensis",
+    "Odontobutis yaluensis",
+    "Perccottus glenii"
+  ],
+  "unsampled_species": [
+    "Micropercops borealis",
+    "Micropercops cinctus",
+    "Micropercops dabryi",
+    "Neodontobutis aurarmus",
+    "Neodontobutis hainanensis",
+    "Neodontobutis macropectoralis",
+    "Neodontobutis ngheanensis",
+    "Neodontobutis tonkinensis",
+    "Odontobutis platycephala",
+    "Sineleotris chalmersi",
+    "Sineleotris namxamensis",
+    "Sineleotris saccharae",
+    "Terateleotris aspro"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Micropercops swinhonis",
+      "Odontobutis haifengensis",
+      "Odontobutis hikimius",
+      "Odontobutis obscura",
+      "Odontobutis potamophila",
+      "Odontobutis sinensis",
+      "Odontobutis yaluensis"
+    ],
+    "16s": [
+      "Micropercops swinhonis",
+      "Odontobutis hikimius",
+      "Odontobutis obscura",
+      "Odontobutis potamophila"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Micropercops swinhonis",
+      "Odontobutis interrupta",
+      "Odontobutis obscura",
+      "Odontobutis potamophila",
+      "Perccottus glenii"
+    ],
+    "cytb": [
+      "Micropercops swinhonis",
+      "Odontobutis obscura",
+      "Odontobutis potamophila",
+      "Perccottus glenii"
+    ],
+    "enc1": [
+      "Odontobutis potamophila",
+      "Perccottus glenii"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Odontobutis potamophila",
+      "Perccottus glenii"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Odontobutis potamophila",
+      "Perccottus glenii"
+    ],
+    "nd2": [
+      "Micropercops swinhonis",
+      "Odontobutis obscura",
+      "Odontobutis potamophila",
+      "Perccottus glenii"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Odontobutis potamophila",
+      "Perccottus glenii"
+    ],
+    "ptr": [
+      "Odontobutis potamophila",
+      "Perccottus glenii"
+    ],
+    "rag1": [
+      "Perccottus glenii"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Odontobutis potamophila",
+      "Perccottus glenii"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Odontobutis potamophila",
+      "Perccottus glenii"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Odontobutis potamophila",
+      "Perccottus glenii"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Odontobutidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gobiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Gobiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Odontobutoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Micropercops swinhonis": 0.0374,
+    "Odontobutis haifengensis": 0.0443,
+    "Odontobutis hikimius": 0.0361,
+    "Odontobutis interrupta": 0.0236,
+    "Odontobutis obscura": 0.0362,
+    "Odontobutis potamophila": 0.0454,
+    "Odontobutis sinensis": 0.0435,
+    "Odontobutis yaluensis": 0.0441,
+    "Perccottus glenii": 0.0574
+  },
+  "tiprates_bamm_lambda": {
+    "Micropercops swinhonis": 0.0548,
+    "Odontobutis haifengensis": 0.0549,
+    "Odontobutis hikimius": 0.0549,
+    "Odontobutis interrupta": 0.0549,
+    "Odontobutis obscura": 0.0549,
+    "Odontobutis potamophila": 0.0549,
+    "Odontobutis sinensis": 0.0549,
+    "Odontobutis yaluensis": 0.0549,
+    "Perccottus glenii": 0.0548
+  },
+  "tiprates_bamm_mu": {
+    "Micropercops swinhonis": 0.0003,
+    "Odontobutis haifengensis": 0.0003,
+    "Odontobutis hikimius": 0.0003,
+    "Odontobutis interrupta": 0.0003,
+    "Odontobutis obscura": 0.0003,
+    "Odontobutis potamophila": 0.0003,
+    "Odontobutis sinensis": 0.0003,
+    "Odontobutis yaluensis": 0.0003,
+    "Perccottus glenii": 0.0003
+  },
+  "mean_dr": 0.0409,
+  "mean_bamm_lambda": 0.0549,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Odontobutidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Odontobutidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Odontobutidae.tre",
+  "phylogram": "downloads/taxonomy/family/Odontobutidae_phylogram.tre",
+  "rogues": [
+    "Rhyacichthys_aspro"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Odontobutidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Odontobutidae_mrca_phylogram.tre"
+}

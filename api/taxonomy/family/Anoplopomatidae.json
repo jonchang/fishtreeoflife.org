@@ -1,0 +1,179 @@
+{
+  "species": [
+    "Anoplopoma fimbria",
+    "Erilepis zonifer"
+  ],
+  "sampled_species": [
+    "Anoplopoma fimbria",
+    "Erilepis zonifer"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Anoplopoma fimbria"
+    ],
+    "4c4": [
+      "Anoplopoma fimbria"
+    ],
+    "coi": [
+      "Anoplopoma fimbria"
+    ],
+    "cytb": [
+      "Anoplopoma fimbria"
+    ],
+    "enc1": [
+      "Anoplopoma fimbria",
+      "Erilepis zonifer"
+    ],
+    "ficd": [
+      "Anoplopoma fimbria"
+    ],
+    "glyt": [
+      "Anoplopoma fimbria",
+      "Erilepis zonifer"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Anoplopoma fimbria"
+    ],
+    "myh6": [
+      "Anoplopoma fimbria",
+      "Erilepis zonifer"
+    ],
+    "nd2": [
+      "Anoplopoma fimbria"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Anoplopoma fimbria"
+    ],
+    "plagl2": [
+      "Anoplopoma fimbria",
+      "Erilepis zonifer"
+    ],
+    "ptr": [
+      "Anoplopoma fimbria",
+      "Erilepis zonifer"
+    ],
+    "rag1": [
+      "Anoplopoma fimbria",
+      "Erilepis zonifer"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Anoplopoma fimbria",
+      "Erilepis zonifer"
+    ],
+    "sidkey": [
+      "Anoplopoma fimbria"
+    ],
+    "sreb2": [
+      "Anoplopoma fimbria",
+      "Erilepis zonifer"
+    ],
+    "svep1": [
+      "Anoplopoma fimbria"
+    ],
+    "tbr1": [
+      "Anoplopoma fimbria",
+      "Erilepis zonifer"
+    ],
+    "vcpip": [
+      "Anoplopoma fimbria"
+    ],
+    "zic1": [
+      "Anoplopoma fimbria",
+      "Erilepis zonifer"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Anoplopomatidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Anoplopomatales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Anoplopoma fimbria": 0.0255,
+    "Erilepis zonifer": 0.0255
+  },
+  "tiprates_bamm_lambda": {
+    "Anoplopoma fimbria": 0.058,
+    "Erilepis zonifer": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Anoplopoma fimbria": 0.0003,
+    "Erilepis zonifer": 0.0003
+  },
+  "mean_dr": 0.0255,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Anoplopomatidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Anoplopomatidae.nex.xz"
+}

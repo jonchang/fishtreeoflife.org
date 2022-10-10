@@ -1,0 +1,317 @@
+{
+  "species": [
+    "Amblycirrhitus bimacula",
+    "Amblycirrhitus earnshawi",
+    "Amblycirrhitus oxyrhynchos",
+    "Amblycirrhitus pinos",
+    "Amblycirrhitus unimacula",
+    "Cirrhitichthys aprinus",
+    "Cirrhitichthys aureus",
+    "Cirrhitichthys bleekeri",
+    "Cirrhitichthys calliurus",
+    "Cirrhitichthys falco",
+    "Cirrhitichthys guichenoti",
+    "Cirrhitichthys oxycephalus",
+    "Cirrhitichthys randalli",
+    "Cirrhitops fasciatus",
+    "Cirrhitops hubbardi",
+    "Cirrhitops mascarenensis",
+    "Cirrhitus albopunctatus",
+    "Cirrhitus atlanticus",
+    "Cirrhitus pinnulatus",
+    "Cirrhitus rivulatus",
+    "Cristacirrhitus punctatus",
+    "Cyprinocirrhites polyactis",
+    "Isocirrhitus sexfasciatus",
+    "Itycirrhitus wilhelmi",
+    "Neocirrhites armatus",
+    "Notocirrhitus splendens",
+    "Oxycirrhites typus",
+    "Paracirrhites arcatus",
+    "Paracirrhites bicolor",
+    "Paracirrhites forsteri",
+    "Paracirrhites hemistictus",
+    "Paracirrhites nisus",
+    "Paracirrhites xanthus"
+  ],
+  "sampled_species": [
+    "Amblycirrhitus bimacula",
+    "Amblycirrhitus pinos",
+    "Cirrhitichthys falco",
+    "Cirrhitichthys oxycephalus",
+    "Cirrhitus pinnulatus",
+    "Cirrhitus rivulatus",
+    "Itycirrhitus wilhelmi",
+    "Neocirrhites armatus",
+    "Notocirrhitus splendens",
+    "Paracirrhites arcatus",
+    "Paracirrhites forsteri",
+    "Paracirrhites hemistictus"
+  ],
+  "unsampled_species": [
+    "Amblycirrhitus earnshawi",
+    "Amblycirrhitus oxyrhynchos",
+    "Amblycirrhitus unimacula",
+    "Cirrhitichthys aprinus",
+    "Cirrhitichthys aureus",
+    "Cirrhitichthys bleekeri",
+    "Cirrhitichthys calliurus",
+    "Cirrhitichthys guichenoti",
+    "Cirrhitichthys randalli",
+    "Cirrhitops fasciatus",
+    "Cirrhitops hubbardi",
+    "Cirrhitops mascarenensis",
+    "Cirrhitus albopunctatus",
+    "Cirrhitus atlanticus",
+    "Cristacirrhitus punctatus",
+    "Cyprinocirrhites polyactis",
+    "Isocirrhitus sexfasciatus",
+    "Oxycirrhites typus",
+    "Paracirrhites bicolor",
+    "Paracirrhites nisus",
+    "Paracirrhites xanthus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Amblycirrhitus pinos",
+      "Cirrhitus rivulatus",
+      "Paracirrhites forsteri"
+    ],
+    "4c4": [
+      "Cirrhitus rivulatus"
+    ],
+    "coi": [
+      "Amblycirrhitus bimacula",
+      "Amblycirrhitus pinos",
+      "Cirrhitichthys falco",
+      "Cirrhitichthys oxycephalus",
+      "Cirrhitus pinnulatus",
+      "Neocirrhites armatus",
+      "Paracirrhites arcatus",
+      "Paracirrhites forsteri",
+      "Paracirrhites hemistictus"
+    ],
+    "cytb": [
+      "Amblycirrhitus bimacula",
+      "Cirrhitus pinnulatus",
+      "Itycirrhitus wilhelmi",
+      "Neocirrhites armatus",
+      "Notocirrhitus splendens"
+    ],
+    "enc1": [
+      "Paracirrhites arcatus"
+    ],
+    "ficd": [
+      "Amblycirrhitus pinos",
+      "Cirrhitichthys oxycephalus",
+      "Neocirrhites armatus",
+      "Paracirrhites forsteri"
+    ],
+    "glyt": [
+      "Paracirrhites arcatus"
+    ],
+    "hoxc6a": [
+      "Amblycirrhitus pinos",
+      "Cirrhitichthys oxycephalus",
+      "Neocirrhites armatus",
+      "Paracirrhites forsteri"
+    ],
+    "kiaa1239": [
+      "Amblycirrhitus pinos",
+      "Cirrhitichthys oxycephalus",
+      "Neocirrhites armatus",
+      "Paracirrhites forsteri"
+    ],
+    "myh6": [
+      "Amblycirrhitus pinos",
+      "Cirrhitichthys falco",
+      "Cirrhitichthys oxycephalus",
+      "Neocirrhites armatus",
+      "Paracirrhites arcatus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Paracirrhites forsteri"
+    ],
+    "panx2": [
+      "Amblycirrhitus pinos",
+      "Neocirrhites armatus"
+    ],
+    "plagl2": [
+      "Amblycirrhitus pinos",
+      "Cirrhitichthys falco",
+      "Neocirrhites armatus",
+      "Paracirrhites arcatus",
+      "Paracirrhites forsteri"
+    ],
+    "ptr": [
+      "Cirrhitichthys oxycephalus",
+      "Paracirrhites arcatus",
+      "Paracirrhites forsteri"
+    ],
+    "rag1": [
+      "Amblycirrhitus pinos",
+      "Cirrhitus pinnulatus",
+      "Neocirrhites armatus",
+      "Paracirrhites arcatus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Amblycirrhitus bimacula",
+      "Cirrhitus pinnulatus",
+      "Paracirrhites forsteri",
+      "Paracirrhites hemistictus"
+    ],
+    "ripk4": [
+      "Cirrhitichthys oxycephalus",
+      "Neocirrhites armatus"
+    ],
+    "sh3px3": [
+      "Cirrhitichthys oxycephalus",
+      "Paracirrhites arcatus"
+    ],
+    "sidkey": [
+      "Amblycirrhitus pinos",
+      "Cirrhitichthys falco",
+      "Cirrhitichthys oxycephalus"
+    ],
+    "sreb2": [
+      "Amblycirrhitus pinos",
+      "Cirrhitichthys falco",
+      "Neocirrhites armatus",
+      "Paracirrhites arcatus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Paracirrhites arcatus"
+    ],
+    "vcpip": [
+      "Cirrhitichthys oxycephalus"
+    ],
+    "zic1": [
+      "Amblycirrhitus pinos",
+      "Cirrhitichthys falco",
+      "Cirrhitichthys oxycephalus",
+      "Neocirrhites armatus",
+      "Paracirrhites arcatus",
+      "Paracirrhites forsteri"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Cirrhitidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Centrarchiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cirrhitioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Amblycirrhitus bimacula": 0.0454,
+    "Amblycirrhitus pinos": 0.039,
+    "Cirrhitichthys falco": 0.0445,
+    "Cirrhitichthys oxycephalus": 0.0446,
+    "Cirrhitus pinnulatus": 0.0475,
+    "Cirrhitus rivulatus": 0.0355,
+    "Itycirrhitus wilhelmi": 0.0393,
+    "Neocirrhites armatus": 0.0453,
+    "Notocirrhitus splendens": 0.0375,
+    "Paracirrhites arcatus": 0.0419,
+    "Paracirrhites forsteri": 0.0602,
+    "Paracirrhites hemistictus": 0.0552
+  },
+  "tiprates_bamm_lambda": {
+    "Amblycirrhitus bimacula": 0.0579,
+    "Amblycirrhitus pinos": 0.0579,
+    "Cirrhitichthys falco": 0.0577,
+    "Cirrhitichthys oxycephalus": 0.0577,
+    "Cirrhitus pinnulatus": 0.0579,
+    "Cirrhitus rivulatus": 0.0579,
+    "Itycirrhitus wilhelmi": 0.0577,
+    "Neocirrhites armatus": 0.0577,
+    "Notocirrhitus splendens": 0.0577,
+    "Paracirrhites arcatus": 0.0579,
+    "Paracirrhites forsteri": 0.0579,
+    "Paracirrhites hemistictus": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Amblycirrhitus bimacula": 0.0004,
+    "Amblycirrhitus pinos": 0.0004,
+    "Cirrhitichthys falco": 0.0006,
+    "Cirrhitichthys oxycephalus": 0.0006,
+    "Cirrhitus pinnulatus": 0.0004,
+    "Cirrhitus rivulatus": 0.0004,
+    "Itycirrhitus wilhelmi": 0.0006,
+    "Neocirrhites armatus": 0.0006,
+    "Notocirrhitus splendens": 0.0006,
+    "Paracirrhites arcatus": 0.0004,
+    "Paracirrhites forsteri": 0.0004,
+    "Paracirrhites hemistictus": 0.0004
+  },
+  "mean_dr": 0.0447,
+  "mean_bamm_lambda": 0.0578,
+  "mean_bamm_mu": 0.0005,
+  "matrix_phylip": "downloads/taxonomy/family/Cirrhitidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Cirrhitidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Cirrhitidae.tre",
+  "phylogram": "downloads/taxonomy/family/Cirrhitidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

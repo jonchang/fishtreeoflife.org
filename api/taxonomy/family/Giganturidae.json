@@ -1,0 +1,175 @@
+{
+  "species": [
+    "Gigantura chuni",
+    "Gigantura indica"
+  ],
+  "sampled_species": [
+    "Gigantura chuni",
+    "Gigantura indica"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Gigantura chuni",
+      "Gigantura indica"
+    ],
+    "ficd": [
+      "Gigantura indica"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Gigantura indica"
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Gigantura chuni",
+      "Gigantura indica"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Gigantura chuni",
+      "Gigantura indica"
+    ],
+    "plagl2": [
+      "Gigantura chuni",
+      "Gigantura indica"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Gigantura chuni",
+      "Gigantura indica"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Gigantura chuni",
+      "Gigantura indica"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Giganturidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Aulopiformes"
+    ],
+    "section": [
+      "Aulopa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Alepisauroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Gigantura chuni": 0.0157,
+    "Gigantura indica": 0.0157
+  },
+  "tiprates_bamm_lambda": {
+    "Gigantura chuni": 0.0347,
+    "Gigantura indica": 0.0347
+  },
+  "tiprates_bamm_mu": {
+    "Gigantura chuni": 0.001,
+    "Gigantura indica": 0.001
+  },
+  "mean_dr": 0.0157,
+  "mean_bamm_lambda": 0.0347,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Giganturidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Giganturidae.nex.xz"
+}

@@ -1,0 +1,243 @@
+{
+  "species": [
+    "Antigonia aurorosea",
+    "Antigonia capros",
+    "Antigonia combatia",
+    "Antigonia eos",
+    "Antigonia hulleyi",
+    "Antigonia indica",
+    "Antigonia kenyae",
+    "Antigonia malayana",
+    "Antigonia ovalis",
+    "Antigonia quiproqua",
+    "Antigonia rhomboidea",
+    "Antigonia rubescens",
+    "Antigonia rubicunda",
+    "Antigonia saya",
+    "Antigonia socotrae",
+    "Antigonia undulata",
+    "Antigonia xenolepis",
+    "Capros aper"
+  ],
+  "sampled_species": [
+    "Antigonia capros",
+    "Antigonia combatia",
+    "Antigonia rubescens",
+    "Capros aper"
+  ],
+  "unsampled_species": [
+    "Antigonia aurorosea",
+    "Antigonia eos",
+    "Antigonia hulleyi",
+    "Antigonia indica",
+    "Antigonia kenyae",
+    "Antigonia malayana",
+    "Antigonia ovalis",
+    "Antigonia quiproqua",
+    "Antigonia rhomboidea",
+    "Antigonia rubicunda",
+    "Antigonia saya",
+    "Antigonia socotrae",
+    "Antigonia undulata",
+    "Antigonia xenolepis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Antigonia capros",
+      "Capros aper"
+    ],
+    "16s": [
+      "Antigonia capros",
+      "Capros aper"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Antigonia capros",
+      "Antigonia combatia",
+      "Antigonia rubescens",
+      "Capros aper"
+    ],
+    "cytb": [
+      "Antigonia capros"
+    ],
+    "enc1": [
+      "Antigonia capros"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Antigonia capros"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Antigonia capros"
+    ],
+    "myh6": [
+      "Antigonia capros"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Antigonia capros"
+    ],
+    "plagl2": [
+      "Antigonia capros"
+    ],
+    "ptr": [
+      "Antigonia capros"
+    ],
+    "rag1": [
+      "Antigonia capros",
+      "Capros aper"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Antigonia capros",
+      "Capros aper"
+    ],
+    "ripk4": [
+      "Antigonia capros"
+    ],
+    "sh3px3": [
+      "Antigonia capros"
+    ],
+    "sidkey": [
+      "Antigonia capros"
+    ],
+    "sreb2": [
+      "Antigonia capros"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Antigonia capros"
+    ],
+    "vcpip": [
+      "Antigonia capros"
+    ],
+    "zic1": [
+      "Antigonia capros"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Caproidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Antigonia capros": 0.1045,
+    "Antigonia combatia": 0.0964,
+    "Antigonia rubescens": 0.0673,
+    "Capros aper": 0.0359
+  },
+  "tiprates_bamm_lambda": {
+    "Antigonia capros": 0.058,
+    "Antigonia combatia": 0.058,
+    "Antigonia rubescens": 0.058,
+    "Capros aper": 0.0581
+  },
+  "tiprates_bamm_mu": {
+    "Antigonia capros": 0.0004,
+    "Antigonia combatia": 0.0004,
+    "Antigonia rubescens": 0.0004,
+    "Capros aper": 0.0005
+  },
+  "mean_dr": 0.076,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Caproidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Caproidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Caproidae.tre",
+  "phylogram": "downloads/taxonomy/family/Caproidae_phylogram.tre",
+  "rogues": [
+    "Siganus_magnificus",
+    "Siganus_uspi",
+    "Siganus_unimaculatus",
+    "Siganus_vulpinus",
+    "Siganus_stellatus",
+    "Siganus_punctatus",
+    "Siganus_puellus",
+    "Siganus_punctatissimus",
+    "Siganus_javus",
+    "Siganus_randalli",
+    "Siganus_lineatus",
+    "Siganus_guttatus",
+    "Siganus_doliatus",
+    "Siganus_virgatus",
+    "Siganus_corallinus",
+    "Siganus_vermiculatus",
+    "Siganus_rivulatus",
+    "Siganus_canaliculatus",
+    "Siganus_luridus",
+    "Siganus_sutor",
+    "Siganus_fuscescens",
+    "Siganus_spinus",
+    "Siganus_argenteus",
+    "Siganus_woodlandi"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Caproidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Caproidae_mrca_phylogram.tre"
+}

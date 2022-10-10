@@ -1,0 +1,489 @@
+{
+  "species": [
+    "Ageneiosus atronasus",
+    "Ageneiosus brevis",
+    "Ageneiosus inermis",
+    "Ageneiosus magoi",
+    "Ageneiosus marmoratus",
+    "Ageneiosus militaris",
+    "Ageneiosus pardalis",
+    "Ageneiosus piperatus",
+    "Ageneiosus polystictus",
+    "Ageneiosus ucayalensis",
+    "Ageneiosus uranophthalmus",
+    "Ageneiosus vittatus",
+    "Asterophysus batrachus",
+    "Auchenipterichthys coracoideus",
+    "Auchenipterichthys longimanus",
+    "Auchenipterichthys punctatus",
+    "Auchenipterichthys thoracatus",
+    "Auchenipterus ambyiacus",
+    "Auchenipterus brachyurus",
+    "Auchenipterus brevior",
+    "Auchenipterus britskii",
+    "Auchenipterus demerarae",
+    "Auchenipterus dentatus",
+    "Auchenipterus fordicei",
+    "Auchenipterus menezesi",
+    "Auchenipterus nigripinnis",
+    "Auchenipterus nuchalis",
+    "Auchenipterus osteomystax",
+    "Centromochlus altae",
+    "Centromochlus concolor",
+    "Centromochlus existimatus",
+    "Centromochlus heckelii",
+    "Centromochlus macracanthus",
+    "Centromochlus megalops",
+    "Centromochlus musaicus",
+    "Centromochlus perugiae",
+    "Centromochlus punctatus",
+    "Centromochlus reticulatus",
+    "Centromochlus romani",
+    "Centromochlus schultzi",
+    "Centromochlus simplex",
+    "Entomocorus benjamini",
+    "Entomocorus gameroi",
+    "Entomocorus melaphareus",
+    "Entomocorus radiosus",
+    "Epapterus blohmi",
+    "Epapterus dispilurus",
+    "Gelanoglanis nanonocticolus",
+    "Gelanoglanis stroudi",
+    "Gelanoglanis travieso",
+    "Glanidium albescens",
+    "Glanidium bockmanni",
+    "Glanidium botocudo",
+    "Glanidium catharinensis",
+    "Glanidium cesarpintoi",
+    "Glanidium leopardum",
+    "Glanidium melanopterum",
+    "Glanidium ribeiroi",
+    "Liosomadoras morrowi",
+    "Liosomadoras oncinus",
+    "Pseudauchenipterus affinis",
+    "Pseudauchenipterus flavescens",
+    "Pseudauchenipterus jequitinhonhae",
+    "Pseudauchenipterus nodosus",
+    "Pseudepapterus cucuhyensis",
+    "Pseudepapterus gracilis",
+    "Pseudepapterus hasemani",
+    "Pseudotatia parva",
+    "Spinipterus acsi",
+    "Tatia aulopygia",
+    "Tatia boemia",
+    "Tatia brunnea",
+    "Tatia caxiuanensis",
+    "Tatia dunni",
+    "Tatia galaxias",
+    "Tatia gyrina",
+    "Tatia intermedia",
+    "Tatia jaracatia",
+    "Tatia meesi",
+    "Tatia neivai",
+    "Tatia nigra",
+    "Tatia strigata",
+    "Tetranematichthys barthemi",
+    "Tetranematichthys quadrifilis",
+    "Tetranematichthys wallacei",
+    "Tocantinsia piresi",
+    "Trachelyichthys decaradiatus",
+    "Trachelyichthys exilis",
+    "Trachelyopterichthys anduzei",
+    "Trachelyopterichthys taeniatus",
+    "Trachelyopterus albicrux",
+    "Trachelyopterus amblops",
+    "Trachelyopterus analis",
+    "Trachelyopterus brevibarbis",
+    "Trachelyopterus ceratophysus",
+    "Trachelyopterus coriaceus",
+    "Trachelyopterus fisheri",
+    "Trachelyopterus galeatus",
+    "Trachelyopterus insignis",
+    "Trachelyopterus isacanthus",
+    "Trachelyopterus lacustris",
+    "Trachelyopterus leopardinus",
+    "Trachelyopterus lucenai",
+    "Trachelyopterus peloichthys",
+    "Trachelyopterus striatulus",
+    "Trachelyopterus teaguei",
+    "Trachycorystes cratensis",
+    "Trachycorystes menezesi",
+    "Trachycorystes porosus",
+    "Trachycorystes trachycorystes"
+  ],
+  "sampled_species": [
+    "Ageneiosus atronasus",
+    "Ageneiosus inermis",
+    "Ageneiosus ucayalensis",
+    "Auchenipterichthys thoracatus",
+    "Auchenipterus demerarae",
+    "Auchenipterus nigripinnis",
+    "Auchenipterus osteomystax",
+    "Centromochlus existimatus",
+    "Centromochlus heckelii",
+    "Epapterus dispilurus",
+    "Glanidium leopardum",
+    "Glanidium melanopterum",
+    "Liosomadoras morrowi",
+    "Liosomadoras oncinus",
+    "Pseudepapterus hasemani",
+    "Tatia intermedia",
+    "Tatia neivai",
+    "Trachelyopterus galeatus",
+    "Trachelyopterus striatulus",
+    "Trachycorystes trachycorystes"
+  ],
+  "unsampled_species": [
+    "Ageneiosus brevis",
+    "Ageneiosus magoi",
+    "Ageneiosus marmoratus",
+    "Ageneiosus militaris",
+    "Ageneiosus pardalis",
+    "Ageneiosus piperatus",
+    "Ageneiosus polystictus",
+    "Ageneiosus uranophthalmus",
+    "Ageneiosus vittatus",
+    "Asterophysus batrachus",
+    "Auchenipterichthys coracoideus",
+    "Auchenipterichthys longimanus",
+    "Auchenipterichthys punctatus",
+    "Auchenipterus ambyiacus",
+    "Auchenipterus brachyurus",
+    "Auchenipterus brevior",
+    "Auchenipterus britskii",
+    "Auchenipterus dentatus",
+    "Auchenipterus fordicei",
+    "Auchenipterus menezesi",
+    "Auchenipterus nuchalis",
+    "Centromochlus altae",
+    "Centromochlus concolor",
+    "Centromochlus macracanthus",
+    "Centromochlus megalops",
+    "Centromochlus musaicus",
+    "Centromochlus perugiae",
+    "Centromochlus punctatus",
+    "Centromochlus reticulatus",
+    "Centromochlus romani",
+    "Centromochlus schultzi",
+    "Centromochlus simplex",
+    "Entomocorus benjamini",
+    "Entomocorus gameroi",
+    "Entomocorus melaphareus",
+    "Entomocorus radiosus",
+    "Epapterus blohmi",
+    "Gelanoglanis nanonocticolus",
+    "Gelanoglanis stroudi",
+    "Gelanoglanis travieso",
+    "Glanidium albescens",
+    "Glanidium bockmanni",
+    "Glanidium botocudo",
+    "Glanidium catharinensis",
+    "Glanidium cesarpintoi",
+    "Glanidium ribeiroi",
+    "Pseudauchenipterus affinis",
+    "Pseudauchenipterus flavescens",
+    "Pseudauchenipterus jequitinhonhae",
+    "Pseudauchenipterus nodosus",
+    "Pseudepapterus cucuhyensis",
+    "Pseudepapterus gracilis",
+    "Pseudotatia parva",
+    "Spinipterus acsi",
+    "Tatia aulopygia",
+    "Tatia boemia",
+    "Tatia brunnea",
+    "Tatia caxiuanensis",
+    "Tatia dunni",
+    "Tatia galaxias",
+    "Tatia gyrina",
+    "Tatia jaracatia",
+    "Tatia meesi",
+    "Tatia nigra",
+    "Tatia strigata",
+    "Tetranematichthys barthemi",
+    "Tetranematichthys quadrifilis",
+    "Tetranematichthys wallacei",
+    "Tocantinsia piresi",
+    "Trachelyichthys decaradiatus",
+    "Trachelyichthys exilis",
+    "Trachelyopterichthys anduzei",
+    "Trachelyopterichthys taeniatus",
+    "Trachelyopterus albicrux",
+    "Trachelyopterus amblops",
+    "Trachelyopterus analis",
+    "Trachelyopterus brevibarbis",
+    "Trachelyopterus ceratophysus",
+    "Trachelyopterus coriaceus",
+    "Trachelyopterus fisheri",
+    "Trachelyopterus insignis",
+    "Trachelyopterus isacanthus",
+    "Trachelyopterus lacustris",
+    "Trachelyopterus leopardinus",
+    "Trachelyopterus lucenai",
+    "Trachelyopterus peloichthys",
+    "Trachelyopterus teaguei",
+    "Trachycorystes cratensis",
+    "Trachycorystes menezesi",
+    "Trachycorystes porosus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Ageneiosus atronasus",
+      "Ageneiosus inermis",
+      "Ageneiosus ucayalensis",
+      "Auchenipterichthys thoracatus",
+      "Auchenipterus demerarae",
+      "Centromochlus heckelii",
+      "Liosomadoras morrowi",
+      "Tatia intermedia"
+    ],
+    "16s": [
+      "Ageneiosus atronasus",
+      "Ageneiosus inermis",
+      "Auchenipterus nigripinnis",
+      "Glanidium leopardum",
+      "Liosomadoras oncinus",
+      "Pseudepapterus hasemani",
+      "Trachycorystes trachycorystes"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Ageneiosus inermis",
+      "Ageneiosus ucayalensis",
+      "Auchenipterus nigripinnis",
+      "Auchenipterus osteomystax",
+      "Glanidium leopardum",
+      "Glanidium melanopterum",
+      "Liosomadoras oncinus",
+      "Pseudepapterus hasemani",
+      "Tatia neivai",
+      "Trachelyopterus galeatus",
+      "Trachelyopterus striatulus",
+      "Trachycorystes trachycorystes"
+    ],
+    "cytb": [
+      "Ageneiosus atronasus",
+      "Ageneiosus ucayalensis",
+      "Centromochlus heckelii",
+      "Epapterus dispilurus",
+      "Trachelyopterus galeatus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Ageneiosus atronasus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Ageneiosus ucayalensis",
+      "Centromochlus heckelii"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Ageneiosus ucayalensis",
+      "Centromochlus existimatus",
+      "Centromochlus heckelii",
+      "Trachelyopterus galeatus"
+    ],
+    "rag2": [
+      "Ageneiosus atronasus",
+      "Ageneiosus ucayalensis",
+      "Centromochlus heckelii",
+      "Trachelyopterus galeatus"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Auchenipteridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Ageneiosus atronasus": 0.101,
+    "Ageneiosus inermis": 0.1077,
+    "Ageneiosus ucayalensis": 0.1101,
+    "Auchenipterichthys thoracatus": 0.0725,
+    "Auchenipterus demerarae": 0.0678,
+    "Auchenipterus nigripinnis": 0.1211,
+    "Auchenipterus osteomystax": 0.1144,
+    "Centromochlus existimatus": 0.1457,
+    "Centromochlus heckelii": 0.1619,
+    "Epapterus dispilurus": 0.0712,
+    "Glanidium leopardum": 0.0619,
+    "Glanidium melanopterum": 0.0828,
+    "Liosomadoras morrowi": 0.0593,
+    "Liosomadoras oncinus": 0.0806,
+    "Pseudepapterus hasemani": 0.0915,
+    "Tatia intermedia": 0.0617,
+    "Tatia neivai": 0.0804,
+    "Trachelyopterus galeatus": 0.1165,
+    "Trachelyopterus striatulus": 0.1249,
+    "Trachycorystes trachycorystes": 0.1016
+  },
+  "tiprates_bamm_lambda": {
+    "Ageneiosus atronasus": 0.0745,
+    "Ageneiosus inermis": 0.0745,
+    "Ageneiosus ucayalensis": 0.0745,
+    "Auchenipterichthys thoracatus": 0.0745,
+    "Auchenipterus demerarae": 0.0745,
+    "Auchenipterus nigripinnis": 0.0745,
+    "Auchenipterus osteomystax": 0.0745,
+    "Centromochlus existimatus": 0.0745,
+    "Centromochlus heckelii": 0.0745,
+    "Epapterus dispilurus": 0.0745,
+    "Glanidium leopardum": 0.0745,
+    "Glanidium melanopterum": 0.0745,
+    "Liosomadoras morrowi": 0.0745,
+    "Liosomadoras oncinus": 0.0745,
+    "Pseudepapterus hasemani": 0.0745,
+    "Tatia intermedia": 0.0745,
+    "Tatia neivai": 0.0745,
+    "Trachelyopterus galeatus": 0.0745,
+    "Trachelyopterus striatulus": 0.0745,
+    "Trachycorystes trachycorystes": 0.0745
+  },
+  "tiprates_bamm_mu": {
+    "Ageneiosus atronasus": 0.0008,
+    "Ageneiosus inermis": 0.0008,
+    "Ageneiosus ucayalensis": 0.0008,
+    "Auchenipterichthys thoracatus": 0.0008,
+    "Auchenipterus demerarae": 0.0008,
+    "Auchenipterus nigripinnis": 0.0008,
+    "Auchenipterus osteomystax": 0.0008,
+    "Centromochlus existimatus": 0.0008,
+    "Centromochlus heckelii": 0.0008,
+    "Epapterus dispilurus": 0.0008,
+    "Glanidium leopardum": 0.0008,
+    "Glanidium melanopterum": 0.0008,
+    "Liosomadoras morrowi": 0.0008,
+    "Liosomadoras oncinus": 0.0008,
+    "Pseudepapterus hasemani": 0.0008,
+    "Tatia intermedia": 0.0008,
+    "Tatia neivai": 0.0008,
+    "Trachelyopterus galeatus": 0.0008,
+    "Trachelyopterus striatulus": 0.0008,
+    "Trachycorystes trachycorystes": 0.0008
+  },
+  "mean_dr": 0.0967,
+  "mean_bamm_lambda": 0.0745,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Auchenipteridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Auchenipteridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Auchenipteridae.tre",
+  "phylogram": "downloads/taxonomy/family/Auchenipteridae_phylogram.tre",
+  "rogues": [
+    "Amblydoras_nauticus",
+    "Amblydoras_affinis",
+    "Amblydoras_monitor",
+    "Scorpiodoras_heckelii",
+    "Physopyxis_lyra",
+    "Physopyxis_ananas",
+    "Astrodoras_asterifrons",
+    "Hypodoras_forficulatus",
+    "Anadoras_weddellii",
+    "Anadoras_grypus"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Auchenipteridae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Auchenipteridae_mrca_phylogram.tre"
+}

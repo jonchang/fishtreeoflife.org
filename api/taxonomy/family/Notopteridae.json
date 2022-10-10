@@ -1,0 +1,232 @@
+{
+  "species": [
+    "Chitala blanci",
+    "Chitala borneensis",
+    "Chitala chitala",
+    "Chitala hypselonotus",
+    "Chitala lopis",
+    "Chitala ornata",
+    "Notopterus notopterus",
+    "Papyrocranus afer",
+    "Papyrocranus congoensis",
+    "Xenomystus nigri"
+  ],
+  "sampled_species": [
+    "Chitala chitala",
+    "Chitala ornata",
+    "Notopterus notopterus",
+    "Papyrocranus afer",
+    "Papyrocranus congoensis",
+    "Xenomystus nigri"
+  ],
+  "unsampled_species": [
+    "Chitala blanci",
+    "Chitala borneensis",
+    "Chitala hypselonotus",
+    "Chitala lopis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Chitala chitala",
+      "Chitala ornata",
+      "Notopterus notopterus",
+      "Papyrocranus afer",
+      "Xenomystus nigri"
+    ],
+    "16s": [
+      "Chitala chitala",
+      "Chitala ornata",
+      "Notopterus notopterus",
+      "Papyrocranus afer",
+      "Xenomystus nigri"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Chitala chitala",
+      "Chitala ornata",
+      "Notopterus notopterus",
+      "Papyrocranus afer",
+      "Papyrocranus congoensis",
+      "Xenomystus nigri"
+    ],
+    "cytb": [
+      "Chitala chitala",
+      "Chitala ornata",
+      "Notopterus notopterus",
+      "Papyrocranus afer",
+      "Xenomystus nigri"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Chitala chitala",
+      "Chitala ornata",
+      "Xenomystus nigri"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Chitala chitala",
+      "Chitala ornata"
+    ],
+    "nd2": [
+      "Chitala ornata",
+      "Notopterus notopterus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Chitala chitala",
+      "Chitala ornata",
+      "Xenomystus nigri"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Chitala chitala",
+      "Notopterus notopterus"
+    ],
+    "rag2": [
+      "Notopterus notopterus",
+      "Papyrocranus afer"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Chitala ornata",
+      "Xenomystus nigri"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Chitala chitala",
+      "Chitala ornata",
+      "Xenomystus nigri"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Chitala ornata",
+      "Xenomystus nigri"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Chitala chitala",
+      "Chitala ornata",
+      "Xenomystus nigri"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Osteoglossomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Notopteridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Osteoglossiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Osteoglossocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Chitala chitala": 0.0522,
+    "Chitala ornata": 0.0528,
+    "Notopterus notopterus": 0.0161,
+    "Papyrocranus afer": 0.0215,
+    "Papyrocranus congoensis": 0.0215,
+    "Xenomystus nigri": 0.0146
+  },
+  "tiprates_bamm_lambda": {
+    "Chitala chitala": 0.0327,
+    "Chitala ornata": 0.0327,
+    "Notopterus notopterus": 0.0327,
+    "Papyrocranus afer": 0.0327,
+    "Papyrocranus congoensis": 0.0327,
+    "Xenomystus nigri": 0.0327
+  },
+  "tiprates_bamm_mu": {
+    "Chitala chitala": 0.0018,
+    "Chitala ornata": 0.0018,
+    "Notopterus notopterus": 0.0018,
+    "Papyrocranus afer": 0.0018,
+    "Papyrocranus congoensis": 0.0018,
+    "Xenomystus nigri": 0.0018
+  },
+  "mean_dr": 0.0298,
+  "mean_bamm_lambda": 0.0327,
+  "mean_bamm_mu": 0.0018,
+  "matrix_phylip": "downloads/taxonomy/family/Notopteridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Notopteridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Notopteridae.tre",
+  "phylogram": "downloads/taxonomy/family/Notopteridae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

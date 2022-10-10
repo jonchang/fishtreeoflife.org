@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Barbourisia rufa"
+  ],
+  "sampled_species": [
+    "Barbourisia rufa"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Barbourisia rufa"
+    ],
+    "16s": [
+      "Barbourisia rufa"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Barbourisia rufa"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Barbourisia rufa"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Barbourisia rufa"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Barbourisia rufa"
+    ],
+    "ptr": [
+      "Barbourisia rufa"
+    ],
+    "rag1": [
+      "Barbourisia rufa"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Barbourisia rufa"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Barbourisia rufa"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Barbourisia rufa"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Barbourisia rufa"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Barbourisia rufa"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Barbourisiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Beryciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Berycimorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Barbourisia rufa": 0.1023
+  },
+  "tiprates_bamm_lambda": {
+    "Barbourisia rufa": 0.0548
+  },
+  "tiprates_bamm_mu": {
+    "Barbourisia rufa": 0.0003
+  },
+  "mean_dr": 0.1023,
+  "mean_bamm_lambda": 0.0548,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Barbourisiidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Barbourisiidae.nex.xz"
+}

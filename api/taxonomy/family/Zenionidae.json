@@ -1,0 +1,175 @@
+{
+  "species": [
+    "Capromimus abbreviatus",
+    "Cyttomimus affinis",
+    "Cyttomimus stelgis",
+    "Zenion hololepis",
+    "Zenion japonicum",
+    "Zenion leptolepis",
+    "Zenion longipinnis"
+  ],
+  "sampled_species": [
+    "Zenion hololepis"
+  ],
+  "unsampled_species": [
+    "Capromimus abbreviatus",
+    "Cyttomimus affinis",
+    "Cyttomimus stelgis",
+    "Zenion japonicum",
+    "Zenion leptolepis",
+    "Zenion longipinnis"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Zenion hololepis"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Zenionidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Zeiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Zenion hololepis": 0.0291
+  },
+  "tiprates_bamm_lambda": {
+    "Zenion hololepis": 0.0521
+  },
+  "tiprates_bamm_mu": {
+    "Zenion hololepis": 0.0004
+  },
+  "mean_dr": 0.0291,
+  "mean_bamm_lambda": 0.0521,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Zenionidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Zenionidae.nex.xz"
+}

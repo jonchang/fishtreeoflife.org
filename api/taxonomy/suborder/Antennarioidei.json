@@ -1,0 +1,508 @@
+{
+  "species": [
+    "Allenichthys glauerti",
+    "Antennarius biocellatus",
+    "Antennarius commerson",
+    "Antennarius hispidus",
+    "Antennarius indicus",
+    "Antennarius maculatus",
+    "Antennarius multiocellatus",
+    "Antennarius pardalis",
+    "Antennarius pauciradiatus",
+    "Antennarius pictus",
+    "Antennarius randalli",
+    "Antennarius striatus",
+    "Antennatus analis",
+    "Antennatus bermudensis",
+    "Antennatus coccineus",
+    "Antennatus dorehensis",
+    "Antennatus duescus",
+    "Antennatus flagellatus",
+    "Antennatus linearis",
+    "Antennatus nummifer",
+    "Antennatus rosaceus",
+    "Antennatus sanguineus",
+    "Antennatus strigatus",
+    "Antennatus tuberosus",
+    "Echinophryne crassispina",
+    "Echinophryne mitchellii",
+    "Echinophryne reynoldsi",
+    "Fowlerichthys avalonis",
+    "Fowlerichthys ocellatus",
+    "Fowlerichthys radiosus",
+    "Fowlerichthys scriptissimus",
+    "Fowlerichthys senegalensis",
+    "Histiophryne bougainvilli",
+    "Histiophryne cryptacanthus",
+    "Histiophryne maggiewalker",
+    "Histiophryne pogonius",
+    "Histiophryne psychedelica",
+    "Histrio histrio",
+    "Kuiterichthys furcipilis",
+    "Lophiocharon hutchinsi",
+    "Lophiocharon lithinostomus",
+    "Lophiocharon trisignatus",
+    "Nudiantennarius subteres",
+    "Phyllophryne scortea",
+    "Rhycherus filamentosus",
+    "Rhycherus gloveri",
+    "Tathicarpus butleri",
+    "Brachionichthys australis",
+    "Brachionichthys hirsutus",
+    "Brachiopsilus dianthus",
+    "Brachiopsilus dossenus",
+    "Brachiopsilus ziebelli",
+    "Pezichthys amplispinus",
+    "Pezichthys compressus",
+    "Pezichthys eltanini",
+    "Pezichthys macropinnis",
+    "Pezichthys nigrocilium",
+    "Sympterichthys moultoni",
+    "Sympterichthys politus",
+    "Sympterichthys unipennis",
+    "Thymichthys verrucosus",
+    "Lophichthys boschmai",
+    "Dibrachichthys melanurus",
+    "Tetrabrachium ocellatum"
+  ],
+  "sampled_species": [
+    "Antennarius commerson",
+    "Antennarius hispidus",
+    "Antennarius indicus",
+    "Antennarius maculatus",
+    "Antennarius multiocellatus",
+    "Antennarius pauciradiatus",
+    "Antennarius pictus",
+    "Antennarius striatus",
+    "Antennatus bermudensis",
+    "Antennatus coccineus",
+    "Antennatus nummifer",
+    "Antennatus rosaceus",
+    "Antennatus sanguineus",
+    "Antennatus tuberosus",
+    "Echinophryne crassispina",
+    "Echinophryne mitchellii",
+    "Fowlerichthys avalonis",
+    "Fowlerichthys radiosus",
+    "Fowlerichthys scriptissimus",
+    "Histiophryne bougainvilli",
+    "Histiophryne cryptacanthus",
+    "Histiophryne maggiewalker",
+    "Histiophryne psychedelica",
+    "Histrio histrio",
+    "Kuiterichthys furcipilis",
+    "Lophiocharon lithinostomus",
+    "Lophiocharon trisignatus",
+    "Phyllophryne scortea",
+    "Rhycherus filamentosus",
+    "Tathicarpus butleri",
+    "Dibrachichthys melanurus",
+    "Tetrabrachium ocellatum"
+  ],
+  "unsampled_species": [
+    "Allenichthys glauerti",
+    "Antennarius biocellatus",
+    "Antennarius pardalis",
+    "Antennarius randalli",
+    "Antennatus analis",
+    "Antennatus dorehensis",
+    "Antennatus duescus",
+    "Antennatus flagellatus",
+    "Antennatus linearis",
+    "Antennatus strigatus",
+    "Echinophryne reynoldsi",
+    "Fowlerichthys ocellatus",
+    "Fowlerichthys senegalensis",
+    "Histiophryne pogonius",
+    "Lophiocharon hutchinsi",
+    "Nudiantennarius subteres",
+    "Rhycherus gloveri",
+    "Brachionichthys australis",
+    "Brachionichthys hirsutus",
+    "Brachiopsilus dianthus",
+    "Brachiopsilus dossenus",
+    "Brachiopsilus ziebelli",
+    "Pezichthys amplispinus",
+    "Pezichthys compressus",
+    "Pezichthys eltanini",
+    "Pezichthys macropinnis",
+    "Pezichthys nigrocilium",
+    "Sympterichthys moultoni",
+    "Sympterichthys politus",
+    "Sympterichthys unipennis",
+    "Thymichthys verrucosus",
+    "Lophichthys boschmai"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Antennarius striatus"
+    ],
+    "16s": [
+      "Antennarius commerson",
+      "Antennarius hispidus",
+      "Antennarius indicus",
+      "Antennarius multiocellatus",
+      "Antennarius pictus",
+      "Antennarius striatus",
+      "Antennatus coccineus",
+      "Antennatus nummifer",
+      "Antennatus rosaceus",
+      "Antennatus sanguineus",
+      "Antennatus tuberosus",
+      "Echinophryne crassispina",
+      "Echinophryne mitchellii",
+      "Fowlerichthys avalonis",
+      "Fowlerichthys radiosus",
+      "Fowlerichthys scriptissimus",
+      "Histiophryne bougainvilli",
+      "Histiophryne cryptacanthus",
+      "Histiophryne maggiewalker",
+      "Histiophryne psychedelica",
+      "Histrio histrio",
+      "Kuiterichthys furcipilis",
+      "Lophiocharon lithinostomus",
+      "Lophiocharon trisignatus",
+      "Phyllophryne scortea",
+      "Rhycherus filamentosus",
+      "Tathicarpus butleri",
+      "Dibrachichthys melanurus",
+      "Tetrabrachium ocellatum"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Antennarius commerson",
+      "Antennarius hispidus",
+      "Antennarius indicus",
+      "Antennarius maculatus",
+      "Antennarius multiocellatus",
+      "Antennarius pauciradiatus",
+      "Antennarius pictus",
+      "Antennarius striatus",
+      "Antennatus bermudensis",
+      "Antennatus coccineus",
+      "Antennatus nummifer",
+      "Antennatus rosaceus",
+      "Antennatus sanguineus",
+      "Antennatus tuberosus",
+      "Echinophryne crassispina",
+      "Echinophryne mitchellii",
+      "Fowlerichthys avalonis",
+      "Fowlerichthys radiosus",
+      "Fowlerichthys scriptissimus",
+      "Histiophryne bougainvilli",
+      "Histiophryne cryptacanthus",
+      "Histiophryne maggiewalker",
+      "Histiophryne psychedelica",
+      "Histrio histrio",
+      "Kuiterichthys furcipilis",
+      "Lophiocharon lithinostomus",
+      "Lophiocharon trisignatus",
+      "Phyllophryne scortea",
+      "Rhycherus filamentosus",
+      "Tathicarpus butleri",
+      "Dibrachichthys melanurus",
+      "Tetrabrachium ocellatum"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Antennarius striatus"
+    ],
+    "ficd": [
+      "Antennatus coccineus",
+      "Antennatus nummifer"
+    ],
+    "glyt": [
+      "Antennarius striatus",
+      "Histiophryne cryptacanthus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Antennatus coccineus",
+      "Antennatus nummifer"
+    ],
+    "myh6": [
+      "Antennarius striatus",
+      "Antennatus coccineus",
+      "Antennatus nummifer",
+      "Histiophryne cryptacanthus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Antennatus coccineus",
+      "Antennatus nummifer",
+      "Fowlerichthys radiosus",
+      "Histrio histrio"
+    ],
+    "plagl2": [
+      "Antennarius striatus",
+      "Antennatus coccineus",
+      "Antennatus nummifer",
+      "Histiophryne cryptacanthus"
+    ],
+    "ptr": [
+      "Antennarius striatus",
+      "Antennatus coccineus",
+      "Antennatus nummifer",
+      "Histiophryne cryptacanthus"
+    ],
+    "rag1": [
+      "Antennarius striatus",
+      "Histiophryne cryptacanthus"
+    ],
+    "rag2": [
+      "Antennarius commerson",
+      "Antennarius hispidus",
+      "Antennarius indicus",
+      "Antennarius maculatus",
+      "Antennarius multiocellatus",
+      "Antennarius pictus",
+      "Antennarius striatus",
+      "Antennatus coccineus",
+      "Antennatus nummifer",
+      "Antennatus rosaceus",
+      "Antennatus sanguineus",
+      "Antennatus tuberosus",
+      "Echinophryne crassispina",
+      "Echinophryne mitchellii",
+      "Fowlerichthys radiosus",
+      "Fowlerichthys scriptissimus",
+      "Histiophryne bougainvilli",
+      "Histiophryne cryptacanthus",
+      "Histiophryne maggiewalker",
+      "Histiophryne psychedelica",
+      "Histrio histrio",
+      "Kuiterichthys furcipilis",
+      "Lophiocharon lithinostomus",
+      "Lophiocharon trisignatus",
+      "Phyllophryne scortea",
+      "Rhycherus filamentosus",
+      "Tathicarpus butleri",
+      "Dibrachichthys melanurus",
+      "Tetrabrachium ocellatum"
+    ],
+    "rhodopsin": [
+      "Antennarius striatus"
+    ],
+    "ripk4": [
+      "Antennatus nummifer",
+      "Fowlerichthys radiosus",
+      "Histrio histrio"
+    ],
+    "sh3px3": [
+      "Antennarius striatus",
+      "Antennatus nummifer",
+      "Histiophryne cryptacanthus",
+      "Histrio histrio"
+    ],
+    "sidkey": [
+      "Antennarius striatus",
+      "Antennatus coccineus",
+      "Antennatus nummifer",
+      "Fowlerichthys radiosus",
+      "Histrio histrio"
+    ],
+    "sreb2": [
+      "Histiophryne cryptacanthus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Antennarius striatus",
+      "Histiophryne cryptacanthus",
+      "Histrio histrio"
+    ],
+    "vcpip": [
+      "Antennatus coccineus",
+      "Antennatus nummifer"
+    ],
+    "zic1": [
+      "Antennarius striatus",
+      "Antennatus nummifer",
+      "Histiophryne cryptacanthus",
+      "Histrio histrio"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Antennariidae",
+      "Brachionichthyidae",
+      "Lophichthyidae",
+      "Tetrabrachiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lophiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Antennarioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Antennarius commerson": 0.0673,
+    "Antennarius hispidus": 0.098,
+    "Antennarius indicus": 0.078,
+    "Antennarius maculatus": 0.0935,
+    "Antennarius multiocellatus": 0.0813,
+    "Antennarius pauciradiatus": 0.1216,
+    "Antennarius pictus": 0.0978,
+    "Antennarius striatus": 0.0955,
+    "Antennatus bermudensis": 0.1198,
+    "Antennatus coccineus": 0.0544,
+    "Antennatus nummifer": 0.062,
+    "Antennatus rosaceus": 0.0483,
+    "Antennatus sanguineus": 0.0536,
+    "Antennatus tuberosus": 0.0403,
+    "Dibrachichthys melanurus": 0.0458,
+    "Echinophryne crassispina": 0.096,
+    "Echinophryne mitchellii": 0.1012,
+    "Fowlerichthys avalonis": 0.0384,
+    "Fowlerichthys radiosus": 0.0334,
+    "Fowlerichthys scriptissimus": 0.0376,
+    "Histiophryne bougainvilli": 0.0591,
+    "Histiophryne cryptacanthus": 0.0519,
+    "Histiophryne maggiewalker": 0.0564,
+    "Histiophryne psychedelica": 0.0681,
+    "Histrio histrio": 0.0637,
+    "Kuiterichthys furcipilis": 0.0394,
+    "Lophiocharon lithinostomus": 0.1697,
+    "Lophiocharon trisignatus": 0.1709,
+    "Phyllophryne scortea": 0.0667,
+    "Rhycherus filamentosus": 0.0641,
+    "Tathicarpus butleri": 0.039,
+    "Tetrabrachium ocellatum": 0.0458
+  },
+  "tiprates_bamm_lambda": {
+    "Antennarius commerson": 0.0615,
+    "Antennarius hispidus": 0.0615,
+    "Antennarius indicus": 0.0615,
+    "Antennarius maculatus": 0.0615,
+    "Antennarius multiocellatus": 0.0615,
+    "Antennarius pauciradiatus": 0.0615,
+    "Antennarius pictus": 0.0615,
+    "Antennarius striatus": 0.0615,
+    "Antennatus bermudensis": 0.0615,
+    "Antennatus coccineus": 0.0615,
+    "Antennatus nummifer": 0.0615,
+    "Antennatus rosaceus": 0.0615,
+    "Antennatus sanguineus": 0.0615,
+    "Antennatus tuberosus": 0.0615,
+    "Dibrachichthys melanurus": 0.0615,
+    "Echinophryne crassispina": 0.0615,
+    "Echinophryne mitchellii": 0.0615,
+    "Fowlerichthys avalonis": 0.0615,
+    "Fowlerichthys radiosus": 0.0615,
+    "Fowlerichthys scriptissimus": 0.0615,
+    "Histiophryne bougainvilli": 0.0615,
+    "Histiophryne cryptacanthus": 0.0615,
+    "Histiophryne maggiewalker": 0.0615,
+    "Histiophryne psychedelica": 0.0615,
+    "Histrio histrio": 0.0615,
+    "Kuiterichthys furcipilis": 0.0615,
+    "Lophiocharon lithinostomus": 0.0615,
+    "Lophiocharon trisignatus": 0.0615,
+    "Phyllophryne scortea": 0.0615,
+    "Rhycherus filamentosus": 0.0615,
+    "Tathicarpus butleri": 0.0615,
+    "Tetrabrachium ocellatum": 0.0615
+  },
+  "tiprates_bamm_mu": {
+    "Antennarius commerson": 0.0012,
+    "Antennarius hispidus": 0.0012,
+    "Antennarius indicus": 0.0012,
+    "Antennarius maculatus": 0.0012,
+    "Antennarius multiocellatus": 0.0012,
+    "Antennarius pauciradiatus": 0.0012,
+    "Antennarius pictus": 0.0012,
+    "Antennarius striatus": 0.0012,
+    "Antennatus bermudensis": 0.0012,
+    "Antennatus coccineus": 0.0012,
+    "Antennatus nummifer": 0.0012,
+    "Antennatus rosaceus": 0.0012,
+    "Antennatus sanguineus": 0.0012,
+    "Antennatus tuberosus": 0.0012,
+    "Dibrachichthys melanurus": 0.0012,
+    "Echinophryne crassispina": 0.0012,
+    "Echinophryne mitchellii": 0.0012,
+    "Fowlerichthys avalonis": 0.0012,
+    "Fowlerichthys radiosus": 0.0012,
+    "Fowlerichthys scriptissimus": 0.0012,
+    "Histiophryne bougainvilli": 0.0012,
+    "Histiophryne cryptacanthus": 0.0012,
+    "Histiophryne maggiewalker": 0.0012,
+    "Histiophryne psychedelica": 0.0012,
+    "Histrio histrio": 0.0012,
+    "Kuiterichthys furcipilis": 0.0012,
+    "Lophiocharon lithinostomus": 0.0012,
+    "Lophiocharon trisignatus": 0.0012,
+    "Phyllophryne scortea": 0.0012,
+    "Rhycherus filamentosus": 0.0012,
+    "Tathicarpus butleri": 0.0012,
+    "Tetrabrachium ocellatum": 0.0012
+  },
+  "mean_dr": 0.0737,
+  "mean_bamm_lambda": 0.0615,
+  "mean_bamm_mu": 0.0012,
+  "matrix_phylip": "downloads/taxonomy/suborder/Antennarioidei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/suborder/Antennarioidei.nex.xz",
+  "chronogram": "downloads/taxonomy/suborder/Antennarioidei.tre",
+  "phylogram": "downloads/taxonomy/suborder/Antennarioidei_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "species": [
+    "Bathysaurus ferox",
+    "Bathysaurus mollis"
+  ],
+  "sampled_species": [
+    "Bathysaurus ferox"
+  ],
+  "unsampled_species": [
+    "Bathysaurus mollis"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Bathysaurus ferox"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Bathysaurus ferox"
+    ],
+    "ficd": [
+      "Bathysaurus ferox"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Bathysaurus ferox"
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Bathysaurus ferox"
+    ],
+    "plagl2": [
+      "Bathysaurus ferox"
+    ],
+    "ptr": [
+      "Bathysaurus ferox"
+    ],
+    "rag1": [
+      "Bathysaurus ferox"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Bathysaurus ferox"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Bathysaurus ferox"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Bathysaurus ferox"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Bathysauridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Aulopiformes"
+    ],
+    "section": [
+      "Aulopa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Alepisauroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Bathysaurus ferox": 0.0302
+  },
+  "tiprates_bamm_lambda": {
+    "Bathysaurus ferox": 0.0347
+  },
+  "tiprates_bamm_mu": {
+    "Bathysaurus ferox": 0.001
+  },
+  "mean_dr": 0.0302,
+  "mean_bamm_lambda": 0.0347,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Bathysauridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Bathysauridae.nex.xz"
+}

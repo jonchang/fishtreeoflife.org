@@ -1,0 +1,172 @@
+{
+  "species": [
+    "Cyttus australis",
+    "Cyttus novaezealandiae",
+    "Cyttus traversi"
+  ],
+  "sampled_species": [
+    "Cyttus australis",
+    "Cyttus traversi"
+  ],
+  "unsampled_species": [
+    "Cyttus novaezealandiae"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Cyttus australis"
+    ],
+    "16s": [
+      "Cyttus australis",
+      "Cyttus traversi"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Cyttus australis",
+      "Cyttus traversi"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Cyttus traversi"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Cyttidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Zeiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Cyttus australis": 0.0293,
+    "Cyttus traversi": 0.0292
+  },
+  "tiprates_bamm_lambda": {
+    "Cyttus australis": 0.0521,
+    "Cyttus traversi": 0.0521
+  },
+  "tiprates_bamm_mu": {
+    "Cyttus australis": 0.0004,
+    "Cyttus traversi": 0.0004
+  },
+  "mean_dr": 0.0292,
+  "mean_bamm_lambda": 0.0521,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Cyttidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Cyttidae.nex.xz"
+}

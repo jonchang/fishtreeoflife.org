@@ -1,0 +1,189 @@
+{
+  "species": [
+    "Hoplichthys acanthopleurus",
+    "Hoplichthys citrinus",
+    "Hoplichthys fasciatus",
+    "Hoplichthys filamentosus",
+    "Hoplichthys gilberti",
+    "Hoplichthys haswelli",
+    "Hoplichthys langsdorfii",
+    "Hoplichthys ogilbyi",
+    "Hoplichthys pectoralis",
+    "Hoplichthys platophrys",
+    "Hoplichthys regani",
+    "Monhoplichthys prosemion"
+  ],
+  "sampled_species": [
+    "Hoplichthys acanthopleurus",
+    "Hoplichthys citrinus"
+  ],
+  "unsampled_species": [
+    "Hoplichthys fasciatus",
+    "Hoplichthys filamentosus",
+    "Hoplichthys gilberti",
+    "Hoplichthys haswelli",
+    "Hoplichthys langsdorfii",
+    "Hoplichthys ogilbyi",
+    "Hoplichthys pectoralis",
+    "Hoplichthys platophrys",
+    "Hoplichthys regani",
+    "Monhoplichthys prosemion"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Hoplichthys citrinus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Hoplichthys acanthopleurus",
+      "Hoplichthys citrinus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Hoplichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Hoplichthys acanthopleurus": 0.0918,
+    "Hoplichthys citrinus": 0.0881
+  },
+  "tiprates_bamm_lambda": {
+    "Hoplichthys acanthopleurus": 0.0579,
+    "Hoplichthys citrinus": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Hoplichthys acanthopleurus": 0.0003,
+    "Hoplichthys citrinus": 0.0003
+  },
+  "mean_dr": 0.09,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Hoplichthyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Hoplichthyidae.nex.xz"
+}

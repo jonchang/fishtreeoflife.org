@@ -1,0 +1,345 @@
+{
+  "species": [
+    "Brycon alburnus",
+    "Brycon amazonicus",
+    "Brycon argenteus",
+    "Brycon atrocaudatus",
+    "Brycon behreae",
+    "Brycon bicolor",
+    "Brycon cephalus",
+    "Brycon chagrensis",
+    "Brycon coquenani",
+    "Brycon coxeyi",
+    "Brycon dentex",
+    "Brycon devillei",
+    "Brycon falcatus",
+    "Brycon ferox",
+    "Brycon fowleri",
+    "Brycon gouldingi",
+    "Brycon guatemalensis",
+    "Brycon henni",
+    "Brycon hilarii",
+    "Brycon insignis",
+    "Brycon labiatus",
+    "Brycon medemi",
+    "Brycon meeki",
+    "Brycon melanopterus",
+    "Brycon moorei",
+    "Brycon nattereri",
+    "Brycon obscurus",
+    "Brycon oligolepis",
+    "Brycon opalinus",
+    "Brycon orbignyanus",
+    "Brycon orthotaenia",
+    "Brycon pesu",
+    "Brycon petrosus",
+    "Brycon polylepis",
+    "Brycon posadae",
+    "Brycon rubricauda",
+    "Brycon sinuensis",
+    "Brycon stolzmanni",
+    "Brycon striatulus",
+    "Brycon unicolor",
+    "Brycon vermelha",
+    "Brycon whitei",
+    "Chilobrycon deuterodon",
+    "Henochilus wheatlandii",
+    "Salminus affinis",
+    "Salminus brasiliensis",
+    "Salminus franciscanus",
+    "Salminus hilarii"
+  ],
+  "sampled_species": [
+    "Brycon amazonicus",
+    "Brycon atrocaudatus",
+    "Brycon ferox",
+    "Brycon hilarii",
+    "Brycon insignis",
+    "Brycon melanopterus",
+    "Brycon moorei",
+    "Brycon nattereri",
+    "Brycon opalinus",
+    "Brycon orbignyanus",
+    "Brycon orthotaenia",
+    "Brycon pesu",
+    "Henochilus wheatlandii",
+    "Salminus brasiliensis",
+    "Salminus franciscanus"
+  ],
+  "unsampled_species": [
+    "Brycon alburnus",
+    "Brycon argenteus",
+    "Brycon behreae",
+    "Brycon bicolor",
+    "Brycon cephalus",
+    "Brycon chagrensis",
+    "Brycon coquenani",
+    "Brycon coxeyi",
+    "Brycon dentex",
+    "Brycon devillei",
+    "Brycon falcatus",
+    "Brycon fowleri",
+    "Brycon gouldingi",
+    "Brycon guatemalensis",
+    "Brycon henni",
+    "Brycon labiatus",
+    "Brycon medemi",
+    "Brycon meeki",
+    "Brycon obscurus",
+    "Brycon oligolepis",
+    "Brycon petrosus",
+    "Brycon polylepis",
+    "Brycon posadae",
+    "Brycon rubricauda",
+    "Brycon sinuensis",
+    "Brycon stolzmanni",
+    "Brycon striatulus",
+    "Brycon unicolor",
+    "Brycon vermelha",
+    "Brycon whitei",
+    "Chilobrycon deuterodon",
+    "Salminus affinis",
+    "Salminus hilarii"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Brycon melanopterus"
+    ],
+    "16s": [
+      "Brycon amazonicus",
+      "Brycon atrocaudatus",
+      "Brycon ferox",
+      "Brycon hilarii",
+      "Brycon insignis",
+      "Brycon moorei",
+      "Brycon nattereri",
+      "Brycon opalinus",
+      "Brycon orbignyanus",
+      "Brycon orthotaenia",
+      "Brycon pesu",
+      "Henochilus wheatlandii",
+      "Salminus brasiliensis",
+      "Salminus franciscanus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Brycon hilarii",
+      "Brycon insignis",
+      "Brycon melanopterus",
+      "Brycon nattereri",
+      "Brycon opalinus",
+      "Brycon orbignyanus",
+      "Brycon orthotaenia",
+      "Salminus brasiliensis",
+      "Salminus franciscanus"
+    ],
+    "cytb": [
+      "Brycon amazonicus",
+      "Brycon hilarii",
+      "Brycon insignis",
+      "Henochilus wheatlandii",
+      "Salminus brasiliensis",
+      "Salminus franciscanus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Brycon pesu"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Brycon amazonicus",
+      "Brycon insignis",
+      "Brycon pesu",
+      "Henochilus wheatlandii",
+      "Salminus brasiliensis",
+      "Salminus franciscanus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Brycon pesu"
+    ],
+    "ptr": [
+      "Brycon pesu"
+    ],
+    "rag1": [
+      "Brycon amazonicus",
+      "Brycon insignis",
+      "Brycon pesu",
+      "Henochilus wheatlandii",
+      "Salminus brasiliensis",
+      "Salminus franciscanus"
+    ],
+    "rag2": [
+      "Brycon amazonicus",
+      "Brycon hilarii",
+      "Brycon insignis",
+      "Henochilus wheatlandii",
+      "Salminus brasiliensis",
+      "Salminus franciscanus"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Bryconidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Characiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Characoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Brycon amazonicus": 0.1311,
+    "Brycon atrocaudatus": 0.0661,
+    "Brycon ferox": 0.1902,
+    "Brycon hilarii": 0.1221,
+    "Brycon insignis": 0.2004,
+    "Brycon melanopterus": 0.1348,
+    "Brycon moorei": 0.0912,
+    "Brycon nattereri": 0.1087,
+    "Brycon opalinus": 0.1191,
+    "Brycon orbignyanus": 0.1565,
+    "Brycon orthotaenia": 0.1572,
+    "Brycon pesu": 0.0687,
+    "Henochilus wheatlandii": 0.1268,
+    "Salminus brasiliensis": 0.1089,
+    "Salminus franciscanus": 0.0945
+  },
+  "tiprates_bamm_lambda": {
+    "Brycon amazonicus": 0.0733,
+    "Brycon atrocaudatus": 0.0731,
+    "Brycon ferox": 0.0736,
+    "Brycon hilarii": 0.0733,
+    "Brycon insignis": 0.0736,
+    "Brycon melanopterus": 0.0733,
+    "Brycon moorei": 0.0733,
+    "Brycon nattereri": 0.0736,
+    "Brycon opalinus": 0.0736,
+    "Brycon orbignyanus": 0.0733,
+    "Brycon orthotaenia": 0.0733,
+    "Brycon pesu": 0.0731,
+    "Henochilus wheatlandii": 0.0736,
+    "Salminus brasiliensis": 0.0731,
+    "Salminus franciscanus": 0.0731
+  },
+  "tiprates_bamm_mu": {
+    "Brycon amazonicus": 0.001,
+    "Brycon atrocaudatus": 0.0008,
+    "Brycon ferox": 0.001,
+    "Brycon hilarii": 0.001,
+    "Brycon insignis": 0.001,
+    "Brycon melanopterus": 0.001,
+    "Brycon moorei": 0.001,
+    "Brycon nattereri": 0.001,
+    "Brycon opalinus": 0.001,
+    "Brycon orbignyanus": 0.001,
+    "Brycon orthotaenia": 0.001,
+    "Brycon pesu": 0.0008,
+    "Henochilus wheatlandii": 0.001,
+    "Salminus brasiliensis": 0.0008,
+    "Salminus franciscanus": 0.0008
+  },
+  "mean_dr": 0.1251,
+  "mean_bamm_lambda": 0.0734,
+  "mean_bamm_mu": 0.0009,
+  "matrix_phylip": "downloads/taxonomy/family/Bryconidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Bryconidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Bryconidae.tre",
+  "phylogram": "downloads/taxonomy/family/Bryconidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

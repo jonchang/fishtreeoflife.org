@@ -1,0 +1,105 @@
+{
+  "species": [
+    "Callanthias allporti",
+    "Callanthias australis",
+    "Callanthias japonicus",
+    "Callanthias legras",
+    "Callanthias parini",
+    "Callanthias platei",
+    "Callanthias ruber",
+    "Callanthias splendens",
+    "Grammatonotus ambiortus",
+    "Grammatonotus crosnieri",
+    "Grammatonotus lanceolatus",
+    "Grammatonotus laysanus",
+    "Grammatonotus macrophthalmus",
+    "Grammatonotus surugaensis"
+  ],
+  "sampled_species": [
+
+  ],
+  "unsampled_species": [
+    "Callanthias allporti",
+    "Callanthias australis",
+    "Callanthias japonicus",
+    "Callanthias legras",
+    "Callanthias parini",
+    "Callanthias platei",
+    "Callanthias ruber",
+    "Callanthias splendens",
+    "Grammatonotus ambiortus",
+    "Grammatonotus crosnieri",
+    "Grammatonotus lanceolatus",
+    "Grammatonotus laysanus",
+    "Grammatonotus macrophthalmus",
+    "Grammatonotus surugaensis"
+  ],
+  "gene_sampling": [
+
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Callanthiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+  },
+  "tiprates_bamm_lambda": {
+  },
+  "tiprates_bamm_mu": {
+  },
+  "mean_dr": "NaN",
+  "mean_bamm_lambda": "NaN",
+  "mean_bamm_mu": "NaN"
+}

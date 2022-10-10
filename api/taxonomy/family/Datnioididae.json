@@ -1,0 +1,87 @@
+{
+  "species": [
+    "Datnioides campbelli",
+    "Datnioides microlepis",
+    "Datnioides polota",
+    "Datnioides pulcher",
+    "Datnioides undecimradiatus"
+  ],
+  "sampled_species": [
+
+  ],
+  "unsampled_species": [
+    "Datnioides campbelli",
+    "Datnioides microlepis",
+    "Datnioides polota",
+    "Datnioides pulcher",
+    "Datnioides undecimradiatus"
+  ],
+  "gene_sampling": [
+
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Datnioididae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lobotiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+  },
+  "tiprates_bamm_lambda": {
+  },
+  "tiprates_bamm_mu": {
+  },
+  "mean_dr": "NaN",
+  "mean_bamm_lambda": "NaN",
+  "mean_bamm_mu": "NaN"
+}

@@ -1,0 +1,342 @@
+{
+  "species": [
+    "Allosmerus elongatus",
+    "Hypomesus japonicus",
+    "Hypomesus nipponensis",
+    "Hypomesus olidus",
+    "Hypomesus pretiosus",
+    "Hypomesus transpacificus",
+    "Mallotus villosus",
+    "Osmerus eperlanus",
+    "Osmerus mordax dentex",
+    "Osmerus mordax mordax",
+    "Osmerus spectrum",
+    "Spirinchus lanceolatus",
+    "Spirinchus starksi",
+    "Spirinchus thaleichthys",
+    "Thaleichthys pacificus"
+  ],
+  "sampled_species": [
+    "Allosmerus elongatus",
+    "Hypomesus japonicus",
+    "Hypomesus nipponensis",
+    "Hypomesus olidus",
+    "Hypomesus pretiosus",
+    "Hypomesus transpacificus",
+    "Mallotus villosus",
+    "Osmerus eperlanus",
+    "Osmerus mordax dentex",
+    "Osmerus mordax mordax",
+    "Spirinchus lanceolatus",
+    "Spirinchus starksi",
+    "Spirinchus thaleichthys",
+    "Thaleichthys pacificus"
+  ],
+  "unsampled_species": [
+    "Osmerus spectrum"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Allosmerus elongatus",
+      "Hypomesus japonicus",
+      "Hypomesus nipponensis",
+      "Hypomesus olidus",
+      "Hypomesus pretiosus",
+      "Hypomesus transpacificus",
+      "Mallotus villosus",
+      "Osmerus eperlanus",
+      "Osmerus mordax dentex",
+      "Osmerus mordax mordax",
+      "Spirinchus lanceolatus",
+      "Spirinchus starksi",
+      "Spirinchus thaleichthys",
+      "Thaleichthys pacificus"
+    ],
+    "16s": [
+      "Allosmerus elongatus",
+      "Hypomesus japonicus",
+      "Hypomesus nipponensis",
+      "Hypomesus olidus",
+      "Hypomesus pretiosus",
+      "Hypomesus transpacificus",
+      "Mallotus villosus",
+      "Osmerus eperlanus",
+      "Osmerus mordax dentex",
+      "Osmerus mordax mordax",
+      "Spirinchus lanceolatus",
+      "Spirinchus starksi",
+      "Spirinchus thaleichthys",
+      "Thaleichthys pacificus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Allosmerus elongatus",
+      "Hypomesus japonicus",
+      "Hypomesus nipponensis",
+      "Hypomesus olidus",
+      "Hypomesus pretiosus",
+      "Mallotus villosus",
+      "Osmerus eperlanus",
+      "Osmerus mordax dentex",
+      "Osmerus mordax mordax",
+      "Spirinchus starksi",
+      "Spirinchus thaleichthys",
+      "Thaleichthys pacificus"
+    ],
+    "cytb": [
+      "Allosmerus elongatus",
+      "Hypomesus japonicus",
+      "Hypomesus nipponensis",
+      "Hypomesus olidus",
+      "Hypomesus pretiosus",
+      "Hypomesus transpacificus",
+      "Mallotus villosus",
+      "Osmerus eperlanus",
+      "Osmerus mordax dentex",
+      "Osmerus mordax mordax",
+      "Spirinchus lanceolatus",
+      "Spirinchus starksi",
+      "Spirinchus thaleichthys",
+      "Thaleichthys pacificus"
+    ],
+    "enc1": [
+      "Hypomesus nipponensis",
+      "Mallotus villosus",
+      "Osmerus mordax dentex",
+      "Osmerus mordax mordax",
+      "Thaleichthys pacificus"
+    ],
+    "ficd": [
+      "Mallotus villosus"
+    ],
+    "glyt": [
+      "Hypomesus nipponensis",
+      "Hypomesus pretiosus",
+      "Mallotus villosus",
+      "Osmerus mordax dentex",
+      "Osmerus mordax mordax",
+      "Thaleichthys pacificus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Hypomesus nipponensis",
+      "Hypomesus pretiosus",
+      "Mallotus villosus",
+      "Osmerus mordax dentex",
+      "Osmerus mordax mordax",
+      "Thaleichthys pacificus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Hypomesus nipponensis",
+      "Hypomesus pretiosus",
+      "Mallotus villosus",
+      "Osmerus mordax dentex",
+      "Osmerus mordax mordax",
+      "Thaleichthys pacificus"
+    ],
+    "ptr": [
+      "Hypomesus nipponensis",
+      "Hypomesus pretiosus",
+      "Mallotus villosus",
+      "Osmerus mordax dentex"
+    ],
+    "rag1": [
+      "Allosmerus elongatus",
+      "Hypomesus japonicus",
+      "Hypomesus nipponensis",
+      "Hypomesus olidus",
+      "Hypomesus pretiosus",
+      "Hypomesus transpacificus",
+      "Mallotus villosus",
+      "Osmerus eperlanus",
+      "Osmerus mordax dentex",
+      "Osmerus mordax mordax",
+      "Spirinchus lanceolatus",
+      "Spirinchus starksi",
+      "Spirinchus thaleichthys",
+      "Thaleichthys pacificus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Hypomesus nipponensis",
+      "Osmerus eperlanus",
+      "Osmerus mordax dentex",
+      "Osmerus mordax mordax"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Hypomesus nipponensis",
+      "Hypomesus pretiosus",
+      "Mallotus villosus",
+      "Osmerus mordax dentex",
+      "Osmerus mordax mordax",
+      "Thaleichthys pacificus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Hypomesus nipponensis",
+      "Hypomesus pretiosus",
+      "Mallotus villosus",
+      "Osmerus mordax dentex",
+      "Osmerus mordax mordax",
+      "Thaleichthys pacificus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Hypomesus nipponensis",
+      "Hypomesus pretiosus",
+      "Osmerus mordax dentex",
+      "Osmerus mordax mordax",
+      "Thaleichthys pacificus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Hypomesus nipponensis",
+      "Hypomesus pretiosus",
+      "Mallotus villosus",
+      "Osmerus mordax dentex",
+      "Osmerus mordax mordax",
+      "Thaleichthys pacificus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Osmeridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Osmeriformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Stomiatii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Allosmerus elongatus": 0.0646,
+    "Hypomesus japonicus": 0.0395,
+    "Hypomesus nipponensis": 0.0379,
+    "Hypomesus olidus": 0.0379,
+    "Hypomesus pretiosus": 0.0631,
+    "Hypomesus transpacificus": 0.0631,
+    "Mallotus villosus": 0.0236,
+    "Osmerus eperlanus": 0.0785,
+    "Spirinchus lanceolatus": 0.0886,
+    "Spirinchus starksi": 0.0654,
+    "Spirinchus thaleichthys": 0.0886,
+    "Thaleichthys pacificus": 0.0646,
+    "Osmerus mordax dentex": 0.0727,
+    "Osmerus mordax mordax": 0.0569
+  },
+  "tiprates_bamm_lambda": {
+    "Allosmerus elongatus": 0.0366,
+    "Hypomesus japonicus": 0.0367,
+    "Hypomesus nipponensis": 0.0367,
+    "Hypomesus olidus": 0.0367,
+    "Hypomesus pretiosus": 0.0367,
+    "Hypomesus transpacificus": 0.0367,
+    "Mallotus villosus": 0.0366,
+    "Osmerus eperlanus": 0.0366,
+    "Spirinchus lanceolatus": 0.0366,
+    "Spirinchus starksi": 0.0366,
+    "Spirinchus thaleichthys": 0.0366,
+    "Thaleichthys pacificus": 0.0366,
+    "Osmerus mordax dentex": 0.0366,
+    "Osmerus mordax mordax": 0.0366
+  },
+  "tiprates_bamm_mu": {
+    "Allosmerus elongatus": 0.0024,
+    "Hypomesus japonicus": 0.0025,
+    "Hypomesus nipponensis": 0.0025,
+    "Hypomesus olidus": 0.0025,
+    "Hypomesus pretiosus": 0.0025,
+    "Hypomesus transpacificus": 0.0025,
+    "Mallotus villosus": 0.0024,
+    "Osmerus eperlanus": 0.0024,
+    "Spirinchus lanceolatus": 0.0024,
+    "Spirinchus starksi": 0.0024,
+    "Spirinchus thaleichthys": 0.0024,
+    "Thaleichthys pacificus": 0.0024,
+    "Osmerus mordax dentex": 0.0024,
+    "Osmerus mordax mordax": 0.0024
+  },
+  "mean_dr": 0.0604,
+  "mean_bamm_lambda": 0.0366,
+  "mean_bamm_mu": 0.0025,
+  "matrix_phylip": "downloads/taxonomy/family/Osmeridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Osmeridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Osmeridae.tre",
+  "phylogram": "downloads/taxonomy/family/Osmeridae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

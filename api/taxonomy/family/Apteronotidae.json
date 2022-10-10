@@ -1,0 +1,405 @@
+{
+  "species": [
+    "Adontosternarchus balaenops",
+    "Adontosternarchus clarkae",
+    "Adontosternarchus devenanzii",
+    "Adontosternarchus duartei",
+    "Adontosternarchus nebulosus",
+    "Adontosternarchus sachsi",
+    "Apteronotus acidops",
+    "Apteronotus albifrons",
+    "Apteronotus apurensis",
+    "Apteronotus bonapartii",
+    "Apteronotus brasiliensis",
+    "Apteronotus camposdapazi",
+    "Apteronotus caudimaculosus",
+    "Apteronotus cuchillejo",
+    "Apteronotus cuchillo",
+    "Apteronotus ellisi",
+    "Apteronotus eschmeyeri",
+    "Apteronotus galvisi",
+    "Apteronotus jurubidae",
+    "Apteronotus leptorhynchus",
+    "Apteronotus lindalvae",
+    "Apteronotus macrolepis",
+    "Apteronotus macrostomus",
+    "Apteronotus magdalenensis",
+    "Apteronotus magoi",
+    "Apteronotus mariae",
+    "Apteronotus milesi",
+    "Apteronotus rostratus",
+    "Apteronotus spurrellii",
+    "Compsaraia compsus",
+    "Compsaraia samueli",
+    "Magosternarchus duccis",
+    "Magosternarchus raptor",
+    "Megadontognathus cuyuniense",
+    "Megadontognathus kaitukaensis",
+    "Orthosternarchus tamandua",
+    "Parapteronotus hasemani",
+    "Pariosternarchus amazonensis",
+    "Platyurosternarchus crypticus",
+    "Platyurosternarchus macrostomus",
+    "Porotergus duende",
+    "Porotergus gimbeli",
+    "Porotergus gymnotus",
+    "Sternarchella calhamazon",
+    "Sternarchella curvioperculata",
+    "Sternarchella orthos",
+    "Sternarchella schotti",
+    "Sternarchella sima",
+    "Sternarchella terminalis",
+    "Sternarchogiton labiatus",
+    "Sternarchogiton nattereri",
+    "Sternarchogiton porcinum",
+    "Sternarchogiton preto",
+    "Sternarchogiton zuanoni",
+    "Sternarchorhamphus muelleri",
+    "Sternarchorhynchus axelrodi",
+    "Sternarchorhynchus britskii",
+    "Sternarchorhynchus caboclo",
+    "Sternarchorhynchus chaoi",
+    "Sternarchorhynchus cramptoni",
+    "Sternarchorhynchus curumim",
+    "Sternarchorhynchus curvirostris",
+    "Sternarchorhynchus freemani",
+    "Sternarchorhynchus galibi",
+    "Sternarchorhynchus gnomus",
+    "Sternarchorhynchus goeldii",
+    "Sternarchorhynchus hagedornae",
+    "Sternarchorhynchus higuchii",
+    "Sternarchorhynchus inpai",
+    "Sternarchorhynchus jaimei",
+    "Sternarchorhynchus kokraimoro",
+    "Sternarchorhynchus mareikeae",
+    "Sternarchorhynchus marreroi",
+    "Sternarchorhynchus mendesi",
+    "Sternarchorhynchus mesensis",
+    "Sternarchorhynchus montanus",
+    "Sternarchorhynchus mormyrus",
+    "Sternarchorhynchus oxyrhynchus",
+    "Sternarchorhynchus retzeri",
+    "Sternarchorhynchus roseni",
+    "Sternarchorhynchus schwassmanni",
+    "Sternarchorhynchus severii",
+    "Sternarchorhynchus starksi",
+    "Sternarchorhynchus stewarti",
+    "Sternarchorhynchus taphorni",
+    "Sternarchorhynchus villasboasi",
+    "Sternarchorhynchus yepezi",
+    "Tembeassu marauna"
+  ],
+  "sampled_species": [
+    "Adontosternarchus clarkae",
+    "Apteronotus albifrons",
+    "Apteronotus leptorhynchus",
+    "Compsaraia compsus",
+    "Orthosternarchus tamandua",
+    "Parapteronotus hasemani",
+    "Sternarchogiton labiatus",
+    "Sternarchogiton nattereri",
+    "Sternarchogiton preto",
+    "Sternarchorhamphus muelleri"
+  ],
+  "unsampled_species": [
+    "Adontosternarchus balaenops",
+    "Adontosternarchus devenanzii",
+    "Adontosternarchus duartei",
+    "Adontosternarchus nebulosus",
+    "Adontosternarchus sachsi",
+    "Apteronotus acidops",
+    "Apteronotus apurensis",
+    "Apteronotus bonapartii",
+    "Apteronotus brasiliensis",
+    "Apteronotus camposdapazi",
+    "Apteronotus caudimaculosus",
+    "Apteronotus cuchillejo",
+    "Apteronotus cuchillo",
+    "Apteronotus ellisi",
+    "Apteronotus eschmeyeri",
+    "Apteronotus galvisi",
+    "Apteronotus jurubidae",
+    "Apteronotus lindalvae",
+    "Apteronotus macrolepis",
+    "Apteronotus macrostomus",
+    "Apteronotus magdalenensis",
+    "Apteronotus magoi",
+    "Apteronotus mariae",
+    "Apteronotus milesi",
+    "Apteronotus rostratus",
+    "Apteronotus spurrellii",
+    "Compsaraia samueli",
+    "Magosternarchus duccis",
+    "Magosternarchus raptor",
+    "Megadontognathus cuyuniense",
+    "Megadontognathus kaitukaensis",
+    "Pariosternarchus amazonensis",
+    "Platyurosternarchus crypticus",
+    "Platyurosternarchus macrostomus",
+    "Porotergus duende",
+    "Porotergus gimbeli",
+    "Porotergus gymnotus",
+    "Sternarchella calhamazon",
+    "Sternarchella curvioperculata",
+    "Sternarchella orthos",
+    "Sternarchella schotti",
+    "Sternarchella sima",
+    "Sternarchella terminalis",
+    "Sternarchogiton porcinum",
+    "Sternarchogiton zuanoni",
+    "Sternarchorhynchus axelrodi",
+    "Sternarchorhynchus britskii",
+    "Sternarchorhynchus caboclo",
+    "Sternarchorhynchus chaoi",
+    "Sternarchorhynchus cramptoni",
+    "Sternarchorhynchus curumim",
+    "Sternarchorhynchus curvirostris",
+    "Sternarchorhynchus freemani",
+    "Sternarchorhynchus galibi",
+    "Sternarchorhynchus gnomus",
+    "Sternarchorhynchus goeldii",
+    "Sternarchorhynchus hagedornae",
+    "Sternarchorhynchus higuchii",
+    "Sternarchorhynchus inpai",
+    "Sternarchorhynchus jaimei",
+    "Sternarchorhynchus kokraimoro",
+    "Sternarchorhynchus mareikeae",
+    "Sternarchorhynchus marreroi",
+    "Sternarchorhynchus mendesi",
+    "Sternarchorhynchus mesensis",
+    "Sternarchorhynchus montanus",
+    "Sternarchorhynchus mormyrus",
+    "Sternarchorhynchus oxyrhynchus",
+    "Sternarchorhynchus retzeri",
+    "Sternarchorhynchus roseni",
+    "Sternarchorhynchus schwassmanni",
+    "Sternarchorhynchus severii",
+    "Sternarchorhynchus starksi",
+    "Sternarchorhynchus stewarti",
+    "Sternarchorhynchus taphorni",
+    "Sternarchorhynchus villasboasi",
+    "Sternarchorhynchus yepezi",
+    "Tembeassu marauna"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Apteronotus albifrons",
+      "Apteronotus leptorhynchus",
+      "Orthosternarchus tamandua",
+      "Parapteronotus hasemani",
+      "Sternarchorhamphus muelleri"
+    ],
+    "16s": [
+      "Apteronotus albifrons",
+      "Apteronotus leptorhynchus",
+      "Orthosternarchus tamandua",
+      "Parapteronotus hasemani",
+      "Sternarchorhamphus muelleri"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Apteronotus albifrons"
+    ],
+    "cytb": [
+      "Adontosternarchus clarkae",
+      "Compsaraia compsus",
+      "Sternarchogiton labiatus",
+      "Sternarchogiton nattereri",
+      "Sternarchogiton preto"
+    ],
+    "enc1": [
+      "Apteronotus albifrons"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Apteronotus albifrons"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Apteronotus albifrons"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Apteronotus albifrons"
+    ],
+    "ptr": [
+      "Apteronotus albifrons"
+    ],
+    "rag1": [
+      "Apteronotus albifrons"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Apteronotus albifrons"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Apteronotus albifrons"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Apteronotus albifrons"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Apteronotus albifrons"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Apteronotus albifrons"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Apteronotidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gymnotiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Sternopygoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Adontosternarchus clarkae": 0.1239,
+    "Apteronotus albifrons": 0.0965,
+    "Apteronotus leptorhynchus": 0.077,
+    "Compsaraia compsus": 0.1013,
+    "Orthosternarchus tamandua": 0.1573,
+    "Parapteronotus hasemani": 0.1026,
+    "Sternarchogiton labiatus": 0.1052,
+    "Sternarchogiton nattereri": 0.1157,
+    "Sternarchogiton preto": 0.1227,
+    "Sternarchorhamphus muelleri": 0.1245
+  },
+  "tiprates_bamm_lambda": {
+    "Adontosternarchus clarkae": 0.0745,
+    "Apteronotus albifrons": 0.0733,
+    "Apteronotus leptorhynchus": 0.0733,
+    "Compsaraia compsus": 0.0745,
+    "Orthosternarchus tamandua": 0.0733,
+    "Parapteronotus hasemani": 0.0733,
+    "Sternarchogiton labiatus": 0.0745,
+    "Sternarchogiton nattereri": 0.0745,
+    "Sternarchogiton preto": 0.0745,
+    "Sternarchorhamphus muelleri": 0.0733
+  },
+  "tiprates_bamm_mu": {
+    "Adontosternarchus clarkae": 0.0025,
+    "Apteronotus albifrons": 0.0008,
+    "Apteronotus leptorhynchus": 0.0008,
+    "Compsaraia compsus": 0.0025,
+    "Orthosternarchus tamandua": 0.0008,
+    "Parapteronotus hasemani": 0.0008,
+    "Sternarchogiton labiatus": 0.0025,
+    "Sternarchogiton nattereri": 0.0025,
+    "Sternarchogiton preto": 0.0025,
+    "Sternarchorhamphus muelleri": 0.0008
+  },
+  "mean_dr": 0.1127,
+  "mean_bamm_lambda": 0.0739,
+  "mean_bamm_mu": 0.0016,
+  "matrix_phylip": "downloads/taxonomy/family/Apteronotidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Apteronotidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Apteronotidae.tre",
+  "phylogram": "downloads/taxonomy/family/Apteronotidae_phylogram.tre",
+  "rogues": [
+    "Gymnotus_carapo",
+    "Gymnotus_ucamara",
+    "Gymnotus_arapaima",
+    "Gymnotus_mamiraua",
+    "Gymnotus_inaequilabiatus",
+    "Gymnotus_sp",
+    "Gymnotus_curupira",
+    "Gymnotus_tigre",
+    "Gymnotus_obscurus",
+    "Gymnotus_varzea",
+    "Gymnotus_pantanal",
+    "Gymnotus_cylindricus",
+    "Gymnotus_cataniapo",
+    "Gymnotus_pedanopterus",
+    "Gymnotus_pantherinus",
+    "Gymnotus_coatesi",
+    "Gymnotus_javari",
+    "Gymnotus_coropinae",
+    "Gymnotus_stenoleucus",
+    "Gymnotus_jonasi",
+    "Rhamphichthys_marmoratus",
+    "Gymnorhamphichthys_petiti",
+    "Brachyhypopomus_gauderio"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Apteronotidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Apteronotidae_mrca_phylogram.tre"
+}

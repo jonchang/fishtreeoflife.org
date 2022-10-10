@@ -1,0 +1,230 @@
+{
+  "species": [
+    "Erythrinus erythrinus",
+    "Erythrinus kessleri",
+    "Hoplerythrinus cinereus",
+    "Hoplerythrinus gronovii",
+    "Hoplerythrinus unitaeniatus",
+    "Hoplias aimara",
+    "Hoplias australis",
+    "Hoplias brasiliensis",
+    "Hoplias curupira",
+    "Hoplias lacerdae",
+    "Hoplias macrophthalmus",
+    "Hoplias malabaricus",
+    "Hoplias microcephalus",
+    "Hoplias microlepis",
+    "Hoplias patana",
+    "Hoplias teres"
+  ],
+  "sampled_species": [
+    "Erythrinus erythrinus",
+    "Hoplerythrinus unitaeniatus",
+    "Hoplias aimara",
+    "Hoplias malabaricus",
+    "Hoplias microlepis"
+  ],
+  "unsampled_species": [
+    "Erythrinus kessleri",
+    "Hoplerythrinus cinereus",
+    "Hoplerythrinus gronovii",
+    "Hoplias australis",
+    "Hoplias brasiliensis",
+    "Hoplias curupira",
+    "Hoplias lacerdae",
+    "Hoplias macrophthalmus",
+    "Hoplias microcephalus",
+    "Hoplias patana",
+    "Hoplias teres"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Erythrinus erythrinus",
+      "Hoplerythrinus unitaeniatus",
+      "Hoplias aimara",
+      "Hoplias malabaricus",
+      "Hoplias microlepis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Erythrinus erythrinus",
+      "Hoplerythrinus unitaeniatus",
+      "Hoplias malabaricus"
+    ],
+    "cytb": [
+      "Erythrinus erythrinus",
+      "Hoplerythrinus unitaeniatus",
+      "Hoplias aimara",
+      "Hoplias malabaricus",
+      "Hoplias microlepis"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Erythrinus erythrinus",
+      "Hoplerythrinus unitaeniatus",
+      "Hoplias aimara",
+      "Hoplias malabaricus",
+      "Hoplias microlepis"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Erythrinus erythrinus",
+      "Hoplerythrinus unitaeniatus",
+      "Hoplias aimara",
+      "Hoplias malabaricus",
+      "Hoplias microlepis"
+    ],
+    "rag2": [
+      "Hoplerythrinus unitaeniatus",
+      "Hoplias aimara",
+      "Hoplias malabaricus"
+    ],
+    "rhodopsin": [
+      "Hoplias malabaricus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Hoplias malabaricus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Erythrinidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Characiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Characoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Erythrinus erythrinus": 0.0338,
+    "Hoplerythrinus unitaeniatus": 0.0447,
+    "Hoplias aimara": 0.0491,
+    "Hoplias malabaricus": 0.0449,
+    "Hoplias microlepis": 0.0545
+  },
+  "tiprates_bamm_lambda": {
+    "Erythrinus erythrinus": 0.0732,
+    "Hoplerythrinus unitaeniatus": 0.0732,
+    "Hoplias aimara": 0.0732,
+    "Hoplias malabaricus": 0.0732,
+    "Hoplias microlepis": 0.0732
+  },
+  "tiprates_bamm_mu": {
+    "Erythrinus erythrinus": 0.0009,
+    "Hoplerythrinus unitaeniatus": 0.0009,
+    "Hoplias aimara": 0.0009,
+    "Hoplias malabaricus": 0.0009,
+    "Hoplias microlepis": 0.0009
+  },
+  "mean_dr": 0.0454,
+  "mean_bamm_lambda": 0.0732,
+  "mean_bamm_mu": 0.0009,
+  "matrix_phylip": "downloads/taxonomy/family/Erythrinidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Erythrinidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Erythrinidae.tre",
+  "phylogram": "downloads/taxonomy/family/Erythrinidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

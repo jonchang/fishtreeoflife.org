@@ -1,0 +1,206 @@
+{
+  "species": [
+    "Polyprion americanus",
+    "Polyprion oxygeneios",
+    "Polyprion yanezi",
+    "Stereolepis doederleini",
+    "Stereolepis gigas"
+  ],
+  "sampled_species": [
+    "Polyprion americanus",
+    "Polyprion oxygeneios",
+    "Stereolepis gigas"
+  ],
+  "unsampled_species": [
+    "Polyprion yanezi",
+    "Stereolepis doederleini"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Polyprion americanus",
+      "Stereolepis gigas"
+    ],
+    "16s": [
+      "Polyprion americanus",
+      "Polyprion oxygeneios",
+      "Stereolepis gigas"
+    ],
+    "4c4": [
+      "Polyprion americanus"
+    ],
+    "coi": [
+      "Polyprion americanus",
+      "Polyprion oxygeneios",
+      "Stereolepis gigas"
+    ],
+    "cytb": [
+      "Polyprion americanus"
+    ],
+    "enc1": [
+      "Polyprion americanus",
+      "Stereolepis gigas"
+    ],
+    "ficd": [
+      "Stereolepis gigas"
+    ],
+    "glyt": [
+      "Polyprion americanus",
+      "Stereolepis gigas"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Stereolepis gigas"
+    ],
+    "myh6": [
+      "Polyprion americanus",
+      "Stereolepis gigas"
+    ],
+    "nd2": [
+      "Stereolepis gigas"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Polyprion americanus",
+      "Stereolepis gigas"
+    ],
+    "ptr": [
+      "Polyprion americanus",
+      "Stereolepis gigas"
+    ],
+    "rag1": [
+      "Polyprion americanus",
+      "Stereolepis gigas"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Polyprion americanus",
+      "Polyprion oxygeneios",
+      "Stereolepis gigas"
+    ],
+    "ripk4": [
+      "Stereolepis gigas"
+    ],
+    "sh3px3": [
+      "Polyprion americanus",
+      "Stereolepis gigas"
+    ],
+    "sidkey": [
+      "Stereolepis gigas"
+    ],
+    "sreb2": [
+      "Polyprion americanus",
+      "Stereolepis gigas"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Polyprion americanus",
+      "Stereolepis gigas"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Polyprion americanus",
+      "Stereolepis gigas"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Polyprionidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pempheriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Polyprion americanus": 0.0793,
+    "Polyprion oxygeneios": 0.0821,
+    "Stereolepis gigas": 0.0607
+  },
+  "tiprates_bamm_lambda": {
+    "Polyprion americanus": 0.058,
+    "Polyprion oxygeneios": 0.058,
+    "Stereolepis gigas": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Polyprion americanus": 0.0004,
+    "Polyprion oxygeneios": 0.0004,
+    "Stereolepis gigas": 0.0004
+  },
+  "mean_dr": 0.0741,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Polyprionidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Polyprionidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Polyprionidae.tre",
+  "phylogram": "downloads/taxonomy/family/Polyprionidae_phylogram.tre",
+  "rogues": [
+    "Malakichthys_barbatus",
+    "Malakichthys_elegans",
+    "Malakichthys_griseus",
+    "Malakichthys_wakiyae",
+    "Lateolabrax_japonicus",
+    "Lateolabrax_latus"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Polyprionidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Polyprionidae_mrca_phylogram.tre"
+}

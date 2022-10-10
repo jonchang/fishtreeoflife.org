@@ -1,0 +1,185 @@
+{
+  "species": [
+    "Gobitrichinotus arnoulti",
+    "Gobitrichinotus radiocularis",
+    "Kraemeria bryani",
+    "Kraemeria cunicularia",
+    "Kraemeria galatheaensis",
+    "Kraemeria merensis",
+    "Kraemeria nuda",
+    "Kraemeria samoensis",
+    "Kraemeria tongaensis"
+  ],
+  "sampled_species": [
+    "Kraemeria bryani",
+    "Kraemeria cunicularia"
+  ],
+  "unsampled_species": [
+    "Gobitrichinotus arnoulti",
+    "Gobitrichinotus radiocularis",
+    "Kraemeria galatheaensis",
+    "Kraemeria merensis",
+    "Kraemeria nuda",
+    "Kraemeria samoensis",
+    "Kraemeria tongaensis"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Kraemeria bryani"
+    ],
+    "cytb": [
+      "Kraemeria cunicularia"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Kraemeria bryani"
+    ],
+    "nd2": [
+      "Kraemeria bryani",
+      "Kraemeria cunicularia"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+      "Kraemeria bryani"
+    ],
+    "rag1": [
+      "Kraemeria bryani"
+    ],
+    "rag2": [
+      "Kraemeria bryani",
+      "Kraemeria cunicularia"
+    ],
+    "rhodopsin": [
+      "Kraemeria bryani",
+      "Kraemeria cunicularia"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Kraemeria bryani"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Kraemeria bryani"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Kraemeriidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gobiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Gobiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Gobioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Kraemeria bryani": 0.068,
+    "Kraemeria cunicularia": 0.0728
+  },
+  "tiprates_bamm_lambda": {
+    "Kraemeria bryani": 0.0505,
+    "Kraemeria cunicularia": 0.0505
+  },
+  "tiprates_bamm_mu": {
+    "Kraemeria bryani": 0.002,
+    "Kraemeria cunicularia": 0.002
+  },
+  "mean_dr": 0.0704,
+  "mean_bamm_lambda": 0.0505,
+  "mean_bamm_mu": 0.002,
+  "matrix_phylip": "downloads/taxonomy/family/Kraemeriidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Kraemeriidae.nex.xz"
+}

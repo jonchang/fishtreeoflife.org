@@ -1,0 +1,200 @@
+{
+  "species": [
+    "Dactyloptena gilberti",
+    "Dactyloptena macracantha",
+    "Dactyloptena orientalis",
+    "Dactyloptena papilio",
+    "Dactyloptena peterseni",
+    "Dactyloptena tiltoni",
+    "Dactylopterus volitans"
+  ],
+  "sampled_species": [
+    "Dactyloptena orientalis",
+    "Dactyloptena peterseni",
+    "Dactylopterus volitans"
+  ],
+  "unsampled_species": [
+    "Dactyloptena gilberti",
+    "Dactyloptena macracantha",
+    "Dactyloptena papilio",
+    "Dactyloptena tiltoni"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Dactylopterus volitans"
+    ],
+    "16s": [
+      "Dactyloptena orientalis",
+      "Dactylopterus volitans"
+    ],
+    "4c4": [
+      "Dactylopterus volitans"
+    ],
+    "coi": [
+      "Dactyloptena orientalis",
+      "Dactyloptena peterseni",
+      "Dactylopterus volitans"
+    ],
+    "cytb": [
+      "Dactylopterus volitans"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Dactyloptena peterseni"
+    ],
+    "kiaa1239": [
+      "Dactyloptena orientalis",
+      "Dactyloptena peterseni",
+      "Dactylopterus volitans"
+    ],
+    "myh6": [
+      "Dactyloptena orientalis",
+      "Dactylopterus volitans"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Dactyloptena peterseni"
+    ],
+    "plagl2": [
+      "Dactyloptena peterseni"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Dactyloptena orientalis",
+      "Dactylopterus volitans"
+    ],
+    "ripk4": [
+      "Dactyloptena peterseni",
+      "Dactylopterus volitans"
+    ],
+    "sh3px3": [
+      "Dactyloptena peterseni",
+      "Dactylopterus volitans"
+    ],
+    "sidkey": [
+      "Dactyloptena orientalis",
+      "Dactyloptena peterseni"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Dactyloptena orientalis",
+      "Dactyloptena peterseni",
+      "Dactylopterus volitans"
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Dactyloptena orientalis",
+      "Dactyloptena peterseni",
+      "Dactylopterus volitans"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Dactylopteridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Syngnathiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Syngnatharia"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Dactylopteroidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Dactyloptena orientalis": 0.0533,
+    "Dactyloptena peterseni": 0.0536,
+    "Dactylopterus volitans": 0.0135
+  },
+  "tiprates_bamm_lambda": {
+    "Dactyloptena orientalis": 0.055,
+    "Dactyloptena peterseni": 0.055,
+    "Dactylopterus volitans": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Dactyloptena orientalis": 0.0003,
+    "Dactyloptena peterseni": 0.0003,
+    "Dactylopterus volitans": 0.0003
+  },
+  "mean_dr": 0.0401,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Dactylopteridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Dactylopteridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Dactylopteridae.tre",
+  "phylogram": "downloads/taxonomy/family/Dactylopteridae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

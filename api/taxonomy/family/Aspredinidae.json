@@ -1,0 +1,281 @@
+{
+  "species": [
+    "Acanthobunocephalus nicoi",
+    "Amaralia hypsiura",
+    "Aspredinichthys filamentosus",
+    "Aspredinichthys tibicen",
+    "Aspredo aspredo",
+    "Bunocephalus aleuropsis",
+    "Bunocephalus amaurus",
+    "Bunocephalus chamaizelus",
+    "Bunocephalus colombianus",
+    "Bunocephalus coracoideus",
+    "Bunocephalus doriae",
+    "Bunocephalus erondinae",
+    "Bunocephalus knerii",
+    "Bunocephalus larai",
+    "Bunocephalus verrucosus",
+    "Dupouyichthys sapito",
+    "Ernstichthys anduzei",
+    "Ernstichthys intonsus",
+    "Ernstichthys megistus",
+    "Hoplomyzon atrizona",
+    "Hoplomyzon papillatus",
+    "Hoplomyzon sexpapilostoma",
+    "Micromyzon akamai",
+    "Platystacus cotylephorus",
+    "Pseudobunocephalus amazonicus",
+    "Pseudobunocephalus bifidus",
+    "Pseudobunocephalus iheringii",
+    "Pseudobunocephalus lundbergi",
+    "Pseudobunocephalus quadriradiatus",
+    "Pseudobunocephalus rugosus",
+    "Pterobunocephalus depressus",
+    "Pterobunocephalus dolichurus",
+    "Xyliphius anachoretes",
+    "Xyliphius barbatus",
+    "Xyliphius kryptos",
+    "Xyliphius lepturus",
+    "Xyliphius lombarderoi",
+    "Xyliphius magdalenae",
+    "Xyliphius melanopterus"
+  ],
+  "sampled_species": [
+    "Amaralia hypsiura",
+    "Aspredo aspredo",
+    "Bunocephalus coracoideus",
+    "Hoplomyzon sexpapilostoma",
+    "Micromyzon akamai",
+    "Platystacus cotylephorus",
+    "Pseudobunocephalus rugosus",
+    "Pterobunocephalus depressus"
+  ],
+  "unsampled_species": [
+    "Acanthobunocephalus nicoi",
+    "Aspredinichthys filamentosus",
+    "Aspredinichthys tibicen",
+    "Bunocephalus aleuropsis",
+    "Bunocephalus amaurus",
+    "Bunocephalus chamaizelus",
+    "Bunocephalus colombianus",
+    "Bunocephalus doriae",
+    "Bunocephalus erondinae",
+    "Bunocephalus knerii",
+    "Bunocephalus larai",
+    "Bunocephalus verrucosus",
+    "Dupouyichthys sapito",
+    "Ernstichthys anduzei",
+    "Ernstichthys intonsus",
+    "Ernstichthys megistus",
+    "Hoplomyzon atrizona",
+    "Hoplomyzon papillatus",
+    "Pseudobunocephalus amazonicus",
+    "Pseudobunocephalus bifidus",
+    "Pseudobunocephalus iheringii",
+    "Pseudobunocephalus lundbergi",
+    "Pseudobunocephalus quadriradiatus",
+    "Pterobunocephalus dolichurus",
+    "Xyliphius anachoretes",
+    "Xyliphius barbatus",
+    "Xyliphius kryptos",
+    "Xyliphius lepturus",
+    "Xyliphius lombarderoi",
+    "Xyliphius magdalenae",
+    "Xyliphius melanopterus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Aspredo aspredo",
+      "Pseudobunocephalus rugosus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Amaralia hypsiura",
+      "Aspredo aspredo",
+      "Bunocephalus coracoideus",
+      "Hoplomyzon sexpapilostoma",
+      "Micromyzon akamai",
+      "Platystacus cotylephorus",
+      "Pseudobunocephalus rugosus",
+      "Pterobunocephalus depressus"
+    ],
+    "cytb": [
+      "Hoplomyzon sexpapilostoma",
+      "Micromyzon akamai",
+      "Pterobunocephalus depressus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Hoplomyzon sexpapilostoma",
+      "Micromyzon akamai"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Hoplomyzon sexpapilostoma",
+      "Micromyzon akamai"
+    ],
+    "rag2": [
+      "Amaralia hypsiura",
+      "Bunocephalus coracoideus",
+      "Hoplomyzon sexpapilostoma",
+      "Micromyzon akamai",
+      "Pterobunocephalus depressus"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Aspredinidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Amaralia hypsiura": 0.0415,
+    "Aspredo aspredo": 0.048,
+    "Bunocephalus coracoideus": 0.0651,
+    "Hoplomyzon sexpapilostoma": 0.0521,
+    "Micromyzon akamai": 0.0367,
+    "Platystacus cotylephorus": 0.0505,
+    "Pseudobunocephalus rugosus": 0.0498,
+    "Pterobunocephalus depressus": 0.0392
+  },
+  "tiprates_bamm_lambda": {
+    "Amaralia hypsiura": 0.0744,
+    "Aspredo aspredo": 0.0744,
+    "Bunocephalus coracoideus": 0.0744,
+    "Hoplomyzon sexpapilostoma": 0.0744,
+    "Micromyzon akamai": 0.0744,
+    "Platystacus cotylephorus": 0.0744,
+    "Pseudobunocephalus rugosus": 0.0744,
+    "Pterobunocephalus depressus": 0.0744
+  },
+  "tiprates_bamm_mu": {
+    "Amaralia hypsiura": 0.001,
+    "Aspredo aspredo": 0.001,
+    "Bunocephalus coracoideus": 0.001,
+    "Hoplomyzon sexpapilostoma": 0.001,
+    "Micromyzon akamai": 0.001,
+    "Platystacus cotylephorus": 0.001,
+    "Pseudobunocephalus rugosus": 0.001,
+    "Pterobunocephalus depressus": 0.001
+  },
+  "mean_dr": 0.0479,
+  "mean_bamm_lambda": 0.0744,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Aspredinidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Aspredinidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Aspredinidae.tre",
+  "phylogram": "downloads/taxonomy/family/Aspredinidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

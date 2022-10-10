@@ -1,0 +1,198 @@
+{
+  "species": [
+    "Scatophagus argus",
+    "Scatophagus tetracanthus",
+    "Selenotoca multifasciata",
+    "Selenotoca papuensis"
+  ],
+  "sampled_species": [
+    "Scatophagus argus",
+    "Scatophagus tetracanthus",
+    "Selenotoca multifasciata"
+  ],
+  "unsampled_species": [
+    "Selenotoca papuensis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "16s": [
+      "Scatophagus argus",
+      "Scatophagus tetracanthus",
+      "Selenotoca multifasciata"
+    ],
+    "4c4": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "coi": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "cytb": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "enc1": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "hoxc6a": [
+      "Scatophagus argus"
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Scatophagus argus"
+    ],
+    "plagl2": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "ptr": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "rag1": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "rag2": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "rhodopsin": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "ripk4": [
+      "Scatophagus argus"
+    ],
+    "sh3px3": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Scatophagus argus",
+      "Selenotoca multifasciata"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Scatophagidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Scatophagus argus": 0.041,
+    "Scatophagus tetracanthus": 0.041,
+    "Selenotoca multifasciata": 0.0432
+  },
+  "tiprates_bamm_lambda": {
+    "Scatophagus argus": 0.058,
+    "Scatophagus tetracanthus": 0.058,
+    "Selenotoca multifasciata": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Scatophagus argus": 0.0004,
+    "Scatophagus tetracanthus": 0.0004,
+    "Selenotoca multifasciata": 0.0004
+  },
+  "mean_dr": 0.0417,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Scatophagidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Scatophagidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Scatophagidae.tre",
+  "phylogram": "downloads/taxonomy/family/Scatophagidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

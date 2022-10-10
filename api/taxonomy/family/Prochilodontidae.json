@@ -1,0 +1,303 @@
+{
+  "species": [
+    "Ichthyoelephas humeralis",
+    "Ichthyoelephas longirostris",
+    "Prochilodus argenteus",
+    "Prochilodus brevis",
+    "Prochilodus britskii",
+    "Prochilodus costatus",
+    "Prochilodus hartii",
+    "Prochilodus lacustris",
+    "Prochilodus lineatus",
+    "Prochilodus magdalenae",
+    "Prochilodus mariae",
+    "Prochilodus nigricans",
+    "Prochilodus reticulatus",
+    "Prochilodus rubrotaeniatus",
+    "Prochilodus vimboides",
+    "Semaprochilodus brama",
+    "Semaprochilodus insignis",
+    "Semaprochilodus kneri",
+    "Semaprochilodus laticeps",
+    "Semaprochilodus taeniurus",
+    "Semaprochilodus varii"
+  ],
+  "sampled_species": [
+    "Prochilodus argenteus",
+    "Prochilodus brevis",
+    "Prochilodus costatus",
+    "Prochilodus lacustris",
+    "Prochilodus lineatus",
+    "Prochilodus magdalenae",
+    "Prochilodus mariae",
+    "Prochilodus nigricans",
+    "Prochilodus reticulatus",
+    "Prochilodus rubrotaeniatus",
+    "Semaprochilodus insignis",
+    "Semaprochilodus kneri",
+    "Semaprochilodus laticeps",
+    "Semaprochilodus taeniurus"
+  ],
+  "unsampled_species": [
+    "Ichthyoelephas humeralis",
+    "Ichthyoelephas longirostris",
+    "Prochilodus britskii",
+    "Prochilodus hartii",
+    "Prochilodus vimboides",
+    "Semaprochilodus brama",
+    "Semaprochilodus varii"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Prochilodus nigricans",
+      "Semaprochilodus insignis"
+    ],
+    "16s": [
+      "Prochilodus magdalenae",
+      "Prochilodus nigricans",
+      "Prochilodus reticulatus",
+      "Semaprochilodus insignis",
+      "Semaprochilodus laticeps"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Prochilodus argenteus",
+      "Prochilodus costatus",
+      "Prochilodus lineatus",
+      "Prochilodus magdalenae",
+      "Prochilodus mariae",
+      "Prochilodus nigricans",
+      "Prochilodus rubrotaeniatus",
+      "Semaprochilodus insignis",
+      "Semaprochilodus kneri",
+      "Semaprochilodus taeniurus"
+    ],
+    "cytb": [
+      "Prochilodus lineatus",
+      "Prochilodus nigricans",
+      "Prochilodus reticulatus",
+      "Semaprochilodus insignis",
+      "Semaprochilodus laticeps"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Prochilodus argenteus",
+      "Prochilodus brevis",
+      "Prochilodus costatus",
+      "Prochilodus lacustris",
+      "Prochilodus lineatus",
+      "Prochilodus magdalenae",
+      "Prochilodus mariae",
+      "Prochilodus nigricans",
+      "Prochilodus reticulatus",
+      "Prochilodus rubrotaeniatus",
+      "Semaprochilodus insignis",
+      "Semaprochilodus kneri",
+      "Semaprochilodus laticeps"
+    ],
+    "nd2": [
+      "Prochilodus lineatus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+      "Prochilodus argenteus",
+      "Prochilodus brevis",
+      "Prochilodus costatus",
+      "Prochilodus lacustris",
+      "Prochilodus lineatus",
+      "Prochilodus magdalenae",
+      "Prochilodus mariae",
+      "Prochilodus nigricans",
+      "Prochilodus reticulatus",
+      "Prochilodus rubrotaeniatus",
+      "Semaprochilodus insignis",
+      "Semaprochilodus kneri"
+    ],
+    "rag1": [
+      "Prochilodus argenteus",
+      "Prochilodus brevis",
+      "Prochilodus costatus",
+      "Prochilodus lacustris",
+      "Prochilodus lineatus",
+      "Prochilodus magdalenae",
+      "Prochilodus mariae",
+      "Prochilodus nigricans",
+      "Prochilodus reticulatus",
+      "Prochilodus rubrotaeniatus",
+      "Semaprochilodus insignis",
+      "Semaprochilodus kneri",
+      "Semaprochilodus laticeps"
+    ],
+    "rag2": [
+      "Prochilodus lineatus",
+      "Prochilodus nigricans",
+      "Prochilodus reticulatus",
+      "Semaprochilodus laticeps"
+    ],
+    "rhodopsin": [
+      "Semaprochilodus insignis"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Prochilodontidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Characiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Characoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Prochilodus argenteus": 0.2308,
+    "Prochilodus brevis": 0.3454,
+    "Prochilodus costatus": 0.379,
+    "Prochilodus lacustris": 0.3539,
+    "Prochilodus lineatus": 0.3901,
+    "Prochilodus magdalenae": 0.1226,
+    "Prochilodus mariae": 0.1732,
+    "Prochilodus nigricans": 0.2248,
+    "Prochilodus reticulatus": 0.1286,
+    "Prochilodus rubrotaeniatus": 0.1675,
+    "Semaprochilodus insignis": 0.1408,
+    "Semaprochilodus kneri": 0.2566,
+    "Semaprochilodus laticeps": 0.0645,
+    "Semaprochilodus taeniurus": 0.264
+  },
+  "tiprates_bamm_lambda": {
+    "Prochilodus argenteus": 0.1616,
+    "Prochilodus brevis": 0.1616,
+    "Prochilodus costatus": 0.1616,
+    "Prochilodus lacustris": 0.1616,
+    "Prochilodus lineatus": 0.1616,
+    "Prochilodus magdalenae": 0.1613,
+    "Prochilodus mariae": 0.1616,
+    "Prochilodus nigricans": 0.1616,
+    "Prochilodus reticulatus": 0.1613,
+    "Prochilodus rubrotaeniatus": 0.1616,
+    "Semaprochilodus insignis": 0.1592,
+    "Semaprochilodus kneri": 0.1592,
+    "Semaprochilodus laticeps": 0.1592,
+    "Semaprochilodus taeniurus": 0.1592
+  },
+  "tiprates_bamm_mu": {
+    "Prochilodus argenteus": 0.0384,
+    "Prochilodus brevis": 0.0384,
+    "Prochilodus costatus": 0.0384,
+    "Prochilodus lacustris": 0.0384,
+    "Prochilodus lineatus": 0.0384,
+    "Prochilodus magdalenae": 0.0384,
+    "Prochilodus mariae": 0.0384,
+    "Prochilodus nigricans": 0.0384,
+    "Prochilodus reticulatus": 0.0384,
+    "Prochilodus rubrotaeniatus": 0.0384,
+    "Semaprochilodus insignis": 0.0368,
+    "Semaprochilodus kneri": 0.0368,
+    "Semaprochilodus laticeps": 0.0368,
+    "Semaprochilodus taeniurus": 0.0368
+  },
+  "mean_dr": 0.2316,
+  "mean_bamm_lambda": 0.1609,
+  "mean_bamm_mu": 0.038,
+  "matrix_phylip": "downloads/taxonomy/family/Prochilodontidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Prochilodontidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Prochilodontidae.tre",
+  "phylogram": "downloads/taxonomy/family/Prochilodontidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

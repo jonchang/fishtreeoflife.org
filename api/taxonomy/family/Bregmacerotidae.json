@@ -1,0 +1,194 @@
+{
+  "species": [
+    "Bregmaceros arabicus",
+    "Bregmaceros atlanticus",
+    "Bregmaceros bathymaster",
+    "Bregmaceros cantori",
+    "Bregmaceros cayorum",
+    "Bregmaceros houdei",
+    "Bregmaceros japonicus",
+    "Bregmaceros lanceolatus",
+    "Bregmaceros mcclellandi",
+    "Bregmaceros nectabanus",
+    "Bregmaceros neonectabanus",
+    "Bregmaceros pescadorus",
+    "Bregmaceros pseudolanceolatus",
+    "Bregmaceros rarisquamosus"
+  ],
+  "sampled_species": [
+    "Bregmaceros atlanticus",
+    "Bregmaceros cantori"
+  ],
+  "unsampled_species": [
+    "Bregmaceros arabicus",
+    "Bregmaceros bathymaster",
+    "Bregmaceros cayorum",
+    "Bregmaceros houdei",
+    "Bregmaceros japonicus",
+    "Bregmaceros lanceolatus",
+    "Bregmaceros mcclellandi",
+    "Bregmaceros nectabanus",
+    "Bregmaceros neonectabanus",
+    "Bregmaceros pescadorus",
+    "Bregmaceros pseudolanceolatus",
+    "Bregmaceros rarisquamosus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Bregmaceros atlanticus",
+      "Bregmaceros cantori"
+    ],
+    "16s": [
+      "Bregmaceros atlanticus",
+      "Bregmaceros cantori"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Bregmaceros atlanticus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Bregmacerotidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gadiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Gadoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Bregmaceros atlanticus": 0.0773,
+    "Bregmaceros cantori": 0.091
+  },
+  "tiprates_bamm_lambda": {
+    "Bregmaceros atlanticus": 0.0522,
+    "Bregmaceros cantori": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Bregmaceros atlanticus": 0.0003,
+    "Bregmaceros cantori": 0.0003
+  },
+  "mean_dr": 0.0841,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Bregmacerotidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Bregmacerotidae.nex.xz"
+}

@@ -1,0 +1,438 @@
+{
+  "species": [
+    "Amblyceps apangi",
+    "Amblyceps arunchalensis",
+    "Amblyceps caecutiens",
+    "Amblyceps carinatum",
+    "Amblyceps cerinum",
+    "Amblyceps foratum",
+    "Amblyceps kurzii",
+    "Amblyceps laticeps",
+    "Amblyceps macropterus",
+    "Amblyceps mangois",
+    "Amblyceps murraystuarti",
+    "Amblyceps platycephalus",
+    "Amblyceps protentum",
+    "Amblyceps serratum",
+    "Amblyceps tenuispinis",
+    "Amblyceps torrentis",
+    "Amblyceps tuberculatum",
+    "Amblyceps variegatum",
+    "Liobagrus aequilabris",
+    "Liobagrus andersoni",
+    "Liobagrus anguillicauda",
+    "Liobagrus formosanus",
+    "Liobagrus kingi",
+    "Liobagrus marginatoides",
+    "Liobagrus marginatus",
+    "Liobagrus mediadiposalis",
+    "Liobagrus nigricauda",
+    "Liobagrus obesus",
+    "Liobagrus reinii",
+    "Liobagrus somjinensis",
+    "Liobagrus styani",
+    "Nahangbagrus songamensis",
+    "Xiurenbagrus gigas",
+    "Xiurenbagrus xiurenensis"
+  ],
+  "sampled_species": [
+    "Amblyceps apangi",
+    "Amblyceps arunchalensis",
+    "Amblyceps caecutiens",
+    "Amblyceps foratum",
+    "Amblyceps mangois",
+    "Amblyceps serratum",
+    "Liobagrus andersoni",
+    "Liobagrus anguillicauda",
+    "Liobagrus kingi",
+    "Liobagrus marginatoides",
+    "Liobagrus marginatus",
+    "Liobagrus mediadiposalis",
+    "Liobagrus nigricauda",
+    "Liobagrus obesus",
+    "Liobagrus reinii",
+    "Liobagrus styani",
+    "Xiurenbagrus gigas",
+    "Xiurenbagrus xiurenensis"
+  ],
+  "unsampled_species": [
+    "Amblyceps carinatum",
+    "Amblyceps cerinum",
+    "Amblyceps kurzii",
+    "Amblyceps laticeps",
+    "Amblyceps macropterus",
+    "Amblyceps murraystuarti",
+    "Amblyceps platycephalus",
+    "Amblyceps protentum",
+    "Amblyceps tenuispinis",
+    "Amblyceps torrentis",
+    "Amblyceps tuberculatum",
+    "Amblyceps variegatum",
+    "Liobagrus aequilabris",
+    "Liobagrus formosanus",
+    "Liobagrus somjinensis",
+    "Nahangbagrus songamensis"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Liobagrus andersoni",
+      "Liobagrus anguillicauda",
+      "Liobagrus kingi",
+      "Liobagrus marginatoides",
+      "Liobagrus mediadiposalis",
+      "Liobagrus obesus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Amblyceps apangi",
+      "Amblyceps arunchalensis",
+      "Amblyceps caecutiens",
+      "Amblyceps foratum",
+      "Amblyceps mangois",
+      "Amblyceps serratum",
+      "Liobagrus andersoni",
+      "Liobagrus anguillicauda",
+      "Liobagrus marginatoides",
+      "Liobagrus marginatus",
+      "Liobagrus styani",
+      "Xiurenbagrus gigas",
+      "Xiurenbagrus xiurenensis"
+    ],
+    "cytb": [
+      "Amblyceps apangi",
+      "Amblyceps caecutiens",
+      "Amblyceps foratum",
+      "Amblyceps mangois",
+      "Amblyceps serratum",
+      "Liobagrus andersoni",
+      "Liobagrus anguillicauda",
+      "Liobagrus marginatoides",
+      "Liobagrus marginatus",
+      "Liobagrus mediadiposalis",
+      "Liobagrus nigricauda",
+      "Liobagrus obesus",
+      "Liobagrus reinii",
+      "Liobagrus styani",
+      "Xiurenbagrus gigas",
+      "Xiurenbagrus xiurenensis"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Liobagrus anguillicauda"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Liobagrus anguillicauda"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Amblyceps apangi",
+      "Amblyceps caecutiens",
+      "Amblyceps foratum",
+      "Amblyceps serratum",
+      "Liobagrus anguillicauda",
+      "Liobagrus marginatoides",
+      "Liobagrus marginatus",
+      "Liobagrus styani",
+      "Xiurenbagrus gigas",
+      "Xiurenbagrus xiurenensis"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Liobagrus nigricauda"
+    ],
+    "ptr": [
+      "Liobagrus anguillicauda"
+    ],
+    "rag1": [
+      "Amblyceps apangi",
+      "Amblyceps caecutiens",
+      "Amblyceps serratum",
+      "Liobagrus anguillicauda",
+      "Liobagrus marginatoides",
+      "Liobagrus marginatus",
+      "Liobagrus styani",
+      "Xiurenbagrus gigas",
+      "Xiurenbagrus xiurenensis"
+    ],
+    "rag2": [
+      "Amblyceps apangi",
+      "Amblyceps caecutiens",
+      "Amblyceps mangois",
+      "Amblyceps serratum",
+      "Liobagrus anguillicauda",
+      "Liobagrus marginatoides",
+      "Liobagrus marginatus",
+      "Liobagrus styani",
+      "Xiurenbagrus gigas",
+      "Xiurenbagrus xiurenensis"
+    ],
+    "rhodopsin": [
+      "Liobagrus anguillicauda"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Amblycipitidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Amblyceps apangi": 0.0548,
+    "Amblyceps arunchalensis": 0.1188,
+    "Amblyceps caecutiens": 0.0583,
+    "Amblyceps foratum": 0.0883,
+    "Amblyceps mangois": 0.1168,
+    "Amblyceps serratum": 0.059,
+    "Liobagrus andersoni": 0.0732,
+    "Liobagrus anguillicauda": 0.1597,
+    "Liobagrus kingi": 0.3526,
+    "Liobagrus marginatoides": 0.3526,
+    "Liobagrus marginatus": 0.1712,
+    "Liobagrus mediadiposalis": 0.0503,
+    "Liobagrus nigricauda": 0.1589,
+    "Liobagrus obesus": 0.0792,
+    "Liobagrus reinii": 0.0539,
+    "Liobagrus styani": 0.121,
+    "Xiurenbagrus gigas": 0.035,
+    "Xiurenbagrus xiurenensis": 0.035
+  },
+  "tiprates_bamm_lambda": {
+    "Amblyceps apangi": 0.0745,
+    "Amblyceps arunchalensis": 0.0745,
+    "Amblyceps caecutiens": 0.0745,
+    "Amblyceps foratum": 0.0745,
+    "Amblyceps mangois": 0.0745,
+    "Amblyceps serratum": 0.0745,
+    "Liobagrus andersoni": 0.0757,
+    "Liobagrus anguillicauda": 0.0867,
+    "Liobagrus kingi": 0.0867,
+    "Liobagrus marginatoides": 0.0867,
+    "Liobagrus marginatus": 0.0867,
+    "Liobagrus mediadiposalis": 0.0752,
+    "Liobagrus nigricauda": 0.0867,
+    "Liobagrus obesus": 0.0757,
+    "Liobagrus reinii": 0.0752,
+    "Liobagrus styani": 0.0867,
+    "Xiurenbagrus gigas": 0.0752,
+    "Xiurenbagrus xiurenensis": 0.0752
+  },
+  "tiprates_bamm_mu": {
+    "Amblyceps apangi": 0.0008,
+    "Amblyceps arunchalensis": 0.0008,
+    "Amblyceps caecutiens": 0.0008,
+    "Amblyceps foratum": 0.0008,
+    "Amblyceps mangois": 0.0008,
+    "Amblyceps serratum": 0.0008,
+    "Liobagrus andersoni": 0.0022,
+    "Liobagrus anguillicauda": 0.0089,
+    "Liobagrus kingi": 0.0089,
+    "Liobagrus marginatoides": 0.0089,
+    "Liobagrus marginatus": 0.0089,
+    "Liobagrus mediadiposalis": 0.0016,
+    "Liobagrus nigricauda": 0.0089,
+    "Liobagrus obesus": 0.0022,
+    "Liobagrus reinii": 0.0016,
+    "Liobagrus styani": 0.0089,
+    "Xiurenbagrus gigas": 0.0016,
+    "Xiurenbagrus xiurenensis": 0.0016
+  },
+  "mean_dr": 0.1188,
+  "mean_bamm_lambda": 0.0788,
+  "mean_bamm_mu": 0.0039,
+  "matrix_phylip": "downloads/taxonomy/family/Amblycipitidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Amblycipitidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Amblycipitidae.tre",
+  "phylogram": "downloads/taxonomy/family/Amblycipitidae_phylogram.tre",
+  "rogues": [
+    "Glyptothorax_lampris",
+    "Glyptothorax_laosensis",
+    "Glyptothorax_trilineatus",
+    "Glyptothorax_interspinalus",
+    "Glyptothorax_brevipinnis",
+    "Glyptothorax_gracilis",
+    "Glyptothorax_longicauda",
+    "Glyptothorax_ventrolineatus",
+    "Glyptothorax_davissinghi",
+    "Glyptothorax_annandalei",
+    "Glyptothorax_lanceatus",
+    "Glyptothorax_longjiangensis",
+    "Glyptothorax_longinema",
+    "Glyptothorax_zanaensis",
+    "Glyptothorax_ngapang",
+    "Glyptothorax_minimaculatus",
+    "Glyptothorax_platypogonides",
+    "Glyptothorax_dorsalis",
+    "Glyptothorax_granulus",
+    "Glyptothorax_poonaensis",
+    "Glyptothorax_callopterus",
+    "Glyptothorax_fuscus",
+    "Glyptothorax_schmidti",
+    "Glyptothorax_nieuwenhuisi",
+    "Glyptothorax_platypogon",
+    "Glyptothorax_major",
+    "Glyptothorax_sinensis",
+    "Glyptothorax_fokiensis",
+    "Glyptothorax_hainanensis",
+    "Glyptothorax_honghensis",
+    "Glyptothorax_buchanani",
+    "Glyptothorax_macromaculatus",
+    "Glyptothorax_deqinensis",
+    "Glyptothorax_quadriocellatus",
+    "Glyptothorax_pallozonus",
+    "Glyptothorax_obliquimaculatus",
+    "Glyptothorax_burmanicus",
+    "Glyptothorax_cavia",
+    "Glyptothorax_garhwali",
+    "Glyptothorax_botius",
+    "Glyptothorax_telchitta",
+    "Hara_mesembrina",
+    "Hara_filamentosa",
+    "Ayarnangra_estuarius",
+    "Caelatoglanis_zonatus",
+    "Erethistoides_infuscatus",
+    "Erethistes_pusillus",
+    "Hara_hara",
+    "Hara_horai",
+    "Erethistoides_sicula",
+    "Hara_jerdoni",
+    "Pseudolaguvia_ribeiroi",
+    "Pseudolaguvia_ferula",
+    "Pseudolaguvia_shawi",
+    "Pseudolaguvia_tuberculata",
+    "Pseudolaguvia_foveolata",
+    "Conta_conta",
+    "Gagata_dolichonema",
+    "Gagata_sexualis",
+    "Gagata_cenia",
+    "Gagata_melanopterus",
+    "Gagata_gagata",
+    "Nangra_assamensis",
+    "Gogangra_viridescens",
+    "Nangra_nangra",
+    "Sisor_rabdophorus",
+    "Bagarius_bagarius",
+    "Bagarius_yarrelli",
+    "Bagarius_suchus",
+    "Pareuchiloglanis_gracilicaudata",
+    "Creteuchiloglanis_kamengensis",
+    "Creteuchiloglanis_gongshanensis",
+    "Pareuchiloglanis_feae",
+    "Creteuchiloglanis_macropterus",
+    "Pseudexostoma_yunnanense",
+    "Oreoglanis_macropterus",
+    "Oreoglanis_insignis",
+    "Oreoglanis_delacouri",
+    "Pareuchiloglanis_sinensis",
+    "Pareuchiloglanis_anteanalis",
+    "Euchiloglanis_kishinouyei",
+    "Exostoma_berdmorei",
+    "Exostoma_labiatum",
+    "Glaridoglanis_andersonii",
+    "Glyptosternon_maculatum",
+    "Myersglanis_blythii",
+    "Pseudecheneis_sulcata",
+    "Akysis_prashadi",
+    "Akysis_longifilis",
+    "Akysis_brachybarbatus",
+    "Parakysis_longirostris",
+    "Parakysis_grandis",
+    "Breitensteinia_cessator",
+    "Acrochordonichthys_rugosus"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Amblycipitidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Amblycipitidae_mrca_phylogram.tre"
+}

@@ -1,0 +1,228 @@
+{
+  "species": [
+    "Desmodema lorum",
+    "Desmodema polystictum",
+    "Trachipterus altivelis",
+    "Trachipterus arcticus",
+    "Trachipterus fukuzakii",
+    "Trachipterus ishikawae",
+    "Trachipterus jacksonensis",
+    "Trachipterus trachypterus",
+    "Zu cristatus",
+    "Zu elongatus"
+  ],
+  "sampled_species": [
+    "Desmodema polystictum",
+    "Trachipterus altivelis",
+    "Trachipterus arcticus",
+    "Trachipterus jacksonensis",
+    "Trachipterus trachypterus",
+    "Zu cristatus",
+    "Zu elongatus"
+  ],
+  "unsampled_species": [
+    "Desmodema lorum",
+    "Trachipterus fukuzakii",
+    "Trachipterus ishikawae"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Trachipterus jacksonensis",
+      "Zu cristatus"
+    ],
+    "16s": [
+      "Trachipterus altivelis",
+      "Trachipterus jacksonensis",
+      "Trachipterus trachypterus",
+      "Zu cristatus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Trachipterus altivelis",
+      "Trachipterus trachypterus",
+      "Zu cristatus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Desmodema polystictum"
+    ],
+    "glyt": [
+      "Trachipterus arcticus",
+      "Zu elongatus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Desmodema polystictum",
+      "Zu cristatus"
+    ],
+    "myh6": [
+      "Desmodema polystictum",
+      "Trachipterus arcticus",
+      "Zu cristatus",
+      "Zu elongatus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Trachipterus arcticus",
+      "Zu cristatus"
+    ],
+    "plagl2": [
+      "Desmodema polystictum",
+      "Zu cristatus",
+      "Zu elongatus"
+    ],
+    "ptr": [
+      "Trachipterus arcticus",
+      "Zu elongatus"
+    ],
+    "rag1": [
+      "Trachipterus arcticus",
+      "Zu cristatus",
+      "Zu elongatus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Desmodema polystictum",
+      "Zu cristatus"
+    ],
+    "sh3px3": [
+      "Desmodema polystictum",
+      "Trachipterus arcticus",
+      "Zu elongatus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Trachipterus arcticus",
+      "Zu elongatus"
+    ],
+    "svep1": [
+      "Desmodema polystictum",
+      "Zu cristatus"
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Desmodema polystictum",
+      "Trachipterus arcticus",
+      "Zu cristatus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Lampridacea"
+    ],
+    "family": [
+      "Trachipteridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lampridiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Desmodema polystictum": 0.0422,
+    "Trachipterus altivelis": 0.04,
+    "Trachipterus arcticus": 0.0237,
+    "Trachipterus jacksonensis": 0.0674,
+    "Trachipterus trachypterus": 0.0674,
+    "Zu cristatus": 0.0404,
+    "Zu elongatus": 0.0404
+  },
+  "tiprates_bamm_lambda": {
+    "Desmodema polystictum": 0.0522,
+    "Trachipterus altivelis": 0.0522,
+    "Trachipterus arcticus": 0.0522,
+    "Trachipterus jacksonensis": 0.0522,
+    "Trachipterus trachypterus": 0.0522,
+    "Zu cristatus": 0.0522,
+    "Zu elongatus": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Desmodema polystictum": 0.0003,
+    "Trachipterus altivelis": 0.0003,
+    "Trachipterus arcticus": 0.0003,
+    "Trachipterus jacksonensis": 0.0003,
+    "Trachipterus trachypterus": 0.0003,
+    "Zu cristatus": 0.0003,
+    "Zu elongatus": 0.0003
+  },
+  "mean_dr": 0.0459,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Trachipteridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Trachipteridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Trachipteridae.tre",
+  "phylogram": "downloads/taxonomy/family/Trachipteridae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

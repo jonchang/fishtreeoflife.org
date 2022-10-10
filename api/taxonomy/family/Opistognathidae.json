@@ -1,0 +1,348 @@
+{
+  "species": [
+    "Lonchopisthus higmani",
+    "Lonchopisthus lemur",
+    "Lonchopisthus micrognathus",
+    "Lonchopisthus sinuscalifornicus",
+    "Opistognathus adelus",
+    "Opistognathus afer",
+    "Opistognathus albicaudatus",
+    "Opistognathus alleni",
+    "Opistognathus aurifrons",
+    "Opistognathus brasiliensis",
+    "Opistognathus brochus",
+    "Opistognathus castelnaui",
+    "Opistognathus crassus",
+    "Opistognathus cuvierii",
+    "Opistognathus cyanospilotus",
+    "Opistognathus darwiniensis",
+    "Opistognathus decorus",
+    "Opistognathus dendriticus",
+    "Opistognathus dipharus",
+    "Opistognathus elizabethensis",
+    "Opistognathus evermanni",
+    "Opistognathus eximius",
+    "Opistognathus fenmutis",
+    "Opistognathus fossoris",
+    "Opistognathus galapagensis",
+    "Opistognathus gilberti",
+    "Opistognathus hongkongiensis",
+    "Opistognathus hopkinsi",
+    "Opistognathus inornatus",
+    "Opistognathus iyonis",
+    "Opistognathus jacksoniensis",
+    "Opistognathus latitabundus",
+    "Opistognathus leprocarus",
+    "Opistognathus liturus",
+    "Opistognathus lonchurus",
+    "Opistognathus longinaris",
+    "Opistognathus macrognathus",
+    "Opistognathus macrolepis",
+    "Opistognathus margaretae",
+    "Opistognathus maxillosus",
+    "Opistognathus megalepis",
+    "Opistognathus melachasme",
+    "Opistognathus mexicanus",
+    "Opistognathus muscatensis",
+    "Opistognathus nigromarginatus",
+    "Opistognathus nothus",
+    "Opistognathus panamaensis",
+    "Opistognathus papuensis",
+    "Opistognathus punctatus",
+    "Opistognathus randalli",
+    "Opistognathus reticeps",
+    "Opistognathus reticulatus",
+    "Opistognathus rhomaleus",
+    "Opistognathus robinsi",
+    "Opistognathus rosenbergii",
+    "Opistognathus rosenblatti",
+    "Opistognathus rufilineatus",
+    "Opistognathus scops",
+    "Opistognathus seminudus",
+    "Opistognathus signatus",
+    "Opistognathus simus",
+    "Opistognathus smithvanizi",
+    "Opistognathus solorensis",
+    "Opistognathus stigmosus",
+    "Opistognathus variabilis",
+    "Opistognathus verecundus",
+    "Opistognathus walkeri",
+    "Opistognathus whitehursti",
+    "Stalix davidsheni",
+    "Stalix dicra",
+    "Stalix eremia",
+    "Stalix flavida",
+    "Stalix histrio",
+    "Stalix immaculata",
+    "Stalix moenensis",
+    "Stalix omanensis",
+    "Stalix sheni",
+    "Stalix toyoshio",
+    "Stalix versluysi"
+  ],
+  "sampled_species": [
+    "Lonchopisthus micrognathus",
+    "Opistognathus aurifrons",
+    "Opistognathus macrognathus",
+    "Opistognathus maxillosus",
+    "Opistognathus punctatus",
+    "Opistognathus robinsi"
+  ],
+  "unsampled_species": [
+    "Lonchopisthus higmani",
+    "Lonchopisthus lemur",
+    "Lonchopisthus sinuscalifornicus",
+    "Opistognathus adelus",
+    "Opistognathus afer",
+    "Opistognathus albicaudatus",
+    "Opistognathus alleni",
+    "Opistognathus brasiliensis",
+    "Opistognathus brochus",
+    "Opistognathus castelnaui",
+    "Opistognathus crassus",
+    "Opistognathus cuvierii",
+    "Opistognathus cyanospilotus",
+    "Opistognathus darwiniensis",
+    "Opistognathus decorus",
+    "Opistognathus dendriticus",
+    "Opistognathus dipharus",
+    "Opistognathus elizabethensis",
+    "Opistognathus evermanni",
+    "Opistognathus eximius",
+    "Opistognathus fenmutis",
+    "Opistognathus fossoris",
+    "Opistognathus galapagensis",
+    "Opistognathus gilberti",
+    "Opistognathus hongkongiensis",
+    "Opistognathus hopkinsi",
+    "Opistognathus inornatus",
+    "Opistognathus iyonis",
+    "Opistognathus jacksoniensis",
+    "Opistognathus latitabundus",
+    "Opistognathus leprocarus",
+    "Opistognathus liturus",
+    "Opistognathus lonchurus",
+    "Opistognathus longinaris",
+    "Opistognathus macrolepis",
+    "Opistognathus margaretae",
+    "Opistognathus megalepis",
+    "Opistognathus melachasme",
+    "Opistognathus mexicanus",
+    "Opistognathus muscatensis",
+    "Opistognathus nigromarginatus",
+    "Opistognathus nothus",
+    "Opistognathus panamaensis",
+    "Opistognathus papuensis",
+    "Opistognathus randalli",
+    "Opistognathus reticeps",
+    "Opistognathus reticulatus",
+    "Opistognathus rhomaleus",
+    "Opistognathus rosenbergii",
+    "Opistognathus rosenblatti",
+    "Opistognathus rufilineatus",
+    "Opistognathus scops",
+    "Opistognathus seminudus",
+    "Opistognathus signatus",
+    "Opistognathus simus",
+    "Opistognathus smithvanizi",
+    "Opistognathus solorensis",
+    "Opistognathus stigmosus",
+    "Opistognathus variabilis",
+    "Opistognathus verecundus",
+    "Opistognathus walkeri",
+    "Opistognathus whitehursti",
+    "Stalix davidsheni",
+    "Stalix dicra",
+    "Stalix eremia",
+    "Stalix flavida",
+    "Stalix histrio",
+    "Stalix immaculata",
+    "Stalix moenensis",
+    "Stalix omanensis",
+    "Stalix sheni",
+    "Stalix toyoshio",
+    "Stalix versluysi"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Opistognathus aurifrons"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Opistognathus aurifrons",
+      "Opistognathus macrognathus",
+      "Opistognathus maxillosus",
+      "Opistognathus punctatus",
+      "Opistognathus robinsi"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Opistognathus aurifrons"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Opistognathus aurifrons"
+    ],
+    "hoxc6a": [
+      "Lonchopisthus micrognathus"
+    ],
+    "kiaa1239": [
+      "Lonchopisthus micrognathus"
+    ],
+    "myh6": [
+      "Lonchopisthus micrognathus",
+      "Opistognathus aurifrons",
+      "Opistognathus maxillosus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Lonchopisthus micrognathus",
+      "Opistognathus aurifrons"
+    ],
+    "ptr": [
+      "Opistognathus aurifrons"
+    ],
+    "rag1": [
+      "Opistognathus aurifrons"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Lonchopisthus micrognathus",
+      "Opistognathus aurifrons",
+      "Opistognathus maxillosus"
+    ],
+    "sh3px3": [
+      "Opistognathus aurifrons"
+    ],
+    "sidkey": [
+      "Lonchopisthus micrognathus"
+    ],
+    "sreb2": [
+      "Opistognathus aurifrons"
+    ],
+    "svep1": [
+      "Lonchopisthus micrognathus"
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Opistognathus maxillosus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Opistognathidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Ovalentaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Lonchopisthus micrognathus": 0.0812,
+    "Opistognathus aurifrons": 0.0939,
+    "Opistognathus macrognathus": 0.1139,
+    "Opistognathus maxillosus": 0.1009,
+    "Opistognathus punctatus": 0.1905,
+    "Opistognathus robinsi": 0.19
+  },
+  "tiprates_bamm_lambda": {
+    "Lonchopisthus micrognathus": 0.0936,
+    "Opistognathus aurifrons": 0.0936,
+    "Opistognathus macrognathus": 0.0936,
+    "Opistognathus maxillosus": 0.0936,
+    "Opistognathus punctatus": 0.0936,
+    "Opistognathus robinsi": 0.0936
+  },
+  "tiprates_bamm_mu": {
+    "Lonchopisthus micrognathus": 0.0032,
+    "Opistognathus aurifrons": 0.0032,
+    "Opistognathus macrognathus": 0.0032,
+    "Opistognathus maxillosus": 0.0032,
+    "Opistognathus punctatus": 0.0032,
+    "Opistognathus robinsi": 0.0032
+  },
+  "mean_dr": 0.1284,
+  "mean_bamm_lambda": 0.0936,
+  "mean_bamm_mu": 0.0032,
+  "matrix_phylip": "downloads/taxonomy/family/Opistognathidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Opistognathidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Opistognathidae.tre",
+  "phylogram": "downloads/taxonomy/family/Opistognathidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

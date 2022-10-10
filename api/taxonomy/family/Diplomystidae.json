@@ -1,0 +1,188 @@
+{
+  "species": [
+    "Diplomystes camposensis",
+    "Diplomystes chilensis",
+    "Diplomystes nahuelbutaensis",
+    "Olivaichthys cuyanus",
+    "Olivaichthys mesembrinus",
+    "Olivaichthys viedmensis"
+  ],
+  "sampled_species": [
+    "Diplomystes nahuelbutaensis",
+    "Olivaichthys mesembrinus",
+    "Olivaichthys viedmensis"
+  ],
+  "unsampled_species": [
+    "Diplomystes camposensis",
+    "Diplomystes chilensis",
+    "Olivaichthys cuyanus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Diplomystes nahuelbutaensis",
+      "Olivaichthys mesembrinus"
+    ],
+    "16s": [
+      "Diplomystes nahuelbutaensis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Olivaichthys mesembrinus"
+    ],
+    "cytb": [
+      "Olivaichthys mesembrinus",
+      "Olivaichthys viedmensis"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Diplomystes nahuelbutaensis",
+      "Olivaichthys mesembrinus"
+    ],
+    "rag2": [
+      "Diplomystes nahuelbutaensis",
+      "Olivaichthys mesembrinus"
+    ],
+    "rhodopsin": [
+      "Diplomystes nahuelbutaensis"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Diplomystidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Diplomystoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Diplomystes nahuelbutaensis": 0.0557,
+    "Olivaichthys mesembrinus": 0.0447,
+    "Olivaichthys viedmensis": 0.0471
+  },
+  "tiprates_bamm_lambda": {
+    "Diplomystes nahuelbutaensis": 0.0745,
+    "Olivaichthys mesembrinus": 0.0745,
+    "Olivaichthys viedmensis": 0.0745
+  },
+  "tiprates_bamm_mu": {
+    "Diplomystes nahuelbutaensis": 0.0008,
+    "Olivaichthys mesembrinus": 0.0008,
+    "Olivaichthys viedmensis": 0.0008
+  },
+  "mean_dr": 0.0492,
+  "mean_bamm_lambda": 0.0745,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Diplomystidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Diplomystidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Diplomystidae.tre",
+  "phylogram": "downloads/taxonomy/family/Diplomystidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

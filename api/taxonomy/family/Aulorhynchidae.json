@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Aulorhynchus flavidus"
+  ],
+  "sampled_species": [
+    "Aulorhynchus flavidus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Aulorhynchus flavidus"
+    ],
+    "16s": [
+      "Aulorhynchus flavidus"
+    ],
+    "4c4": [
+      "Aulorhynchus flavidus"
+    ],
+    "coi": [
+      "Aulorhynchus flavidus"
+    ],
+    "cytb": [
+      "Aulorhynchus flavidus"
+    ],
+    "enc1": [
+      "Aulorhynchus flavidus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Aulorhynchus flavidus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Aulorhynchus flavidus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Aulorhynchus flavidus"
+    ],
+    "ptr": [
+      "Aulorhynchus flavidus"
+    ],
+    "rag1": [
+      "Aulorhynchus flavidus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Aulorhynchus flavidus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Aulorhynchus flavidus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Aulorhynchus flavidus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Aulorhynchus flavidus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Aulorhynchus flavidus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Aulorhynchidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Gasterosteales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Aulorhynchus flavidus": 0.0219
+  },
+  "tiprates_bamm_lambda": {
+    "Aulorhynchus flavidus": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Aulorhynchus flavidus": 0.0003
+  },
+  "mean_dr": 0.0219,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Aulorhynchidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Aulorhynchidae.nex.xz"
+}

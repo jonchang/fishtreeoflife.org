@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Luvarus imperialis"
+  ],
+  "sampled_species": [
+    "Luvarus imperialis"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Luvarus imperialis"
+    ],
+    "16s": [
+      "Luvarus imperialis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Luvarus imperialis"
+    ],
+    "cytb": [
+      "Luvarus imperialis"
+    ],
+    "enc1": [
+      "Luvarus imperialis"
+    ],
+    "ficd": [
+      "Luvarus imperialis"
+    ],
+    "glyt": [
+      "Luvarus imperialis"
+    ],
+    "hoxc6a": [
+      "Luvarus imperialis"
+    ],
+    "kiaa1239": [
+      "Luvarus imperialis"
+    ],
+    "myh6": [
+      "Luvarus imperialis"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Luvarus imperialis"
+    ],
+    "ptr": [
+      "Luvarus imperialis"
+    ],
+    "rag1": [
+      "Luvarus imperialis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Luvarus imperialis"
+    ],
+    "ripk4": [
+      "Luvarus imperialis"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Luvarus imperialis"
+    ],
+    "svep1": [
+      "Luvarus imperialis"
+    ],
+    "tbr1": [
+      "Luvarus imperialis"
+    ],
+    "vcpip": [
+      "Luvarus imperialis"
+    ],
+    "zic1": [
+      "Luvarus imperialis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Luvaridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Acanthuriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Luvarus imperialis": 0.0113
+  },
+  "tiprates_bamm_lambda": {
+    "Luvarus imperialis": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Luvarus imperialis": 0.0005
+  },
+  "mean_dr": 0.0113,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0005,
+  "matrix_phylip": "downloads/taxonomy/family/Luvaridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Luvaridae.nex.xz"
+}

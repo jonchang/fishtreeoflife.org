@@ -1,0 +1,218 @@
+{
+  "species": [
+    "Alepisaurus brevirostris",
+    "Alepisaurus ferox",
+    "Anotopterus nikparini",
+    "Anotopterus pharao",
+    "Anotopterus vorax",
+    "Omosudis lowii"
+  ],
+  "sampled_species": [
+    "Alepisaurus brevirostris",
+    "Alepisaurus ferox",
+    "Anotopterus nikparini",
+    "Anotopterus pharao",
+    "Omosudis lowii"
+  ],
+  "unsampled_species": [
+    "Anotopterus vorax"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Omosudis lowii"
+    ],
+    "16s": [
+      "Omosudis lowii"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Alepisaurus ferox",
+      "Anotopterus nikparini",
+      "Anotopterus pharao"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Alepisaurus brevirostris",
+      "Anotopterus pharao",
+      "Omosudis lowii"
+    ],
+    "ficd": [
+      "Alepisaurus brevirostris",
+      "Alepisaurus ferox",
+      "Omosudis lowii"
+    ],
+    "glyt": [
+      "Alepisaurus ferox",
+      "Anotopterus pharao"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Alepisaurus ferox",
+      "Anotopterus pharao"
+    ],
+    "myh6": [
+      "Alepisaurus ferox",
+      "Anotopterus pharao",
+      "Omosudis lowii"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Alepisaurus ferox",
+      "Anotopterus pharao",
+      "Omosudis lowii"
+    ],
+    "plagl2": [
+      "Alepisaurus brevirostris",
+      "Alepisaurus ferox",
+      "Anotopterus pharao",
+      "Omosudis lowii"
+    ],
+    "ptr": [
+      "Alepisaurus ferox",
+      "Anotopterus pharao"
+    ],
+    "rag1": [
+      "Alepisaurus brevirostris",
+      "Alepisaurus ferox",
+      "Anotopterus pharao",
+      "Omosudis lowii"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Alepisaurus brevirostris"
+    ],
+    "sh3px3": [
+      "Alepisaurus brevirostris",
+      "Alepisaurus ferox",
+      "Anotopterus pharao"
+    ],
+    "sidkey": [
+      "Omosudis lowii"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Alepisaurus ferox"
+    ],
+    "tbr1": [
+      "Alepisaurus ferox"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Alepisaurus brevirostris",
+      "Alepisaurus ferox",
+      "Omosudis lowii"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Alepisauridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Aulopiformes"
+    ],
+    "section": [
+      "Aulopa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Alepisauroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Alepisaurus brevirostris": 0.029,
+    "Alepisaurus ferox": 0.029,
+    "Anotopterus nikparini": 0.0725,
+    "Anotopterus pharao": 0.0717,
+    "Omosudis lowii": 0.0488
+  },
+  "tiprates_bamm_lambda": {
+    "Alepisaurus brevirostris": 0.0348,
+    "Alepisaurus ferox": 0.0348,
+    "Anotopterus nikparini": 0.0348,
+    "Anotopterus pharao": 0.0348,
+    "Omosudis lowii": 0.0348
+  },
+  "tiprates_bamm_mu": {
+    "Alepisaurus brevirostris": 0.001,
+    "Alepisaurus ferox": 0.001,
+    "Anotopterus nikparini": 0.001,
+    "Anotopterus pharao": 0.001,
+    "Omosudis lowii": 0.001
+  },
+  "mean_dr": 0.0502,
+  "mean_bamm_lambda": 0.0348,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Alepisauridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Alepisauridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Alepisauridae.tre",
+  "phylogram": "downloads/taxonomy/family/Alepisauridae_phylogram.tre",
+  "rogues": [
+    "Magnisudis_prionosa",
+    "Magnisudis_atlantica",
+    "Notolepis_coatsi",
+    "Macroparalepis_johnfitchi"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Alepisauridae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Alepisauridae_mrca_phylogram.tre"
+}

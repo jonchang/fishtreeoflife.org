@@ -1,0 +1,215 @@
+{
+  "species": [
+    "Anarhichas denticulatus",
+    "Anarhichas lupus",
+    "Anarhichas minor",
+    "Anarhichas orientalis",
+    "Anarrhichthys ocellatus"
+  ],
+  "sampled_species": [
+    "Anarhichas denticulatus",
+    "Anarhichas lupus",
+    "Anarhichas minor",
+    "Anarhichas orientalis",
+    "Anarrhichthys ocellatus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Anarhichas lupus"
+    ],
+    "16s": [
+      "Anarhichas lupus",
+      "Anarrhichthys ocellatus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Anarhichas lupus",
+      "Anarhichas minor",
+      "Anarhichas orientalis",
+      "Anarrhichthys ocellatus"
+    ],
+    "cytb": [
+      "Anarhichas lupus",
+      "Anarhichas minor",
+      "Anarrhichthys ocellatus"
+    ],
+    "enc1": [
+      "Anarhichas lupus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Anarhichas lupus"
+    ],
+    "hoxc6a": [
+      "Anarhichas denticulatus",
+      "Anarhichas orientalis",
+      "Anarrhichthys ocellatus"
+    ],
+    "kiaa1239": [
+      "Anarhichas denticulatus",
+      "Anarhichas orientalis",
+      "Anarrhichthys ocellatus"
+    ],
+    "myh6": [
+      "Anarhichas lupus",
+      "Anarhichas orientalis"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Anarhichas denticulatus",
+      "Anarhichas orientalis",
+      "Anarrhichthys ocellatus"
+    ],
+    "plagl2": [
+      "Anarhichas denticulatus",
+      "Anarhichas lupus",
+      "Anarhichas orientalis",
+      "Anarrhichthys ocellatus"
+    ],
+    "ptr": [
+      "Anarhichas denticulatus",
+      "Anarhichas lupus",
+      "Anarhichas orientalis",
+      "Anarrhichthys ocellatus"
+    ],
+    "rag1": [
+      "Anarhichas lupus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Anarhichas denticulatus",
+      "Anarhichas lupus",
+      "Anarhichas minor"
+    ],
+    "ripk4": [
+      "Anarhichas denticulatus",
+      "Anarhichas orientalis",
+      "Anarrhichthys ocellatus"
+    ],
+    "sh3px3": [
+      "Anarhichas lupus",
+      "Anarrhichthys ocellatus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Anarhichas lupus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Anarhichas lupus"
+    ],
+    "vcpip": [
+      "Anarhichas denticulatus"
+    ],
+    "zic1": [
+      "Anarhichas lupus",
+      "Anarhichas orientalis",
+      "Anarrhichthys ocellatus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Anarhichadidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Zoarcales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Anarhichas denticulatus": 0.0598,
+    "Anarhichas lupus": 0.0816,
+    "Anarhichas minor": 0.0816,
+    "Anarhichas orientalis": 0.055,
+    "Anarrhichthys ocellatus": 0.0497
+  },
+  "tiprates_bamm_lambda": {
+    "Anarhichas denticulatus": 0.0814,
+    "Anarhichas lupus": 0.0814,
+    "Anarhichas minor": 0.0814,
+    "Anarhichas orientalis": 0.0814,
+    "Anarrhichthys ocellatus": 0.0814
+  },
+  "tiprates_bamm_mu": {
+    "Anarhichas denticulatus": 0.0038,
+    "Anarhichas lupus": 0.0038,
+    "Anarhichas minor": 0.0038,
+    "Anarhichas orientalis": 0.0038,
+    "Anarrhichthys ocellatus": 0.0038
+  },
+  "mean_dr": 0.0655,
+  "mean_bamm_lambda": 0.0814,
+  "mean_bamm_mu": 0.0038,
+  "matrix_phylip": "downloads/taxonomy/family/Anarhichadidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Anarhichadidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Anarhichadidae.tre",
+  "phylogram": "downloads/taxonomy/family/Anarhichadidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "species": [
+    "Nemipterus aurifilum",
+    "Nemipterus aurora",
+    "Nemipterus balinensis",
+    "Nemipterus balinensoides",
+    "Nemipterus bathybius",
+    "Nemipterus bipunctatus",
+    "Nemipterus celebicus",
+    "Nemipterus furcosus",
+    "Nemipterus gracilis",
+    "Nemipterus hexodon",
+    "Nemipterus isacanthus",
+    "Nemipterus japonicus",
+    "Nemipterus marginatus",
+    "Nemipterus mesoprion",
+    "Nemipterus nematophorus",
+    "Nemipterus nematopus",
+    "Nemipterus nemurus",
+    "Nemipterus peronii",
+    "Nemipterus randalli",
+    "Nemipterus tambuloides",
+    "Nemipterus theodorei",
+    "Nemipterus thosaporni",
+    "Nemipterus virgatus",
+    "Nemipterus vitiensis",
+    "Nemipterus zysron",
+    "Parascolopsis aspinosa",
+    "Parascolopsis baranesi",
+    "Parascolopsis boesemani",
+    "Parascolopsis capitinis",
+    "Parascolopsis eriomma",
+    "Parascolopsis inermis",
+    "Parascolopsis melanophrys",
+    "Parascolopsis qantasi",
+    "Parascolopsis rufomaculatus",
+    "Parascolopsis tanyactis",
+    "Parascolopsis tosensis",
+    "Parascolopsis townsendi",
+    "Pentapodus aureofasciatus",
+    "Pentapodus bifasciatus",
+    "Pentapodus caninus",
+    "Pentapodus emeryii",
+    "Pentapodus komodoensis",
+    "Pentapodus nagasakiensis",
+    "Pentapodus numberii",
+    "Pentapodus paradiseus",
+    "Pentapodus porosus",
+    "Pentapodus setosus",
+    "Pentapodus trivittatus",
+    "Pentapodus vitta",
+    "Scaevius milii",
+    "Scolopsis affinis",
+    "Scolopsis aurata",
+    "Scolopsis bilineata",
+    "Scolopsis bimaculata",
+    "Scolopsis ciliata",
+    "Scolopsis frenata",
+    "Scolopsis ghanam",
+    "Scolopsis igcarensis",
+    "Scolopsis lineata",
+    "Scolopsis margaritifera",
+    "Scolopsis monogramma",
+    "Scolopsis taeniata",
+    "Scolopsis taenioptera",
+    "Scolopsis temporalis",
+    "Scolopsis trilineata",
+    "Scolopsis vosmeri",
+    "Scolopsis xenochroa"
+  ],
+  "sampled_species": [
+    "Nemipterus bathybius",
+    "Nemipterus bipunctatus",
+    "Nemipterus furcosus",
+    "Nemipterus japonicus",
+    "Nemipterus marginatus",
+    "Nemipterus mesoprion",
+    "Nemipterus nematophorus",
+    "Nemipterus peronii",
+    "Nemipterus virgatus",
+    "Nemipterus zysron",
+    "Parascolopsis eriomma",
+    "Pentapodus aureofasciatus",
+    "Pentapodus bifasciatus",
+    "Pentapodus caninus",
+    "Pentapodus nagasakiensis",
+    "Pentapodus setosus",
+    "Scolopsis affinis",
+    "Scolopsis bilineata",
+    "Scolopsis bimaculata",
+    "Scolopsis ciliata",
+    "Scolopsis margaritifera",
+    "Scolopsis monogramma",
+    "Scolopsis taenioptera",
+    "Scolopsis vosmeri"
+  ],
+  "unsampled_species": [
+    "Nemipterus aurifilum",
+    "Nemipterus aurora",
+    "Nemipterus balinensis",
+    "Nemipterus balinensoides",
+    "Nemipterus celebicus",
+    "Nemipterus gracilis",
+    "Nemipterus hexodon",
+    "Nemipterus isacanthus",
+    "Nemipterus nematopus",
+    "Nemipterus nemurus",
+    "Nemipterus randalli",
+    "Nemipterus tambuloides",
+    "Nemipterus theodorei",
+    "Nemipterus thosaporni",
+    "Nemipterus vitiensis",
+    "Parascolopsis aspinosa",
+    "Parascolopsis baranesi",
+    "Parascolopsis boesemani",
+    "Parascolopsis capitinis",
+    "Parascolopsis inermis",
+    "Parascolopsis melanophrys",
+    "Parascolopsis qantasi",
+    "Parascolopsis rufomaculatus",
+    "Parascolopsis tanyactis",
+    "Parascolopsis tosensis",
+    "Parascolopsis townsendi",
+    "Pentapodus emeryii",
+    "Pentapodus komodoensis",
+    "Pentapodus numberii",
+    "Pentapodus paradiseus",
+    "Pentapodus porosus",
+    "Pentapodus trivittatus",
+    "Pentapodus vitta",
+    "Scaevius milii",
+    "Scolopsis aurata",
+    "Scolopsis frenata",
+    "Scolopsis ghanam",
+    "Scolopsis igcarensis",
+    "Scolopsis lineata",
+    "Scolopsis taeniata",
+    "Scolopsis temporalis",
+    "Scolopsis trilineata",
+    "Scolopsis xenochroa"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Nemipterus japonicus"
+    ],
+    "16s": [
+      "Nemipterus bathybius",
+      "Nemipterus bipunctatus",
+      "Nemipterus furcosus",
+      "Nemipterus japonicus",
+      "Nemipterus marginatus",
+      "Nemipterus mesoprion",
+      "Nemipterus virgatus",
+      "Nemipterus zysron",
+      "Parascolopsis eriomma",
+      "Pentapodus aureofasciatus",
+      "Pentapodus caninus",
+      "Pentapodus nagasakiensis",
+      "Scolopsis bilineata",
+      "Scolopsis ciliata",
+      "Scolopsis vosmeri"
+    ],
+    "4c4": [
+      "Nemipterus bathybius",
+      "Nemipterus bipunctatus",
+      "Nemipterus furcosus",
+      "Nemipterus japonicus",
+      "Nemipterus marginatus",
+      "Nemipterus mesoprion",
+      "Nemipterus virgatus",
+      "Nemipterus zysron",
+      "Parascolopsis eriomma",
+      "Pentapodus aureofasciatus",
+      "Pentapodus nagasakiensis",
+      "Scolopsis bilineata",
+      "Scolopsis ciliata",
+      "Scolopsis vosmeri"
+    ],
+    "coi": [
+      "Nemipterus bathybius",
+      "Nemipterus bipunctatus",
+      "Nemipterus furcosus",
+      "Nemipterus japonicus",
+      "Nemipterus marginatus",
+      "Nemipterus mesoprion",
+      "Nemipterus nematophorus",
+      "Nemipterus peronii",
+      "Nemipterus virgatus",
+      "Nemipterus zysron",
+      "Parascolopsis eriomma",
+      "Scolopsis bimaculata",
+      "Scolopsis monogramma",
+      "Scolopsis taenioptera",
+      "Scolopsis vosmeri"
+    ],
+    "cytb": [
+      "Nemipterus bathybius",
+      "Nemipterus furcosus",
+      "Nemipterus japonicus",
+      "Nemipterus marginatus",
+      "Nemipterus virgatus",
+      "Scolopsis ciliata"
+    ],
+    "enc1": [
+      "Pentapodus caninus",
+      "Scolopsis bilineata",
+      "Scolopsis margaritifera"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Pentapodus caninus",
+      "Scolopsis bilineata",
+      "Scolopsis margaritifera"
+    ],
+    "hoxc6a": [
+      "Scolopsis bilineata"
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Pentapodus caninus",
+      "Scolopsis bilineata",
+      "Scolopsis margaritifera"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Scolopsis bilineata"
+    ],
+    "plagl2": [
+      "Nemipterus marginatus",
+      "Pentapodus caninus",
+      "Scolopsis bilineata",
+      "Scolopsis margaritifera"
+    ],
+    "ptr": [
+      "Pentapodus caninus",
+      "Scolopsis bilineata",
+      "Scolopsis margaritifera"
+    ],
+    "rag1": [
+      "Nemipterus japonicus",
+      "Nemipterus marginatus",
+      "Parascolopsis eriomma",
+      "Pentapodus bifasciatus",
+      "Pentapodus caninus",
+      "Pentapodus setosus",
+      "Scolopsis affinis",
+      "Scolopsis bilineata",
+      "Scolopsis ciliata",
+      "Scolopsis margaritifera",
+      "Scolopsis taenioptera",
+      "Scolopsis vosmeri"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Nemipterus marginatus",
+      "Pentapodus caninus",
+      "Scolopsis bilineata",
+      "Scolopsis margaritifera"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Scolopsis bilineata"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Pentapodus caninus",
+      "Scolopsis bilineata",
+      "Scolopsis margaritifera"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Pentapodus caninus",
+      "Scolopsis bilineata",
+      "Scolopsis margaritifera"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Nemipteridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Spariformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Nemipterus bathybius": 0.0926,
+    "Nemipterus bipunctatus": 0.078,
+    "Nemipterus furcosus": 0.0695,
+    "Nemipterus japonicus": 0.0663,
+    "Nemipterus marginatus": 0.0649,
+    "Nemipterus mesoprion": 0.1166,
+    "Nemipterus nematophorus": 0.0843,
+    "Nemipterus peronii": 0.0613,
+    "Nemipterus virgatus": 0.078,
+    "Nemipterus zysron": 0.1111,
+    "Parascolopsis eriomma": 0.0572,
+    "Pentapodus aureofasciatus": 0.1018,
+    "Pentapodus bifasciatus": 0.064,
+    "Pentapodus caninus": 0.1091,
+    "Pentapodus nagasakiensis": 0.0698,
+    "Pentapodus setosus": 0.0599,
+    "Scolopsis affinis": 0.0556,
+    "Scolopsis bilineata": 0.0385,
+    "Scolopsis bimaculata": 0.0706,
+    "Scolopsis ciliata": 0.0468,
+    "Scolopsis margaritifera": 0.0425,
+    "Scolopsis monogramma": 0.0835,
+    "Scolopsis taenioptera": 0.0862,
+    "Scolopsis vosmeri": 0.0468
+  },
+  "tiprates_bamm_lambda": {
+    "Nemipterus bathybius": 0.0579,
+    "Nemipterus bipunctatus": 0.0579,
+    "Nemipterus furcosus": 0.0579,
+    "Nemipterus japonicus": 0.0579,
+    "Nemipterus marginatus": 0.0579,
+    "Nemipterus mesoprion": 0.0579,
+    "Nemipterus nematophorus": 0.0579,
+    "Nemipterus peronii": 0.0579,
+    "Nemipterus virgatus": 0.0579,
+    "Nemipterus zysron": 0.0579,
+    "Parascolopsis eriomma": 0.0579,
+    "Pentapodus aureofasciatus": 0.0579,
+    "Pentapodus bifasciatus": 0.0579,
+    "Pentapodus caninus": 0.0579,
+    "Pentapodus nagasakiensis": 0.0579,
+    "Pentapodus setosus": 0.0579,
+    "Scolopsis affinis": 0.0579,
+    "Scolopsis bilineata": 0.0579,
+    "Scolopsis bimaculata": 0.0579,
+    "Scolopsis ciliata": 0.0579,
+    "Scolopsis margaritifera": 0.0579,
+    "Scolopsis monogramma": 0.0579,
+    "Scolopsis taenioptera": 0.0579,
+    "Scolopsis vosmeri": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Nemipterus bathybius": 0.0003,
+    "Nemipterus bipunctatus": 0.0003,
+    "Nemipterus furcosus": 0.0003,
+    "Nemipterus japonicus": 0.0003,
+    "Nemipterus marginatus": 0.0003,
+    "Nemipterus mesoprion": 0.0003,
+    "Nemipterus nematophorus": 0.0003,
+    "Nemipterus peronii": 0.0003,
+    "Nemipterus virgatus": 0.0003,
+    "Nemipterus zysron": 0.0003,
+    "Parascolopsis eriomma": 0.0003,
+    "Pentapodus aureofasciatus": 0.0003,
+    "Pentapodus bifasciatus": 0.0003,
+    "Pentapodus caninus": 0.0003,
+    "Pentapodus nagasakiensis": 0.0003,
+    "Pentapodus setosus": 0.0003,
+    "Scolopsis affinis": 0.0003,
+    "Scolopsis bilineata": 0.0003,
+    "Scolopsis bimaculata": 0.0003,
+    "Scolopsis ciliata": 0.0003,
+    "Scolopsis margaritifera": 0.0003,
+    "Scolopsis monogramma": 0.0003,
+    "Scolopsis taenioptera": 0.0003,
+    "Scolopsis vosmeri": 0.0003
+  },
+  "mean_dr": 0.0731,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Nemipteridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Nemipteridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Nemipteridae.tre",
+  "phylogram": "downloads/taxonomy/family/Nemipteridae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

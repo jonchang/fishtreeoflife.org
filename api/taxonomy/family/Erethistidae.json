@@ -1,0 +1,319 @@
+{
+  "species": [
+    "Ayarnangra estuarius",
+    "Caelatoglanis zonatus",
+    "Conta conta",
+    "Conta pectinata",
+    "Erethistes pusillus",
+    "Erethistoides ascita",
+    "Erethistoides cavatura",
+    "Erethistoides infuscatus",
+    "Erethistoides longispinis",
+    "Erethistoides luteolus",
+    "Erethistoides montana",
+    "Erethistoides pipri",
+    "Erethistoides senkhiensis",
+    "Erethistoides sicula",
+    "Erethistoides vesculus",
+    "Hara filamentosa",
+    "Hara hara",
+    "Hara horai",
+    "Hara jerdoni",
+    "Hara koladynensis",
+    "Hara longissima",
+    "Hara mesembrina",
+    "Hara minuscula",
+    "Hara spinulus",
+    "Pseudolaguvia austrina",
+    "Pseudolaguvia ferruginea",
+    "Pseudolaguvia ferula",
+    "Pseudolaguvia flavida",
+    "Pseudolaguvia foveolata",
+    "Pseudolaguvia inornata",
+    "Pseudolaguvia kapuri",
+    "Pseudolaguvia muricata",
+    "Pseudolaguvia nubila",
+    "Pseudolaguvia ribeiroi",
+    "Pseudolaguvia shawi",
+    "Pseudolaguvia spicula",
+    "Pseudolaguvia tenebricosa",
+    "Pseudolaguvia tuberculata",
+    "Pseudolaguvia virgulata",
+    "Pseudolaguvia viriosa"
+  ],
+  "sampled_species": [
+    "Ayarnangra estuarius",
+    "Caelatoglanis zonatus",
+    "Conta conta",
+    "Erethistes pusillus",
+    "Erethistoides infuscatus",
+    "Erethistoides sicula",
+    "Hara filamentosa",
+    "Hara hara",
+    "Hara horai",
+    "Hara jerdoni",
+    "Hara mesembrina",
+    "Pseudolaguvia ferula",
+    "Pseudolaguvia foveolata",
+    "Pseudolaguvia ribeiroi",
+    "Pseudolaguvia shawi",
+    "Pseudolaguvia tuberculata"
+  ],
+  "unsampled_species": [
+    "Conta pectinata",
+    "Erethistoides ascita",
+    "Erethistoides cavatura",
+    "Erethistoides longispinis",
+    "Erethistoides luteolus",
+    "Erethistoides montana",
+    "Erethistoides pipri",
+    "Erethistoides senkhiensis",
+    "Erethistoides vesculus",
+    "Hara koladynensis",
+    "Hara longissima",
+    "Hara minuscula",
+    "Hara spinulus",
+    "Pseudolaguvia austrina",
+    "Pseudolaguvia ferruginea",
+    "Pseudolaguvia flavida",
+    "Pseudolaguvia inornata",
+    "Pseudolaguvia kapuri",
+    "Pseudolaguvia muricata",
+    "Pseudolaguvia nubila",
+    "Pseudolaguvia spicula",
+    "Pseudolaguvia tenebricosa",
+    "Pseudolaguvia virgulata",
+    "Pseudolaguvia viriosa"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Ayarnangra estuarius",
+      "Caelatoglanis zonatus",
+      "Conta conta",
+      "Erethistes pusillus",
+      "Erethistoides sicula",
+      "Hara filamentosa",
+      "Hara horai",
+      "Hara jerdoni",
+      "Hara mesembrina",
+      "Pseudolaguvia ferula",
+      "Pseudolaguvia foveolata",
+      "Pseudolaguvia ribeiroi",
+      "Pseudolaguvia shawi",
+      "Pseudolaguvia tuberculata"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+      "Ayarnangra estuarius",
+      "Caelatoglanis zonatus",
+      "Conta conta",
+      "Erethistes pusillus",
+      "Erethistoides infuscatus",
+      "Erethistoides sicula",
+      "Hara filamentosa",
+      "Hara hara",
+      "Hara horai",
+      "Hara jerdoni",
+      "Hara mesembrina",
+      "Pseudolaguvia ferula",
+      "Pseudolaguvia foveolata",
+      "Pseudolaguvia ribeiroi",
+      "Pseudolaguvia shawi",
+      "Pseudolaguvia tuberculata"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Erethistidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Ayarnangra estuarius": 0.1069,
+    "Caelatoglanis zonatus": 0.0961,
+    "Conta conta": 0.057,
+    "Erethistes pusillus": 0.1099,
+    "Erethistoides infuscatus": 0.0749,
+    "Erethistoides sicula": 0.0868,
+    "Hara filamentosa": 0.1888,
+    "Hara hara": 0.1063,
+    "Hara horai": 0.1114,
+    "Hara jerdoni": 0.0818,
+    "Hara mesembrina": 0.1778,
+    "Pseudolaguvia ferula": 0.1079,
+    "Pseudolaguvia foveolata": 0.0918,
+    "Pseudolaguvia ribeiroi": 0.1164,
+    "Pseudolaguvia shawi": 0.0985,
+    "Pseudolaguvia tuberculata": 0.0947
+  },
+  "tiprates_bamm_lambda": {
+    "Ayarnangra estuarius": 0.0752,
+    "Caelatoglanis zonatus": 0.0752,
+    "Conta conta": 0.0752,
+    "Erethistes pusillus": 0.0752,
+    "Erethistoides infuscatus": 0.0752,
+    "Erethistoides sicula": 0.0752,
+    "Hara filamentosa": 0.0752,
+    "Hara hara": 0.0752,
+    "Hara horai": 0.0752,
+    "Hara jerdoni": 0.0752,
+    "Hara mesembrina": 0.0752,
+    "Pseudolaguvia ferula": 0.0752,
+    "Pseudolaguvia foveolata": 0.0752,
+    "Pseudolaguvia ribeiroi": 0.0752,
+    "Pseudolaguvia shawi": 0.0752,
+    "Pseudolaguvia tuberculata": 0.0752
+  },
+  "tiprates_bamm_mu": {
+    "Ayarnangra estuarius": 0.0009,
+    "Caelatoglanis zonatus": 0.0009,
+    "Conta conta": 0.0009,
+    "Erethistes pusillus": 0.0009,
+    "Erethistoides infuscatus": 0.0009,
+    "Erethistoides sicula": 0.0009,
+    "Hara filamentosa": 0.0009,
+    "Hara hara": 0.0009,
+    "Hara horai": 0.0009,
+    "Hara jerdoni": 0.0009,
+    "Hara mesembrina": 0.0009,
+    "Pseudolaguvia ferula": 0.0009,
+    "Pseudolaguvia foveolata": 0.0009,
+    "Pseudolaguvia ribeiroi": 0.0009,
+    "Pseudolaguvia shawi": 0.0009,
+    "Pseudolaguvia tuberculata": 0.0009
+  },
+  "mean_dr": 0.1067,
+  "mean_bamm_lambda": 0.0752,
+  "mean_bamm_mu": 0.0009,
+  "matrix_phylip": "downloads/taxonomy/family/Erethistidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Erethistidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Erethistidae.tre",
+  "phylogram": "downloads/taxonomy/family/Erethistidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "species": [
+    "Belodontichthys dinema",
+    "Belodontichthys truncatus",
+    "Ceratoglanis pachynema",
+    "Ceratoglanis scleronema",
+    "Hemisilurus heterorhynchus",
+    "Hemisilurus mekongensis",
+    "Hemisilurus moolenburghi",
+    "Kryptoglanis shajii",
+    "Kryptopterus baramensis",
+    "Kryptopterus bicirrhis",
+    "Kryptopterus cheveyi",
+    "Kryptopterus cryptopterus",
+    "Kryptopterus dissitus",
+    "Kryptopterus geminus",
+    "Kryptopterus hesperius",
+    "Kryptopterus lais",
+    "Kryptopterus limpok",
+    "Kryptopterus lumholtzi",
+    "Kryptopterus macrocephalus",
+    "Kryptopterus minor",
+    "Kryptopterus mononema",
+    "Kryptopterus palembangensis",
+    "Kryptopterus paraschilbeides",
+    "Kryptopterus piperatus",
+    "Kryptopterus sabanus",
+    "Kryptopterus schilbeides",
+    "Kryptopterus vitreolus",
+    "Micronema hexapterus",
+    "Micronema moorei",
+    "Micronema platypogon",
+    "Ompok bimaculatus",
+    "Ompok binotatus",
+    "Ompok borneensis",
+    "Ompok brevirictus",
+    "Ompok canio",
+    "Ompok ceylonensis",
+    "Ompok eugeneiatus",
+    "Ompok fumidus",
+    "Ompok goae",
+    "Ompok hypophthalmus",
+    "Ompok javanensis",
+    "Ompok jaynei",
+    "Ompok leiacanthus",
+    "Ompok malabaricus",
+    "Ompok miostoma",
+    "Ompok pabda",
+    "Ompok pabo",
+    "Ompok pinnatus",
+    "Ompok platyrhynchus",
+    "Ompok pluriradiatus",
+    "Ompok rhadinurus",
+    "Ompok siluroides",
+    "Ompok sindensis",
+    "Ompok supernus",
+    "Ompok urbaini",
+    "Ompok weberi",
+    "Phalacronotus apogon",
+    "Phalacronotus bleekeri",
+    "Phalacronotus micronemus",
+    "Phalacronotus parvanalis",
+    "Pinniwallago kanpurensis",
+    "Pterocryptis anomala",
+    "Pterocryptis barakensis",
+    "Pterocryptis berdmorei",
+    "Pterocryptis bokorensis",
+    "Pterocryptis buccata",
+    "Pterocryptis burmanensis",
+    "Pterocryptis cochinchinensis",
+    "Pterocryptis crenula",
+    "Pterocryptis cucphuongensis",
+    "Pterocryptis furnessi",
+    "Pterocryptis gangelica",
+    "Pterocryptis indicus",
+    "Pterocryptis inusitata",
+    "Pterocryptis taytayensis",
+    "Pterocryptis torrentis",
+    "Pterocryptis verecunda",
+    "Pterocryptis wynaadensis",
+    "Silurichthys citatus",
+    "Silurichthys gibbiceps",
+    "Silurichthys hasseltii",
+    "Silurichthys indragiriensis",
+    "Silurichthys ligneolus",
+    "Silurichthys marmoratus",
+    "Silurichthys phaiosoma",
+    "Silurichthys sanguineus",
+    "Silurichthys schneideri",
+    "Silurus aristotelis",
+    "Silurus asotus",
+    "Silurus biwaensis",
+    "Silurus chantrei",
+    "Silurus duanensis",
+    "Silurus glanis",
+    "Silurus grahami",
+    "Silurus lanzhouensis",
+    "Silurus lithophilus",
+    "Silurus mento",
+    "Silurus meridionalis",
+    "Silurus microdorsalis",
+    "Silurus soldatovi",
+    "Silurus triostegus",
+    "Wallago attu",
+    "Wallago hexanema",
+    "Wallago leerii",
+    "Wallago maculatus",
+    "Wallago micropogon"
+  ],
+  "sampled_species": [
+    "Belodontichthys truncatus",
+    "Ceratoglanis scleronema",
+    "Hemisilurus mekongensis",
+    "Hemisilurus moolenburghi",
+    "Kryptopterus bicirrhis",
+    "Kryptopterus cryptopterus",
+    "Kryptopterus limpok",
+    "Kryptopterus macrocephalus",
+    "Kryptopterus minor",
+    "Ompok bimaculatus",
+    "Ompok malabaricus",
+    "Ompok miostoma",
+    "Ompok pabda",
+    "Ompok pabo",
+    "Phalacronotus apogon",
+    "Phalacronotus bleekeri",
+    "Pterocryptis anomala",
+    "Pterocryptis cochinchinensis",
+    "Silurus aristotelis",
+    "Silurus asotus",
+    "Silurus glanis",
+    "Silurus lanzhouensis",
+    "Silurus meridionalis",
+    "Silurus microdorsalis",
+    "Wallago attu",
+    "Wallago leerii"
+  ],
+  "unsampled_species": [
+    "Belodontichthys dinema",
+    "Ceratoglanis pachynema",
+    "Hemisilurus heterorhynchus",
+    "Kryptoglanis shajii",
+    "Kryptopterus baramensis",
+    "Kryptopterus cheveyi",
+    "Kryptopterus dissitus",
+    "Kryptopterus geminus",
+    "Kryptopterus hesperius",
+    "Kryptopterus lais",
+    "Kryptopterus lumholtzi",
+    "Kryptopterus mononema",
+    "Kryptopterus palembangensis",
+    "Kryptopterus paraschilbeides",
+    "Kryptopterus piperatus",
+    "Kryptopterus sabanus",
+    "Kryptopterus schilbeides",
+    "Kryptopterus vitreolus",
+    "Micronema hexapterus",
+    "Micronema moorei",
+    "Micronema platypogon",
+    "Ompok binotatus",
+    "Ompok borneensis",
+    "Ompok brevirictus",
+    "Ompok canio",
+    "Ompok ceylonensis",
+    "Ompok eugeneiatus",
+    "Ompok fumidus",
+    "Ompok goae",
+    "Ompok hypophthalmus",
+    "Ompok javanensis",
+    "Ompok jaynei",
+    "Ompok leiacanthus",
+    "Ompok pinnatus",
+    "Ompok platyrhynchus",
+    "Ompok pluriradiatus",
+    "Ompok rhadinurus",
+    "Ompok siluroides",
+    "Ompok sindensis",
+    "Ompok supernus",
+    "Ompok urbaini",
+    "Ompok weberi",
+    "Phalacronotus micronemus",
+    "Phalacronotus parvanalis",
+    "Pinniwallago kanpurensis",
+    "Pterocryptis barakensis",
+    "Pterocryptis berdmorei",
+    "Pterocryptis bokorensis",
+    "Pterocryptis buccata",
+    "Pterocryptis burmanensis",
+    "Pterocryptis crenula",
+    "Pterocryptis cucphuongensis",
+    "Pterocryptis furnessi",
+    "Pterocryptis gangelica",
+    "Pterocryptis indicus",
+    "Pterocryptis inusitata",
+    "Pterocryptis taytayensis",
+    "Pterocryptis torrentis",
+    "Pterocryptis verecunda",
+    "Pterocryptis wynaadensis",
+    "Silurichthys citatus",
+    "Silurichthys gibbiceps",
+    "Silurichthys hasseltii",
+    "Silurichthys indragiriensis",
+    "Silurichthys ligneolus",
+    "Silurichthys marmoratus",
+    "Silurichthys phaiosoma",
+    "Silurichthys sanguineus",
+    "Silurichthys schneideri",
+    "Silurus biwaensis",
+    "Silurus chantrei",
+    "Silurus duanensis",
+    "Silurus grahami",
+    "Silurus lithophilus",
+    "Silurus mento",
+    "Silurus soldatovi",
+    "Silurus triostegus",
+    "Wallago hexanema",
+    "Wallago maculatus",
+    "Wallago micropogon"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Ompok bimaculatus",
+      "Silurus asotus"
+    ],
+    "16s": [
+      "Ompok bimaculatus",
+      "Ompok malabaricus",
+      "Ompok pabda",
+      "Ompok pabo",
+      "Silurus asotus",
+      "Silurus microdorsalis",
+      "Wallago attu"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Ompok bimaculatus",
+      "Ompok malabaricus",
+      "Ompok pabda",
+      "Ompok pabo",
+      "Phalacronotus apogon",
+      "Silurus aristotelis",
+      "Silurus asotus",
+      "Silurus glanis",
+      "Silurus microdorsalis",
+      "Wallago attu"
+    ],
+    "cytb": [
+      "Belodontichthys truncatus",
+      "Ceratoglanis scleronema",
+      "Hemisilurus mekongensis",
+      "Kryptopterus bicirrhis",
+      "Kryptopterus cryptopterus",
+      "Kryptopterus limpok",
+      "Kryptopterus macrocephalus",
+      "Kryptopterus minor",
+      "Ompok bimaculatus",
+      "Ompok miostoma",
+      "Ompok pabda",
+      "Ompok pabo",
+      "Phalacronotus apogon",
+      "Phalacronotus bleekeri",
+      "Pterocryptis cochinchinensis",
+      "Silurus asotus",
+      "Silurus glanis",
+      "Silurus lanzhouensis",
+      "Silurus meridionalis",
+      "Silurus microdorsalis",
+      "Wallago attu",
+      "Wallago leerii"
+    ],
+    "enc1": [
+      "Silurus meridionalis"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Silurus meridionalis"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Silurus meridionalis"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Wallago attu"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Silurus meridionalis"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Hemisilurus moolenburghi",
+      "Kryptopterus minor",
+      "Phalacronotus apogon",
+      "Pterocryptis anomala",
+      "Silurus glanis",
+      "Silurus meridionalis",
+      "Wallago attu"
+    ],
+    "rag2": [
+      "Hemisilurus moolenburghi",
+      "Kryptopterus minor",
+      "Phalacronotus apogon",
+      "Pterocryptis anomala",
+      "Silurus asotus",
+      "Silurus meridionalis",
+      "Wallago attu"
+    ],
+    "rhodopsin": [
+      "Kryptopterus minor",
+      "Silurus glanis",
+      "Silurus meridionalis"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Silurus meridionalis"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Silurus meridionalis"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Siluridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Belodontichthys truncatus": 0.0715,
+    "Ceratoglanis scleronema": 0.082,
+    "Hemisilurus mekongensis": 0.0793,
+    "Hemisilurus moolenburghi": 0.0871,
+    "Kryptopterus bicirrhis": 0.1862,
+    "Kryptopterus cryptopterus": 0.0548,
+    "Kryptopterus limpok": 0.0737,
+    "Kryptopterus macrocephalus": 0.1038,
+    "Kryptopterus minor": 0.198,
+    "Ompok bimaculatus": 0.0765,
+    "Ompok malabaricus": 0.072,
+    "Ompok miostoma": 0.0708,
+    "Ompok pabda": 0.0795,
+    "Ompok pabo": 0.0644,
+    "Phalacronotus apogon": 0.1106,
+    "Phalacronotus bleekeri": 0.1081,
+    "Pterocryptis anomala": 0.0691,
+    "Pterocryptis cochinchinensis": 0.0633,
+    "Silurus aristotelis": 0.057,
+    "Silurus asotus": 0.0741,
+    "Silurus glanis": 0.0557,
+    "Silurus lanzhouensis": 0.0507,
+    "Silurus meridionalis": 0.0688,
+    "Silurus microdorsalis": 0.0448,
+    "Wallago attu": 0.0547,
+    "Wallago leerii": 0.0769
+  },
+  "tiprates_bamm_lambda": {
+    "Belodontichthys truncatus": 0.0745,
+    "Ceratoglanis scleronema": 0.0745,
+    "Hemisilurus mekongensis": 0.0745,
+    "Hemisilurus moolenburghi": 0.0745,
+    "Kryptopterus bicirrhis": 0.0745,
+    "Kryptopterus cryptopterus": 0.0745,
+    "Kryptopterus limpok": 0.0745,
+    "Kryptopterus macrocephalus": 0.0745,
+    "Kryptopterus minor": 0.0745,
+    "Ompok bimaculatus": 0.0745,
+    "Ompok malabaricus": 0.0745,
+    "Ompok miostoma": 0.0745,
+    "Ompok pabda": 0.0745,
+    "Ompok pabo": 0.0745,
+    "Phalacronotus apogon": 0.0745,
+    "Phalacronotus bleekeri": 0.0745,
+    "Pterocryptis anomala": 0.0745,
+    "Pterocryptis cochinchinensis": 0.0745,
+    "Silurus aristotelis": 0.0745,
+    "Silurus asotus": 0.0745,
+    "Silurus glanis": 0.0745,
+    "Silurus lanzhouensis": 0.0745,
+    "Silurus meridionalis": 0.0745,
+    "Silurus microdorsalis": 0.0745,
+    "Wallago attu": 0.0745,
+    "Wallago leerii": 0.0745
+  },
+  "tiprates_bamm_mu": {
+    "Belodontichthys truncatus": 0.0008,
+    "Ceratoglanis scleronema": 0.0008,
+    "Hemisilurus mekongensis": 0.0008,
+    "Hemisilurus moolenburghi": 0.0008,
+    "Kryptopterus bicirrhis": 0.0008,
+    "Kryptopterus cryptopterus": 0.0008,
+    "Kryptopterus limpok": 0.0008,
+    "Kryptopterus macrocephalus": 0.0008,
+    "Kryptopterus minor": 0.0008,
+    "Ompok bimaculatus": 0.0008,
+    "Ompok malabaricus": 0.0008,
+    "Ompok miostoma": 0.0008,
+    "Ompok pabda": 0.0008,
+    "Ompok pabo": 0.0008,
+    "Phalacronotus apogon": 0.0008,
+    "Phalacronotus bleekeri": 0.0008,
+    "Pterocryptis anomala": 0.0008,
+    "Pterocryptis cochinchinensis": 0.0008,
+    "Silurus aristotelis": 0.0008,
+    "Silurus asotus": 0.0008,
+    "Silurus glanis": 0.0008,
+    "Silurus lanzhouensis": 0.0008,
+    "Silurus meridionalis": 0.0008,
+    "Silurus microdorsalis": 0.0008,
+    "Wallago attu": 0.0008,
+    "Wallago leerii": 0.0008
+  },
+  "mean_dr": 0.082,
+  "mean_bamm_lambda": 0.0745,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Siluridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Siluridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Siluridae.tre",
+  "phylogram": "downloads/taxonomy/family/Siluridae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

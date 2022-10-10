@@ -1,0 +1,176 @@
+{
+  "species": [
+    "Lateolabrax japonicus",
+    "Lateolabrax latus"
+  ],
+  "sampled_species": [
+    "Lateolabrax japonicus",
+    "Lateolabrax latus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Lateolabrax japonicus"
+    ],
+    "16s": [
+      "Lateolabrax japonicus",
+      "Lateolabrax latus"
+    ],
+    "4c4": [
+      "Lateolabrax japonicus"
+    ],
+    "coi": [
+      "Lateolabrax japonicus"
+    ],
+    "cytb": [
+      "Lateolabrax japonicus",
+      "Lateolabrax latus"
+    ],
+    "enc1": [
+      "Lateolabrax latus"
+    ],
+    "ficd": [
+      "Lateolabrax japonicus"
+    ],
+    "glyt": [
+      "Lateolabrax latus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Lateolabrax japonicus"
+    ],
+    "myh6": [
+      "Lateolabrax japonicus",
+      "Lateolabrax latus"
+    ],
+    "nd2": [
+      "Lateolabrax japonicus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Lateolabrax japonicus",
+      "Lateolabrax latus"
+    ],
+    "ptr": [
+      "Lateolabrax latus"
+    ],
+    "rag1": [
+      "Lateolabrax japonicus",
+      "Lateolabrax latus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Lateolabrax japonicus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Lateolabrax latus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Lateolabrax japonicus",
+      "Lateolabrax latus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Lateolabrax japonicus",
+      "Lateolabrax latus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Lateolabracidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pempheriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Lateolabrax japonicus": 0.0451,
+    "Lateolabrax latus": 0.0451
+  },
+  "tiprates_bamm_lambda": {
+    "Lateolabrax japonicus": 0.058,
+    "Lateolabrax latus": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Lateolabrax japonicus": 0.0004,
+    "Lateolabrax latus": 0.0004
+  },
+  "mean_dr": 0.0451,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Lateolabracidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Lateolabracidae.nex.xz"
+}

@@ -1,0 +1,250 @@
+{
+  "species": [
+    "Siniperca chuatsi",
+    "Siniperca fortis",
+    "Siniperca knerii",
+    "Siniperca liuzhouensis",
+    "Siniperca obscura",
+    "Siniperca roulei",
+    "Siniperca scherzeri",
+    "Siniperca undulata",
+    "Siniperca vietnamensis"
+  ],
+  "sampled_species": [
+    "Siniperca chuatsi",
+    "Siniperca fortis",
+    "Siniperca knerii",
+    "Siniperca obscura",
+    "Siniperca roulei",
+    "Siniperca scherzeri",
+    "Siniperca undulata"
+  ],
+  "unsampled_species": [
+    "Siniperca liuzhouensis",
+    "Siniperca vietnamensis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Siniperca chuatsi",
+      "Siniperca knerii",
+      "Siniperca obscura",
+      "Siniperca roulei",
+      "Siniperca scherzeri",
+      "Siniperca undulata"
+    ],
+    "16s": [
+      "Siniperca chuatsi",
+      "Siniperca fortis",
+      "Siniperca knerii",
+      "Siniperca obscura",
+      "Siniperca roulei",
+      "Siniperca scherzeri",
+      "Siniperca undulata"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Siniperca chuatsi",
+      "Siniperca fortis",
+      "Siniperca knerii",
+      "Siniperca obscura",
+      "Siniperca roulei",
+      "Siniperca scherzeri",
+      "Siniperca undulata"
+    ],
+    "cytb": [
+      "Siniperca chuatsi",
+      "Siniperca fortis",
+      "Siniperca knerii",
+      "Siniperca obscura",
+      "Siniperca roulei",
+      "Siniperca scherzeri",
+      "Siniperca undulata"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Siniperca chuatsi"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Siniperca chuatsi"
+    ],
+    "myh6": [
+      "Siniperca chuatsi",
+      "Siniperca knerii",
+      "Siniperca obscura",
+      "Siniperca roulei",
+      "Siniperca scherzeri",
+      "Siniperca undulata"
+    ],
+    "nd2": [
+      "Siniperca chuatsi"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Siniperca chuatsi",
+      "Siniperca knerii",
+      "Siniperca obscura",
+      "Siniperca roulei",
+      "Siniperca scherzeri",
+      "Siniperca undulata"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Siniperca chuatsi",
+      "Siniperca knerii",
+      "Siniperca obscura",
+      "Siniperca roulei",
+      "Siniperca scherzeri",
+      "Siniperca undulata"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Siniperca chuatsi"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Siniperca chuatsi",
+      "Siniperca knerii",
+      "Siniperca obscura",
+      "Siniperca roulei",
+      "Siniperca scherzeri",
+      "Siniperca undulata"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Siniperca chuatsi",
+      "Siniperca knerii",
+      "Siniperca obscura",
+      "Siniperca roulei",
+      "Siniperca scherzeri",
+      "Siniperca undulata"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Sinipercidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Centrarchiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Centrarchoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Siniperca chuatsi": 0.1325,
+    "Siniperca fortis": 0.1082,
+    "Siniperca knerii": 0.1286,
+    "Siniperca obscura": 0.0834,
+    "Siniperca roulei": 0.0344,
+    "Siniperca scherzeri": 0.0791,
+    "Siniperca undulata": 0.112
+  },
+  "tiprates_bamm_lambda": {
+    "Siniperca chuatsi": 0.058,
+    "Siniperca fortis": 0.058,
+    "Siniperca knerii": 0.058,
+    "Siniperca obscura": 0.058,
+    "Siniperca roulei": 0.0579,
+    "Siniperca scherzeri": 0.058,
+    "Siniperca undulata": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Siniperca chuatsi": 0.0005,
+    "Siniperca fortis": 0.0005,
+    "Siniperca knerii": 0.0005,
+    "Siniperca obscura": 0.0005,
+    "Siniperca roulei": 0.0003,
+    "Siniperca scherzeri": 0.0005,
+    "Siniperca undulata": 0.0005
+  },
+  "mean_dr": 0.0969,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0005,
+  "matrix_phylip": "downloads/taxonomy/family/Sinipercidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Sinipercidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Sinipercidae.tre",
+  "phylogram": "downloads/taxonomy/family/Sinipercidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

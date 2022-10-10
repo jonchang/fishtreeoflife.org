@@ -1,0 +1,423 @@
+{
+  "species": [
+    "Atypichthys latus",
+    "Atypichthys strigatus",
+    "Bathystethus cultratus",
+    "Bathystethus orientale",
+    "Graus nigra",
+    "Kyphosus analogus",
+    "Kyphosus azurea",
+    "Kyphosus bigibbus",
+    "Kyphosus cinerascens",
+    "Kyphosus cornelii",
+    "Kyphosus elegans",
+    "Kyphosus gladius",
+    "Kyphosus hawaiiensis",
+    "Kyphosus incisor",
+    "Kyphosus lutescens",
+    "Kyphosus pacificus",
+    "Kyphosus sandwicensis",
+    "Kyphosus sectatrix",
+    "Kyphosus sydneyanus",
+    "Kyphosus vaigiensis",
+    "Labracoglossa argenteiventris",
+    "Labracoglossa nitida",
+    "Medialuna ancietae",
+    "Medialuna californiensis",
+    "Microcanthus strigatus",
+    "Neatypus obliquus",
+    "Neoscorpis lithophilus",
+    "Scorpis aequipinnis",
+    "Scorpis chilensis",
+    "Scorpis georgiana",
+    "Scorpis lineolata",
+    "Scorpis violacea",
+    "Sectator ocyurus",
+    "Tilodon sexfasciatus"
+  ],
+  "sampled_species": [
+    "Atypichthys latus",
+    "Atypichthys strigatus",
+    "Graus nigra",
+    "Kyphosus analogus",
+    "Kyphosus azurea",
+    "Kyphosus bigibbus",
+    "Kyphosus cinerascens",
+    "Kyphosus cornelii",
+    "Kyphosus elegans",
+    "Kyphosus incisor",
+    "Kyphosus sectatrix",
+    "Kyphosus sydneyanus",
+    "Kyphosus vaigiensis",
+    "Labracoglossa argenteiventris",
+    "Medialuna californiensis",
+    "Microcanthus strigatus",
+    "Scorpis aequipinnis",
+    "Scorpis lineolata",
+    "Scorpis violacea",
+    "Tilodon sexfasciatus"
+  ],
+  "unsampled_species": [
+    "Bathystethus cultratus",
+    "Bathystethus orientale",
+    "Kyphosus gladius",
+    "Kyphosus hawaiiensis",
+    "Kyphosus lutescens",
+    "Kyphosus pacificus",
+    "Kyphosus sandwicensis",
+    "Labracoglossa nitida",
+    "Medialuna ancietae",
+    "Neatypus obliquus",
+    "Neoscorpis lithophilus",
+    "Scorpis chilensis",
+    "Scorpis georgiana",
+    "Sectator ocyurus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Atypichthys latus",
+      "Atypichthys strigatus",
+      "Kyphosus cinerascens",
+      "Kyphosus vaigiensis",
+      "Microcanthus strigatus"
+    ],
+    "16s": [
+      "Atypichthys strigatus",
+      "Kyphosus analogus",
+      "Kyphosus azurea",
+      "Kyphosus vaigiensis",
+      "Medialuna californiensis",
+      "Microcanthus strigatus"
+    ],
+    "4c4": [
+      "Atypichthys strigatus",
+      "Kyphosus azurea",
+      "Kyphosus bigibbus",
+      "Kyphosus cornelii",
+      "Kyphosus sydneyanus",
+      "Kyphosus vaigiensis",
+      "Microcanthus strigatus",
+      "Scorpis lineolata",
+      "Scorpis violacea"
+    ],
+    "coi": [
+      "Atypichthys strigatus",
+      "Kyphosus azurea",
+      "Kyphosus bigibbus",
+      "Kyphosus cinerascens",
+      "Kyphosus incisor",
+      "Kyphosus sectatrix",
+      "Kyphosus vaigiensis",
+      "Medialuna californiensis",
+      "Scorpis aequipinnis",
+      "Scorpis lineolata"
+    ],
+    "cytb": [
+      "Tilodon sexfasciatus"
+    ],
+    "enc1": [
+      "Atypichthys latus",
+      "Graus nigra",
+      "Kyphosus azurea",
+      "Kyphosus elegans",
+      "Kyphosus sectatrix",
+      "Medialuna californiensis",
+      "Scorpis violacea",
+      "Tilodon sexfasciatus"
+    ],
+    "ficd": [
+      "Kyphosus sectatrix"
+    ],
+    "glyt": [
+      "Atypichthys latus",
+      "Graus nigra",
+      "Kyphosus azurea",
+      "Kyphosus elegans",
+      "Kyphosus sectatrix",
+      "Medialuna californiensis",
+      "Scorpis violacea",
+      "Tilodon sexfasciatus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Atypichthys latus",
+      "Graus nigra",
+      "Kyphosus azurea",
+      "Kyphosus cinerascens",
+      "Kyphosus elegans",
+      "Kyphosus incisor",
+      "Kyphosus sectatrix",
+      "Medialuna californiensis",
+      "Scorpis violacea",
+      "Tilodon sexfasciatus"
+    ],
+    "nd2": [
+      "Kyphosus cinerascens",
+      "Kyphosus vaigiensis",
+      "Labracoglossa argenteiventris",
+      "Microcanthus strigatus",
+      "Scorpis lineolata"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Kyphosus sectatrix"
+    ],
+    "plagl2": [
+      "Atypichthys latus",
+      "Graus nigra",
+      "Kyphosus azurea",
+      "Kyphosus cinerascens",
+      "Kyphosus elegans",
+      "Kyphosus incisor",
+      "Kyphosus sectatrix",
+      "Medialuna californiensis",
+      "Scorpis violacea",
+      "Tilodon sexfasciatus"
+    ],
+    "ptr": [
+      "Atypichthys latus",
+      "Graus nigra",
+      "Kyphosus azurea",
+      "Kyphosus elegans",
+      "Kyphosus incisor",
+      "Kyphosus sectatrix",
+      "Medialuna californiensis",
+      "Scorpis violacea",
+      "Tilodon sexfasciatus"
+    ],
+    "rag1": [
+      "Atypichthys latus",
+      "Graus nigra",
+      "Kyphosus azurea",
+      "Kyphosus bigibbus",
+      "Kyphosus cinerascens",
+      "Kyphosus cornelii",
+      "Kyphosus elegans",
+      "Kyphosus incisor",
+      "Kyphosus sectatrix",
+      "Kyphosus sydneyanus",
+      "Medialuna californiensis",
+      "Microcanthus strigatus",
+      "Scorpis violacea",
+      "Tilodon sexfasciatus"
+    ],
+    "rag2": [
+      "Atypichthys strigatus",
+      "Kyphosus bigibbus",
+      "Kyphosus cornelii",
+      "Kyphosus incisor",
+      "Kyphosus sydneyanus",
+      "Kyphosus vaigiensis",
+      "Microcanthus strigatus",
+      "Scorpis lineolata",
+      "Scorpis violacea"
+    ],
+    "rhodopsin": [
+      "Kyphosus vaigiensis",
+      "Microcanthus strigatus"
+    ],
+    "ripk4": [
+      "Kyphosus incisor"
+    ],
+    "sh3px3": [
+      "Atypichthys latus",
+      "Graus nigra",
+      "Kyphosus azurea",
+      "Kyphosus elegans",
+      "Kyphosus sectatrix",
+      "Medialuna californiensis",
+      "Tilodon sexfasciatus"
+    ],
+    "sidkey": [
+      "Kyphosus cinerascens",
+      "Kyphosus elegans"
+    ],
+    "sreb2": [
+      "Atypichthys latus",
+      "Graus nigra",
+      "Kyphosus azurea",
+      "Kyphosus cinerascens",
+      "Kyphosus elegans",
+      "Kyphosus sectatrix",
+      "Medialuna californiensis",
+      "Scorpis violacea",
+      "Tilodon sexfasciatus"
+    ],
+    "svep1": [
+      "Kyphosus sectatrix"
+    ],
+    "tbr1": [
+      "Atypichthys latus",
+      "Graus nigra",
+      "Kyphosus azurea",
+      "Kyphosus elegans",
+      "Kyphosus incisor",
+      "Kyphosus sectatrix",
+      "Medialuna californiensis",
+      "Scorpis violacea",
+      "Tilodon sexfasciatus"
+    ],
+    "vcpip": [
+      "Kyphosus sectatrix"
+    ],
+    "zic1": [
+      "Atypichthys latus",
+      "Graus nigra",
+      "Kyphosus azurea",
+      "Kyphosus cinerascens",
+      "Kyphosus sectatrix",
+      "Medialuna californiensis",
+      "Scorpis violacea",
+      "Tilodon sexfasciatus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Kyphosidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Centrarchiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Terapontoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Atypichthys latus": 0.0898,
+    "Atypichthys strigatus": 0.0898,
+    "Graus nigra": 0.0709,
+    "Kyphosus analogus": 0.4677,
+    "Kyphosus bigibbus": 0.1546,
+    "Kyphosus cinerascens": 0.2898,
+    "Kyphosus cornelii": 0.0725,
+    "Kyphosus elegans": 0.2864,
+    "Kyphosus incisor": 0.2483,
+    "Kyphosus sectatrix": 0.1456,
+    "Kyphosus sydneyanus": 0.1806,
+    "Kyphosus vaigiensis": 0.4677,
+    "Labracoglossa argenteiventris": 0.0905,
+    "Medialuna californiensis": 0.0722,
+    "Microcanthus strigatus": 0.0736,
+    "Scorpis aequipinnis": 0.119,
+    "Scorpis lineolata": 0.1325,
+    "Scorpis violacea": 0.0879,
+    "Tilodon sexfasciatus": 0.1054,
+    "Kyphosus azurea": 0.072
+  },
+  "tiprates_bamm_lambda": {
+    "Atypichthys latus": 0.0611,
+    "Atypichthys strigatus": 0.0611,
+    "Graus nigra": 0.062,
+    "Kyphosus analogus": 0.4083,
+    "Kyphosus bigibbus": 0.3309,
+    "Kyphosus cinerascens": 0.4083,
+    "Kyphosus cornelii": 0.0733,
+    "Kyphosus elegans": 0.4083,
+    "Kyphosus incisor": 0.4083,
+    "Kyphosus sectatrix": 0.3309,
+    "Kyphosus sydneyanus": 0.4083,
+    "Kyphosus vaigiensis": 0.4083,
+    "Labracoglossa argenteiventris": 0.0611,
+    "Medialuna californiensis": 0.0611,
+    "Microcanthus strigatus": 0.0611,
+    "Scorpis aequipinnis": 0.0611,
+    "Scorpis lineolata": 0.0611,
+    "Scorpis violacea": 0.0611,
+    "Tilodon sexfasciatus": 0.0611,
+    "Kyphosus azurea": 0.0733
+  },
+  "tiprates_bamm_mu": {
+    "Atypichthys latus": 0.0015,
+    "Atypichthys strigatus": 0.0015,
+    "Graus nigra": 0.0021,
+    "Kyphosus analogus": 0.2425,
+    "Kyphosus bigibbus": 0.1999,
+    "Kyphosus cinerascens": 0.2425,
+    "Kyphosus cornelii": 0.014,
+    "Kyphosus elegans": 0.2425,
+    "Kyphosus incisor": 0.2425,
+    "Kyphosus sectatrix": 0.1999,
+    "Kyphosus sydneyanus": 0.2425,
+    "Kyphosus vaigiensis": 0.2425,
+    "Labracoglossa argenteiventris": 0.0015,
+    "Medialuna californiensis": 0.0015,
+    "Microcanthus strigatus": 0.0015,
+    "Scorpis aequipinnis": 0.0015,
+    "Scorpis lineolata": 0.0015,
+    "Scorpis violacea": 0.0015,
+    "Tilodon sexfasciatus": 0.0015,
+    "Kyphosus azurea": 0.014
+  },
+  "mean_dr": 0.1659,
+  "mean_bamm_lambda": 0.1935,
+  "mean_bamm_mu": 0.095,
+  "matrix_phylip": "downloads/taxonomy/family/Kyphosidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Kyphosidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Kyphosidae.tre",
+  "phylogram": "downloads/taxonomy/family/Kyphosidae_phylogram.tre",
+  "rogues": [
+    "Girella_cyanea",
+    "Girella_tricuspidata",
+    "Girella_nigricans",
+    "Girella_elevata",
+    "Girella_leonina",
+    "Girella_punctata",
+    "Girella_mezina",
+    "Dichistius_multifasciatus",
+    "Dichistius_capensis"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Kyphosidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Kyphosidae_mrca_phylogram.tre"
+}

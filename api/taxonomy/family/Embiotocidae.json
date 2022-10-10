@@ -1,0 +1,423 @@
+{
+  "species": [
+    "Amphistichus argenteus",
+    "Amphistichus koelzi",
+    "Amphistichus rhodoterus",
+    "Brachyistius aletes",
+    "Brachyistius frenatus",
+    "Cymatogaster aggregata",
+    "Ditrema jordani",
+    "Ditrema temminckii pacificum",
+    "Ditrema temminckii temminckii",
+    "Ditrema viride",
+    "Embiotoca jacksoni",
+    "Embiotoca lateralis",
+    "Hyperprosopon anale",
+    "Hyperprosopon argenteum",
+    "Hyperprosopon ellipticum",
+    "Hypsurus caryi",
+    "Hysterocarpus traskii pomo",
+    "Hysterocarpus traskii traskii",
+    "Micrometrus aurora",
+    "Micrometrus minimus",
+    "Neoditrema ransonnetii",
+    "Phanerodon atripes",
+    "Phanerodon furcatus",
+    "Rhacochilus toxotes",
+    "Rhacochilus vacca",
+    "Zalembius rosaceus"
+  ],
+  "sampled_species": [
+    "Amphistichus koelzi",
+    "Amphistichus rhodoterus",
+    "Brachyistius frenatus",
+    "Cymatogaster aggregata",
+    "Ditrema jordani",
+    "Ditrema temminckii pacificum",
+    "Ditrema temminckii temminckii",
+    "Ditrema viride",
+    "Embiotoca jacksoni",
+    "Embiotoca lateralis",
+    "Hyperprosopon anale",
+    "Hyperprosopon argenteum",
+    "Hyperprosopon ellipticum",
+    "Hypsurus caryi",
+    "Hysterocarpus traskii traskii",
+    "Micrometrus minimus",
+    "Neoditrema ransonnetii",
+    "Phanerodon atripes",
+    "Phanerodon furcatus",
+    "Rhacochilus toxotes",
+    "Rhacochilus vacca",
+    "Zalembius rosaceus"
+  ],
+  "unsampled_species": [
+    "Amphistichus argenteus",
+    "Brachyistius aletes",
+    "Hysterocarpus traskii pomo",
+    "Micrometrus aurora"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Amphistichus koelzi",
+      "Amphistichus rhodoterus",
+      "Cymatogaster aggregata",
+      "Embiotoca jacksoni",
+      "Hyperprosopon anale",
+      "Hyperprosopon argenteum",
+      "Hyperprosopon ellipticum",
+      "Rhacochilus vacca"
+    ],
+    "16s": [
+      "Amphistichus koelzi",
+      "Amphistichus rhodoterus",
+      "Brachyistius frenatus",
+      "Cymatogaster aggregata",
+      "Ditrema temminckii temminckii",
+      "Embiotoca jacksoni",
+      "Embiotoca lateralis",
+      "Hyperprosopon anale",
+      "Hyperprosopon argenteum",
+      "Hyperprosopon ellipticum",
+      "Hypsurus caryi",
+      "Hysterocarpus traskii traskii",
+      "Micrometrus minimus",
+      "Neoditrema ransonnetii",
+      "Phanerodon atripes",
+      "Phanerodon furcatus",
+      "Rhacochilus toxotes",
+      "Rhacochilus vacca",
+      "Zalembius rosaceus"
+    ],
+    "4c4": [
+      "Amphistichus koelzi",
+      "Amphistichus rhodoterus",
+      "Cymatogaster aggregata",
+      "Embiotoca jacksoni",
+      "Hyperprosopon anale",
+      "Hyperprosopon argenteum",
+      "Hyperprosopon ellipticum",
+      "Rhacochilus vacca"
+    ],
+    "coi": [
+      "Amphistichus rhodoterus",
+      "Brachyistius frenatus",
+      "Cymatogaster aggregata",
+      "Ditrema temminckii temminckii",
+      "Embiotoca jacksoni",
+      "Embiotoca lateralis",
+      "Hyperprosopon anale",
+      "Hysterocarpus traskii traskii",
+      "Micrometrus minimus",
+      "Neoditrema ransonnetii",
+      "Phanerodon atripes",
+      "Rhacochilus vacca",
+      "Zalembius rosaceus"
+    ],
+    "cytb": [
+      "Amphistichus koelzi",
+      "Amphistichus rhodoterus",
+      "Brachyistius frenatus",
+      "Cymatogaster aggregata",
+      "Ditrema jordani",
+      "Ditrema temminckii pacificum",
+      "Ditrema temminckii temminckii",
+      "Ditrema viride",
+      "Embiotoca jacksoni",
+      "Embiotoca lateralis",
+      "Hyperprosopon anale",
+      "Hyperprosopon argenteum",
+      "Hyperprosopon ellipticum",
+      "Hypsurus caryi",
+      "Hysterocarpus traskii traskii",
+      "Micrometrus minimus",
+      "Neoditrema ransonnetii",
+      "Phanerodon furcatus",
+      "Rhacochilus toxotes",
+      "Rhacochilus vacca",
+      "Zalembius rosaceus"
+    ],
+    "enc1": [
+      "Cymatogaster aggregata",
+      "Embiotoca jacksoni",
+      "Embiotoca lateralis",
+      "Hyperprosopon argenteum",
+      "Phanerodon furcatus",
+      "Rhacochilus vacca",
+      "Zalembius rosaceus"
+    ],
+    "ficd": [
+      "Cymatogaster aggregata",
+      "Embiotoca jacksoni",
+      "Hyperprosopon anale",
+      "Phanerodon furcatus"
+    ],
+    "glyt": [
+      "Embiotoca jacksoni",
+      "Hyperprosopon argenteum",
+      "Rhacochilus vacca"
+    ],
+    "hoxc6a": [
+      "Cymatogaster aggregata",
+      "Hyperprosopon anale",
+      "Phanerodon furcatus",
+      "Rhacochilus vacca",
+      "Zalembius rosaceus"
+    ],
+    "kiaa1239": [
+      "Cymatogaster aggregata",
+      "Embiotoca jacksoni",
+      "Hyperprosopon anale",
+      "Phanerodon furcatus",
+      "Rhacochilus vacca",
+      "Zalembius rosaceus"
+    ],
+    "myh6": [
+      "Cymatogaster aggregata",
+      "Embiotoca jacksoni",
+      "Embiotoca lateralis",
+      "Hyperprosopon argenteum",
+      "Phanerodon furcatus",
+      "Rhacochilus vacca",
+      "Zalembius rosaceus"
+    ],
+    "nd2": [
+      "Ditrema temminckii temminckii"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Cymatogaster aggregata",
+      "Embiotoca jacksoni",
+      "Hyperprosopon anale",
+      "Phanerodon furcatus",
+      "Rhacochilus vacca"
+    ],
+    "plagl2": [
+      "Cymatogaster aggregata",
+      "Embiotoca jacksoni",
+      "Embiotoca lateralis",
+      "Hyperprosopon anale",
+      "Hyperprosopon argenteum",
+      "Phanerodon furcatus",
+      "Rhacochilus vacca",
+      "Zalembius rosaceus"
+    ],
+    "ptr": [
+      "Cymatogaster aggregata",
+      "Embiotoca jacksoni",
+      "Embiotoca lateralis",
+      "Hyperprosopon argenteum",
+      "Phanerodon furcatus",
+      "Rhacochilus vacca",
+      "Zalembius rosaceus"
+    ],
+    "rag1": [
+      "Cymatogaster aggregata",
+      "Embiotoca jacksoni",
+      "Embiotoca lateralis",
+      "Hyperprosopon argenteum",
+      "Phanerodon furcatus",
+      "Rhacochilus vacca",
+      "Zalembius rosaceus"
+    ],
+    "rag2": [
+      "Embiotoca jacksoni",
+      "Rhacochilus vacca"
+    ],
+    "rhodopsin": [
+      "Embiotoca jacksoni"
+    ],
+    "ripk4": [
+      "Hyperprosopon anale"
+    ],
+    "sh3px3": [
+      "Cymatogaster aggregata",
+      "Embiotoca jacksoni",
+      "Embiotoca lateralis",
+      "Hyperprosopon anale",
+      "Hyperprosopon argenteum",
+      "Phanerodon furcatus",
+      "Rhacochilus vacca",
+      "Zalembius rosaceus"
+    ],
+    "sidkey": [
+      "Embiotoca jacksoni",
+      "Hyperprosopon anale"
+    ],
+    "sreb2": [
+      "Cymatogaster aggregata",
+      "Embiotoca jacksoni",
+      "Embiotoca lateralis",
+      "Hyperprosopon argenteum",
+      "Phanerodon furcatus",
+      "Rhacochilus vacca",
+      "Zalembius rosaceus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Cymatogaster aggregata",
+      "Embiotoca jacksoni",
+      "Embiotoca lateralis",
+      "Hyperprosopon anale",
+      "Hyperprosopon argenteum",
+      "Phanerodon furcatus",
+      "Rhacochilus vacca",
+      "Zalembius rosaceus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Cymatogaster aggregata",
+      "Embiotoca jacksoni",
+      "Embiotoca lateralis",
+      "Hyperprosopon anale",
+      "Hyperprosopon argenteum",
+      "Phanerodon furcatus",
+      "Rhacochilus vacca",
+      "Zalembius rosaceus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Embiotocidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Ovalentaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Amphistichus koelzi": 0.1153,
+    "Amphistichus rhodoterus": 0.1186,
+    "Brachyistius frenatus": 0.145,
+    "Cymatogaster aggregata": 0.0504,
+    "Ditrema jordani": 0.1012,
+    "Ditrema temminckii pacificum": 0.2995,
+    "Ditrema temminckii temminckii": 0.2995,
+    "Ditrema viride": 0.1742,
+    "Embiotoca jacksoni": 0.0809,
+    "Embiotoca lateralis": 0.0809,
+    "Hyperprosopon anale": 0.0316,
+    "Hyperprosopon argenteum": 0.0661,
+    "Hyperprosopon ellipticum": 0.0661,
+    "Hypsurus caryi": 0.0512,
+    "Hysterocarpus traskii traskii": 0.0805,
+    "Micrometrus minimus": 0.0658,
+    "Neoditrema ransonnetii": 0.0601,
+    "Phanerodon atripes": 0.2078,
+    "Phanerodon furcatus": 0.2078,
+    "Rhacochilus toxotes": 0.0944,
+    "Rhacochilus vacca": 0.1218,
+    "Zalembius rosaceus": 0.0932
+  },
+  "tiprates_bamm_lambda": {
+    "Amphistichus koelzi": 0.0936,
+    "Amphistichus rhodoterus": 0.0936,
+    "Brachyistius frenatus": 0.0936,
+    "Cymatogaster aggregata": 0.0936,
+    "Ditrema jordani": 0.0945,
+    "Ditrema temminckii pacificum": 0.0945,
+    "Ditrema temminckii temminckii": 0.0945,
+    "Ditrema viride": 0.0945,
+    "Embiotoca jacksoni": 0.0936,
+    "Embiotoca lateralis": 0.0936,
+    "Hyperprosopon anale": 0.0936,
+    "Hyperprosopon argenteum": 0.0936,
+    "Hyperprosopon ellipticum": 0.0936,
+    "Hypsurus caryi": 0.0936,
+    "Hysterocarpus traskii traskii": 0.0936,
+    "Micrometrus minimus": 0.0936,
+    "Neoditrema ransonnetii": 0.0945,
+    "Phanerodon atripes": 0.0936,
+    "Phanerodon furcatus": 0.0936,
+    "Rhacochilus toxotes": 0.0936,
+    "Rhacochilus vacca": 0.0936,
+    "Zalembius rosaceus": 0.0936
+  },
+  "tiprates_bamm_mu": {
+    "Amphistichus koelzi": 0.0032,
+    "Amphistichus rhodoterus": 0.0032,
+    "Brachyistius frenatus": 0.0032,
+    "Cymatogaster aggregata": 0.0032,
+    "Ditrema jordani": 0.004,
+    "Ditrema temminckii pacificum": 0.004,
+    "Ditrema temminckii temminckii": 0.004,
+    "Ditrema viride": 0.004,
+    "Embiotoca jacksoni": 0.0032,
+    "Embiotoca lateralis": 0.0032,
+    "Hyperprosopon anale": 0.0032,
+    "Hyperprosopon argenteum": 0.0032,
+    "Hyperprosopon ellipticum": 0.0032,
+    "Hypsurus caryi": 0.0032,
+    "Hysterocarpus traskii traskii": 0.0032,
+    "Micrometrus minimus": 0.0032,
+    "Neoditrema ransonnetii": 0.004,
+    "Phanerodon atripes": 0.0032,
+    "Phanerodon furcatus": 0.0032,
+    "Rhacochilus toxotes": 0.0032,
+    "Rhacochilus vacca": 0.0032,
+    "Zalembius rosaceus": 0.0032
+  },
+  "mean_dr": 0.1187,
+  "mean_bamm_lambda": 0.0938,
+  "mean_bamm_mu": 0.0034,
+  "matrix_phylip": "downloads/taxonomy/family/Embiotocidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Embiotocidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Embiotocidae.tre",
+  "phylogram": "downloads/taxonomy/family/Embiotocidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

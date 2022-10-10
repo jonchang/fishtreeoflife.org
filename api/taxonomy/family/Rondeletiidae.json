@@ -1,0 +1,175 @@
+{
+  "species": [
+    "Rondeletia bicolor",
+    "Rondeletia loricata"
+  ],
+  "sampled_species": [
+    "Rondeletia bicolor",
+    "Rondeletia loricata"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Rondeletia loricata"
+    ],
+    "16s": [
+      "Rondeletia loricata"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Rondeletia loricata"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Rondeletia bicolor",
+      "Rondeletia loricata"
+    ],
+    "glyt": [
+      "Rondeletia loricata"
+    ],
+    "hoxc6a": [
+      "Rondeletia bicolor",
+      "Rondeletia loricata"
+    ],
+    "kiaa1239": [
+      "Rondeletia bicolor",
+      "Rondeletia loricata"
+    ],
+    "myh6": [
+      "Rondeletia loricata"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Rondeletia loricata"
+    ],
+    "plagl2": [
+      "Rondeletia bicolor",
+      "Rondeletia loricata"
+    ],
+    "ptr": [
+      "Rondeletia bicolor",
+      "Rondeletia loricata"
+    ],
+    "rag1": [
+      "Rondeletia loricata"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Rondeletia bicolor",
+      "Rondeletia loricata"
+    ],
+    "sh3px3": [
+      "Rondeletia loricata"
+    ],
+    "sidkey": [
+      "Rondeletia bicolor"
+    ],
+    "sreb2": [
+      "Rondeletia loricata"
+    ],
+    "svep1": [
+      "Rondeletia bicolor"
+    ],
+    "tbr1": [
+      "Rondeletia loricata"
+    ],
+    "vcpip": [
+      "Rondeletia bicolor"
+    ],
+    "zic1": [
+      "Rondeletia loricata"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Rondeletiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Beryciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Berycimorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Rondeletia bicolor": 0.0264,
+    "Rondeletia loricata": 0.0264
+  },
+  "tiprates_bamm_lambda": {
+    "Rondeletia bicolor": 0.0548,
+    "Rondeletia loricata": 0.0548
+  },
+  "tiprates_bamm_mu": {
+    "Rondeletia bicolor": 0.0003,
+    "Rondeletia loricata": 0.0003
+  },
+  "mean_dr": 0.0264,
+  "mean_bamm_lambda": 0.0548,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Rondeletiidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Rondeletiidae.nex.xz"
+}

@@ -1,0 +1,280 @@
+{
+  "species": [
+    "Achirus achirus",
+    "Achirus declivis",
+    "Achirus klunzingeri",
+    "Achirus lineatus",
+    "Achirus mazatlanus",
+    "Achirus mucuri",
+    "Achirus novoae",
+    "Achirus scutum",
+    "Achirus zebrinus",
+    "Apionichthys dumerili",
+    "Apionichthys finis",
+    "Apionichthys menezesi",
+    "Apionichthys nattereri",
+    "Apionichthys rosai",
+    "Apionichthys sauli",
+    "Apionichthys seripierriae",
+    "Catathyridium garmani",
+    "Catathyridium grandirivi",
+    "Catathyridium jenynsii",
+    "Catathyridium lorentzii",
+    "Gymnachirus melas",
+    "Gymnachirus nudus",
+    "Gymnachirus texae",
+    "Hypoclinemus mentalis",
+    "Pnictes asphyxiatus",
+    "Trinectes fimbriatus",
+    "Trinectes fluviatilis",
+    "Trinectes fonsecensis",
+    "Trinectes hubbsbollinger",
+    "Trinectes inscriptus",
+    "Trinectes maculatus",
+    "Trinectes microphthalmus",
+    "Trinectes opercularis",
+    "Trinectes paulistanus",
+    "Trinectes xanthurus"
+  ],
+  "sampled_species": [
+    "Achirus declivis",
+    "Achirus lineatus",
+    "Catathyridium jenynsii",
+    "Gymnachirus melas",
+    "Gymnachirus texae",
+    "Hypoclinemus mentalis",
+    "Trinectes inscriptus",
+    "Trinectes maculatus",
+    "Trinectes paulistanus"
+  ],
+  "unsampled_species": [
+    "Achirus achirus",
+    "Achirus klunzingeri",
+    "Achirus mazatlanus",
+    "Achirus mucuri",
+    "Achirus novoae",
+    "Achirus scutum",
+    "Achirus zebrinus",
+    "Apionichthys dumerili",
+    "Apionichthys finis",
+    "Apionichthys menezesi",
+    "Apionichthys nattereri",
+    "Apionichthys rosai",
+    "Apionichthys sauli",
+    "Apionichthys seripierriae",
+    "Catathyridium garmani",
+    "Catathyridium grandirivi",
+    "Catathyridium lorentzii",
+    "Gymnachirus nudus",
+    "Pnictes asphyxiatus",
+    "Trinectes fimbriatus",
+    "Trinectes fluviatilis",
+    "Trinectes fonsecensis",
+    "Trinectes hubbsbollinger",
+    "Trinectes microphthalmus",
+    "Trinectes opercularis",
+    "Trinectes xanthurus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Achirus declivis",
+      "Catathyridium jenynsii",
+      "Hypoclinemus mentalis",
+      "Trinectes maculatus",
+      "Trinectes paulistanus"
+    ],
+    "16s": [
+      "Achirus declivis",
+      "Achirus lineatus",
+      "Catathyridium jenynsii",
+      "Hypoclinemus mentalis",
+      "Trinectes maculatus",
+      "Trinectes paulistanus"
+    ],
+    "4c4": [
+      "Trinectes maculatus"
+    ],
+    "coi": [
+      "Achirus lineatus",
+      "Catathyridium jenynsii",
+      "Trinectes inscriptus",
+      "Trinectes maculatus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Achirus lineatus",
+      "Gymnachirus texae"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Achirus lineatus",
+      "Gymnachirus melas"
+    ],
+    "kiaa1239": [
+      "Gymnachirus melas",
+      "Gymnachirus texae"
+    ],
+    "myh6": [
+      "Achirus lineatus",
+      "Gymnachirus melas",
+      "Gymnachirus texae"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Gymnachirus melas"
+    ],
+    "plagl2": [
+      "Trinectes maculatus"
+    ],
+    "ptr": [
+      "Trinectes maculatus"
+    ],
+    "rag1": [
+      "Trinectes maculatus"
+    ],
+    "rag2": [
+      "Trinectes maculatus"
+    ],
+    "rhodopsin": [
+      "Trinectes maculatus"
+    ],
+    "ripk4": [
+      "Achirus lineatus",
+      "Gymnachirus texae"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Achirus lineatus",
+      "Gymnachirus melas",
+      "Gymnachirus texae"
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+      "Achirus lineatus"
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Achiridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pleuronectiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Pleuronectoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Achirus declivis": 0.0821,
+    "Achirus lineatus": 0.07,
+    "Catathyridium jenynsii": 0.1014,
+    "Gymnachirus melas": 0.0745,
+    "Gymnachirus texae": 0.0721,
+    "Hypoclinemus mentalis": 0.0895,
+    "Trinectes inscriptus": 0.0784,
+    "Trinectes maculatus": 0.0725,
+    "Trinectes paulistanus": 0.0793
+  },
+  "tiprates_bamm_lambda": {
+    "Achirus declivis": 0.0918,
+    "Achirus lineatus": 0.0918,
+    "Catathyridium jenynsii": 0.0918,
+    "Gymnachirus melas": 0.0918,
+    "Gymnachirus texae": 0.0918,
+    "Hypoclinemus mentalis": 0.0918,
+    "Trinectes inscriptus": 0.0918,
+    "Trinectes maculatus": 0.0918,
+    "Trinectes paulistanus": 0.0918
+  },
+  "tiprates_bamm_mu": {
+    "Achirus declivis": 0.0116,
+    "Achirus lineatus": 0.0116,
+    "Catathyridium jenynsii": 0.0116,
+    "Gymnachirus melas": 0.0116,
+    "Gymnachirus texae": 0.0116,
+    "Hypoclinemus mentalis": 0.0116,
+    "Trinectes inscriptus": 0.0116,
+    "Trinectes maculatus": 0.0116,
+    "Trinectes paulistanus": 0.0116
+  },
+  "mean_dr": 0.08,
+  "mean_bamm_lambda": 0.0918,
+  "mean_bamm_mu": 0.0116,
+  "matrix_phylip": "downloads/taxonomy/family/Achiridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Achiridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Achiridae.tre",
+  "phylogram": "downloads/taxonomy/family/Achiridae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "species": [
+    "Atrophacanthus japonicus",
+    "Bathyphylax bombifrons",
+    "Bathyphylax omen",
+    "Bathyphylax pruvosti",
+    "Halimochirurgus alcocki",
+    "Halimochirurgus centriscoides",
+    "Hollardia goslinei",
+    "Hollardia hollardi",
+    "Hollardia meadi",
+    "Johnsonina eriomma",
+    "Macrorhamphosodes platycheilus",
+    "Macrorhamphosodes uradoi",
+    "Mephisto fraserbrunneri",
+    "Parahollardia lineata",
+    "Parahollardia schmidti",
+    "Paratriacanthodes abei",
+    "Paratriacanthodes herrei",
+    "Paratriacanthodes retrospinis",
+    "Triacanthodes anomalus",
+    "Triacanthodes ethiops",
+    "Triacanthodes indicus",
+    "Triacanthodes intermedius",
+    "Tydemania navigatoris"
+  ],
+  "sampled_species": [
+    "Parahollardia lineata",
+    "Triacanthodes anomalus",
+    "Triacanthodes ethiops",
+    "Tydemania navigatoris"
+  ],
+  "unsampled_species": [
+    "Atrophacanthus japonicus",
+    "Bathyphylax bombifrons",
+    "Bathyphylax omen",
+    "Bathyphylax pruvosti",
+    "Halimochirurgus alcocki",
+    "Halimochirurgus centriscoides",
+    "Hollardia goslinei",
+    "Hollardia hollardi",
+    "Hollardia meadi",
+    "Johnsonina eriomma",
+    "Macrorhamphosodes platycheilus",
+    "Macrorhamphosodes uradoi",
+    "Mephisto fraserbrunneri",
+    "Parahollardia schmidti",
+    "Paratriacanthodes abei",
+    "Paratriacanthodes herrei",
+    "Paratriacanthodes retrospinis",
+    "Triacanthodes indicus",
+    "Triacanthodes intermedius"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Triacanthodes anomalus"
+    ],
+    "16s": [
+      "Triacanthodes anomalus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Parahollardia lineata",
+      "Triacanthodes ethiops",
+      "Tydemania navigatoris"
+    ],
+    "cytb": [
+      "Parahollardia lineata",
+      "Triacanthodes ethiops",
+      "Tydemania navigatoris"
+    ],
+    "enc1": [
+      "Parahollardia lineata",
+      "Triacanthodes anomalus",
+      "Triacanthodes ethiops",
+      "Tydemania navigatoris"
+    ],
+    "ficd": [
+      "Parahollardia lineata"
+    ],
+    "glyt": [
+      "Parahollardia lineata",
+      "Triacanthodes anomalus",
+      "Triacanthodes ethiops",
+      "Tydemania navigatoris"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Triacanthodes anomalus"
+    ],
+    "myh6": [
+      "Parahollardia lineata",
+      "Triacanthodes anomalus",
+      "Triacanthodes ethiops",
+      "Tydemania navigatoris"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Parahollardia lineata",
+      "Triacanthodes anomalus",
+      "Triacanthodes ethiops",
+      "Tydemania navigatoris"
+    ],
+    "ptr": [
+      "Parahollardia lineata",
+      "Triacanthodes anomalus",
+      "Triacanthodes ethiops",
+      "Tydemania navigatoris"
+    ],
+    "rag1": [
+      "Parahollardia lineata",
+      "Triacanthodes anomalus",
+      "Triacanthodes ethiops",
+      "Tydemania navigatoris"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Parahollardia lineata",
+      "Triacanthodes ethiops",
+      "Tydemania navigatoris"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Parahollardia lineata",
+      "Triacanthodes anomalus",
+      "Triacanthodes ethiops",
+      "Tydemania navigatoris"
+    ],
+    "sidkey": [
+      "Parahollardia lineata",
+      "Triacanthodes ethiops",
+      "Tydemania navigatoris"
+    ],
+    "sreb2": [
+      "Parahollardia lineata",
+      "Triacanthodes anomalus",
+      "Triacanthodes ethiops",
+      "Tydemania navigatoris"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Parahollardia lineata",
+      "Triacanthodes anomalus",
+      "Triacanthodes ethiops",
+      "Tydemania navigatoris"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Parahollardia lineata",
+      "Triacanthodes anomalus",
+      "Triacanthodes ethiops",
+      "Tydemania navigatoris"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Triacanthodidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Tetraodontiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Triacanthodoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Parahollardia lineata": 0.0835,
+    "Triacanthodes anomalus": 0.058,
+    "Triacanthodes ethiops": 0.0683,
+    "Tydemania navigatoris": 0.1684
+  },
+  "tiprates_bamm_lambda": {
+    "Parahollardia lineata": 0.0872,
+    "Triacanthodes anomalus": 0.0872,
+    "Triacanthodes ethiops": 0.0872,
+    "Tydemania navigatoris": 0.0872
+  },
+  "tiprates_bamm_mu": {
+    "Parahollardia lineata": 0.0124,
+    "Triacanthodes anomalus": 0.0124,
+    "Triacanthodes ethiops": 0.0124,
+    "Tydemania navigatoris": 0.0124
+  },
+  "mean_dr": 0.0945,
+  "mean_bamm_lambda": 0.0872,
+  "mean_bamm_mu": 0.0124,
+  "matrix_phylip": "downloads/taxonomy/family/Triacanthodidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Triacanthodidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Triacanthodidae.tre",
+  "phylogram": "downloads/taxonomy/family/Triacanthodidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

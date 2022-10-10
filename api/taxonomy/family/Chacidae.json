@@ -1,0 +1,173 @@
+{
+  "species": [
+    "Chaca bankanensis",
+    "Chaca burmensis",
+    "Chaca chaca",
+    "Chaca serica"
+  ],
+  "sampled_species": [
+    "Chaca bankanensis",
+    "Chaca chaca"
+  ],
+  "unsampled_species": [
+    "Chaca burmensis",
+    "Chaca serica"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+      "Chaca chaca"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Chaca bankanensis",
+      "Chaca chaca"
+    ],
+    "rag2": [
+      "Chaca chaca"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Chacidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Chaca bankanensis": 0.0599,
+    "Chaca chaca": 0.0645
+  },
+  "tiprates_bamm_lambda": {
+    "Chaca bankanensis": 0.0745,
+    "Chaca chaca": 0.0745
+  },
+  "tiprates_bamm_mu": {
+    "Chaca bankanensis": 0.0008,
+    "Chaca chaca": 0.0008
+  },
+  "mean_dr": 0.0622,
+  "mean_bamm_lambda": 0.0745,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Chacidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Chacidae.nex.xz"
+}

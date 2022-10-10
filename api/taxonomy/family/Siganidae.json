@@ -1,0 +1,370 @@
+{
+  "species": [
+    "Siganus argenteus",
+    "Siganus canaliculatus",
+    "Siganus corallinus",
+    "Siganus doliatus",
+    "Siganus fuscescens",
+    "Siganus guttatus",
+    "Siganus javus",
+    "Siganus labyrinthodes",
+    "Siganus lineatus",
+    "Siganus luridus",
+    "Siganus magnificus",
+    "Siganus niger",
+    "Siganus puelloides",
+    "Siganus puellus",
+    "Siganus punctatissimus",
+    "Siganus punctatus",
+    "Siganus randalli",
+    "Siganus rivulatus",
+    "Siganus spinus",
+    "Siganus stellatus",
+    "Siganus sutor",
+    "Siganus trispilos",
+    "Siganus unimaculatus",
+    "Siganus uspi",
+    "Siganus vermiculatus",
+    "Siganus virgatus",
+    "Siganus vulpinus",
+    "Siganus woodlandi"
+  ],
+  "sampled_species": [
+    "Siganus argenteus",
+    "Siganus canaliculatus",
+    "Siganus corallinus",
+    "Siganus doliatus",
+    "Siganus fuscescens",
+    "Siganus guttatus",
+    "Siganus javus",
+    "Siganus lineatus",
+    "Siganus luridus",
+    "Siganus magnificus",
+    "Siganus puellus",
+    "Siganus punctatissimus",
+    "Siganus punctatus",
+    "Siganus randalli",
+    "Siganus rivulatus",
+    "Siganus spinus",
+    "Siganus stellatus",
+    "Siganus sutor",
+    "Siganus unimaculatus",
+    "Siganus uspi",
+    "Siganus vermiculatus",
+    "Siganus virgatus",
+    "Siganus vulpinus",
+    "Siganus woodlandi"
+  ],
+  "unsampled_species": [
+    "Siganus labyrinthodes",
+    "Siganus niger",
+    "Siganus puelloides",
+    "Siganus trispilos"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Siganus canaliculatus",
+      "Siganus doliatus",
+      "Siganus vulpinus"
+    ],
+    "16s": [
+      "Siganus argenteus",
+      "Siganus canaliculatus",
+      "Siganus corallinus",
+      "Siganus doliatus",
+      "Siganus fuscescens",
+      "Siganus guttatus",
+      "Siganus javus",
+      "Siganus luridus",
+      "Siganus puellus",
+      "Siganus punctatus",
+      "Siganus rivulatus",
+      "Siganus spinus",
+      "Siganus stellatus",
+      "Siganus unimaculatus",
+      "Siganus vermiculatus",
+      "Siganus virgatus",
+      "Siganus vulpinus",
+      "Siganus woodlandi"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Siganus argenteus",
+      "Siganus canaliculatus",
+      "Siganus corallinus",
+      "Siganus fuscescens",
+      "Siganus guttatus",
+      "Siganus javus",
+      "Siganus luridus",
+      "Siganus puellus",
+      "Siganus punctatus",
+      "Siganus spinus",
+      "Siganus stellatus",
+      "Siganus sutor",
+      "Siganus unimaculatus",
+      "Siganus vermiculatus",
+      "Siganus virgatus",
+      "Siganus vulpinus"
+    ],
+    "cytb": [
+      "Siganus argenteus",
+      "Siganus canaliculatus",
+      "Siganus corallinus",
+      "Siganus doliatus",
+      "Siganus fuscescens",
+      "Siganus guttatus",
+      "Siganus javus",
+      "Siganus lineatus",
+      "Siganus luridus",
+      "Siganus magnificus",
+      "Siganus puellus",
+      "Siganus punctatissimus",
+      "Siganus punctatus",
+      "Siganus randalli",
+      "Siganus rivulatus",
+      "Siganus spinus",
+      "Siganus sutor",
+      "Siganus unimaculatus",
+      "Siganus uspi",
+      "Siganus vermiculatus",
+      "Siganus virgatus",
+      "Siganus vulpinus",
+      "Siganus woodlandi"
+    ],
+    "enc1": [
+      "Siganus doliatus",
+      "Siganus punctatus",
+      "Siganus spinus",
+      "Siganus vulpinus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Siganus spinus",
+      "Siganus vulpinus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Siganus argenteus"
+    ],
+    "myh6": [
+      "Siganus doliatus",
+      "Siganus punctatus",
+      "Siganus spinus",
+      "Siganus vulpinus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Siganus argenteus"
+    ],
+    "plagl2": [
+      "Siganus argenteus",
+      "Siganus doliatus",
+      "Siganus punctatus",
+      "Siganus spinus",
+      "Siganus vulpinus"
+    ],
+    "ptr": [
+      "Siganus argenteus",
+      "Siganus spinus",
+      "Siganus vulpinus"
+    ],
+    "rag1": [
+      "Siganus doliatus",
+      "Siganus punctatus",
+      "Siganus spinus",
+      "Siganus vulpinus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Siganus vulpinus"
+    ],
+    "ripk4": [
+      "Siganus argenteus"
+    ],
+    "sh3px3": [
+      "Siganus argenteus",
+      "Siganus vulpinus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Siganus spinus",
+      "Siganus vulpinus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Siganus spinus",
+      "Siganus vulpinus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Siganus argenteus",
+      "Siganus doliatus",
+      "Siganus punctatus",
+      "Siganus spinus",
+      "Siganus vulpinus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Siganidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Siganus argenteus": 0.0649,
+    "Siganus canaliculatus": 0.1188,
+    "Siganus corallinus": 0.1427,
+    "Siganus doliatus": 0.2582,
+    "Siganus fuscescens": 0.0791,
+    "Siganus guttatus": 0.1621,
+    "Siganus javus": 0.0923,
+    "Siganus lineatus": 0.289,
+    "Siganus luridus": 0.1528,
+    "Siganus magnificus": 0.377,
+    "Siganus puellus": 0.1607,
+    "Siganus punctatissimus": 0.1629,
+    "Siganus punctatus": 0.2888,
+    "Siganus randalli": 0.2878,
+    "Siganus rivulatus": 0.1156,
+    "Siganus spinus": 0.0577,
+    "Siganus stellatus": 0.2868,
+    "Siganus sutor": 0.1557,
+    "Siganus unimaculatus": 0.4263,
+    "Siganus uspi": 0.387,
+    "Siganus vermiculatus": 0.043,
+    "Siganus virgatus": 0.2641,
+    "Siganus vulpinus": 0.4245,
+    "Siganus woodlandi": 0.0645
+  },
+  "tiprates_bamm_lambda": {
+    "Siganus argenteus": 0.0719,
+    "Siganus canaliculatus": 0.0719,
+    "Siganus corallinus": 0.2643,
+    "Siganus doliatus": 0.2643,
+    "Siganus fuscescens": 0.0719,
+    "Siganus guttatus": 0.2643,
+    "Siganus javus": 0.2635,
+    "Siganus lineatus": 0.2643,
+    "Siganus luridus": 0.0719,
+    "Siganus magnificus": 0.2692,
+    "Siganus puellus": 0.2657,
+    "Siganus punctatissimus": 0.2657,
+    "Siganus punctatus": 0.2692,
+    "Siganus randalli": 0.2643,
+    "Siganus rivulatus": 0.0719,
+    "Siganus spinus": 0.0719,
+    "Siganus stellatus": 0.2692,
+    "Siganus sutor": 0.0719,
+    "Siganus unimaculatus": 0.2692,
+    "Siganus uspi": 0.2692,
+    "Siganus vermiculatus": 0.1007,
+    "Siganus virgatus": 0.2643,
+    "Siganus vulpinus": 0.2692,
+    "Siganus woodlandi": 0.0719
+  },
+  "tiprates_bamm_mu": {
+    "Siganus argenteus": 0.0067,
+    "Siganus canaliculatus": 0.0067,
+    "Siganus corallinus": 0.0774,
+    "Siganus doliatus": 0.0774,
+    "Siganus fuscescens": 0.0067,
+    "Siganus guttatus": 0.0774,
+    "Siganus javus": 0.077,
+    "Siganus lineatus": 0.0774,
+    "Siganus luridus": 0.0067,
+    "Siganus magnificus": 0.0798,
+    "Siganus puellus": 0.0779,
+    "Siganus punctatissimus": 0.0779,
+    "Siganus punctatus": 0.0798,
+    "Siganus randalli": 0.0774,
+    "Siganus rivulatus": 0.0067,
+    "Siganus spinus": 0.0067,
+    "Siganus stellatus": 0.0798,
+    "Siganus sutor": 0.0067,
+    "Siganus unimaculatus": 0.0798,
+    "Siganus uspi": 0.0798,
+    "Siganus vermiculatus": 0.0194,
+    "Siganus virgatus": 0.0774,
+    "Siganus vulpinus": 0.0798,
+    "Siganus woodlandi": 0.0067
+  },
+  "mean_dr": 0.2026,
+  "mean_bamm_lambda": 0.1946,
+  "mean_bamm_mu": 0.0521,
+  "matrix_phylip": "downloads/taxonomy/family/Siganidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Siganidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Siganidae.tre",
+  "phylogram": "downloads/taxonomy/family/Siganidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

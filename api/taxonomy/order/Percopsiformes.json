@@ -1,0 +1,320 @@
+{
+  "species": [
+    "Amblyopsis rosae",
+    "Amblyopsis spelaea",
+    "Chologaster cornuta",
+    "Forbesichthys agassizii",
+    "Forbesichthys papilliferus",
+    "Speoplatyrhinus poulsoni",
+    "Typhlichthys subterraneus",
+    "Aphredoderus gib",
+    "Aphredoderus sayanus",
+    "Percopsis omiscomaycus",
+    "Percopsis transmontana"
+  ],
+  "sampled_species": [
+    "Amblyopsis rosae",
+    "Amblyopsis spelaea",
+    "Chologaster cornuta",
+    "Forbesichthys agassizii",
+    "Forbesichthys papilliferus",
+    "Speoplatyrhinus poulsoni",
+    "Typhlichthys subterraneus",
+    "Aphredoderus gib",
+    "Aphredoderus sayanus",
+    "Percopsis omiscomaycus",
+    "Percopsis transmontana"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Aphredoderus sayanus",
+      "Percopsis omiscomaycus"
+    ],
+    "16s": [
+      "Chologaster cornuta",
+      "Aphredoderus sayanus",
+      "Percopsis omiscomaycus"
+    ],
+    "4c4": [
+      "Percopsis omiscomaycus"
+    ],
+    "coi": [
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Typhlichthys subterraneus",
+      "Aphredoderus sayanus",
+      "Percopsis omiscomaycus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Aphredoderus sayanus",
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus",
+      "Aphredoderus gib",
+      "Aphredoderus sayanus",
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "hoxc6a": [
+      "Percopsis transmontana"
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus",
+      "Aphredoderus gib",
+      "Aphredoderus sayanus",
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "nd2": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus",
+      "Aphredoderus sayanus",
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Percopsis transmontana"
+    ],
+    "plagl2": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus",
+      "Aphredoderus gib",
+      "Aphredoderus sayanus",
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "ptr": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus",
+      "Aphredoderus gib",
+      "Aphredoderus sayanus",
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "rag1": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus",
+      "Aphredoderus gib",
+      "Aphredoderus sayanus",
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus",
+      "Aphredoderus sayanus",
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus",
+      "Aphredoderus sayanus",
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Aphredoderus sayanus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus",
+      "Aphredoderus gib",
+      "Aphredoderus sayanus",
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Amblyopsis rosae",
+      "Amblyopsis spelaea",
+      "Chologaster cornuta",
+      "Forbesichthys agassizii",
+      "Forbesichthys papilliferus",
+      "Speoplatyrhinus poulsoni",
+      "Typhlichthys subterraneus",
+      "Aphredoderus gib",
+      "Aphredoderus sayanus",
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Amblyopsidae",
+      "Aphredoderidae",
+      "Percopsidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Percopsiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Percopsaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Amblyopsis rosae": 0.0313,
+    "Amblyopsis spelaea": 0.0616,
+    "Aphredoderus sayanus": 0.025,
+    "Chologaster cornuta": 0.0214,
+    "Forbesichthys agassizii": 0.1034,
+    "Percopsis omiscomaycus": 0.0165,
+    "Percopsis transmontana": 0.0165,
+    "Speoplatyrhinus poulsoni": 0.0554,
+    "Typhlichthys subterraneus": 0.0554
+  },
+  "tiprates_bamm_lambda": {
+    "Amblyopsis rosae": 0.0524,
+    "Amblyopsis spelaea": 0.0524,
+    "Aphredoderus sayanus": 0.0524,
+    "Chologaster cornuta": 0.0524,
+    "Forbesichthys agassizii": 0.0524,
+    "Percopsis omiscomaycus": 0.0524,
+    "Percopsis transmontana": 0.0524,
+    "Speoplatyrhinus poulsoni": 0.0524,
+    "Typhlichthys subterraneus": 0.0524
+  },
+  "tiprates_bamm_mu": {
+    "Amblyopsis rosae": 0.0007,
+    "Amblyopsis spelaea": 0.0007,
+    "Aphredoderus sayanus": 0.0007,
+    "Chologaster cornuta": 0.0007,
+    "Forbesichthys agassizii": 0.0007,
+    "Percopsis omiscomaycus": 0.0007,
+    "Percopsis transmontana": 0.0007,
+    "Speoplatyrhinus poulsoni": 0.0007,
+    "Typhlichthys subterraneus": 0.0007
+  },
+  "mean_dr": 0.043,
+  "mean_bamm_lambda": 0.0524,
+  "mean_bamm_mu": 0.0007,
+  "matrix_phylip": "downloads/taxonomy/order/Percopsiformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Percopsiformes.nex.xz",
+  "chronogram": "downloads/taxonomy/order/Percopsiformes.tre",
+  "phylogram": "downloads/taxonomy/order/Percopsiformes_phylogram.tre",
+  "rogues": [
+
+  ]
+}

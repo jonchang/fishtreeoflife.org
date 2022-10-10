@@ -1,0 +1,354 @@
+{
+  "species": [
+    "Lampris guttatus",
+    "Lampris immaculatus",
+    "Eumecichthys fiski",
+    "Lophotus capellei",
+    "Lophotus guntheri",
+    "Lophotus lacepede",
+    "Radiicephalus elongatus",
+    "Agrostichthys parkeri",
+    "Regalecus glesne",
+    "Regalecus russelii",
+    "Desmodema lorum",
+    "Desmodema polystictum",
+    "Trachipterus altivelis",
+    "Trachipterus arcticus",
+    "Trachipterus fukuzakii",
+    "Trachipterus ishikawae",
+    "Trachipterus jacksonensis",
+    "Trachipterus trachypterus",
+    "Zu cristatus",
+    "Zu elongatus",
+    "Metavelifer multiradiatus",
+    "Velifer hypselopterus"
+  ],
+  "sampled_species": [
+    "Lampris guttatus",
+    "Lampris immaculatus",
+    "Lophotus capellei",
+    "Lophotus lacepede",
+    "Regalecus glesne",
+    "Regalecus russelii",
+    "Desmodema polystictum",
+    "Trachipterus altivelis",
+    "Trachipterus arcticus",
+    "Trachipterus jacksonensis",
+    "Trachipterus trachypterus",
+    "Zu cristatus",
+    "Zu elongatus",
+    "Metavelifer multiradiatus",
+    "Velifer hypselopterus"
+  ],
+  "unsampled_species": [
+    "Eumecichthys fiski",
+    "Lophotus guntheri",
+    "Radiicephalus elongatus",
+    "Agrostichthys parkeri",
+    "Desmodema lorum",
+    "Trachipterus fukuzakii",
+    "Trachipterus ishikawae"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Lampris guttatus",
+      "Lampris immaculatus",
+      "Lophotus capellei",
+      "Lophotus lacepede",
+      "Regalecus glesne",
+      "Trachipterus jacksonensis",
+      "Zu cristatus",
+      "Metavelifer multiradiatus"
+    ],
+    "16s": [
+      "Lampris guttatus",
+      "Lampris immaculatus",
+      "Lophotus capellei",
+      "Lophotus lacepede",
+      "Regalecus glesne",
+      "Trachipterus altivelis",
+      "Trachipterus jacksonensis",
+      "Trachipterus trachypterus",
+      "Zu cristatus",
+      "Metavelifer multiradiatus",
+      "Velifer hypselopterus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Lampris guttatus",
+      "Lampris immaculatus",
+      "Lophotus lacepede",
+      "Regalecus glesne",
+      "Trachipterus altivelis",
+      "Trachipterus trachypterus",
+      "Zu cristatus",
+      "Velifer hypselopterus"
+    ],
+    "cytb": [
+      "Lampris guttatus",
+      "Regalecus glesne"
+    ],
+    "enc1": [
+      "Metavelifer multiradiatus"
+    ],
+    "ficd": [
+      "Lampris guttatus",
+      "Lophotus lacepede",
+      "Regalecus glesne",
+      "Desmodema polystictum"
+    ],
+    "glyt": [
+      "Lampris guttatus",
+      "Lophotus capellei",
+      "Regalecus glesne",
+      "Regalecus russelii",
+      "Trachipterus arcticus",
+      "Zu elongatus",
+      "Metavelifer multiradiatus"
+    ],
+    "hoxc6a": [
+      "Lampris guttatus"
+    ],
+    "kiaa1239": [
+      "Lophotus lacepede",
+      "Desmodema polystictum",
+      "Zu cristatus"
+    ],
+    "myh6": [
+      "Lampris guttatus",
+      "Lophotus capellei",
+      "Lophotus lacepede",
+      "Regalecus glesne",
+      "Regalecus russelii",
+      "Desmodema polystictum",
+      "Trachipterus arcticus",
+      "Zu cristatus",
+      "Zu elongatus",
+      "Metavelifer multiradiatus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Lophotus lacepede",
+      "Regalecus glesne",
+      "Trachipterus arcticus",
+      "Zu cristatus"
+    ],
+    "plagl2": [
+      "Lampris guttatus",
+      "Lophotus capellei",
+      "Regalecus glesne",
+      "Regalecus russelii",
+      "Desmodema polystictum",
+      "Zu cristatus",
+      "Zu elongatus",
+      "Metavelifer multiradiatus"
+    ],
+    "ptr": [
+      "Lampris guttatus",
+      "Lophotus capellei",
+      "Lophotus lacepede",
+      "Regalecus glesne",
+      "Regalecus russelii",
+      "Trachipterus arcticus",
+      "Zu elongatus",
+      "Metavelifer multiradiatus"
+    ],
+    "rag1": [
+      "Lampris guttatus",
+      "Lophotus capellei",
+      "Lophotus lacepede",
+      "Regalecus glesne",
+      "Trachipterus arcticus",
+      "Zu cristatus",
+      "Zu elongatus",
+      "Metavelifer multiradiatus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Lampris guttatus",
+      "Lampris immaculatus",
+      "Regalecus glesne"
+    ],
+    "ripk4": [
+      "Lampris guttatus",
+      "Regalecus glesne",
+      "Desmodema polystictum",
+      "Zu cristatus"
+    ],
+    "sh3px3": [
+      "Lampris guttatus",
+      "Lophotus capellei",
+      "Regalecus glesne",
+      "Regalecus russelii",
+      "Desmodema polystictum",
+      "Trachipterus arcticus",
+      "Zu elongatus",
+      "Metavelifer multiradiatus"
+    ],
+    "sidkey": [
+      "Lophotus lacepede",
+      "Regalecus glesne"
+    ],
+    "sreb2": [
+      "Lampris guttatus",
+      "Lophotus capellei",
+      "Regalecus glesne",
+      "Regalecus russelii",
+      "Trachipterus arcticus",
+      "Zu elongatus",
+      "Metavelifer multiradiatus"
+    ],
+    "svep1": [
+      "Desmodema polystictum",
+      "Zu cristatus"
+    ],
+    "tbr1": [
+      "Lampris guttatus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Lampris guttatus",
+      "Lophotus capellei",
+      "Lophotus lacepede",
+      "Regalecus glesne",
+      "Regalecus russelii",
+      "Desmodema polystictum",
+      "Trachipterus arcticus",
+      "Zu cristatus",
+      "Metavelifer multiradiatus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Lampridacea"
+    ],
+    "family": [
+      "Lamprididae",
+      "Lophotidae",
+      "Radiicephalidae",
+      "Regalecidae",
+      "Trachipteridae",
+      "Veliferidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lampridiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Desmodema polystictum": 0.0422,
+    "Lampris guttatus": 0.0155,
+    "Lampris immaculatus": 0.0155,
+    "Lophotus capellei": 0.0267,
+    "Lophotus lacepede": 0.0272,
+    "Metavelifer multiradiatus": 0.0344,
+    "Regalecus glesne": 0.0261,
+    "Regalecus russelii": 0.0261,
+    "Trachipterus altivelis": 0.04,
+    "Trachipterus arcticus": 0.0237,
+    "Trachipterus jacksonensis": 0.0674,
+    "Trachipterus trachypterus": 0.0674,
+    "Velifer hypselopterus": 0.0344,
+    "Zu cristatus": 0.0404,
+    "Zu elongatus": 0.0404
+  },
+  "tiprates_bamm_lambda": {
+    "Desmodema polystictum": 0.0522,
+    "Lampris guttatus": 0.0522,
+    "Lampris immaculatus": 0.0522,
+    "Lophotus capellei": 0.0522,
+    "Lophotus lacepede": 0.0522,
+    "Metavelifer multiradiatus": 0.0522,
+    "Regalecus glesne": 0.0522,
+    "Regalecus russelii": 0.0522,
+    "Trachipterus altivelis": 0.0522,
+    "Trachipterus arcticus": 0.0522,
+    "Trachipterus jacksonensis": 0.0522,
+    "Trachipterus trachypterus": 0.0522,
+    "Velifer hypselopterus": 0.0522,
+    "Zu cristatus": 0.0522,
+    "Zu elongatus": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Desmodema polystictum": 0.0003,
+    "Lampris guttatus": 0.0003,
+    "Lampris immaculatus": 0.0003,
+    "Lophotus capellei": 0.0003,
+    "Lophotus lacepede": 0.0003,
+    "Metavelifer multiradiatus": 0.0003,
+    "Regalecus glesne": 0.0003,
+    "Regalecus russelii": 0.0003,
+    "Trachipterus altivelis": 0.0003,
+    "Trachipterus arcticus": 0.0003,
+    "Trachipterus jacksonensis": 0.0003,
+    "Trachipterus trachypterus": 0.0003,
+    "Velifer hypselopterus": 0.0003,
+    "Zu cristatus": 0.0003,
+    "Zu elongatus": 0.0003
+  },
+  "mean_dr": 0.0352,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/order/Lampridiformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Lampridiformes.nex.xz",
+  "chronogram": "downloads/taxonomy/order/Lampridiformes.tre",
+  "phylogram": "downloads/taxonomy/order/Lampridiformes_phylogram.tre",
+  "rogues": [
+
+  ]
+}

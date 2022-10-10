@@ -1,0 +1,353 @@
+{
+  "species": [
+    "Aulotrachichthys argyrophanus",
+    "Aulotrachichthys atlanticus",
+    "Aulotrachichthys heptalepis",
+    "Aulotrachichthys latus",
+    "Aulotrachichthys novaezelandicus",
+    "Aulotrachichthys prosthemius",
+    "Aulotrachichthys pulsator",
+    "Aulotrachichthys sajademalensis",
+    "Gephyroberyx darwinii",
+    "Gephyroberyx japonicus",
+    "Hoplostethus abramovi",
+    "Hoplostethus atlanticus",
+    "Hoplostethus cadenati",
+    "Hoplostethus confinis",
+    "Hoplostethus crassispinus",
+    "Hoplostethus druzhinini",
+    "Hoplostethus fedorovi",
+    "Hoplostethus fragilis",
+    "Hoplostethus gigas",
+    "Hoplostethus grandperrini",
+    "Hoplostethus intermedius",
+    "Hoplostethus japonicus",
+    "Hoplostethus latus",
+    "Hoplostethus marisrubri",
+    "Hoplostethus mediterraneus mediterraneus",
+    "Hoplostethus mediterraneus sonodae",
+    "Hoplostethus mediterraneus trunovi",
+    "Hoplostethus melanopeza",
+    "Hoplostethus melanopterus",
+    "Hoplostethus melanopus",
+    "Hoplostethus mento",
+    "Hoplostethus metallicus",
+    "Hoplostethus mikhailini",
+    "Hoplostethus occidentalis",
+    "Hoplostethus pacificus",
+    "Hoplostethus ravurictus",
+    "Hoplostethus rifti",
+    "Hoplostethus robustispinus",
+    "Hoplostethus rubellopterus",
+    "Hoplostethus shubnikovi",
+    "Hoplostethus tenebricus",
+    "Hoplostethus vniro",
+    "Optivus agastos",
+    "Optivus agrammus",
+    "Optivus elongatus",
+    "Paratrachichthys fernandezianus",
+    "Paratrachichthys macleayi",
+    "Paratrachichthys trailli",
+    "Parinoberyx horridus",
+    "Sorosichthys ananassa",
+    "Trachichthys australis"
+  ],
+  "sampled_species": [
+    "Aulotrachichthys prosthemius",
+    "Aulotrachichthys sajademalensis",
+    "Gephyroberyx darwinii",
+    "Hoplostethus atlanticus",
+    "Hoplostethus cadenati",
+    "Hoplostethus crassispinus",
+    "Hoplostethus gigas",
+    "Hoplostethus japonicus",
+    "Hoplostethus latus",
+    "Hoplostethus mediterraneus mediterraneus",
+    "Hoplostethus melanopus",
+    "Hoplostethus occidentalis",
+    "Hoplostethus ravurictus",
+    "Paratrachichthys macleayi"
+  ],
+  "unsampled_species": [
+    "Aulotrachichthys argyrophanus",
+    "Aulotrachichthys atlanticus",
+    "Aulotrachichthys heptalepis",
+    "Aulotrachichthys latus",
+    "Aulotrachichthys novaezelandicus",
+    "Aulotrachichthys pulsator",
+    "Gephyroberyx japonicus",
+    "Hoplostethus abramovi",
+    "Hoplostethus confinis",
+    "Hoplostethus druzhinini",
+    "Hoplostethus fedorovi",
+    "Hoplostethus fragilis",
+    "Hoplostethus grandperrini",
+    "Hoplostethus intermedius",
+    "Hoplostethus marisrubri",
+    "Hoplostethus mediterraneus sonodae",
+    "Hoplostethus mediterraneus trunovi",
+    "Hoplostethus melanopeza",
+    "Hoplostethus melanopterus",
+    "Hoplostethus mento",
+    "Hoplostethus metallicus",
+    "Hoplostethus mikhailini",
+    "Hoplostethus pacificus",
+    "Hoplostethus rifti",
+    "Hoplostethus robustispinus",
+    "Hoplostethus rubellopterus",
+    "Hoplostethus shubnikovi",
+    "Hoplostethus tenebricus",
+    "Hoplostethus vniro",
+    "Optivus agastos",
+    "Optivus agrammus",
+    "Optivus elongatus",
+    "Paratrachichthys fernandezianus",
+    "Paratrachichthys trailli",
+    "Parinoberyx horridus",
+    "Sorosichthys ananassa",
+    "Trachichthys australis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Hoplostethus mediterraneus mediterraneus"
+    ],
+    "16s": [
+      "Aulotrachichthys prosthemius",
+      "Gephyroberyx darwinii",
+      "Hoplostethus atlanticus",
+      "Hoplostethus mediterraneus mediterraneus"
+    ],
+    "4c4": [
+      "Hoplostethus mediterraneus mediterraneus"
+    ],
+    "coi": [
+      "Aulotrachichthys prosthemius",
+      "Gephyroberyx darwinii",
+      "Hoplostethus atlanticus",
+      "Hoplostethus gigas",
+      "Hoplostethus latus",
+      "Hoplostethus mediterraneus mediterraneus",
+      "Paratrachichthys macleayi"
+    ],
+    "cytb": [
+      "Hoplostethus atlanticus",
+      "Hoplostethus cadenati",
+      "Hoplostethus crassispinus",
+      "Hoplostethus japonicus",
+      "Hoplostethus latus",
+      "Hoplostethus mediterraneus mediterraneus",
+      "Hoplostethus melanopus",
+      "Hoplostethus ravurictus"
+    ],
+    "enc1": [
+      "Hoplostethus atlanticus"
+    ],
+    "ficd": [
+      "Gephyroberyx darwinii"
+    ],
+    "glyt": [
+      "Aulotrachichthys sajademalensis",
+      "Gephyroberyx darwinii",
+      "Hoplostethus atlanticus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Hoplostethus occidentalis"
+    ],
+    "myh6": [
+      "Aulotrachichthys sajademalensis",
+      "Gephyroberyx darwinii",
+      "Hoplostethus atlanticus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Gephyroberyx darwinii"
+    ],
+    "plagl2": [
+      "Aulotrachichthys sajademalensis",
+      "Gephyroberyx darwinii",
+      "Hoplostethus atlanticus"
+    ],
+    "ptr": [
+      "Aulotrachichthys sajademalensis",
+      "Gephyroberyx darwinii",
+      "Hoplostethus atlanticus"
+    ],
+    "rag1": [
+      "Aulotrachichthys sajademalensis",
+      "Gephyroberyx darwinii",
+      "Hoplostethus atlanticus",
+      "Hoplostethus mediterraneus mediterraneus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Hoplostethus atlanticus",
+      "Hoplostethus mediterraneus mediterraneus"
+    ],
+    "ripk4": [
+      "Gephyroberyx darwinii",
+      "Hoplostethus occidentalis"
+    ],
+    "sh3px3": [
+      "Aulotrachichthys sajademalensis",
+      "Gephyroberyx darwinii",
+      "Hoplostethus atlanticus",
+      "Hoplostethus occidentalis"
+    ],
+    "sidkey": [
+      "Gephyroberyx darwinii",
+      "Hoplostethus occidentalis"
+    ],
+    "sreb2": [
+      "Aulotrachichthys sajademalensis",
+      "Gephyroberyx darwinii",
+      "Hoplostethus atlanticus"
+    ],
+    "svep1": [
+      "Hoplostethus occidentalis"
+    ],
+    "tbr1": [
+      "Aulotrachichthys sajademalensis",
+      "Gephyroberyx darwinii",
+      "Hoplostethus atlanticus",
+      "Hoplostethus occidentalis"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Aulotrachichthys sajademalensis",
+      "Gephyroberyx darwinii",
+      "Hoplostethus atlanticus",
+      "Hoplostethus occidentalis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Trachichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Beryciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Berycimorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Aulotrachichthys prosthemius": 0.0558,
+    "Aulotrachichthys sajademalensis": 0.1066,
+    "Gephyroberyx darwinii": 0.0807,
+    "Hoplostethus atlanticus": 0.1318,
+    "Hoplostethus cadenati": 0.1443,
+    "Hoplostethus crassispinus": 0.1685,
+    "Hoplostethus gigas": 0.0984,
+    "Hoplostethus japonicus": 0.1567,
+    "Hoplostethus latus": 0.1681,
+    "Hoplostethus melanopus": 0.1497,
+    "Hoplostethus occidentalis": 0.1179,
+    "Hoplostethus ravurictus": 0.1932,
+    "Paratrachichthys macleayi": 0.0536,
+    "Hoplostethus mediterraneus mediterraneus": 0.1539
+  },
+  "tiprates_bamm_lambda": {
+    "Aulotrachichthys prosthemius": 0.0548,
+    "Aulotrachichthys sajademalensis": 0.0548,
+    "Gephyroberyx darwinii": 0.0558,
+    "Hoplostethus atlanticus": 0.0804,
+    "Hoplostethus cadenati": 0.1283,
+    "Hoplostethus crassispinus": 0.1283,
+    "Hoplostethus gigas": 0.0804,
+    "Hoplostethus japonicus": 0.1283,
+    "Hoplostethus latus": 0.1283,
+    "Hoplostethus melanopus": 0.1283,
+    "Hoplostethus occidentalis": 0.0804,
+    "Hoplostethus ravurictus": 0.1283,
+    "Paratrachichthys macleayi": 0.0548,
+    "Hoplostethus mediterraneus mediterraneus": 0.1283
+  },
+  "tiprates_bamm_mu": {
+    "Aulotrachichthys prosthemius": 0.0003,
+    "Aulotrachichthys sajademalensis": 0.0003,
+    "Gephyroberyx darwinii": 0.0008,
+    "Hoplostethus atlanticus": 0.012,
+    "Hoplostethus cadenati": 0.0356,
+    "Hoplostethus crassispinus": 0.0356,
+    "Hoplostethus gigas": 0.012,
+    "Hoplostethus japonicus": 0.0356,
+    "Hoplostethus latus": 0.0356,
+    "Hoplostethus melanopus": 0.0356,
+    "Hoplostethus occidentalis": 0.012,
+    "Hoplostethus ravurictus": 0.0356,
+    "Paratrachichthys macleayi": 0.0003,
+    "Hoplostethus mediterraneus mediterraneus": 0.0356
+  },
+  "mean_dr": 0.1271,
+  "mean_bamm_lambda": 0.0971,
+  "mean_bamm_mu": 0.0205,
+  "matrix_phylip": "downloads/taxonomy/family/Trachichthyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Trachichthyidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Trachichthyidae.tre",
+  "phylogram": "downloads/taxonomy/family/Trachichthyidae_phylogram.tre",
+  "rogues": [
+    "Anoplogaster_cornuta",
+    "Monocentris_japonica",
+    "Diretmichthys_parini",
+    "Diretmus_argenteus"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Trachichthyidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Trachichthyidae_mrca_phylogram.tre"
+}

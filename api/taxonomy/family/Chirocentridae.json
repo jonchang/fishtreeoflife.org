@@ -1,0 +1,167 @@
+{
+  "species": [
+    "Chirocentrus dorab",
+    "Chirocentrus nudus",
+    "Chirocentrus sp"
+  ],
+  "sampled_species": [
+    "Chirocentrus dorab",
+    "Chirocentrus sp"
+  ],
+  "unsampled_species": [
+    "Chirocentrus nudus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Chirocentrus sp"
+    ],
+    "16s": [
+      "Chirocentrus sp"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Chirocentrus dorab"
+    ],
+    "cytb": [
+      "Chirocentrus sp"
+    ],
+    "enc1": [
+      "Chirocentrus dorab"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Chirocentrus dorab"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Chirocentrus dorab"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Chirocentrus dorab"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Chirocentrus dorab"
+    ],
+    "rag2": [
+      "Chirocentrus dorab"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Chirocentrus dorab"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Chirocentrus dorab"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Chirocentridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Clupeiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Clupei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Clupeoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Chirocentrus dorab": 0.0315
+  },
+  "tiprates_bamm_lambda": {
+    "Chirocentrus dorab": 0.0458
+  },
+  "tiprates_bamm_mu": {
+    "Chirocentrus dorab": 0.0039
+  },
+  "mean_dr": 0.0315,
+  "mean_bamm_lambda": 0.0458,
+  "mean_bamm_mu": 0.0039,
+  "matrix_phylip": "downloads/taxonomy/family/Chirocentridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Chirocentridae.nex.xz"
+}

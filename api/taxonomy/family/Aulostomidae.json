@@ -1,0 +1,190 @@
+{
+  "species": [
+    "Aulostomus chinensis",
+    "Aulostomus maculatus",
+    "Aulostomus strigosus"
+  ],
+  "sampled_species": [
+    "Aulostomus chinensis",
+    "Aulostomus maculatus",
+    "Aulostomus strigosus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Aulostomus chinensis"
+    ],
+    "16s": [
+      "Aulostomus chinensis",
+      "Aulostomus maculatus"
+    ],
+    "4c4": [
+      "Aulostomus maculatus"
+    ],
+    "coi": [
+      "Aulostomus chinensis",
+      "Aulostomus maculatus"
+    ],
+    "cytb": [
+      "Aulostomus chinensis",
+      "Aulostomus maculatus",
+      "Aulostomus strigosus"
+    ],
+    "enc1": [
+      "Aulostomus maculatus"
+    ],
+    "ficd": [
+      "Aulostomus chinensis"
+    ],
+    "glyt": [
+      "Aulostomus maculatus"
+    ],
+    "hoxc6a": [
+      "Aulostomus chinensis",
+      "Aulostomus maculatus"
+    ],
+    "kiaa1239": [
+      "Aulostomus chinensis",
+      "Aulostomus maculatus"
+    ],
+    "myh6": [
+      "Aulostomus chinensis",
+      "Aulostomus maculatus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Aulostomus maculatus"
+    ],
+    "plagl2": [
+      "Aulostomus chinensis",
+      "Aulostomus maculatus"
+    ],
+    "ptr": [
+      "Aulostomus maculatus"
+    ],
+    "rag1": [
+      "Aulostomus maculatus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Aulostomus chinensis"
+    ],
+    "ripk4": [
+      "Aulostomus chinensis",
+      "Aulostomus maculatus"
+    ],
+    "sh3px3": [
+      "Aulostomus chinensis",
+      "Aulostomus maculatus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Aulostomus maculatus"
+    ],
+    "svep1": [
+      "Aulostomus chinensis"
+    ],
+    "tbr1": [
+      "Aulostomus maculatus"
+    ],
+    "vcpip": [
+      "Aulostomus chinensis"
+    ],
+    "zic1": [
+      "Aulostomus chinensis",
+      "Aulostomus maculatus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Aulostomidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Syngnathiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Syngnatharia"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Aulostomus chinensis": 0.0412,
+    "Aulostomus maculatus": 0.0228,
+    "Aulostomus strigosus": 0.0412
+  },
+  "tiprates_bamm_lambda": {
+    "Aulostomus chinensis": 0.055,
+    "Aulostomus maculatus": 0.055,
+    "Aulostomus strigosus": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Aulostomus chinensis": 0.0003,
+    "Aulostomus maculatus": 0.0003,
+    "Aulostomus strigosus": 0.0003
+  },
+  "mean_dr": 0.0351,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Aulostomidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Aulostomidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Aulostomidae.tre",
+  "phylogram": "downloads/taxonomy/family/Aulostomidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "species": [
+    "Bihunichthys monopteroides",
+    "Chaudhuria caudata",
+    "Chaudhuria fusipinnis",
+    "Chaudhuria ritvae",
+    "Chendol keelini",
+    "Chendol lubricus",
+    "Garo khajuriai",
+    "Nagaichthys filipes",
+    "Pillaia indica",
+    "Pillaia kachinica"
+  ],
+  "sampled_species": [
+    "Chaudhuria caudata"
+  ],
+  "unsampled_species": [
+    "Bihunichthys monopteroides",
+    "Chaudhuria fusipinnis",
+    "Chaudhuria ritvae",
+    "Chendol keelini",
+    "Chendol lubricus",
+    "Garo khajuriai",
+    "Nagaichthys filipes",
+    "Pillaia indica",
+    "Pillaia kachinica"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Chaudhuria caudata"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Chaudhuria caudata"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Chaudhuria caudata"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Chaudhuria caudata"
+    ],
+    "ptr": [
+      "Chaudhuria caudata"
+    ],
+    "rag1": [
+      "Chaudhuria caudata"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Chaudhuria caudata"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Chaudhuria caudata"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Chaudhuria caudata"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Chaudhuriidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Synbranchiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Anabantaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Mastacembeloidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Chaudhuria caudata": 0.0496
+  },
+  "tiprates_bamm_lambda": {
+    "Chaudhuria caudata": 0.0554
+  },
+  "tiprates_bamm_mu": {
+    "Chaudhuria caudata": 0.0008
+  },
+  "mean_dr": 0.0496,
+  "mean_bamm_lambda": 0.0554,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Chaudhuriidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Chaudhuriidae.nex.xz"
+}

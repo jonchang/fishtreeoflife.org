@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Xiphias gladius"
+  ],
+  "sampled_species": [
+    "Xiphias gladius"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Xiphias gladius"
+    ],
+    "16s": [
+      "Xiphias gladius"
+    ],
+    "4c4": [
+      "Xiphias gladius"
+    ],
+    "coi": [
+      "Xiphias gladius"
+    ],
+    "cytb": [
+      "Xiphias gladius"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Xiphias gladius"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Xiphias gladius"
+    ],
+    "nd2": [
+      "Xiphias gladius"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Xiphias gladius"
+    ],
+    "ptr": [
+      "Xiphias gladius"
+    ],
+    "rag1": [
+      "Xiphias gladius"
+    ],
+    "rag2": [
+      "Xiphias gladius"
+    ],
+    "rhodopsin": [
+      "Xiphias gladius"
+    ],
+    "ripk4": [
+      "Xiphias gladius"
+    ],
+    "sh3px3": [
+      "Xiphias gladius"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Xiphias gladius"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Xiphias gladius"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Xiphias gladius"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Xiphiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Istiophoriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Xiphias gladius": 0.0178
+  },
+  "tiprates_bamm_lambda": {
+    "Xiphias gladius": 0.0551
+  },
+  "tiprates_bamm_mu": {
+    "Xiphias gladius": 0.001
+  },
+  "mean_dr": 0.0178,
+  "mean_bamm_lambda": 0.0551,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Xiphiidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Xiphiidae.nex.xz"
+}

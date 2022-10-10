@@ -1,0 +1,396 @@
+{
+  "species": [
+    "Acipenser baerii",
+    "Acipenser brevirostrum",
+    "Acipenser dabryanus",
+    "Acipenser fulvescens",
+    "Acipenser gueldenstaedtii",
+    "Acipenser medirostris",
+    "Acipenser mikadoi",
+    "Acipenser naccarii",
+    "Acipenser nudiventris",
+    "Acipenser oxyrinchus",
+    "Acipenser persicus",
+    "Acipenser ruthenus",
+    "Acipenser schrenckii",
+    "Acipenser sinensis",
+    "Acipenser stellatus",
+    "Acipenser sturio",
+    "Acipenser transmontanus",
+    "Huso dauricus",
+    "Huso huso",
+    "Pseudoscaphirhynchus fedtschenkoi",
+    "Pseudoscaphirhynchus hermanni",
+    "Pseudoscaphirhynchus kaufmanni",
+    "Scaphirhynchus albus",
+    "Scaphirhynchus platorynchus",
+    "Scaphirhynchus suttkusi",
+    "Polyodon spathula",
+    "Psephurus gladius"
+  ],
+  "sampled_species": [
+    "Acipenser baerii",
+    "Acipenser brevirostrum",
+    "Acipenser dabryanus",
+    "Acipenser fulvescens",
+    "Acipenser gueldenstaedtii",
+    "Acipenser medirostris",
+    "Acipenser mikadoi",
+    "Acipenser naccarii",
+    "Acipenser nudiventris",
+    "Acipenser oxyrinchus",
+    "Acipenser persicus",
+    "Acipenser ruthenus",
+    "Acipenser schrenckii",
+    "Acipenser sinensis",
+    "Acipenser stellatus",
+    "Acipenser sturio",
+    "Acipenser transmontanus",
+    "Huso dauricus",
+    "Huso huso",
+    "Pseudoscaphirhynchus hermanni",
+    "Pseudoscaphirhynchus kaufmanni",
+    "Scaphirhynchus albus",
+    "Scaphirhynchus platorynchus",
+    "Scaphirhynchus suttkusi",
+    "Polyodon spathula",
+    "Psephurus gladius"
+  ],
+  "unsampled_species": [
+    "Pseudoscaphirhynchus fedtschenkoi"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Acipenser baerii",
+      "Acipenser brevirostrum",
+      "Acipenser fulvescens",
+      "Acipenser gueldenstaedtii",
+      "Acipenser medirostris",
+      "Acipenser mikadoi",
+      "Acipenser naccarii",
+      "Acipenser nudiventris",
+      "Acipenser oxyrinchus",
+      "Acipenser persicus",
+      "Acipenser ruthenus",
+      "Acipenser schrenckii",
+      "Acipenser sinensis",
+      "Acipenser stellatus",
+      "Acipenser sturio",
+      "Acipenser transmontanus",
+      "Huso dauricus",
+      "Huso huso",
+      "Pseudoscaphirhynchus hermanni",
+      "Pseudoscaphirhynchus kaufmanni",
+      "Scaphirhynchus albus",
+      "Scaphirhynchus platorynchus",
+      "Scaphirhynchus suttkusi",
+      "Polyodon spathula",
+      "Psephurus gladius"
+    ],
+    "16s": [
+      "Acipenser baerii",
+      "Acipenser brevirostrum",
+      "Acipenser fulvescens",
+      "Acipenser gueldenstaedtii",
+      "Acipenser medirostris",
+      "Acipenser mikadoi",
+      "Acipenser naccarii",
+      "Acipenser nudiventris",
+      "Acipenser oxyrinchus",
+      "Acipenser persicus",
+      "Acipenser ruthenus",
+      "Acipenser schrenckii",
+      "Acipenser sinensis",
+      "Acipenser stellatus",
+      "Acipenser sturio",
+      "Acipenser transmontanus",
+      "Huso dauricus",
+      "Huso huso",
+      "Pseudoscaphirhynchus hermanni",
+      "Pseudoscaphirhynchus kaufmanni",
+      "Scaphirhynchus albus",
+      "Scaphirhynchus platorynchus",
+      "Scaphirhynchus suttkusi",
+      "Polyodon spathula",
+      "Psephurus gladius"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Acipenser baerii",
+      "Acipenser brevirostrum",
+      "Acipenser fulvescens",
+      "Acipenser gueldenstaedtii",
+      "Acipenser medirostris",
+      "Acipenser nudiventris",
+      "Acipenser oxyrinchus",
+      "Acipenser persicus",
+      "Acipenser ruthenus",
+      "Acipenser stellatus",
+      "Acipenser transmontanus",
+      "Huso huso",
+      "Scaphirhynchus platorynchus",
+      "Polyodon spathula"
+    ],
+    "cytb": [
+      "Acipenser baerii",
+      "Acipenser brevirostrum",
+      "Acipenser dabryanus",
+      "Acipenser fulvescens",
+      "Acipenser gueldenstaedtii",
+      "Acipenser medirostris",
+      "Acipenser mikadoi",
+      "Acipenser naccarii",
+      "Acipenser nudiventris",
+      "Acipenser oxyrinchus",
+      "Acipenser persicus",
+      "Acipenser ruthenus",
+      "Acipenser schrenckii",
+      "Acipenser sinensis",
+      "Acipenser stellatus",
+      "Acipenser sturio",
+      "Acipenser transmontanus",
+      "Huso dauricus",
+      "Huso huso",
+      "Pseudoscaphirhynchus hermanni",
+      "Pseudoscaphirhynchus kaufmanni",
+      "Scaphirhynchus albus",
+      "Scaphirhynchus platorynchus",
+      "Scaphirhynchus suttkusi",
+      "Polyodon spathula",
+      "Psephurus gladius"
+    ],
+    "enc1": [
+      "Polyodon spathula"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+      "Acipenser brevirostrum",
+      "Acipenser oxyrinchus",
+      "Acipenser sturio"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Scaphirhynchus platorynchus",
+      "Polyodon spathula"
+    ],
+    "ptr": [
+      "Scaphirhynchus platorynchus",
+      "Polyodon spathula"
+    ],
+    "rag1": [
+      "Scaphirhynchus albus",
+      "Scaphirhynchus platorynchus",
+      "Polyodon spathula"
+    ],
+    "rag2": [
+      "Polyodon spathula"
+    ],
+    "rhodopsin": [
+      "Acipenser baerii",
+      "Acipenser gueldenstaedtii",
+      "Acipenser oxyrinchus",
+      "Acipenser transmontanus",
+      "Huso huso",
+      "Polyodon spathula"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Scaphirhynchus platorynchus",
+      "Polyodon spathula"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Scaphirhynchus platorynchus",
+      "Polyodon spathula"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Scaphirhynchus platorynchus",
+      "Polyodon spathula"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Acipenseridae",
+      "Polyodontidae"
+    ],
+    "infraclass": [
+
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+
+    ],
+    "order": [
+      "Acipenseriformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Chondrostei"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Acipenser baerii": 0.2227,
+    "Acipenser brevirostrum": 0.2047,
+    "Acipenser dabryanus": 0.1308,
+    "Acipenser fulvescens": 0.2047,
+    "Acipenser gueldenstaedtii": 0.1906,
+    "Acipenser medirostris": 0.1314,
+    "Acipenser mikadoi": 0.1314,
+    "Acipenser naccarii": 0.3056,
+    "Acipenser nudiventris": 0.1308,
+    "Acipenser oxyrinchus": 0.0137,
+    "Acipenser persicus": 0.2227,
+    "Acipenser ruthenus": 0.3056,
+    "Acipenser schrenckii": 0.1014,
+    "Acipenser sinensis": 0.0646,
+    "Acipenser stellatus": 0.1478,
+    "Acipenser sturio": 0.0077,
+    "Acipenser transmontanus": 0.1014,
+    "Huso dauricus": 0.0679,
+    "Huso huso": 0.0552,
+    "Polyodon spathula": 0.0065,
+    "Psephurus gladius": 0.0065,
+    "Pseudoscaphirhynchus hermanni": 0.3914,
+    "Pseudoscaphirhynchus kaufmanni": 0.4217,
+    "Scaphirhynchus albus": 0.0727,
+    "Scaphirhynchus platorynchus": 0.1378,
+    "Scaphirhynchus suttkusi": 0.1378
+  },
+  "tiprates_bamm_lambda": {
+    "Acipenser baerii": 0.1885,
+    "Acipenser brevirostrum": 0.1885,
+    "Acipenser dabryanus": 0.1886,
+    "Acipenser fulvescens": 0.1885,
+    "Acipenser gueldenstaedtii": 0.1885,
+    "Acipenser medirostris": 0.1886,
+    "Acipenser mikadoi": 0.1886,
+    "Acipenser naccarii": 0.1885,
+    "Acipenser nudiventris": 0.1886,
+    "Acipenser oxyrinchus": 0.1115,
+    "Acipenser persicus": 0.1885,
+    "Acipenser ruthenus": 0.1885,
+    "Acipenser schrenckii": 0.1886,
+    "Acipenser sinensis": 0.1886,
+    "Acipenser stellatus": 0.1886,
+    "Acipenser sturio": 0.1115,
+    "Acipenser transmontanus": 0.1886,
+    "Huso dauricus": 0.1886,
+    "Huso huso": 0.1886,
+    "Polyodon spathula": 0.0576,
+    "Psephurus gladius": 0.0576,
+    "Pseudoscaphirhynchus hermanni": 0.1886,
+    "Pseudoscaphirhynchus kaufmanni": 0.1886,
+    "Scaphirhynchus albus": 0.1886,
+    "Scaphirhynchus platorynchus": 0.1886,
+    "Scaphirhynchus suttkusi": 0.1886
+  },
+  "tiprates_bamm_mu": {
+    "Acipenser baerii": 0.0762,
+    "Acipenser brevirostrum": 0.0762,
+    "Acipenser dabryanus": 0.0763,
+    "Acipenser fulvescens": 0.0762,
+    "Acipenser gueldenstaedtii": 0.0762,
+    "Acipenser medirostris": 0.0763,
+    "Acipenser mikadoi": 0.0763,
+    "Acipenser naccarii": 0.0762,
+    "Acipenser nudiventris": 0.0763,
+    "Acipenser oxyrinchus": 0.0675,
+    "Acipenser persicus": 0.0762,
+    "Acipenser ruthenus": 0.0762,
+    "Acipenser schrenckii": 0.0763,
+    "Acipenser sinensis": 0.0763,
+    "Acipenser stellatus": 0.0763,
+    "Acipenser sturio": 0.0675,
+    "Acipenser transmontanus": 0.0763,
+    "Huso dauricus": 0.0763,
+    "Huso huso": 0.0763,
+    "Polyodon spathula": 0.047,
+    "Psephurus gladius": 0.047,
+    "Pseudoscaphirhynchus hermanni": 0.0763,
+    "Pseudoscaphirhynchus kaufmanni": 0.0763,
+    "Scaphirhynchus albus": 0.0763,
+    "Scaphirhynchus platorynchus": 0.0763,
+    "Scaphirhynchus suttkusi": 0.0763
+  },
+  "mean_dr": 0.1506,
+  "mean_bamm_lambda": 0.1726,
+  "mean_bamm_mu": 0.0734,
+  "matrix_phylip": "downloads/taxonomy/order/Acipenseriformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Acipenseriformes.nex.xz",
+  "chronogram": "downloads/taxonomy/order/Acipenseriformes.tre",
+  "phylogram": "downloads/taxonomy/order/Acipenseriformes_phylogram.tre",
+  "rogues": [
+
+  ]
+}

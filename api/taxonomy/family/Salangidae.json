@@ -1,0 +1,352 @@
+{
+  "species": [
+    "Hemisalanx brachyrostralis",
+    "Leucosoma reevesii",
+    "Neosalangichthys ishikawae",
+    "Neosalanx anderssoni",
+    "Neosalanx argentea",
+    "Neosalanx brevirostris",
+    "Neosalanx hubbsi",
+    "Neosalanx jordani",
+    "Neosalanx oligodontis",
+    "Neosalanx pseudotaihuensis",
+    "Neosalanx reganius",
+    "Neosalanx taihuensis",
+    "Neosalanx tangkahkeii",
+    "Protosalanx chinensis",
+    "Protosalanx hyalocranius",
+    "Salangichthys microdon",
+    "Salanx ariakensis",
+    "Salanx chinensis",
+    "Salanx cuvieri",
+    "Salanx prognathus"
+  ],
+  "sampled_species": [
+    "Hemisalanx brachyrostralis",
+    "Leucosoma reevesii",
+    "Neosalangichthys ishikawae",
+    "Neosalanx anderssoni",
+    "Neosalanx argentea",
+    "Neosalanx brevirostris",
+    "Neosalanx jordani",
+    "Neosalanx oligodontis",
+    "Neosalanx pseudotaihuensis",
+    "Neosalanx reganius",
+    "Neosalanx taihuensis",
+    "Neosalanx tangkahkeii",
+    "Protosalanx chinensis",
+    "Salangichthys microdon",
+    "Salanx ariakensis",
+    "Salanx cuvieri",
+    "Salanx prognathus"
+  ],
+  "unsampled_species": [
+    "Neosalanx hubbsi",
+    "Protosalanx hyalocranius",
+    "Salanx chinensis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Hemisalanx brachyrostralis",
+      "Neosalangichthys ishikawae",
+      "Neosalanx anderssoni",
+      "Neosalanx brevirostris",
+      "Neosalanx jordani",
+      "Neosalanx oligodontis",
+      "Neosalanx pseudotaihuensis",
+      "Neosalanx taihuensis",
+      "Neosalanx tangkahkeii",
+      "Protosalanx chinensis",
+      "Salangichthys microdon",
+      "Salanx ariakensis",
+      "Salanx cuvieri"
+    ],
+    "16s": [
+      "Hemisalanx brachyrostralis",
+      "Leucosoma reevesii",
+      "Neosalangichthys ishikawae",
+      "Neosalanx anderssoni",
+      "Neosalanx brevirostris",
+      "Neosalanx jordani",
+      "Neosalanx oligodontis",
+      "Neosalanx pseudotaihuensis",
+      "Neosalanx taihuensis",
+      "Neosalanx tangkahkeii",
+      "Protosalanx chinensis",
+      "Salangichthys microdon",
+      "Salanx ariakensis",
+      "Salanx cuvieri"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Neosalangichthys ishikawae",
+      "Protosalanx chinensis",
+      "Salangichthys microdon"
+    ],
+    "cytb": [
+      "Hemisalanx brachyrostralis",
+      "Leucosoma reevesii",
+      "Neosalangichthys ishikawae",
+      "Neosalanx anderssoni",
+      "Neosalanx argentea",
+      "Neosalanx brevirostris",
+      "Neosalanx jordani",
+      "Neosalanx oligodontis",
+      "Neosalanx pseudotaihuensis",
+      "Neosalanx reganius",
+      "Neosalanx taihuensis",
+      "Neosalanx tangkahkeii",
+      "Protosalanx chinensis",
+      "Salangichthys microdon",
+      "Salanx ariakensis",
+      "Salanx cuvieri",
+      "Salanx prognathus"
+    ],
+    "enc1": [
+      "Leucosoma reevesii",
+      "Neosalangichthys ishikawae",
+      "Neosalanx anderssoni",
+      "Neosalanx brevirostris",
+      "Neosalanx jordani",
+      "Protosalanx chinensis",
+      "Salangichthys microdon",
+      "Salanx ariakensis",
+      "Salanx cuvieri",
+      "Salanx prognathus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Leucosoma reevesii",
+      "Neosalangichthys ishikawae",
+      "Neosalanx anderssoni",
+      "Neosalanx brevirostris",
+      "Neosalanx jordani",
+      "Protosalanx chinensis",
+      "Salangichthys microdon",
+      "Salanx ariakensis",
+      "Salanx cuvieri",
+      "Salanx prognathus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Neosalanx anderssoni",
+      "Protosalanx chinensis",
+      "Salangichthys microdon"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Neosalanx anderssoni",
+      "Protosalanx chinensis",
+      "Salangichthys microdon"
+    ],
+    "ptr": [
+      "Neosalanx anderssoni",
+      "Protosalanx chinensis",
+      "Salangichthys microdon"
+    ],
+    "rag1": [
+      "Leucosoma reevesii",
+      "Neosalangichthys ishikawae",
+      "Neosalanx anderssoni",
+      "Neosalanx brevirostris",
+      "Neosalanx jordani",
+      "Protosalanx chinensis",
+      "Salangichthys microdon",
+      "Salanx ariakensis",
+      "Salanx cuvieri",
+      "Salanx prognathus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Neosalanx anderssoni",
+      "Protosalanx chinensis",
+      "Salangichthys microdon"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Leucosoma reevesii",
+      "Neosalangichthys ishikawae",
+      "Neosalanx anderssoni",
+      "Neosalanx brevirostris",
+      "Neosalanx jordani",
+      "Protosalanx chinensis",
+      "Salangichthys microdon",
+      "Salanx ariakensis",
+      "Salanx cuvieri",
+      "Salanx prognathus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Neosalanx anderssoni",
+      "Protosalanx chinensis",
+      "Salangichthys microdon"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Salangichthys microdon"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Leucosoma reevesii",
+      "Neosalangichthys ishikawae",
+      "Neosalanx anderssoni",
+      "Neosalanx brevirostris",
+      "Neosalanx jordani",
+      "Protosalanx chinensis",
+      "Salangichthys microdon",
+      "Salanx ariakensis",
+      "Salanx cuvieri",
+      "Salanx prognathus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Salangidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Osmeriformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Stomiatii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Hemisalanx brachyrostralis": 0.2223,
+    "Leucosoma reevesii": 0.0441,
+    "Neosalangichthys ishikawae": 0.0297,
+    "Neosalanx anderssoni": 0.089,
+    "Neosalanx argentea": 0.147,
+    "Neosalanx brevirostris": 0.9955,
+    "Neosalanx jordani": 0.0933,
+    "Neosalanx oligodontis": 0.0759,
+    "Neosalanx pseudotaihuensis": 0.9955,
+    "Neosalanx reganius": 0.0765,
+    "Neosalanx taihuensis": 0.5173,
+    "Neosalanx tangkahkeii": 0.2729,
+    "Protosalanx chinensis": 0.1452,
+    "Salangichthys microdon": 0.0309,
+    "Salanx ariakensis": 0.0658,
+    "Salanx cuvieri": 0.1143,
+    "Salanx prognathus": 0.225
+  },
+  "tiprates_bamm_lambda": {
+    "Hemisalanx brachyrostralis": 0.0461,
+    "Leucosoma reevesii": 0.0461,
+    "Neosalangichthys ishikawae": 0.0457,
+    "Neosalanx anderssoni": 0.0694,
+    "Neosalanx argentea": 0.5888,
+    "Neosalanx brevirostris": 0.5888,
+    "Neosalanx jordani": 0.1645,
+    "Neosalanx oligodontis": 0.0522,
+    "Neosalanx pseudotaihuensis": 0.5888,
+    "Neosalanx reganius": 0.0522,
+    "Neosalanx taihuensis": 0.5888,
+    "Neosalanx tangkahkeii": 0.5888,
+    "Protosalanx chinensis": 0.0694,
+    "Salangichthys microdon": 0.0456,
+    "Salanx ariakensis": 0.0461,
+    "Salanx cuvieri": 0.0461,
+    "Salanx prognathus": 0.0461
+  },
+  "tiprates_bamm_mu": {
+    "Hemisalanx brachyrostralis": 0.0094,
+    "Leucosoma reevesii": 0.0094,
+    "Neosalangichthys ishikawae": 0.0088,
+    "Neosalanx anderssoni": 0.0269,
+    "Neosalanx argentea": 0.3436,
+    "Neosalanx brevirostris": 0.3436,
+    "Neosalanx jordani": 0.0852,
+    "Neosalanx oligodontis": 0.0141,
+    "Neosalanx pseudotaihuensis": 0.3436,
+    "Neosalanx reganius": 0.0141,
+    "Neosalanx taihuensis": 0.3436,
+    "Neosalanx tangkahkeii": 0.3436,
+    "Protosalanx chinensis": 0.0269,
+    "Salangichthys microdon": 0.0087,
+    "Salanx ariakensis": 0.0094,
+    "Salanx cuvieri": 0.0094,
+    "Salanx prognathus": 0.0094
+  },
+  "mean_dr": 0.2435,
+  "mean_bamm_lambda": 0.2161,
+  "mean_bamm_mu": 0.1147,
+  "matrix_phylip": "downloads/taxonomy/family/Salangidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Salangidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Salangidae.tre",
+  "phylogram": "downloads/taxonomy/family/Salangidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

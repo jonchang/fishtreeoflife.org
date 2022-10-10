@@ -1,0 +1,133 @@
+{
+  "species": [
+    "Acentrophryne dolichonema",
+    "Acentrophryne longidens",
+    "Borophryne apogon",
+    "Haplophryne mollis",
+    "Haplophryne triregium",
+    "Linophryne algibarbata",
+    "Linophryne andersoni",
+    "Linophryne arborifera",
+    "Linophryne arcturi",
+    "Linophryne argyresca",
+    "Linophryne bicornis",
+    "Linophryne bipennata",
+    "Linophryne brevibarbata",
+    "Linophryne coronata",
+    "Linophryne densiramus",
+    "Linophryne escaramosa",
+    "Linophryne indica",
+    "Linophryne lucifer",
+    "Linophryne macrodon",
+    "Linophryne maderensis",
+    "Linophryne parini",
+    "Linophryne pennibarbata",
+    "Linophryne polypogon",
+    "Linophryne quinqueramosa",
+    "Linophryne racemifera",
+    "Linophryne sexfilis",
+    "Linophryne trewavasae",
+    "Photocorynus spiniceps"
+  ],
+  "sampled_species": [
+
+  ],
+  "unsampled_species": [
+    "Acentrophryne dolichonema",
+    "Acentrophryne longidens",
+    "Borophryne apogon",
+    "Haplophryne mollis",
+    "Haplophryne triregium",
+    "Linophryne algibarbata",
+    "Linophryne andersoni",
+    "Linophryne arborifera",
+    "Linophryne arcturi",
+    "Linophryne argyresca",
+    "Linophryne bicornis",
+    "Linophryne bipennata",
+    "Linophryne brevibarbata",
+    "Linophryne coronata",
+    "Linophryne densiramus",
+    "Linophryne escaramosa",
+    "Linophryne indica",
+    "Linophryne lucifer",
+    "Linophryne macrodon",
+    "Linophryne maderensis",
+    "Linophryne parini",
+    "Linophryne pennibarbata",
+    "Linophryne polypogon",
+    "Linophryne quinqueramosa",
+    "Linophryne racemifera",
+    "Linophryne sexfilis",
+    "Linophryne trewavasae",
+    "Photocorynus spiniceps"
+  ],
+  "gene_sampling": [
+
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Linophrynidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lophiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Ceratioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+  },
+  "tiprates_bamm_lambda": {
+  },
+  "tiprates_bamm_mu": {
+  },
+  "mean_dr": "NaN",
+  "mean_bamm_lambda": "NaN",
+  "mean_bamm_mu": "NaN"
+}

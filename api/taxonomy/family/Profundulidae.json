@@ -1,0 +1,210 @@
+{
+  "species": [
+    "Profundulus candalarius",
+    "Profundulus guatemalensis",
+    "Profundulus hildebrandi",
+    "Profundulus kreiseri",
+    "Profundulus labialis",
+    "Profundulus oaxacae",
+    "Profundulus portillorum",
+    "Profundulus punctatus"
+  ],
+  "sampled_species": [
+    "Profundulus candalarius",
+    "Profundulus guatemalensis",
+    "Profundulus hildebrandi",
+    "Profundulus labialis",
+    "Profundulus oaxacae",
+    "Profundulus portillorum",
+    "Profundulus punctatus"
+  ],
+  "unsampled_species": [
+    "Profundulus kreiseri"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Profundulus labialis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Profundulus candalarius",
+      "Profundulus guatemalensis",
+      "Profundulus labialis",
+      "Profundulus punctatus"
+    ],
+    "cytb": [
+      "Profundulus candalarius",
+      "Profundulus guatemalensis",
+      "Profundulus hildebrandi",
+      "Profundulus labialis",
+      "Profundulus oaxacae",
+      "Profundulus portillorum",
+      "Profundulus punctatus"
+    ],
+    "enc1": [
+      "Profundulus labialis"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Profundulus labialis"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Profundulus labialis"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Profundulus labialis"
+    ],
+    "ptr": [
+      "Profundulus labialis"
+    ],
+    "rag1": [
+      "Profundulus guatemalensis",
+      "Profundulus labialis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Profundulus labialis"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Profundulus labialis"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Profundulus labialis"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Profundulidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Cyprinodontiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cyprinodontoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Atherinomorphae"
+    ]
+  },
+  "tiprates_dr": {
+    "Profundulus candalarius": 0.0853,
+    "Profundulus guatemalensis": 0.0506,
+    "Profundulus hildebrandi": 0.066,
+    "Profundulus labialis": 0.0826,
+    "Profundulus oaxacae": 0.0893,
+    "Profundulus portillorum": 0.0682,
+    "Profundulus punctatus": 0.0896
+  },
+  "tiprates_bamm_lambda": {
+    "Profundulus candalarius": 0.0779,
+    "Profundulus guatemalensis": 0.0779,
+    "Profundulus hildebrandi": 0.0779,
+    "Profundulus labialis": 0.0779,
+    "Profundulus oaxacae": 0.0779,
+    "Profundulus portillorum": 0.0779,
+    "Profundulus punctatus": 0.0779
+  },
+  "tiprates_bamm_mu": {
+    "Profundulus candalarius": 0.0069,
+    "Profundulus guatemalensis": 0.0069,
+    "Profundulus hildebrandi": 0.0069,
+    "Profundulus labialis": 0.0069,
+    "Profundulus oaxacae": 0.0069,
+    "Profundulus portillorum": 0.0069,
+    "Profundulus punctatus": 0.0069
+  },
+  "mean_dr": 0.0759,
+  "mean_bamm_lambda": 0.0779,
+  "mean_bamm_mu": 0.0069,
+  "matrix_phylip": "downloads/taxonomy/family/Profundulidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Profundulidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Profundulidae.tre",
+  "phylogram": "downloads/taxonomy/family/Profundulidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "species": [
+    "Ellopostoma megalomycter",
+    "Ellopostoma mystax"
+  ],
+  "sampled_species": [
+    "Ellopostoma mystax"
+  ],
+  "unsampled_species": [
+    "Ellopostoma megalomycter"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Ellopostoma mystax"
+    ],
+    "cytb": [
+      "Ellopostoma mystax"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Ellopostoma mystax"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Ellopostoma mystax"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Ellopostomatidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Cypriniformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Cypriniphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Ellopostoma mystax": 0.0427
+  },
+  "tiprates_bamm_lambda": {
+    "Ellopostoma mystax": 0.0814
+  },
+  "tiprates_bamm_mu": {
+    "Ellopostoma mystax": 0.0028
+  },
+  "mean_dr": 0.0427,
+  "mean_bamm_lambda": 0.0814,
+  "mean_bamm_mu": 0.0028,
+  "matrix_phylip": "downloads/taxonomy/family/Ellopostomatidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Ellopostomatidae.nex.xz"
+}

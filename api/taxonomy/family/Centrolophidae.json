@@ -1,0 +1,316 @@
+{
+  "species": [
+    "Centrolophus niger",
+    "Hyperoglyphe antarctica",
+    "Hyperoglyphe bythites",
+    "Hyperoglyphe japonica",
+    "Hyperoglyphe macrophthalma",
+    "Hyperoglyphe perciformis",
+    "Hyperoglyphe pringlei",
+    "Icichthys australis",
+    "Icichthys lockingtoni",
+    "Psenopsis anomala",
+    "Psenopsis cyanea",
+    "Psenopsis humerosa",
+    "Psenopsis intermedia",
+    "Psenopsis obscura",
+    "Psenopsis shojimai",
+    "Schedophilus griseolineatus",
+    "Schedophilus haedrichi",
+    "Schedophilus huttoni",
+    "Schedophilus maculatus",
+    "Schedophilus medusophagus",
+    "Schedophilus ovalis",
+    "Schedophilus pemarco",
+    "Schedophilus velaini",
+    "Seriolella brama",
+    "Seriolella caerulea",
+    "Seriolella porosa",
+    "Seriolella punctata",
+    "Seriolella tinro",
+    "Seriolella violacea",
+    "Tubbia stewarti",
+    "Tubbia tasmanica"
+  ],
+  "sampled_species": [
+    "Centrolophus niger",
+    "Hyperoglyphe antarctica",
+    "Hyperoglyphe japonica",
+    "Hyperoglyphe perciformis",
+    "Icichthys australis",
+    "Icichthys lockingtoni",
+    "Psenopsis anomala",
+    "Psenopsis cyanea",
+    "Schedophilus maculatus",
+    "Schedophilus medusophagus",
+    "Schedophilus ovalis",
+    "Schedophilus velaini",
+    "Seriolella brama",
+    "Seriolella caerulea",
+    "Seriolella porosa",
+    "Seriolella punctata"
+  ],
+  "unsampled_species": [
+    "Hyperoglyphe bythites",
+    "Hyperoglyphe macrophthalma",
+    "Hyperoglyphe pringlei",
+    "Psenopsis humerosa",
+    "Psenopsis intermedia",
+    "Psenopsis obscura",
+    "Psenopsis shojimai",
+    "Schedophilus griseolineatus",
+    "Schedophilus haedrichi",
+    "Schedophilus huttoni",
+    "Schedophilus pemarco",
+    "Seriolella tinro",
+    "Seriolella violacea",
+    "Tubbia stewarti",
+    "Tubbia tasmanica"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Centrolophus niger",
+      "Psenopsis anomala",
+      "Schedophilus velaini",
+      "Seriolella brama"
+    ],
+    "16s": [
+      "Centrolophus niger",
+      "Hyperoglyphe antarctica",
+      "Hyperoglyphe japonica",
+      "Icichthys lockingtoni",
+      "Psenopsis anomala",
+      "Schedophilus medusophagus",
+      "Schedophilus ovalis",
+      "Schedophilus velaini",
+      "Seriolella brama",
+      "Seriolella caerulea",
+      "Seriolella punctata"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Centrolophus niger",
+      "Hyperoglyphe antarctica",
+      "Hyperoglyphe japonica",
+      "Hyperoglyphe perciformis",
+      "Icichthys australis",
+      "Icichthys lockingtoni",
+      "Psenopsis anomala",
+      "Psenopsis cyanea",
+      "Schedophilus maculatus",
+      "Schedophilus medusophagus",
+      "Schedophilus ovalis",
+      "Schedophilus velaini",
+      "Seriolella brama",
+      "Seriolella caerulea",
+      "Seriolella porosa",
+      "Seriolella punctata"
+    ],
+    "cytb": [
+      "Centrolophus niger",
+      "Hyperoglyphe japonica",
+      "Icichthys lockingtoni",
+      "Psenopsis anomala",
+      "Schedophilus medusophagus",
+      "Schedophilus ovalis",
+      "Schedophilus velaini",
+      "Seriolella brama",
+      "Seriolella caerulea",
+      "Seriolella punctata"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Icichthys lockingtoni"
+    ],
+    "kiaa1239": [
+      "Icichthys lockingtoni"
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+      "Hyperoglyphe japonica",
+      "Psenopsis anomala"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Icichthys lockingtoni"
+    ],
+    "plagl2": [
+      "Icichthys lockingtoni"
+    ],
+    "ptr": [
+      "Icichthys lockingtoni"
+    ],
+    "rag1": [
+      "Psenopsis anomala"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Centrolophus niger",
+      "Psenopsis anomala",
+      "Schedophilus medusophagus",
+      "Schedophilus ovalis",
+      "Schedophilus velaini",
+      "Seriolella brama"
+    ],
+    "ripk4": [
+      "Icichthys lockingtoni"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+      "Icichthys lockingtoni"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Icichthys lockingtoni"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Centrolophidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Scombriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Pelagiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Centrolophus niger": 0.1052,
+    "Hyperoglyphe antarctica": 0.047,
+    "Hyperoglyphe japonica": 0.1195,
+    "Hyperoglyphe perciformis": 0.0927,
+    "Icichthys australis": 0.1234,
+    "Icichthys lockingtoni": 0.111,
+    "Psenopsis anomala": 0.0571,
+    "Psenopsis cyanea": 0.0548,
+    "Schedophilus maculatus": 0.1069,
+    "Schedophilus medusophagus": 0.0819,
+    "Schedophilus ovalis": 0.1138,
+    "Schedophilus velaini": 0.1221,
+    "Seriolella brama": 0.1239,
+    "Seriolella caerulea": 0.1019,
+    "Seriolella porosa": 0.1517,
+    "Seriolella punctata": 0.1517
+  },
+  "tiprates_bamm_lambda": {
+    "Centrolophus niger": 0.0559,
+    "Hyperoglyphe antarctica": 0.0554,
+    "Hyperoglyphe japonica": 0.0559,
+    "Hyperoglyphe perciformis": 0.0557,
+    "Icichthys australis": 0.0557,
+    "Icichthys lockingtoni": 0.0559,
+    "Psenopsis anomala": 0.055,
+    "Psenopsis cyanea": 0.055,
+    "Schedophilus maculatus": 0.0559,
+    "Schedophilus medusophagus": 0.0557,
+    "Schedophilus ovalis": 0.0559,
+    "Schedophilus velaini": 0.0559,
+    "Seriolella brama": 0.0557,
+    "Seriolella caerulea": 0.0557,
+    "Seriolella porosa": 0.0557,
+    "Seriolella punctata": 0.0557
+  },
+  "tiprates_bamm_mu": {
+    "Centrolophus niger": 0.0004,
+    "Hyperoglyphe antarctica": 0.0004,
+    "Hyperoglyphe japonica": 0.0004,
+    "Hyperoglyphe perciformis": 0.0004,
+    "Icichthys australis": 0.0004,
+    "Icichthys lockingtoni": 0.0004,
+    "Psenopsis anomala": 0.0003,
+    "Psenopsis cyanea": 0.0003,
+    "Schedophilus maculatus": 0.0004,
+    "Schedophilus medusophagus": 0.0004,
+    "Schedophilus ovalis": 0.0004,
+    "Schedophilus velaini": 0.0004,
+    "Seriolella brama": 0.0004,
+    "Seriolella caerulea": 0.0004,
+    "Seriolella porosa": 0.0004,
+    "Seriolella punctata": 0.0004
+  },
+  "mean_dr": 0.104,
+  "mean_bamm_lambda": 0.0557,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Centrolophidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Centrolophidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Centrolophidae.tre",
+  "phylogram": "downloads/taxonomy/family/Centrolophidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

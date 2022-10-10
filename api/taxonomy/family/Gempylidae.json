@@ -1,0 +1,447 @@
+{
+  "species": [
+    "Diplospinus multistriatus",
+    "Epinnula magistralis",
+    "Gempylus serpens",
+    "Lepidocybium flavobrunneum",
+    "Nealotus tripes",
+    "Neoepinnula americana",
+    "Neoepinnula orientalis",
+    "Nesiarchus nasutus",
+    "Paradiplospinus antarcticus",
+    "Paradiplospinus gracilis",
+    "Promethichthys prometheus",
+    "Rexea alisae",
+    "Rexea antefurcata",
+    "Rexea bengalensis",
+    "Rexea brevilineata",
+    "Rexea nakamurai",
+    "Rexea prometheoides",
+    "Rexea solandri",
+    "Rexichthys johnpaxtoni",
+    "Ruvettus pretiosus",
+    "Thyrsites atun",
+    "Thyrsitoides marleyi",
+    "Thyrsitops lepidopoides",
+    "Tongaichthys robustus"
+  ],
+  "sampled_species": [
+    "Diplospinus multistriatus",
+    "Gempylus serpens",
+    "Lepidocybium flavobrunneum",
+    "Nealotus tripes",
+    "Neoepinnula americana",
+    "Neoepinnula orientalis",
+    "Nesiarchus nasutus",
+    "Paradiplospinus antarcticus",
+    "Promethichthys prometheus",
+    "Rexea antefurcata",
+    "Rexea prometheoides",
+    "Rexea solandri",
+    "Ruvettus pretiosus",
+    "Thyrsites atun"
+  ],
+  "unsampled_species": [
+    "Epinnula magistralis",
+    "Paradiplospinus gracilis",
+    "Rexea alisae",
+    "Rexea bengalensis",
+    "Rexea brevilineata",
+    "Rexea nakamurai",
+    "Rexichthys johnpaxtoni",
+    "Thyrsitoides marleyi",
+    "Thyrsitops lepidopoides",
+    "Tongaichthys robustus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Gempylus serpens",
+      "Lepidocybium flavobrunneum",
+      "Nesiarchus nasutus",
+      "Paradiplospinus antarcticus",
+      "Rexea solandri",
+      "Ruvettus pretiosus",
+      "Thyrsites atun"
+    ],
+    "16s": [
+      "Diplospinus multistriatus",
+      "Gempylus serpens",
+      "Lepidocybium flavobrunneum",
+      "Neoepinnula orientalis",
+      "Nesiarchus nasutus",
+      "Paradiplospinus antarcticus",
+      "Rexea antefurcata",
+      "Rexea prometheoides",
+      "Rexea solandri",
+      "Ruvettus pretiosus",
+      "Thyrsites atun"
+    ],
+    "4c4": [
+      "Diplospinus multistriatus",
+      "Gempylus serpens",
+      "Nealotus tripes",
+      "Neoepinnula americana",
+      "Nesiarchus nasutus",
+      "Paradiplospinus antarcticus",
+      "Rexea solandri",
+      "Ruvettus pretiosus",
+      "Thyrsites atun"
+    ],
+    "coi": [
+      "Gempylus serpens",
+      "Lepidocybium flavobrunneum",
+      "Nealotus tripes",
+      "Neoepinnula americana",
+      "Neoepinnula orientalis",
+      "Nesiarchus nasutus",
+      "Paradiplospinus antarcticus",
+      "Promethichthys prometheus",
+      "Rexea solandri",
+      "Ruvettus pretiosus",
+      "Thyrsites atun"
+    ],
+    "cytb": [
+      "Gempylus serpens",
+      "Lepidocybium flavobrunneum",
+      "Ruvettus pretiosus"
+    ],
+    "enc1": [
+      "Ruvettus pretiosus"
+    ],
+    "ficd": [
+      "Neoepinnula americana"
+    ],
+    "glyt": [
+      "Ruvettus pretiosus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Nealotus tripes",
+      "Neoepinnula americana",
+      "Neoepinnula orientalis",
+      "Ruvettus pretiosus"
+    ],
+    "myh6": [
+      "Gempylus serpens",
+      "Ruvettus pretiosus"
+    ],
+    "nd2": [
+      "Diplospinus multistriatus",
+      "Gempylus serpens",
+      "Lepidocybium flavobrunneum",
+      "Nealotus tripes",
+      "Neoepinnula americana",
+      "Nesiarchus nasutus",
+      "Paradiplospinus antarcticus",
+      "Promethichthys prometheus",
+      "Rexea solandri",
+      "Ruvettus pretiosus",
+      "Thyrsites atun"
+    ],
+    "nd4": [
+      "Lepidocybium flavobrunneum"
+    ],
+    "panx2": [
+      "Gempylus serpens",
+      "Nealotus tripes",
+      "Neoepinnula americana",
+      "Neoepinnula orientalis"
+    ],
+    "plagl2": [
+      "Gempylus serpens",
+      "Neoepinnula orientalis",
+      "Ruvettus pretiosus"
+    ],
+    "ptr": [
+      "Gempylus serpens",
+      "Nealotus tripes",
+      "Ruvettus pretiosus"
+    ],
+    "rag1": [
+      "Ruvettus pretiosus"
+    ],
+    "rag2": [
+      "Gempylus serpens",
+      "Nesiarchus nasutus",
+      "Paradiplospinus antarcticus",
+      "Ruvettus pretiosus"
+    ],
+    "rhodopsin": [
+      "Gempylus serpens",
+      "Nesiarchus nasutus",
+      "Paradiplospinus antarcticus",
+      "Ruvettus pretiosus"
+    ],
+    "ripk4": [
+      "Gempylus serpens",
+      "Nealotus tripes",
+      "Neoepinnula orientalis"
+    ],
+    "sh3px3": [
+      "Nealotus tripes",
+      "Neoepinnula americana",
+      "Ruvettus pretiosus"
+    ],
+    "sidkey": [
+      "Gempylus serpens",
+      "Nealotus tripes",
+      "Neoepinnula americana"
+    ],
+    "sreb2": [
+      "Ruvettus pretiosus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Gempylus serpens",
+      "Neoepinnula orientalis",
+      "Ruvettus pretiosus"
+    ],
+    "vcpip": [
+      "Gempylus serpens",
+      "Neoepinnula orientalis"
+    ],
+    "zic1": [
+      "Gempylus serpens",
+      "Nealotus tripes",
+      "Neoepinnula americana",
+      "Neoepinnula orientalis",
+      "Ruvettus pretiosus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Gempylidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Scombriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Pelagiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Diplospinus multistriatus": 0.0635,
+    "Gempylus serpens": 0.0505,
+    "Lepidocybium flavobrunneum": 0.0422,
+    "Nealotus tripes": 0.0411,
+    "Neoepinnula americana": 0.0232,
+    "Neoepinnula orientalis": 0.0232,
+    "Nesiarchus nasutus": 0.0448,
+    "Paradiplospinus antarcticus": 0.0712,
+    "Promethichthys prometheus": 0.0554,
+    "Rexea antefurcata": 0.056,
+    "Rexea prometheoides": 0.0491,
+    "Rexea solandri": 0.0424,
+    "Ruvettus pretiosus": 0.0451,
+    "Thyrsites atun": 0.0526
+  },
+  "tiprates_bamm_lambda": {
+    "Diplospinus multistriatus": 0.0536,
+    "Gempylus serpens": 0.0534,
+    "Lepidocybium flavobrunneum": 0.055,
+    "Nealotus tripes": 0.0536,
+    "Neoepinnula americana": 0.0547,
+    "Neoepinnula orientalis": 0.0547,
+    "Nesiarchus nasutus": 0.0536,
+    "Paradiplospinus antarcticus": 0.0536,
+    "Promethichthys prometheus": 0.0536,
+    "Rexea antefurcata": 0.0534,
+    "Rexea prometheoides": 0.0534,
+    "Rexea solandri": 0.0534,
+    "Ruvettus pretiosus": 0.0543,
+    "Thyrsites atun": 0.0534
+  },
+  "tiprates_bamm_mu": {
+    "Diplospinus multistriatus": 0.0008,
+    "Gempylus serpens": 0.0008,
+    "Lepidocybium flavobrunneum": 0.0003,
+    "Nealotus tripes": 0.0008,
+    "Neoepinnula americana": 0.0003,
+    "Neoepinnula orientalis": 0.0003,
+    "Nesiarchus nasutus": 0.0008,
+    "Paradiplospinus antarcticus": 0.0008,
+    "Promethichthys prometheus": 0.0008,
+    "Rexea antefurcata": 0.0008,
+    "Rexea prometheoides": 0.0008,
+    "Rexea solandri": 0.0008,
+    "Ruvettus pretiosus": 0.0004,
+    "Thyrsites atun": 0.0008
+  },
+  "mean_dr": 0.0472,
+  "mean_bamm_lambda": 0.0538,
+  "mean_bamm_mu": 0.0007,
+  "matrix_phylip": "downloads/taxonomy/family/Gempylidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Gempylidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Gempylidae.tre",
+  "phylogram": "downloads/taxonomy/family/Gempylidae_phylogram.tre",
+  "rogues": [
+    "Scomberomorus_guttatus",
+    "Scomberomorus_plurilineatus",
+    "Scomberomorus_koreanus",
+    "Scomberomorus_niphonius",
+    "Scomberomorus_munroi",
+    "Scomberomorus_sinensis",
+    "Scomberomorus_commerson",
+    "Scomberomorus_queenslandicus",
+    "Scomberomorus_maculatus",
+    "Scomberomorus_regalis",
+    "Scomberomorus_brasiliensis",
+    "Scomberomorus_concolor",
+    "Scomberomorus_sierra",
+    "Scomberomorus_tritor",
+    "Scomberomorus_cavalla",
+    "Scomber_australasicus",
+    "Scomber_japonicus",
+    "Scomber_colias",
+    "Scomber_scombrus",
+    "Rastrelliger_brachysoma",
+    "Rastrelliger_faughni",
+    "Rastrelliger_kanagurta",
+    "Grammatorcynus_bicarinatus",
+    "Grammatorcynus_bilineatus",
+    "Thunnus_orientalis",
+    "Thunnus_thynnus",
+    "Thunnus_maccoyii",
+    "Thunnus_alalunga",
+    "Thunnus_albacares",
+    "Thunnus_obesus",
+    "Thunnus_tonggol",
+    "Thunnus_atlanticus",
+    "Auxis_thazard_thazard",
+    "Auxis_rochei_rochei",
+    "Katsuwonus_pelamis",
+    "Euthynnus_lineatus",
+    "Euthynnus_affinis",
+    "Euthynnus_alletteratus",
+    "Sarda_australis",
+    "Sarda_orientalis",
+    "Sarda_chiliensis_chiliensis",
+    "Sarda_sarda",
+    "Acanthocybium_solandri",
+    "Gymnosarda_unicolor",
+    "Cybiosarda_elegans",
+    "Allothunnus_fallai",
+    "Gasterochisma_melampus",
+    "Icosteus_aenigmaticus",
+    "Psenes_arafurensis",
+    "Psenes_maculatus",
+    "Psenes_pellucidus",
+    "Psenes_cyanophrys",
+    "Cubiceps_capensis",
+    "Cubiceps_whiteleggii",
+    "Cubiceps_baxteri",
+    "Cubiceps_gracilis",
+    "Cubiceps_pauciradiatus",
+    "Ariomma_bondi",
+    "Ariomma_melanum",
+    "Ariomma_indicum",
+    "Pampus_punctatissimus",
+    "Pampus_echinogaster",
+    "Pampus_chinensis",
+    "Pampus_minor",
+    "Pampus_argenteus",
+    "Peprilus_paru",
+    "Peprilus_simillimus",
+    "Peprilus_burti",
+    "Stromateus_stellatus",
+    "Stromateus_brasiliensis",
+    "Stromateus_fiatola",
+    "Tetragonurus_atlanticus",
+    "Tetragonurus_cuvieri",
+    "Brama_japonica",
+    "Brama_brama",
+    "Brama_australis",
+    "Pterycombus_brama",
+    "Pterycombus_petersii",
+    "Taractichthys_steindachneri",
+    "Taractichthys_longipinnis",
+    "Taractes_rubescens",
+    "Taractes_asper",
+    "Xenobrama_microlepis",
+    "Trichiurus_brevis",
+    "Lepturacanthus_savala",
+    "Trichiurus_russelli",
+    "Trichiurus_lepturus",
+    "Lepturacanthus_roelandti",
+    "Evoxymetopon_poeyi",
+    "Assurger_anzac",
+    "Lepidopus_caudatus",
+    "Lepidopus_altifrons",
+    "Evoxymetopon_taeniatus",
+    "Aphanopus_arigato",
+    "Aphanopus_intermedius",
+    "Aphanopus_carbo",
+    "Benthodesmus_simonyi",
+    "Benthodesmus_elongatus",
+    "Hyperoglyphe_japonica",
+    "Icichthys_lockingtoni",
+    "Centrolophus_niger",
+    "Schedophilus_ovalis",
+    "Schedophilus_velaini",
+    "Schedophilus_maculatus",
+    "Schedophilus_medusophagus",
+    "Hyperoglyphe_perciformis",
+    "Seriolella_brama",
+    "Icichthys_australis",
+    "Seriolella_caerulea",
+    "Seriolella_porosa",
+    "Seriolella_punctata",
+    "Hyperoglyphe_antarctica",
+    "Psenopsis_cyanea",
+    "Psenopsis_anomala",
+    "Arripis_georgianus",
+    "Arripis_trutta",
+    "Pomatomus_saltatrix"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Gempylidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Gempylidae_mrca_phylogram.tre"
+}

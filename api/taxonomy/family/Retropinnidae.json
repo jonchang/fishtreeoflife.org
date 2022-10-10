@@ -1,0 +1,217 @@
+{
+  "species": [
+    "Prototroctes maraena",
+    "Prototroctes oxyrhynchus",
+    "Retropinna retropinna",
+    "Retropinna semoni",
+    "Retropinna tasmanica",
+    "Stokellia anisodon"
+  ],
+  "sampled_species": [
+    "Prototroctes maraena",
+    "Retropinna retropinna",
+    "Retropinna semoni",
+    "Retropinna tasmanica",
+    "Stokellia anisodon"
+  ],
+  "unsampled_species": [
+    "Prototroctes oxyrhynchus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Prototroctes maraena",
+      "Retropinna semoni",
+      "Retropinna tasmanica",
+      "Stokellia anisodon"
+    ],
+    "16s": [
+      "Prototroctes maraena",
+      "Retropinna retropinna",
+      "Retropinna semoni",
+      "Retropinna tasmanica",
+      "Stokellia anisodon"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Retropinna semoni"
+    ],
+    "cytb": [
+      "Retropinna retropinna",
+      "Retropinna semoni",
+      "Retropinna tasmanica",
+      "Stokellia anisodon"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Prototroctes maraena",
+      "Retropinna semoni",
+      "Stokellia anisodon"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Prototroctes maraena",
+      "Retropinna semoni",
+      "Stokellia anisodon"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Prototroctes maraena",
+      "Stokellia anisodon"
+    ],
+    "ptr": [
+      "Prototroctes maraena",
+      "Retropinna semoni",
+      "Stokellia anisodon"
+    ],
+    "rag1": [
+      "Prototroctes maraena",
+      "Retropinna retropinna",
+      "Retropinna semoni",
+      "Retropinna tasmanica",
+      "Stokellia anisodon"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Prototroctes maraena",
+      "Stokellia anisodon"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Prototroctes maraena",
+      "Stokellia anisodon"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Prototroctes maraena",
+      "Stokellia anisodon"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Prototroctes maraena",
+      "Stokellia anisodon"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Prototroctes maraena",
+      "Retropinna semoni",
+      "Stokellia anisodon"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Retropinnidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Osmeriformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Stomiatii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Prototroctes maraena": 0.0187,
+    "Retropinna retropinna": 0.0271,
+    "Retropinna semoni": 0.0256,
+    "Retropinna tasmanica": 0.0256,
+    "Stokellia anisodon": 0.0271
+  },
+  "tiprates_bamm_lambda": {
+    "Prototroctes maraena": 0.0345,
+    "Retropinna retropinna": 0.0345,
+    "Retropinna semoni": 0.0345,
+    "Retropinna tasmanica": 0.0345,
+    "Stokellia anisodon": 0.0345
+  },
+  "tiprates_bamm_mu": {
+    "Prototroctes maraena": 0.001,
+    "Retropinna retropinna": 0.001,
+    "Retropinna semoni": 0.001,
+    "Retropinna tasmanica": 0.001,
+    "Stokellia anisodon": 0.001
+  },
+  "mean_dr": 0.0248,
+  "mean_bamm_lambda": 0.0345,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Retropinnidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Retropinnidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Retropinnidae.tre",
+  "phylogram": "downloads/taxonomy/family/Retropinnidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

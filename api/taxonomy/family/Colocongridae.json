@@ -1,0 +1,184 @@
+{
+  "species": [
+    "Coloconger cadenati",
+    "Coloconger canina",
+    "Coloconger eximia",
+    "Coloconger japonicus",
+    "Coloconger meadi",
+    "Coloconger raniceps",
+    "Coloconger scholesi",
+    "Thalassenchelys coheni",
+    "Thalassenchelys foliaceus"
+  ],
+  "sampled_species": [
+    "Coloconger cadenati",
+    "Thalassenchelys coheni"
+  ],
+  "unsampled_species": [
+    "Coloconger canina",
+    "Coloconger eximia",
+    "Coloconger japonicus",
+    "Coloconger meadi",
+    "Coloconger raniceps",
+    "Coloconger scholesi",
+    "Thalassenchelys foliaceus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Coloconger cadenati",
+      "Thalassenchelys coheni"
+    ],
+    "16s": [
+      "Coloconger cadenati",
+      "Thalassenchelys coheni"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Thalassenchelys coheni"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Colocongridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Anguilliformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Coloconger cadenati": 0.055,
+    "Thalassenchelys coheni": 0.0542
+  },
+  "tiprates_bamm_lambda": {
+    "Coloconger cadenati": 0.0571,
+    "Thalassenchelys coheni": 0.0571
+  },
+  "tiprates_bamm_mu": {
+    "Coloconger cadenati": 0.0032,
+    "Thalassenchelys coheni": 0.0032
+  },
+  "mean_dr": 0.0546,
+  "mean_bamm_lambda": 0.0571,
+  "mean_bamm_mu": 0.0032,
+  "matrix_phylip": "downloads/taxonomy/family/Colocongridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Colocongridae.nex.xz"
+}

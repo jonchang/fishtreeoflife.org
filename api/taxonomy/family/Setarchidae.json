@@ -1,0 +1,179 @@
+{
+  "species": [
+    "Ectreposebastes imus",
+    "Ectreposebastes niger",
+    "Lioscorpius longiceps",
+    "Lioscorpius trifasciatus",
+    "Setarches armata",
+    "Setarches guentheri",
+    "Setarches longimanus"
+  ],
+  "sampled_species": [
+    "Setarches guentheri",
+    "Setarches longimanus"
+  ],
+  "unsampled_species": [
+    "Ectreposebastes imus",
+    "Ectreposebastes niger",
+    "Lioscorpius longiceps",
+    "Lioscorpius trifasciatus",
+    "Setarches armata"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Setarches guentheri"
+    ],
+    "4c4": [
+      "Setarches guentheri"
+    ],
+    "coi": [
+      "Setarches guentheri",
+      "Setarches longimanus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Setarches guentheri"
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Setarches guentheri"
+    ],
+    "ptr": [
+      "Setarches guentheri"
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Setarches guentheri"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Setarches guentheri"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Setarches guentheri"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Setarchidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Scorpaenoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Setarches guentheri": 0.0395,
+    "Setarches longimanus": 0.0403
+  },
+  "tiprates_bamm_lambda": {
+    "Setarches guentheri": 0.0601,
+    "Setarches longimanus": 0.0601
+  },
+  "tiprates_bamm_mu": {
+    "Setarches guentheri": 0.0009,
+    "Setarches longimanus": 0.0009
+  },
+  "mean_dr": 0.0399,
+  "mean_bamm_lambda": 0.0601,
+  "mean_bamm_mu": 0.0009,
+  "matrix_phylip": "downloads/taxonomy/family/Setarchidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Setarchidae.nex.xz"
+}

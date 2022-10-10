@@ -1,0 +1,411 @@
+{
+  "species": [
+    "Arctogadus borisovi",
+    "Arctogadus glacialis",
+    "Boreogadus saida",
+    "Eleginus gracilis",
+    "Eleginus nawaga",
+    "Gadiculus argenteus",
+    "Gadiculus thori",
+    "Gadus macrocephalus",
+    "Gadus morhua",
+    "Gadus ogac",
+    "Melanogrammus aeglefinus",
+    "Merlangius merlangus",
+    "Microgadus proximus",
+    "Microgadus tomcod",
+    "Micromesistius australis",
+    "Micromesistius poutassou",
+    "Pollachius pollachius",
+    "Pollachius virens",
+    "Raniceps raninus",
+    "Theragra chalcogramma",
+    "Theragra finnmarchica",
+    "Trisopterus capelanus",
+    "Trisopterus esmarkii",
+    "Trisopterus luscus",
+    "Trisopterus minutus"
+  ],
+  "sampled_species": [
+    "Arctogadus borisovi",
+    "Arctogadus glacialis",
+    "Boreogadus saida",
+    "Eleginus gracilis",
+    "Eleginus nawaga",
+    "Gadiculus argenteus",
+    "Gadus macrocephalus",
+    "Gadus morhua",
+    "Gadus ogac",
+    "Melanogrammus aeglefinus",
+    "Merlangius merlangus",
+    "Microgadus proximus",
+    "Microgadus tomcod",
+    "Micromesistius australis",
+    "Micromesistius poutassou",
+    "Pollachius pollachius",
+    "Pollachius virens",
+    "Raniceps raninus",
+    "Theragra chalcogramma",
+    "Trisopterus capelanus",
+    "Trisopterus esmarkii",
+    "Trisopterus luscus",
+    "Trisopterus minutus"
+  ],
+  "unsampled_species": [
+    "Gadiculus thori",
+    "Theragra finnmarchica"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Boreogadus saida",
+      "Eleginus gracilis",
+      "Gadiculus argenteus",
+      "Gadus macrocephalus",
+      "Gadus morhua",
+      "Gadus ogac",
+      "Melanogrammus aeglefinus",
+      "Merlangius merlangus",
+      "Microgadus proximus",
+      "Microgadus tomcod",
+      "Micromesistius poutassou",
+      "Pollachius pollachius",
+      "Pollachius virens",
+      "Raniceps raninus",
+      "Theragra chalcogramma",
+      "Trisopterus capelanus",
+      "Trisopterus esmarkii",
+      "Trisopterus minutus"
+    ],
+    "16s": [
+      "Boreogadus saida",
+      "Eleginus gracilis",
+      "Gadus macrocephalus",
+      "Gadus morhua",
+      "Gadus ogac",
+      "Melanogrammus aeglefinus",
+      "Merlangius merlangus",
+      "Microgadus proximus",
+      "Microgadus tomcod",
+      "Micromesistius australis",
+      "Micromesistius poutassou",
+      "Pollachius virens",
+      "Raniceps raninus",
+      "Theragra chalcogramma",
+      "Trisopterus capelanus",
+      "Trisopterus esmarkii",
+      "Trisopterus minutus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Arctogadus glacialis",
+      "Boreogadus saida",
+      "Eleginus gracilis",
+      "Gadiculus argenteus",
+      "Gadus macrocephalus",
+      "Gadus morhua",
+      "Melanogrammus aeglefinus",
+      "Merlangius merlangus",
+      "Microgadus proximus",
+      "Microgadus tomcod",
+      "Micromesistius australis",
+      "Micromesistius poutassou",
+      "Pollachius pollachius",
+      "Pollachius virens",
+      "Theragra chalcogramma",
+      "Trisopterus luscus",
+      "Trisopterus minutus"
+    ],
+    "cytb": [
+      "Arctogadus borisovi",
+      "Arctogadus glacialis",
+      "Boreogadus saida",
+      "Eleginus gracilis",
+      "Eleginus nawaga",
+      "Gadiculus argenteus",
+      "Gadus macrocephalus",
+      "Gadus morhua",
+      "Gadus ogac",
+      "Melanogrammus aeglefinus",
+      "Merlangius merlangus",
+      "Microgadus proximus",
+      "Microgadus tomcod",
+      "Micromesistius australis",
+      "Micromesistius poutassou",
+      "Pollachius pollachius",
+      "Pollachius virens",
+      "Theragra chalcogramma",
+      "Trisopterus capelanus",
+      "Trisopterus esmarkii",
+      "Trisopterus luscus",
+      "Trisopterus minutus"
+    ],
+    "enc1": [
+      "Gadus morhua"
+    ],
+    "ficd": [
+      "Gadus ogac",
+      "Melanogrammus aeglefinus",
+      "Merlangius merlangus",
+      "Microgadus proximus",
+      "Micromesistius poutassou",
+      "Pollachius virens",
+      "Theragra chalcogramma"
+    ],
+    "glyt": [
+      "Gadus morhua"
+    ],
+    "hoxc6a": [
+      "Gadus morhua",
+      "Melanogrammus aeglefinus",
+      "Pollachius virens"
+    ],
+    "kiaa1239": [
+      "Melanogrammus aeglefinus",
+      "Micromesistius poutassou",
+      "Pollachius virens"
+    ],
+    "myh6": [
+      "Gadus morhua",
+      "Merlangius merlangus",
+      "Micromesistius poutassou",
+      "Pollachius virens",
+      "Theragra chalcogramma"
+    ],
+    "nd2": [
+      "Gadus macrocephalus",
+      "Gadus morhua",
+      "Theragra chalcogramma"
+    ],
+    "nd4": [
+      "Gadus morhua"
+    ],
+    "panx2": [
+      "Gadus morhua",
+      "Melanogrammus aeglefinus",
+      "Micromesistius poutassou",
+      "Pollachius virens"
+    ],
+    "plagl2": [
+      "Gadus morhua"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Eleginus gracilis",
+      "Gadus macrocephalus",
+      "Gadus morhua",
+      "Melanogrammus aeglefinus",
+      "Merlangius merlangus",
+      "Microgadus proximus",
+      "Pollachius virens",
+      "Raniceps raninus",
+      "Theragra chalcogramma"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Gadiculus argenteus",
+      "Gadus morhua",
+      "Gadus ogac",
+      "Melanogrammus aeglefinus",
+      "Merlangius merlangus",
+      "Micromesistius poutassou",
+      "Pollachius pollachius",
+      "Pollachius virens",
+      "Trisopterus esmarkii",
+      "Trisopterus luscus",
+      "Trisopterus minutus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Gadus morhua",
+      "Theragra chalcogramma"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Gadus morhua"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Gadus morhua",
+      "Melanogrammus aeglefinus",
+      "Micromesistius poutassou",
+      "Pollachius virens"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Gadidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gadiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Gadoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Arctogadus glacialis": 0.3352,
+    "Boreogadus saida": 0.1242,
+    "Eleginus gracilis": 0.1203,
+    "Eleginus nawaga": 0.1203,
+    "Gadiculus argenteus": 0.0781,
+    "Gadus macrocephalus": 0.2538,
+    "Gadus morhua": 0.1606,
+    "Gadus ogac": 0.2626,
+    "Melanogrammus aeglefinus": 0.1519,
+    "Merlangius merlangus": 0.1505,
+    "Microgadus proximus": 0.1398,
+    "Microgadus tomcod": 0.0844,
+    "Micromesistius australis": 0.0683,
+    "Micromesistius poutassou": 0.0683,
+    "Pollachius pollachius": 0.0672,
+    "Pollachius virens": 0.0672,
+    "Raniceps raninus": 0.0519,
+    "Theragra chalcogramma": 0.1897,
+    "Trisopterus capelanus": 0.0579,
+    "Trisopterus esmarkii": 0.042,
+    "Trisopterus luscus": 0.0343,
+    "Trisopterus minutus": 0.0579
+  },
+  "tiprates_bamm_lambda": {
+    "Arctogadus glacialis": 0.0528,
+    "Boreogadus saida": 0.0528,
+    "Eleginus gracilis": 0.0522,
+    "Eleginus nawaga": 0.0522,
+    "Gadiculus argenteus": 0.0522,
+    "Gadus macrocephalus": 0.0528,
+    "Gadus morhua": 0.0528,
+    "Melanogrammus aeglefinus": 0.0524,
+    "Merlangius merlangus": 0.0524,
+    "Microgadus proximus": 0.0522,
+    "Microgadus tomcod": 0.0522,
+    "Micromesistius australis": 0.0522,
+    "Micromesistius poutassou": 0.0522,
+    "Pollachius pollachius": 0.0524,
+    "Pollachius virens": 0.0524,
+    "Raniceps raninus": 0.0522,
+    "Theragra chalcogramma": 0.0528,
+    "Trisopterus capelanus": 0.0522,
+    "Trisopterus esmarkii": 0.0522,
+    "Trisopterus luscus": 0.0522,
+    "Trisopterus minutus": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Arctogadus glacialis": 0.0008,
+    "Boreogadus saida": 0.0008,
+    "Eleginus gracilis": 0.0003,
+    "Eleginus nawaga": 0.0003,
+    "Gadiculus argenteus": 0.0003,
+    "Gadus macrocephalus": 0.0008,
+    "Gadus morhua": 0.0008,
+    "Melanogrammus aeglefinus": 0.0006,
+    "Merlangius merlangus": 0.0006,
+    "Microgadus proximus": 0.0003,
+    "Microgadus tomcod": 0.0003,
+    "Micromesistius australis": 0.0003,
+    "Micromesistius poutassou": 0.0003,
+    "Pollachius pollachius": 0.0006,
+    "Pollachius virens": 0.0006,
+    "Raniceps raninus": 0.0003,
+    "Theragra chalcogramma": 0.0008,
+    "Trisopterus capelanus": 0.0003,
+    "Trisopterus esmarkii": 0.0003,
+    "Trisopterus luscus": 0.0003,
+    "Trisopterus minutus": 0.0003
+  },
+  "mean_dr": 0.1221,
+  "mean_bamm_lambda": 0.0524,
+  "mean_bamm_mu": 0.0005,
+  "matrix_phylip": "downloads/taxonomy/family/Gadidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Gadidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Gadidae.tre",
+  "phylogram": "downloads/taxonomy/family/Gadidae_phylogram.tre",
+  "rogues": [
+    "Lota_lota",
+    "Molva_dypterygia",
+    "Molva_macrophthalma",
+    "Molva_molva",
+    "Brosme_brosme",
+    "Gaidropsarus_argentatus",
+    "Gaidropsarus_ensis",
+    "Gaidropsarus_biscayensis",
+    "Gaidropsarus_vulgaris",
+    "Gaidropsarus_mediterraneus",
+    "Ciliata_septentrionalis",
+    "Ciliata_mustela",
+    "Enchelyopus_cimbrius",
+    "Urophycis_floridana",
+    "Urophycis_regia",
+    "Urophycis_brasiliensis",
+    "Urophycis_chuss",
+    "Urophycis_tenuis",
+    "Urophycis_cirrata",
+    "Phycis_blennoides",
+    "Phycis_chesteri",
+    "Phycis_phycis"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Gadidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Gadidae_mrca_phylogram.tre"
+}

@@ -1,0 +1,535 @@
+{
+  "species": [
+    "Citharidium ansorgii",
+    "Citharinops distichodoides",
+    "Citharinus citharus",
+    "Citharinus congicus",
+    "Citharinus eburneensis",
+    "Citharinus gibbosus",
+    "Citharinus latus",
+    "Citharinus macrolepis",
+    "Belonophago hutsebouti",
+    "Belonophago tinanti",
+    "Congocharax olbrechtsi",
+    "Congocharax spilotaenia",
+    "Distichodus affinis",
+    "Distichodus altus",
+    "Distichodus antonii",
+    "Distichodus atroventralis",
+    "Distichodus brevipinnis",
+    "Distichodus decemmaculatus",
+    "Distichodus engycephalus",
+    "Distichodus fasciolatus",
+    "Distichodus hypostomatus",
+    "Distichodus kolleri",
+    "Distichodus langi",
+    "Distichodus lusosso",
+    "Distichodus maculatus",
+    "Distichodus mossambicus",
+    "Distichodus nefasch",
+    "Distichodus noboli",
+    "Distichodus notospilus",
+    "Distichodus petersii",
+    "Distichodus rostratus",
+    "Distichodus rufigiensis",
+    "Distichodus schenga",
+    "Distichodus sexfasciatus",
+    "Distichodus teugelsi",
+    "Dundocharax bidentatus",
+    "Eugnathichthys eetveldii",
+    "Eugnathichthys macroterolepis",
+    "Eugnathichthys virgatus",
+    "Hemigrammocharax angolensis",
+    "Hemigrammocharax lineostriatus",
+    "Hemigrammocharax machadoi",
+    "Hemigrammocharax minutus",
+    "Hemigrammocharax monardi",
+    "Hemigrammocharax multifasciatus",
+    "Hemigrammocharax ocellicauda",
+    "Hemigrammocharax rubensteini",
+    "Hemigrammocharax uniocellatus",
+    "Hemigrammocharax wittei",
+    "Hemistichodus lootensi",
+    "Hemistichodus mesmaekersi",
+    "Hemistichodus vaillanti",
+    "Ichthyborus besse",
+    "Ichthyborus congolensis",
+    "Ichthyborus monodi",
+    "Ichthyborus ornatus",
+    "Ichthyborus quadrilineatus",
+    "Mesoborus crocodilus",
+    "Microstomatichthyoborus bashforddeani",
+    "Microstomatichthyoborus katangae",
+    "Nannaethiops bleheri",
+    "Nannaethiops unitaeniatus",
+    "Nannocharax altus",
+    "Nannocharax ansorgii",
+    "Nannocharax brevis",
+    "Nannocharax elongatus",
+    "Nannocharax fasciatus",
+    "Nannocharax fasciolaris",
+    "Nannocharax gracilis",
+    "Nannocharax hollyi",
+    "Nannocharax intermedius",
+    "Nannocharax latifasciatus",
+    "Nannocharax lineomaculatus",
+    "Nannocharax luapulae",
+    "Nannocharax macropterus",
+    "Nannocharax maculicauda",
+    "Nannocharax micros",
+    "Nannocharax niloticus",
+    "Nannocharax occidentalis",
+    "Nannocharax ogoensis",
+    "Nannocharax parvus",
+    "Nannocharax procatopus",
+    "Nannocharax pteron",
+    "Nannocharax reidi",
+    "Nannocharax rubrolabiatus",
+    "Nannocharax schoutedeni",
+    "Nannocharax signifer",
+    "Nannocharax taenia",
+    "Nannocharax usongo",
+    "Nannocharax zebra",
+    "Neolebias ansorgii",
+    "Neolebias axelrodi",
+    "Neolebias gossei",
+    "Neolebias gracilis",
+    "Neolebias kerguennae",
+    "Neolebias lozii",
+    "Neolebias philippei",
+    "Neolebias powelli",
+    "Neolebias trewavasae",
+    "Neolebias trilineatus",
+    "Neolebias unifasciatus",
+    "Paradistichodus dimidiatus",
+    "Paraphago rostratus",
+    "Phago boulengeri",
+    "Phago intermedius",
+    "Phago loricatus",
+    "Xenocharax spilurus"
+  ],
+  "sampled_species": [
+    "Citharinus citharus",
+    "Citharinus congicus",
+    "Citharinus gibbosus",
+    "Distichodus affinis",
+    "Distichodus antonii",
+    "Distichodus atroventralis",
+    "Distichodus decemmaculatus",
+    "Distichodus engycephalus",
+    "Distichodus fasciolatus",
+    "Distichodus hypostomatus",
+    "Distichodus kolleri",
+    "Distichodus lusosso",
+    "Distichodus mossambicus",
+    "Distichodus noboli",
+    "Distichodus notospilus",
+    "Distichodus rostratus",
+    "Distichodus schenga",
+    "Distichodus sexfasciatus",
+    "Hemigrammocharax machadoi",
+    "Hemigrammocharax multifasciatus",
+    "Hemigrammocharax ocellicauda",
+    "Hemigrammocharax uniocellatus",
+    "Hemistichodus vaillanti",
+    "Nannocharax elongatus",
+    "Nannocharax procatopus",
+    "Nannocharax schoutedeni",
+    "Neolebias ansorgii",
+    "Neolebias powelli",
+    "Neolebias trilineatus",
+    "Xenocharax spilurus"
+  ],
+  "unsampled_species": [
+    "Citharidium ansorgii",
+    "Citharinops distichodoides",
+    "Citharinus eburneensis",
+    "Citharinus latus",
+    "Citharinus macrolepis",
+    "Belonophago hutsebouti",
+    "Belonophago tinanti",
+    "Congocharax olbrechtsi",
+    "Congocharax spilotaenia",
+    "Distichodus altus",
+    "Distichodus brevipinnis",
+    "Distichodus langi",
+    "Distichodus maculatus",
+    "Distichodus nefasch",
+    "Distichodus petersii",
+    "Distichodus rufigiensis",
+    "Distichodus teugelsi",
+    "Dundocharax bidentatus",
+    "Eugnathichthys eetveldii",
+    "Eugnathichthys macroterolepis",
+    "Eugnathichthys virgatus",
+    "Hemigrammocharax angolensis",
+    "Hemigrammocharax lineostriatus",
+    "Hemigrammocharax minutus",
+    "Hemigrammocharax monardi",
+    "Hemigrammocharax rubensteini",
+    "Hemigrammocharax wittei",
+    "Hemistichodus lootensi",
+    "Hemistichodus mesmaekersi",
+    "Ichthyborus besse",
+    "Ichthyborus congolensis",
+    "Ichthyborus monodi",
+    "Ichthyborus ornatus",
+    "Ichthyborus quadrilineatus",
+    "Mesoborus crocodilus",
+    "Microstomatichthyoborus bashforddeani",
+    "Microstomatichthyoborus katangae",
+    "Nannaethiops bleheri",
+    "Nannaethiops unitaeniatus",
+    "Nannocharax altus",
+    "Nannocharax ansorgii",
+    "Nannocharax brevis",
+    "Nannocharax fasciatus",
+    "Nannocharax fasciolaris",
+    "Nannocharax gracilis",
+    "Nannocharax hollyi",
+    "Nannocharax intermedius",
+    "Nannocharax latifasciatus",
+    "Nannocharax lineomaculatus",
+    "Nannocharax luapulae",
+    "Nannocharax macropterus",
+    "Nannocharax maculicauda",
+    "Nannocharax micros",
+    "Nannocharax niloticus",
+    "Nannocharax occidentalis",
+    "Nannocharax ogoensis",
+    "Nannocharax parvus",
+    "Nannocharax pteron",
+    "Nannocharax reidi",
+    "Nannocharax rubrolabiatus",
+    "Nannocharax signifer",
+    "Nannocharax taenia",
+    "Nannocharax usongo",
+    "Nannocharax zebra",
+    "Neolebias axelrodi",
+    "Neolebias gossei",
+    "Neolebias gracilis",
+    "Neolebias kerguennae",
+    "Neolebias lozii",
+    "Neolebias philippei",
+    "Neolebias trewavasae",
+    "Neolebias unifasciatus",
+    "Paradistichodus dimidiatus",
+    "Paraphago rostratus",
+    "Phago boulengeri",
+    "Phago intermedius",
+    "Phago loricatus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Citharinus citharus",
+      "Distichodus affinis",
+      "Distichodus decemmaculatus",
+      "Distichodus fasciolatus",
+      "Distichodus hypostomatus",
+      "Distichodus lusosso",
+      "Distichodus notospilus",
+      "Distichodus sexfasciatus",
+      "Hemigrammocharax machadoi",
+      "Hemigrammocharax multifasciatus",
+      "Hemistichodus vaillanti",
+      "Neolebias ansorgii",
+      "Neolebias powelli",
+      "Neolebias trilineatus",
+      "Xenocharax spilurus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Citharinus citharus",
+      "Citharinus congicus",
+      "Citharinus gibbosus",
+      "Distichodus affinis",
+      "Distichodus antonii",
+      "Distichodus atroventralis",
+      "Distichodus decemmaculatus",
+      "Distichodus engycephalus",
+      "Distichodus fasciolatus",
+      "Distichodus hypostomatus",
+      "Distichodus kolleri",
+      "Distichodus lusosso",
+      "Distichodus mossambicus",
+      "Distichodus noboli",
+      "Distichodus rostratus",
+      "Distichodus schenga",
+      "Distichodus sexfasciatus",
+      "Hemigrammocharax ocellicauda",
+      "Hemigrammocharax uniocellatus",
+      "Nannocharax elongatus",
+      "Nannocharax procatopus",
+      "Nannocharax schoutedeni",
+      "Neolebias ansorgii",
+      "Neolebias trilineatus"
+    ],
+    "cytb": [
+      "Citharinus citharus",
+      "Citharinus gibbosus",
+      "Distichodus affinis",
+      "Distichodus decemmaculatus",
+      "Distichodus fasciolatus",
+      "Distichodus hypostomatus",
+      "Distichodus kolleri",
+      "Distichodus lusosso",
+      "Distichodus notospilus",
+      "Distichodus sexfasciatus",
+      "Hemigrammocharax machadoi",
+      "Hemigrammocharax multifasciatus",
+      "Neolebias ansorgii",
+      "Neolebias powelli",
+      "Neolebias trilineatus",
+      "Xenocharax spilurus"
+    ],
+    "enc1": [
+      "Citharinus congicus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Citharinus gibbosus",
+      "Distichodus fasciolatus",
+      "Distichodus kolleri"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Citharinus congicus"
+    ],
+    "ptr": [
+      "Citharinus congicus"
+    ],
+    "rag1": [
+      "Distichodus antonii",
+      "Distichodus notospilus"
+    ],
+    "rag2": [
+      "Distichodus affinis",
+      "Distichodus decemmaculatus",
+      "Distichodus fasciolatus",
+      "Distichodus hypostomatus",
+      "Distichodus lusosso",
+      "Distichodus notospilus",
+      "Distichodus sexfasciatus",
+      "Hemigrammocharax multifasciatus",
+      "Neolebias ansorgii",
+      "Neolebias powelli",
+      "Neolebias trilineatus"
+    ],
+    "rhodopsin": [
+      "Distichodus antonii"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Citharinus gibbosus",
+      "Distichodus fasciolatus",
+      "Distichodus kolleri"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Citharinus congicus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Citharinus congicus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Citharinus congicus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Citharinidae",
+      "Distichodontidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Characiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Citharinoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Citharinus citharus": 0.0369,
+    "Citharinus congicus": 0.0529,
+    "Citharinus gibbosus": 0.0488,
+    "Distichodus affinis": 0.1291,
+    "Distichodus antonii": 0.1483,
+    "Distichodus atroventralis": 0.2585,
+    "Distichodus decemmaculatus": 0.1666,
+    "Distichodus engycephalus": 0.1002,
+    "Distichodus fasciolatus": 0.6186,
+    "Distichodus hypostomatus": 0.1024,
+    "Distichodus kolleri": 0.1017,
+    "Distichodus lusosso": 0.2628,
+    "Distichodus mossambicus": 0.3067,
+    "Distichodus noboli": 0.1609,
+    "Distichodus notospilus": 0.1103,
+    "Distichodus rostratus": 0.0821,
+    "Distichodus schenga": 0.6186,
+    "Distichodus sexfasciatus": 0.2538,
+    "Hemistichodus vaillanti": 0.0593,
+    "Nannocharax elongatus": 0.1424,
+    "Nannocharax procatopus": 0.1277,
+    "Nannocharax schoutedeni": 0.1361,
+    "Neolebias ansorgii": 0.1308,
+    "Neolebias powelli": 0.1153,
+    "Neolebias trilineatus": 0.1105,
+    "Xenocharax spilurus": 0.0693,
+    "Hemigrammocharax machadoi": 0.1532,
+    "Hemigrammocharax multifasciatus": 0.175,
+    "Hemigrammocharax ocellicauda": 0.1243,
+    "Hemigrammocharax uniocellatus": 0.1306
+  },
+  "tiprates_bamm_lambda": {
+    "Citharinus citharus": 0.0733,
+    "Citharinus congicus": 0.0733,
+    "Citharinus gibbosus": 0.0733,
+    "Distichodus affinis": 0.1758,
+    "Distichodus antonii": 0.4165,
+    "Distichodus atroventralis": 0.4226,
+    "Distichodus decemmaculatus": 0.1758,
+    "Distichodus engycephalus": 0.1996,
+    "Distichodus fasciolatus": 0.4226,
+    "Distichodus hypostomatus": 0.1758,
+    "Distichodus kolleri": 0.1758,
+    "Distichodus lusosso": 0.4226,
+    "Distichodus mossambicus": 0.4226,
+    "Distichodus noboli": 0.1758,
+    "Distichodus notospilus": 0.1758,
+    "Distichodus rostratus": 0.1787,
+    "Distichodus schenga": 0.4226,
+    "Distichodus sexfasciatus": 0.4226,
+    "Hemistichodus vaillanti": 0.0733,
+    "Nannocharax elongatus": 0.0734,
+    "Nannocharax procatopus": 0.0734,
+    "Nannocharax schoutedeni": 0.0734,
+    "Neolebias ansorgii": 0.0733,
+    "Neolebias powelli": 0.0733,
+    "Neolebias trilineatus": 0.0733,
+    "Xenocharax spilurus": 0.0733,
+    "Hemigrammocharax machadoi": 0.0807,
+    "Hemigrammocharax multifasciatus": 0.0807,
+    "Hemigrammocharax ocellicauda": 0.0734,
+    "Hemigrammocharax uniocellatus": 0.0733
+  },
+  "tiprates_bamm_mu": {
+    "Citharinus citharus": 0.0008,
+    "Citharinus congicus": 0.0008,
+    "Citharinus gibbosus": 0.0008,
+    "Distichodus affinis": 0.0408,
+    "Distichodus antonii": 0.1471,
+    "Distichodus atroventralis": 0.1492,
+    "Distichodus decemmaculatus": 0.0408,
+    "Distichodus engycephalus": 0.0569,
+    "Distichodus fasciolatus": 0.1492,
+    "Distichodus hypostomatus": 0.0408,
+    "Distichodus kolleri": 0.0408,
+    "Distichodus lusosso": 0.1492,
+    "Distichodus mossambicus": 0.1492,
+    "Distichodus noboli": 0.0408,
+    "Distichodus notospilus": 0.0408,
+    "Distichodus rostratus": 0.0424,
+    "Distichodus schenga": 0.1492,
+    "Distichodus sexfasciatus": 0.1492,
+    "Hemistichodus vaillanti": 0.0008,
+    "Nannocharax elongatus": 0.0008,
+    "Nannocharax procatopus": 0.0008,
+    "Nannocharax schoutedeni": 0.0008,
+    "Neolebias ansorgii": 0.0008,
+    "Neolebias powelli": 0.0008,
+    "Neolebias trilineatus": 0.0008,
+    "Xenocharax spilurus": 0.0008,
+    "Hemigrammocharax machadoi": 0.0033,
+    "Hemigrammocharax multifasciatus": 0.0033,
+    "Hemigrammocharax ocellicauda": 0.0008,
+    "Hemigrammocharax uniocellatus": 0.0008
+  },
+  "mean_dr": 0.1678,
+  "mean_bamm_lambda": 0.1833,
+  "mean_bamm_mu": 0.0468,
+  "matrix_phylip": "downloads/taxonomy/suborder/Citharinoidei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/suborder/Citharinoidei.nex.xz",
+  "chronogram": "downloads/taxonomy/suborder/Citharinoidei.tre",
+  "phylogram": "downloads/taxonomy/suborder/Citharinoidei_phylogram.tre",
+  "rogues": [
+
+  ]
+}

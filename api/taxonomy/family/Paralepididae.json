@@ -1,0 +1,346 @@
+{
+  "species": [
+    "Arctozenus risso",
+    "Dolichosudis fuliginosa",
+    "Lestidiops affinis",
+    "Lestidiops bathyopteryx",
+    "Lestidiops cadenati",
+    "Lestidiops distans",
+    "Lestidiops extrema",
+    "Lestidiops gracilis",
+    "Lestidiops indopacifica",
+    "Lestidiops jayakari jayakari",
+    "Lestidiops jayakari pseudosphyraenoides",
+    "Lestidiops mirabilis",
+    "Lestidiops neles",
+    "Lestidiops pacificus",
+    "Lestidiops ringens",
+    "Lestidiops similis",
+    "Lestidiops sphyraenopsis",
+    "Lestidiops sphyrenoides",
+    "Lestidium atlanticum",
+    "Lestidium bigelowi",
+    "Lestidium nudum",
+    "Lestidium prolixum",
+    "Lestrolepis intermedia",
+    "Lestrolepis japonica",
+    "Lestrolepis luetkeni",
+    "Macroparalepis affinis",
+    "Macroparalepis brevis",
+    "Macroparalepis danae",
+    "Macroparalepis johnfitchi",
+    "Macroparalepis longilateralis",
+    "Macroparalepis macrogeneion",
+    "Macroparalepis nigra",
+    "Magnisudis atlantica",
+    "Magnisudis indica",
+    "Magnisudis prionosa",
+    "Notolepis annulata",
+    "Notolepis coatsi",
+    "Paralepis brevirostris",
+    "Paralepis coregonoides",
+    "Paralepis elongata",
+    "Paralepis speciosa",
+    "Stemonosudis bullisi",
+    "Stemonosudis distans",
+    "Stemonosudis elegans",
+    "Stemonosudis elongata",
+    "Stemonosudis gracilis",
+    "Stemonosudis intermedia",
+    "Stemonosudis macrura",
+    "Stemonosudis miscella",
+    "Stemonosudis molesta",
+    "Stemonosudis rothschildi",
+    "Stemonosudis siliquiventer",
+    "Uncisudis advena",
+    "Uncisudis longirostra",
+    "Uncisudis posteropelvis",
+    "Uncisudis quadrimaculata"
+  ],
+  "sampled_species": [
+    "Lestidiops jayakari jayakari",
+    "Lestidiops pacificus",
+    "Lestidiops ringens",
+    "Lestidium atlanticum",
+    "Lestrolepis intermedia",
+    "Macroparalepis johnfitchi",
+    "Magnisudis atlantica",
+    "Magnisudis prionosa",
+    "Notolepis coatsi",
+    "Stemonosudis intermedia",
+    "Stemonosudis macrura"
+  ],
+  "unsampled_species": [
+    "Arctozenus risso",
+    "Dolichosudis fuliginosa",
+    "Lestidiops affinis",
+    "Lestidiops bathyopteryx",
+    "Lestidiops cadenati",
+    "Lestidiops distans",
+    "Lestidiops extrema",
+    "Lestidiops gracilis",
+    "Lestidiops indopacifica",
+    "Lestidiops jayakari pseudosphyraenoides",
+    "Lestidiops mirabilis",
+    "Lestidiops neles",
+    "Lestidiops similis",
+    "Lestidiops sphyraenopsis",
+    "Lestidiops sphyrenoides",
+    "Lestidium bigelowi",
+    "Lestidium nudum",
+    "Lestidium prolixum",
+    "Lestrolepis japonica",
+    "Lestrolepis luetkeni",
+    "Macroparalepis affinis",
+    "Macroparalepis brevis",
+    "Macroparalepis danae",
+    "Macroparalepis longilateralis",
+    "Macroparalepis macrogeneion",
+    "Macroparalepis nigra",
+    "Magnisudis indica",
+    "Notolepis annulata",
+    "Paralepis brevirostris",
+    "Paralepis coregonoides",
+    "Paralepis elongata",
+    "Paralepis speciosa",
+    "Stemonosudis bullisi",
+    "Stemonosudis distans",
+    "Stemonosudis elegans",
+    "Stemonosudis elongata",
+    "Stemonosudis gracilis",
+    "Stemonosudis miscella",
+    "Stemonosudis molesta",
+    "Stemonosudis rothschildi",
+    "Stemonosudis siliquiventer",
+    "Uncisudis advena",
+    "Uncisudis longirostra",
+    "Uncisudis posteropelvis",
+    "Uncisudis quadrimaculata"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Lestidiops pacificus",
+      "Lestidiops ringens",
+      "Macroparalepis johnfitchi",
+      "Magnisudis atlantica",
+      "Stemonosudis macrura"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Lestidiops ringens",
+      "Macroparalepis johnfitchi",
+      "Magnisudis atlantica",
+      "Magnisudis prionosa",
+      "Notolepis coatsi",
+      "Stemonosudis macrura"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Lestidiops jayakari jayakari",
+      "Lestidium atlanticum",
+      "Lestrolepis intermedia",
+      "Macroparalepis johnfitchi",
+      "Magnisudis atlantica",
+      "Stemonosudis macrura"
+    ],
+    "ficd": [
+      "Lestidiops jayakari jayakari",
+      "Stemonosudis intermedia"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Lestidiops jayakari jayakari"
+    ],
+    "kiaa1239": [
+      "Lestidiops jayakari jayakari"
+    ],
+    "myh6": [
+      "Lestidiops jayakari jayakari",
+      "Stemonosudis intermedia"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Lestidiops jayakari jayakari",
+      "Lestidiops ringens",
+      "Lestidium atlanticum",
+      "Lestrolepis intermedia",
+      "Macroparalepis johnfitchi",
+      "Magnisudis atlantica",
+      "Stemonosudis macrura"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Lestidiops jayakari jayakari",
+      "Lestidium atlanticum",
+      "Lestrolepis intermedia",
+      "Macroparalepis johnfitchi",
+      "Stemonosudis macrura"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Notolepis coatsi"
+    ],
+    "ripk4": [
+      "Lestidiops jayakari jayakari"
+    ],
+    "sh3px3": [
+      "Stemonosudis intermedia"
+    ],
+    "sidkey": [
+      "Lestidiops jayakari jayakari",
+      "Stemonosudis intermedia"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Macroparalepis johnfitchi",
+      "Magnisudis atlantica"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Paralepididae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Aulopiformes"
+    ],
+    "section": [
+      "Aulopa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Alepisauroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Lestidiops pacificus": 0.0481,
+    "Lestidiops ringens": 0.0925,
+    "Lestidium atlanticum": 0.0631,
+    "Lestrolepis intermedia": 0.0546,
+    "Macroparalepis johnfitchi": 0.0471,
+    "Magnisudis atlantica": 0.0668,
+    "Magnisudis prionosa": 0.0661,
+    "Notolepis coatsi": 0.0556,
+    "Stemonosudis intermedia": 0.0502,
+    "Stemonosudis macrura": 0.0916,
+    "Lestidiops jayakari jayakari": 0.0619
+  },
+  "tiprates_bamm_lambda": {
+    "Lestidiops pacificus": 0.0348,
+    "Lestidiops ringens": 0.0348,
+    "Lestidium atlanticum": 0.0347,
+    "Lestrolepis intermedia": 0.0347,
+    "Macroparalepis johnfitchi": 0.0348,
+    "Magnisudis atlantica": 0.0348,
+    "Magnisudis prionosa": 0.0348,
+    "Notolepis coatsi": 0.0348,
+    "Stemonosudis intermedia": 0.0347,
+    "Stemonosudis macrura": 0.0348,
+    "Lestidiops jayakari jayakari": 0.0347
+  },
+  "tiprates_bamm_mu": {
+    "Lestidiops pacificus": 0.001,
+    "Lestidiops ringens": 0.001,
+    "Lestidium atlanticum": 0.0011,
+    "Lestrolepis intermedia": 0.0011,
+    "Macroparalepis johnfitchi": 0.001,
+    "Magnisudis atlantica": 0.001,
+    "Magnisudis prionosa": 0.001,
+    "Notolepis coatsi": 0.001,
+    "Stemonosudis intermedia": 0.0011,
+    "Stemonosudis macrura": 0.001,
+    "Lestidiops jayakari jayakari": 0.0011
+  },
+  "mean_dr": 0.0634,
+  "mean_bamm_lambda": 0.0348,
+  "mean_bamm_mu": 0.0011,
+  "matrix_phylip": "downloads/taxonomy/family/Paralepididae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Paralepididae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Paralepididae.tre",
+  "phylogram": "downloads/taxonomy/family/Paralepididae_phylogram.tre",
+  "rogues": [
+    "Coccorella_atlantica",
+    "Evermannella_indica",
+    "Evermannella_balbo",
+    "Anotopterus_nikparini",
+    "Anotopterus_pharao",
+    "Alepisaurus_ferox",
+    "Alepisaurus_brevirostris",
+    "Omosudis_lowii",
+    "Sudis_atrox"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Paralepididae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Paralepididae_mrca_phylogram.tre"
+}

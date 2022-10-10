@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Denticeps clupeoides"
+  ],
+  "sampled_species": [
+    "Denticeps clupeoides"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Denticeps clupeoides"
+    ],
+    "16s": [
+      "Denticeps clupeoides"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+      "Denticeps clupeoides"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Denticeps clupeoides"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Denticeps clupeoides"
+    ],
+    "ptr": [
+      "Denticeps clupeoides"
+    ],
+    "rag1": [
+      "Denticeps clupeoides"
+    ],
+    "rag2": [
+      "Denticeps clupeoides"
+    ],
+    "rhodopsin": [
+      "Denticeps clupeoides"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Denticeps clupeoides"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Denticeps clupeoides"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Denticipitidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Clupeiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Clupei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Denticipitoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Denticeps clupeoides": 0.0061
+  },
+  "tiprates_bamm_lambda": {
+    "Denticeps clupeoides": 0.0333
+  },
+  "tiprates_bamm_mu": {
+    "Denticeps clupeoides": 0.0016
+  },
+  "mean_dr": 0.0061,
+  "mean_bamm_lambda": 0.0333,
+  "mean_bamm_mu": 0.0016,
+  "matrix_phylip": "downloads/taxonomy/suborder/Denticipitoidei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/suborder/Denticipitoidei.nex.xz"
+}

@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Amia calva"
+  ],
+  "sampled_species": [
+    "Amia calva"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Amia calva"
+    ],
+    "16s": [
+      "Amia calva"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Amia calva"
+    ],
+    "cytb": [
+      "Amia calva"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Amia calva"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Amia calva"
+    ],
+    "nd2": [
+      "Amia calva"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Amia calva"
+    ],
+    "ptr": [
+      "Amia calva"
+    ],
+    "rag1": [
+      "Amia calva"
+    ],
+    "rag2": [
+      "Amia calva"
+    ],
+    "rhodopsin": [
+      "Amia calva"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Amia calva"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Amia calva"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Amia calva"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Amia calva"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Amiidae"
+    ],
+    "infraclass": [
+      "Holostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+
+    ],
+    "order": [
+      "Amiiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Amia calva": 0.0034
+  },
+  "tiprates_bamm_lambda": {
+    "Amia calva": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Amia calva": 0.0524
+  },
+  "mean_dr": 0.0034,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0524,
+  "matrix_phylip": "downloads/taxonomy/order/Amiiformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Amiiformes.nex.xz"
+}

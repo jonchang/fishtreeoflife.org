@@ -1,0 +1,223 @@
+{
+  "species": [
+    "Albula argentea",
+    "Albula esuncula",
+    "Albula gilberti",
+    "Albula glossodonta",
+    "Albula koreana",
+    "Albula nemoptera",
+    "Albula oligolepis",
+    "Albula virgata",
+    "Albula vulpes",
+    "Pterothrissus belloci",
+    "Pterothrissus gissu"
+  ],
+  "sampled_species": [
+    "Albula argentea",
+    "Albula esuncula",
+    "Albula gilberti",
+    "Albula glossodonta",
+    "Albula koreana",
+    "Albula nemoptera",
+    "Albula vulpes",
+    "Pterothrissus gissu"
+  ],
+  "unsampled_species": [
+    "Albula oligolepis",
+    "Albula virgata",
+    "Pterothrissus belloci"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Albula glossodonta",
+      "Albula vulpes",
+      "Pterothrissus gissu"
+    ],
+    "16s": [
+      "Albula vulpes"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Albula glossodonta",
+      "Albula vulpes"
+    ],
+    "cytb": [
+      "Albula argentea",
+      "Albula esuncula",
+      "Albula gilberti",
+      "Albula glossodonta",
+      "Albula koreana",
+      "Albula nemoptera",
+      "Albula vulpes",
+      "Pterothrissus gissu"
+    ],
+    "enc1": [
+      "Albula vulpes"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Albula glossodonta"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Albula glossodonta"
+    ],
+    "ptr": [
+      "Albula glossodonta",
+      "Albula vulpes"
+    ],
+    "rag1": [
+      "Albula glossodonta",
+      "Albula vulpes"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Albula vulpes"
+    ],
+    "tbr1": [
+      "Albula glossodonta",
+      "Albula vulpes"
+    ],
+    "vcpip": [
+      "Albula vulpes"
+    ],
+    "zic1": [
+      "Albula glossodonta",
+      "Albula vulpes"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Albulidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Albuliformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Albula argentea": 0.0586,
+    "Albula esuncula": 0.0513,
+    "Albula gilberti": 0.0518,
+    "Albula glossodonta": 0.0152,
+    "Albula koreana": 0.0432,
+    "Albula nemoptera": 0.0614,
+    "Albula vulpes": 0.0221,
+    "Pterothrissus gissu": 0.0126
+  },
+  "tiprates_bamm_lambda": {
+    "Albula argentea": 0.035,
+    "Albula esuncula": 0.035,
+    "Albula gilberti": 0.035,
+    "Albula glossodonta": 0.035,
+    "Albula koreana": 0.035,
+    "Albula nemoptera": 0.035,
+    "Albula vulpes": 0.035,
+    "Pterothrissus gissu": 0.035
+  },
+  "tiprates_bamm_mu": {
+    "Albula argentea": 0.0017,
+    "Albula esuncula": 0.0017,
+    "Albula gilberti": 0.0017,
+    "Albula glossodonta": 0.0017,
+    "Albula koreana": 0.0017,
+    "Albula nemoptera": 0.0017,
+    "Albula vulpes": 0.0017,
+    "Pterothrissus gissu": 0.0017
+  },
+  "mean_dr": 0.0395,
+  "mean_bamm_lambda": 0.035,
+  "mean_bamm_mu": 0.0017,
+  "matrix_phylip": "downloads/taxonomy/order/Albuliformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Albuliformes.nex.xz",
+  "chronogram": "downloads/taxonomy/order/Albuliformes.tre",
+  "phylogram": "downloads/taxonomy/order/Albuliformes_phylogram.tre",
+  "rogues": [
+
+  ]
+}

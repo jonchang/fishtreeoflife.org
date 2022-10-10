@@ -1,0 +1,524 @@
+{
+  "species": [
+    "Antimora microlepis",
+    "Antimora rostrata",
+    "Auchenoceros punctatus",
+    "Eeyorius hutchinsi",
+    "Eretmophorus kleinenbergi",
+    "Gadella brocca",
+    "Gadella dancoheni",
+    "Gadella edelmanni",
+    "Gadella filifer",
+    "Gadella imberbis",
+    "Gadella jordani",
+    "Gadella macrura",
+    "Gadella maraldi",
+    "Gadella molokaiensis",
+    "Gadella norops",
+    "Gadella obscurus",
+    "Gadella svetovidovi",
+    "Gadella thysthlon",
+    "Guttigadus globiceps",
+    "Guttigadus globosus",
+    "Guttigadus kongi",
+    "Guttigadus latifrons",
+    "Guttigadus nudicephalus",
+    "Guttigadus nudirostre",
+    "Guttigadus squamirostre",
+    "Halargyreus johnsonii",
+    "Laemonema barbatulum",
+    "Laemonema compressicauda",
+    "Laemonema filodorsale",
+    "Laemonema goodebeanorum",
+    "Laemonema gracillipes",
+    "Laemonema laureysi",
+    "Laemonema longipes",
+    "Laemonema macronema",
+    "Laemonema melanurum",
+    "Laemonema modestum",
+    "Laemonema nana",
+    "Laemonema rhodochir",
+    "Laemonema robustum",
+    "Laemonema verecundum",
+    "Laemonema yarrellii",
+    "Laemonema yuvto",
+    "Lepidion capensis",
+    "Lepidion ensiferus",
+    "Lepidion eques",
+    "Lepidion guentheri",
+    "Lepidion inosimae",
+    "Lepidion lepidion",
+    "Lepidion microcephalus",
+    "Lepidion natalensis",
+    "Lepidion schmidti",
+    "Lotella fernandeziana",
+    "Lotella phycis",
+    "Lotella rhacina",
+    "Lotella schuettei",
+    "Lotella tosaensis",
+    "Mora moro",
+    "Notophycis fitchi",
+    "Notophycis marginata",
+    "Physiculus andriashevi",
+    "Physiculus argyropastus",
+    "Physiculus beckeri",
+    "Physiculus bertelseni",
+    "Physiculus capensis",
+    "Physiculus chigodarana",
+    "Physiculus coheni",
+    "Physiculus cyanostrophus",
+    "Physiculus cynodon",
+    "Physiculus dalwigki",
+    "Physiculus fedorovi",
+    "Physiculus fulvus",
+    "Physiculus grinnelli",
+    "Physiculus helenaensis",
+    "Physiculus hexacytus",
+    "Physiculus huloti",
+    "Physiculus japonicus",
+    "Physiculus karrerae",
+    "Physiculus kaupi",
+    "Physiculus longicavis",
+    "Physiculus longifilis",
+    "Physiculus luminosa",
+    "Physiculus marisrubri",
+    "Physiculus maslowskii",
+    "Physiculus microbarbata",
+    "Physiculus natalensis",
+    "Physiculus nematopus",
+    "Physiculus nielseni",
+    "Physiculus nigrescens",
+    "Physiculus nigripinnis",
+    "Physiculus normani",
+    "Physiculus parini",
+    "Physiculus peregrinus",
+    "Physiculus rastrelliger",
+    "Physiculus rhodopinnis",
+    "Physiculus roseus",
+    "Physiculus sazonovi",
+    "Physiculus sterops",
+    "Physiculus sudanensis",
+    "Physiculus talarae",
+    "Physiculus therosideros",
+    "Physiculus yoshidae",
+    "Pseudophycis bachus",
+    "Pseudophycis barbata",
+    "Pseudophycis breviuscula",
+    "Rhynchogadus hepaticus",
+    "Salilota australis",
+    "Svetovidovia lucullus",
+    "Tripterophycis gilchristi",
+    "Tripterophycis svetovidovi"
+  ],
+  "sampled_species": [
+    "Antimora microlepis",
+    "Antimora rostrata",
+    "Gadella imberbis",
+    "Gadella jordani",
+    "Guttigadus latifrons",
+    "Halargyreus johnsonii",
+    "Laemonema barbatulum",
+    "Laemonema goodebeanorum",
+    "Lepidion capensis",
+    "Lepidion ensiferus",
+    "Lepidion eques",
+    "Lepidion guentheri",
+    "Lepidion inosimae",
+    "Lepidion lepidion",
+    "Lepidion schmidti",
+    "Lotella rhacina",
+    "Mora moro",
+    "Physiculus capensis",
+    "Physiculus fulvus",
+    "Physiculus japonicus",
+    "Physiculus natalensis",
+    "Physiculus rastrelliger",
+    "Pseudophycis bachus",
+    "Pseudophycis barbata",
+    "Tripterophycis gilchristi"
+  ],
+  "unsampled_species": [
+    "Auchenoceros punctatus",
+    "Eeyorius hutchinsi",
+    "Eretmophorus kleinenbergi",
+    "Gadella brocca",
+    "Gadella dancoheni",
+    "Gadella edelmanni",
+    "Gadella filifer",
+    "Gadella macrura",
+    "Gadella maraldi",
+    "Gadella molokaiensis",
+    "Gadella norops",
+    "Gadella obscurus",
+    "Gadella svetovidovi",
+    "Gadella thysthlon",
+    "Guttigadus globiceps",
+    "Guttigadus globosus",
+    "Guttigadus kongi",
+    "Guttigadus nudicephalus",
+    "Guttigadus nudirostre",
+    "Guttigadus squamirostre",
+    "Laemonema compressicauda",
+    "Laemonema filodorsale",
+    "Laemonema gracillipes",
+    "Laemonema laureysi",
+    "Laemonema longipes",
+    "Laemonema macronema",
+    "Laemonema melanurum",
+    "Laemonema modestum",
+    "Laemonema nana",
+    "Laemonema rhodochir",
+    "Laemonema robustum",
+    "Laemonema verecundum",
+    "Laemonema yarrellii",
+    "Laemonema yuvto",
+    "Lepidion microcephalus",
+    "Lepidion natalensis",
+    "Lotella fernandeziana",
+    "Lotella phycis",
+    "Lotella schuettei",
+    "Lotella tosaensis",
+    "Notophycis fitchi",
+    "Notophycis marginata",
+    "Physiculus andriashevi",
+    "Physiculus argyropastus",
+    "Physiculus beckeri",
+    "Physiculus bertelseni",
+    "Physiculus chigodarana",
+    "Physiculus coheni",
+    "Physiculus cyanostrophus",
+    "Physiculus cynodon",
+    "Physiculus dalwigki",
+    "Physiculus fedorovi",
+    "Physiculus grinnelli",
+    "Physiculus helenaensis",
+    "Physiculus hexacytus",
+    "Physiculus huloti",
+    "Physiculus karrerae",
+    "Physiculus kaupi",
+    "Physiculus longicavis",
+    "Physiculus longifilis",
+    "Physiculus luminosa",
+    "Physiculus marisrubri",
+    "Physiculus maslowskii",
+    "Physiculus microbarbata",
+    "Physiculus nematopus",
+    "Physiculus nielseni",
+    "Physiculus nigrescens",
+    "Physiculus nigripinnis",
+    "Physiculus normani",
+    "Physiculus parini",
+    "Physiculus peregrinus",
+    "Physiculus rhodopinnis",
+    "Physiculus roseus",
+    "Physiculus sazonovi",
+    "Physiculus sterops",
+    "Physiculus sudanensis",
+    "Physiculus talarae",
+    "Physiculus therosideros",
+    "Physiculus yoshidae",
+    "Pseudophycis breviuscula",
+    "Rhynchogadus hepaticus",
+    "Salilota australis",
+    "Svetovidovia lucullus",
+    "Tripterophycis svetovidovi"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Antimora microlepis",
+      "Antimora rostrata",
+      "Gadella jordani",
+      "Halargyreus johnsonii",
+      "Laemonema barbatulum",
+      "Laemonema goodebeanorum",
+      "Lepidion capensis",
+      "Lepidion ensiferus",
+      "Mora moro",
+      "Physiculus fulvus"
+    ],
+    "16s": [
+      "Antimora microlepis",
+      "Antimora rostrata",
+      "Gadella jordani",
+      "Halargyreus johnsonii",
+      "Laemonema barbatulum",
+      "Laemonema goodebeanorum",
+      "Lepidion capensis",
+      "Lepidion ensiferus",
+      "Lotella rhacina",
+      "Mora moro",
+      "Physiculus fulvus",
+      "Physiculus japonicus",
+      "Pseudophycis bachus",
+      "Pseudophycis barbata"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Antimora microlepis",
+      "Antimora rostrata",
+      "Gadella imberbis",
+      "Gadella jordani",
+      "Guttigadus latifrons",
+      "Halargyreus johnsonii",
+      "Lepidion capensis",
+      "Lepidion ensiferus",
+      "Lepidion eques",
+      "Lepidion guentheri",
+      "Lepidion inosimae",
+      "Lepidion lepidion",
+      "Lepidion schmidti",
+      "Lotella rhacina",
+      "Mora moro",
+      "Physiculus capensis",
+      "Physiculus japonicus",
+      "Physiculus natalensis",
+      "Physiculus rastrelliger",
+      "Pseudophycis bachus",
+      "Tripterophycis gilchristi"
+    ],
+    "cytb": [
+      "Mora moro"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Antimora microlepis",
+      "Antimora rostrata",
+      "Halargyreus johnsonii",
+      "Laemonema barbatulum",
+      "Laemonema goodebeanorum",
+      "Physiculus fulvus"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Antimora microlepis",
+      "Gadella imberbis",
+      "Lepidion ensiferus",
+      "Physiculus fulvus"
+    ],
+    "myh6": [
+      "Laemonema barbatulum",
+      "Lepidion ensiferus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Antimora microlepis",
+      "Laemonema goodebeanorum",
+      "Lepidion ensiferus"
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Antimora microlepis",
+      "Antimora rostrata",
+      "Gadella jordani",
+      "Halargyreus johnsonii",
+      "Laemonema barbatulum",
+      "Laemonema goodebeanorum",
+      "Lepidion capensis",
+      "Lepidion ensiferus",
+      "Physiculus fulvus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Mora moro",
+      "Pseudophycis bachus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Gadella imberbis",
+      "Laemonema barbatulum",
+      "Laemonema goodebeanorum",
+      "Lepidion ensiferus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Antimora microlepis",
+      "Laemonema barbatulum",
+      "Laemonema goodebeanorum",
+      "Lepidion ensiferus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Moridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gadiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Gadoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Antimora microlepis": 0.2197,
+    "Antimora rostrata": 0.2197,
+    "Gadella imberbis": 0.1277,
+    "Gadella jordani": 0.182,
+    "Guttigadus latifrons": 0.0932,
+    "Halargyreus johnsonii": 0.1151,
+    "Laemonema barbatulum": 0.1182,
+    "Laemonema goodebeanorum": 0.1615,
+    "Lepidion capensis": 0.1603,
+    "Lepidion ensiferus": 0.1583,
+    "Lepidion eques": 0.3522,
+    "Lepidion guentheri": 0.231,
+    "Lepidion inosimae": 0.2205,
+    "Lepidion lepidion": 0.3465,
+    "Lepidion schmidti": 0.1287,
+    "Lotella rhacina": 0.0814,
+    "Mora moro": 0.1184,
+    "Physiculus capensis": 0.161,
+    "Physiculus fulvus": 0.1856,
+    "Physiculus japonicus": 0.2024,
+    "Physiculus natalensis": 0.2203,
+    "Physiculus rastrelliger": 0.126,
+    "Pseudophycis bachus": 0.0518,
+    "Pseudophycis barbata": 0.0509,
+    "Tripterophycis gilchristi": 0.0881
+  },
+  "tiprates_bamm_lambda": {
+    "Antimora microlepis": 0.5765,
+    "Antimora rostrata": 0.5765,
+    "Gadella imberbis": 0.053,
+    "Gadella jordani": 0.053,
+    "Guttigadus latifrons": 0.0526,
+    "Halargyreus johnsonii": 0.0589,
+    "Laemonema barbatulum": 0.0524,
+    "Laemonema goodebeanorum": 0.0524,
+    "Lepidion capensis": 0.5858,
+    "Lepidion ensiferus": 0.5858,
+    "Lepidion eques": 0.5876,
+    "Lepidion guentheri": 0.5876,
+    "Lepidion inosimae": 0.5876,
+    "Lepidion lepidion": 0.5876,
+    "Lepidion schmidti": 0.5876,
+    "Lotella rhacina": 0.0524,
+    "Mora moro": 0.0589,
+    "Physiculus capensis": 0.053,
+    "Physiculus fulvus": 0.053,
+    "Physiculus japonicus": 0.053,
+    "Physiculus natalensis": 0.053,
+    "Physiculus rastrelliger": 0.053,
+    "Pseudophycis bachus": 0.0524,
+    "Pseudophycis barbata": 0.0524,
+    "Tripterophycis gilchristi": 0.0526
+  },
+  "tiprates_bamm_mu": {
+    "Antimora microlepis": 0.3313,
+    "Antimora rostrata": 0.3313,
+    "Gadella imberbis": 0.0011,
+    "Gadella jordani": 0.0011,
+    "Guttigadus latifrons": 0.0005,
+    "Halargyreus johnsonii": 0.0066,
+    "Laemonema barbatulum": 0.0005,
+    "Laemonema goodebeanorum": 0.0005,
+    "Lepidion capensis": 0.3355,
+    "Lepidion ensiferus": 0.3355,
+    "Lepidion eques": 0.3363,
+    "Lepidion guentheri": 0.3363,
+    "Lepidion inosimae": 0.3363,
+    "Lepidion lepidion": 0.3363,
+    "Lepidion schmidti": 0.3363,
+    "Lotella rhacina": 0.0005,
+    "Mora moro": 0.0066,
+    "Physiculus capensis": 0.0011,
+    "Physiculus fulvus": 0.0011,
+    "Physiculus japonicus": 0.0011,
+    "Physiculus natalensis": 0.0011,
+    "Physiculus rastrelliger": 0.0011,
+    "Pseudophycis bachus": 0.0005,
+    "Pseudophycis barbata": 0.0005,
+    "Tripterophycis gilchristi": 0.0005
+  },
+  "mean_dr": 0.1648,
+  "mean_bamm_lambda": 0.2447,
+  "mean_bamm_mu": 0.1216,
+  "matrix_phylip": "downloads/taxonomy/family/Moridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Moridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Moridae.tre",
+  "phylogram": "downloads/taxonomy/family/Moridae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "species": [
+    "Scoloplax baileyi",
+    "Scoloplax baskini",
+    "Scoloplax dicra",
+    "Scoloplax distolothrix",
+    "Scoloplax dolicholophia",
+    "Scoloplax empousa"
+  ],
+  "sampled_species": [
+    "Scoloplax distolothrix"
+  ],
+  "unsampled_species": [
+    "Scoloplax baileyi",
+    "Scoloplax baskini",
+    "Scoloplax dicra",
+    "Scoloplax dolicholophia",
+    "Scoloplax empousa"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Scoloplax distolothrix"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Scoloplax distolothrix"
+    ],
+    "rag2": [
+      "Scoloplax distolothrix"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Scoloplacidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Loricaroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Scoloplax distolothrix": 0.0506
+  },
+  "tiprates_bamm_lambda": {
+    "Scoloplax distolothrix": 0.0746
+  },
+  "tiprates_bamm_mu": {
+    "Scoloplax distolothrix": 0.0009
+  },
+  "mean_dr": 0.0506,
+  "mean_bamm_lambda": 0.0746,
+  "mean_bamm_mu": 0.0009,
+  "matrix_phylip": "downloads/taxonomy/family/Scoloplacidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Scoloplacidae.nex.xz"
+}

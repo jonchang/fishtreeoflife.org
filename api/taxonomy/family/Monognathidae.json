@@ -1,0 +1,107 @@
+{
+  "species": [
+    "Monognathus ahlstromi",
+    "Monognathus berteli",
+    "Monognathus bertini",
+    "Monognathus boehlkei",
+    "Monognathus bruuni",
+    "Monognathus herringi",
+    "Monognathus isaacsi",
+    "Monognathus jesperseni",
+    "Monognathus jesse",
+    "Monognathus nigeli",
+    "Monognathus ozawai",
+    "Monognathus rajui",
+    "Monognathus rosenblatti",
+    "Monognathus smithi",
+    "Monognathus taningi"
+  ],
+  "sampled_species": [
+
+  ],
+  "unsampled_species": [
+    "Monognathus ahlstromi",
+    "Monognathus berteli",
+    "Monognathus bertini",
+    "Monognathus boehlkei",
+    "Monognathus bruuni",
+    "Monognathus herringi",
+    "Monognathus isaacsi",
+    "Monognathus jesperseni",
+    "Monognathus jesse",
+    "Monognathus nigeli",
+    "Monognathus ozawai",
+    "Monognathus rajui",
+    "Monognathus rosenblatti",
+    "Monognathus smithi",
+    "Monognathus taningi"
+  ],
+  "gene_sampling": [
+
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Monognathidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Anguilliformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+  },
+  "tiprates_bamm_lambda": {
+  },
+  "tiprates_bamm_mu": {
+  },
+  "mean_dr": "NaN",
+  "mean_bamm_lambda": "NaN",
+  "mean_bamm_mu": "NaN"
+}

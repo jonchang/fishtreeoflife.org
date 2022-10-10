@@ -1,0 +1,195 @@
+{
+  "species": [
+    "Blennodesmus scapularis",
+    "Congrogadus amplimaculatus",
+    "Congrogadus hierichthys",
+    "Congrogadus malayanus",
+    "Congrogadus spinifer",
+    "Congrogadus subducens",
+    "Congrogadus winterbottomi",
+    "Halidesmus coccus",
+    "Halidesmus polytretus",
+    "Halidesmus scapularis",
+    "Halidesmus socotraensis",
+    "Halidesmus thomaseni",
+    "Haliophis aethiopus",
+    "Haliophis diademus",
+    "Haliophis guttatus"
+  ],
+  "sampled_species": [
+    "Congrogadus subducens",
+    "Halidesmus scapularis"
+  ],
+  "unsampled_species": [
+    "Blennodesmus scapularis",
+    "Congrogadus amplimaculatus",
+    "Congrogadus hierichthys",
+    "Congrogadus malayanus",
+    "Congrogadus spinifer",
+    "Congrogadus winterbottomi",
+    "Halidesmus coccus",
+    "Halidesmus polytretus",
+    "Halidesmus socotraensis",
+    "Halidesmus thomaseni",
+    "Haliophis aethiopus",
+    "Haliophis diademus",
+    "Haliophis guttatus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Halidesmus scapularis"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Halidesmus scapularis"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Halidesmus scapularis"
+    ],
+    "myh6": [
+      "Congrogadus subducens"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Halidesmus scapularis"
+    ],
+    "plagl2": [
+      "Congrogadus subducens"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Congrogadus subducens"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Halidesmus scapularis"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Congrogadus subducens",
+      "Halidesmus scapularis"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Halidesmus scapularis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Congrogadidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Ovalentaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Congrogadus subducens": 0.1257,
+    "Halidesmus scapularis": 0.1418
+  },
+  "tiprates_bamm_lambda": {
+    "Congrogadus subducens": 0.0926,
+    "Halidesmus scapularis": 0.0926
+  },
+  "tiprates_bamm_mu": {
+    "Congrogadus subducens": 0.0031,
+    "Halidesmus scapularis": 0.0031
+  },
+  "mean_dr": 0.1337,
+  "mean_bamm_lambda": 0.0926,
+  "mean_bamm_mu": 0.0031,
+  "matrix_phylip": "downloads/taxonomy/family/Congrogadidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Congrogadidae.nex.xz"
+}

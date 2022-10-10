@@ -1,0 +1,261 @@
+{
+  "species": [
+    "Aldrovandia affinis",
+    "Aldrovandia gracilis",
+    "Aldrovandia mediorostris",
+    "Aldrovandia oleosa",
+    "Aldrovandia phalacra",
+    "Aldrovandia rostrata",
+    "Halosauropsis macrochir",
+    "Halosaurus attenuatus",
+    "Halosaurus carinicauda",
+    "Halosaurus guentheri",
+    "Halosaurus johnsonianus",
+    "Halosaurus ovenii",
+    "Halosaurus pectoralis",
+    "Halosaurus radiatus",
+    "Halosaurus ridgwayi",
+    "Halosaurus sinensis",
+    "Lipogenys gillii",
+    "Notacanthus abbotti",
+    "Notacanthus bonaparte",
+    "Notacanthus chemnitzii",
+    "Notacanthus indicus",
+    "Notacanthus sexspinis",
+    "Notacanthus spinosus",
+    "Polyacanthonotus africanus",
+    "Polyacanthonotus challengeri",
+    "Polyacanthonotus merretti",
+    "Polyacanthonotus rissoanus"
+  ],
+  "sampled_species": [
+    "Aldrovandia affinis",
+    "Aldrovandia phalacra",
+    "Halosauropsis macrochir",
+    "Halosaurus carinicauda",
+    "Notacanthus abbotti",
+    "Notacanthus bonaparte",
+    "Polyacanthonotus challengeri",
+    "Polyacanthonotus rissoanus"
+  ],
+  "unsampled_species": [
+    "Aldrovandia gracilis",
+    "Aldrovandia mediorostris",
+    "Aldrovandia oleosa",
+    "Aldrovandia rostrata",
+    "Halosaurus attenuatus",
+    "Halosaurus guentheri",
+    "Halosaurus johnsonianus",
+    "Halosaurus ovenii",
+    "Halosaurus pectoralis",
+    "Halosaurus radiatus",
+    "Halosaurus ridgwayi",
+    "Halosaurus sinensis",
+    "Lipogenys gillii",
+    "Notacanthus chemnitzii",
+    "Notacanthus indicus",
+    "Notacanthus sexspinis",
+    "Notacanthus spinosus",
+    "Polyacanthonotus africanus",
+    "Polyacanthonotus merretti"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Aldrovandia phalacra",
+      "Halosauropsis macrochir",
+      "Halosaurus carinicauda",
+      "Notacanthus abbotti",
+      "Notacanthus bonaparte",
+      "Polyacanthonotus rissoanus"
+    ],
+    "16s": [
+      "Aldrovandia phalacra",
+      "Halosauropsis macrochir",
+      "Halosaurus carinicauda",
+      "Notacanthus bonaparte",
+      "Polyacanthonotus rissoanus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Halosauropsis macrochir",
+      "Notacanthus bonaparte",
+      "Polyacanthonotus challengeri",
+      "Polyacanthonotus rissoanus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Halosauropsis macrochir"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Aldrovandia affinis",
+      "Halosauropsis macrochir"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Halosauropsis macrochir"
+    ],
+    "plagl2": [
+      "Aldrovandia affinis",
+      "Halosauropsis macrochir"
+    ],
+    "ptr": [
+      "Aldrovandia affinis",
+      "Halosauropsis macrochir"
+    ],
+    "rag1": [
+      "Halosauropsis macrochir"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Halosauropsis macrochir",
+      "Notacanthus bonaparte"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Aldrovandia affinis",
+      "Halosauropsis macrochir"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Aldrovandia affinis",
+      "Halosauropsis macrochir"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Aldrovandia affinis",
+      "Halosauropsis macrochir"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Halosauridae",
+      "Notacanthidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Notacanthiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Aldrovandia affinis": 0.0209,
+    "Aldrovandia phalacra": 0.0552,
+    "Halosauropsis macrochir": 0.0537,
+    "Halosaurus carinicauda": 0.0692,
+    "Notacanthus abbotti": 0.0691,
+    "Notacanthus bonaparte": 0.0686,
+    "Polyacanthonotus challengeri": 0.052,
+    "Polyacanthonotus rissoanus": 0.0472
+  },
+  "tiprates_bamm_lambda": {
+    "Aldrovandia affinis": 0.035,
+    "Aldrovandia phalacra": 0.035,
+    "Halosauropsis macrochir": 0.035,
+    "Halosaurus carinicauda": 0.035,
+    "Notacanthus abbotti": 0.035,
+    "Notacanthus bonaparte": 0.035,
+    "Polyacanthonotus challengeri": 0.035,
+    "Polyacanthonotus rissoanus": 0.035
+  },
+  "tiprates_bamm_mu": {
+    "Aldrovandia affinis": 0.0017,
+    "Aldrovandia phalacra": 0.0017,
+    "Halosauropsis macrochir": 0.0017,
+    "Halosaurus carinicauda": 0.0017,
+    "Notacanthus abbotti": 0.0017,
+    "Notacanthus bonaparte": 0.0017,
+    "Polyacanthonotus challengeri": 0.0017,
+    "Polyacanthonotus rissoanus": 0.0017
+  },
+  "mean_dr": 0.0545,
+  "mean_bamm_lambda": 0.035,
+  "mean_bamm_mu": 0.0017,
+  "matrix_phylip": "downloads/taxonomy/order/Notacanthiformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Notacanthiformes.nex.xz",
+  "chronogram": "downloads/taxonomy/order/Notacanthiformes.tre",
+  "phylogram": "downloads/taxonomy/order/Notacanthiformes_phylogram.tre",
+  "rogues": [
+
+  ]
+}

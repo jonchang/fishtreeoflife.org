@@ -1,0 +1,251 @@
+{
+  "species": [
+    "Argentina aliceae",
+    "Argentina australiae",
+    "Argentina brasiliensis",
+    "Argentina brucei",
+    "Argentina elongata",
+    "Argentina euchus",
+    "Argentina georgei",
+    "Argentina kagoshimae",
+    "Argentina sialis",
+    "Argentina silus",
+    "Argentina sphyraena",
+    "Argentina stewarti",
+    "Argentina striata",
+    "Glossanodon australis",
+    "Glossanodon danieli",
+    "Glossanodon elongatus",
+    "Glossanodon kotakamaru",
+    "Glossanodon leioglossus",
+    "Glossanodon lineatus",
+    "Glossanodon melanomanus",
+    "Glossanodon mildredae",
+    "Glossanodon nazca",
+    "Glossanodon polli",
+    "Glossanodon pseudolineatus",
+    "Glossanodon pygmaeus",
+    "Glossanodon semifasciatus",
+    "Glossanodon struhsakeri"
+  ],
+  "sampled_species": [
+    "Argentina sialis",
+    "Argentina silus",
+    "Argentina sphyraena",
+    "Argentina striata"
+  ],
+  "unsampled_species": [
+    "Argentina aliceae",
+    "Argentina australiae",
+    "Argentina brasiliensis",
+    "Argentina brucei",
+    "Argentina elongata",
+    "Argentina euchus",
+    "Argentina georgei",
+    "Argentina kagoshimae",
+    "Argentina stewarti",
+    "Glossanodon australis",
+    "Glossanodon danieli",
+    "Glossanodon elongatus",
+    "Glossanodon kotakamaru",
+    "Glossanodon leioglossus",
+    "Glossanodon lineatus",
+    "Glossanodon melanomanus",
+    "Glossanodon mildredae",
+    "Glossanodon nazca",
+    "Glossanodon polli",
+    "Glossanodon pseudolineatus",
+    "Glossanodon pygmaeus",
+    "Glossanodon semifasciatus",
+    "Glossanodon struhsakeri"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Argentina sialis"
+    ],
+    "16s": [
+      "Argentina sialis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Argentina silus",
+      "Argentina sphyraena",
+      "Argentina striata"
+    ],
+    "cytb": [
+      "Argentina silus",
+      "Argentina sphyraena"
+    ],
+    "enc1": [
+      "Argentina sialis",
+      "Argentina striata"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Argentina sialis",
+      "Argentina silus",
+      "Argentina striata"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Argentina sialis",
+      "Argentina silus",
+      "Argentina striata"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Argentina sialis"
+    ],
+    "plagl2": [
+      "Argentina sialis"
+    ],
+    "ptr": [
+      "Argentina silus",
+      "Argentina striata"
+    ],
+    "rag1": [
+      "Argentina sialis",
+      "Argentina silus",
+      "Argentina striata"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Argentina sialis",
+      "Argentina silus",
+      "Argentina sphyraena",
+      "Argentina striata"
+    ],
+    "ripk4": [
+      "Argentina sialis",
+      "Argentina striata"
+    ],
+    "sh3px3": [
+      "Argentina sialis",
+      "Argentina silus",
+      "Argentina striata"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Argentina sialis",
+      "Argentina striata"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Argentina sialis",
+      "Argentina silus",
+      "Argentina striata"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Argentina sialis",
+      "Argentina silus",
+      "Argentina striata"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Argentinidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Argentiniformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Protacanthopterygii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Argentina sialis": 0.1119,
+    "Argentina silus": 0.1066,
+    "Argentina sphyraena": 0.1276,
+    "Argentina striata": 0.1196
+  },
+  "tiprates_bamm_lambda": {
+    "Argentina sialis": 0.2031,
+    "Argentina silus": 0.2031,
+    "Argentina sphyraena": 0.2031,
+    "Argentina striata": 0.2031
+  },
+  "tiprates_bamm_mu": {
+    "Argentina sialis": 0.1535,
+    "Argentina silus": 0.1535,
+    "Argentina sphyraena": 0.1535,
+    "Argentina striata": 0.1535
+  },
+  "mean_dr": 0.1164,
+  "mean_bamm_lambda": 0.2031,
+  "mean_bamm_mu": 0.1535,
+  "matrix_phylip": "downloads/taxonomy/family/Argentinidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Argentinidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Argentinidae.tre",
+  "phylogram": "downloads/taxonomy/family/Argentinidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

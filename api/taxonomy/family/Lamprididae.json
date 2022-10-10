@@ -1,0 +1,173 @@
+{
+  "species": [
+    "Lampris guttatus",
+    "Lampris immaculatus"
+  ],
+  "sampled_species": [
+    "Lampris guttatus",
+    "Lampris immaculatus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Lampris guttatus",
+      "Lampris immaculatus"
+    ],
+    "16s": [
+      "Lampris guttatus",
+      "Lampris immaculatus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Lampris guttatus",
+      "Lampris immaculatus"
+    ],
+    "cytb": [
+      "Lampris guttatus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Lampris guttatus"
+    ],
+    "glyt": [
+      "Lampris guttatus"
+    ],
+    "hoxc6a": [
+      "Lampris guttatus"
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Lampris guttatus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Lampris guttatus"
+    ],
+    "ptr": [
+      "Lampris guttatus"
+    ],
+    "rag1": [
+      "Lampris guttatus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Lampris guttatus",
+      "Lampris immaculatus"
+    ],
+    "ripk4": [
+      "Lampris guttatus"
+    ],
+    "sh3px3": [
+      "Lampris guttatus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Lampris guttatus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Lampris guttatus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Lampris guttatus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Lampridacea"
+    ],
+    "family": [
+      "Lamprididae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lampridiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Lampris guttatus": 0.0155,
+    "Lampris immaculatus": 0.0155
+  },
+  "tiprates_bamm_lambda": {
+    "Lampris guttatus": 0.0522,
+    "Lampris immaculatus": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Lampris guttatus": 0.0003,
+    "Lampris immaculatus": 0.0003
+  },
+  "mean_dr": 0.0155,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Lamprididae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Lamprididae.nex.xz"
+}

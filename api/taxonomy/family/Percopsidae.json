@@ -1,0 +1,180 @@
+{
+  "species": [
+    "Percopsis omiscomaycus",
+    "Percopsis transmontana"
+  ],
+  "sampled_species": [
+    "Percopsis omiscomaycus",
+    "Percopsis transmontana"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Percopsis omiscomaycus"
+    ],
+    "16s": [
+      "Percopsis omiscomaycus"
+    ],
+    "4c4": [
+      "Percopsis omiscomaycus"
+    ],
+    "coi": [
+      "Percopsis omiscomaycus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "hoxc6a": [
+      "Percopsis transmontana"
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "nd2": [
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Percopsis transmontana"
+    ],
+    "plagl2": [
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "ptr": [
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "rag1": [
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Percopsis omiscomaycus",
+      "Percopsis transmontana"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Percopsidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Percopsiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Percopsaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Percopsis omiscomaycus": 0.0165,
+    "Percopsis transmontana": 0.0165
+  },
+  "tiprates_bamm_lambda": {
+    "Percopsis omiscomaycus": 0.0524,
+    "Percopsis transmontana": 0.0524
+  },
+  "tiprates_bamm_mu": {
+    "Percopsis omiscomaycus": 0.0007,
+    "Percopsis transmontana": 0.0007
+  },
+  "mean_dr": 0.0165,
+  "mean_bamm_lambda": 0.0524,
+  "mean_bamm_mu": 0.0007,
+  "matrix_phylip": "downloads/taxonomy/family/Percopsidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Percopsidae.nex.xz"
+}

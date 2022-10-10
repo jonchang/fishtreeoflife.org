@@ -1,0 +1,379 @@
+{
+  "species": [
+    "Bathymaster caeruleofasciatus",
+    "Bathymaster derjugini",
+    "Bathymaster leurolepis",
+    "Bathymaster signatus",
+    "Rathbunella alleni",
+    "Rathbunella hypoplecta",
+    "Ronquilus jordani"
+  ],
+  "sampled_species": [
+    "Bathymaster caeruleofasciatus",
+    "Bathymaster derjugini",
+    "Bathymaster leurolepis",
+    "Bathymaster signatus",
+    "Rathbunella hypoplecta",
+    "Ronquilus jordani"
+  ],
+  "unsampled_species": [
+    "Rathbunella alleni"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Bathymaster derjugini",
+      "Bathymaster leurolepis",
+      "Bathymaster signatus",
+      "Rathbunella hypoplecta",
+      "Ronquilus jordani"
+    ],
+    "4c4": [
+      "Bathymaster signatus"
+    ],
+    "coi": [
+      "Bathymaster derjugini",
+      "Bathymaster leurolepis",
+      "Bathymaster signatus",
+      "Rathbunella hypoplecta",
+      "Ronquilus jordani"
+    ],
+    "cytb": [
+      "Bathymaster derjugini",
+      "Bathymaster leurolepis",
+      "Bathymaster signatus",
+      "Rathbunella hypoplecta",
+      "Ronquilus jordani"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Bathymaster signatus",
+      "Rathbunella hypoplecta"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Bathymaster caeruleofasciatus",
+      "Rathbunella hypoplecta"
+    ],
+    "kiaa1239": [
+      "Bathymaster signatus",
+      "Rathbunella hypoplecta"
+    ],
+    "myh6": [
+      "Bathymaster caeruleofasciatus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Bathymaster caeruleofasciatus",
+      "Bathymaster signatus"
+    ],
+    "plagl2": [
+      "Bathymaster caeruleofasciatus",
+      "Bathymaster signatus"
+    ],
+    "ptr": [
+      "Bathymaster caeruleofasciatus",
+      "Bathymaster signatus",
+      "Rathbunella hypoplecta"
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Bathymaster caeruleofasciatus",
+      "Bathymaster signatus"
+    ],
+    "sh3px3": [
+      "Bathymaster caeruleofasciatus",
+      "Rathbunella hypoplecta"
+    ],
+    "sidkey": [
+      "Bathymaster signatus"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Bathymaster caeruleofasciatus",
+      "Bathymaster signatus"
+    ],
+    "vcpip": [
+      "Bathymaster caeruleofasciatus",
+      "Bathymaster signatus"
+    ],
+    "zic1": [
+      "Bathymaster signatus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Bathymasteridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Zoarcales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Bathymaster caeruleofasciatus": 0.0432,
+    "Bathymaster derjugini": 0.1266,
+    "Bathymaster leurolepis": 0.1266,
+    "Bathymaster signatus": 0.0704,
+    "Rathbunella hypoplecta": 0.056,
+    "Ronquilus jordani": 0.0625
+  },
+  "tiprates_bamm_lambda": {
+    "Bathymaster caeruleofasciatus": 0.0684,
+    "Bathymaster derjugini": 0.0684,
+    "Bathymaster leurolepis": 0.0684,
+    "Bathymaster signatus": 0.0684,
+    "Rathbunella hypoplecta": 0.0684,
+    "Ronquilus jordani": 0.0687
+  },
+  "tiprates_bamm_mu": {
+    "Bathymaster caeruleofasciatus": 0.0012,
+    "Bathymaster derjugini": 0.0012,
+    "Bathymaster leurolepis": 0.0012,
+    "Bathymaster signatus": 0.0012,
+    "Rathbunella hypoplecta": 0.0012,
+    "Ronquilus jordani": 0.0012
+  },
+  "mean_dr": 0.0809,
+  "mean_bamm_lambda": 0.0685,
+  "mean_bamm_mu": 0.0012,
+  "matrix_phylip": "downloads/taxonomy/family/Bathymasteridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Bathymasteridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Bathymasteridae.tre",
+  "phylogram": "downloads/taxonomy/family/Bathymasteridae_phylogram.tre",
+  "rogues": [
+    "Lycodes_eudipleurostictus",
+    "Lycodes_mcallisteri",
+    "Lycodes_vahlii",
+    "Lycodes_pallidus",
+    "Lycodes_paamiuti",
+    "Lycodes_palearis",
+    "Lycodes_fasciatus",
+    "Lycodes_brevipes",
+    "Lycodes_adolfi",
+    "Lycodes_terraenovae",
+    "Lycodes_esmarkii",
+    "Lycodes_polaris",
+    "Lycodes_tanakae",
+    "Lycodes_mucosus",
+    "Lycodes_seminudus",
+    "Lycodes_turneri",
+    "Lycodes_raridens",
+    "Lycodes_reticulatus",
+    "Lycodes_lavalaei",
+    "Lycodes_rossi",
+    "Lycodes_concolor",
+    "Lycodes_brunneofasciatus",
+    "Lycodes_soldatovi",
+    "Lycodes_yamatoi",
+    "Lycodes_fulvus",
+    "Lycodes_nakamurae",
+    "Bothrocara_brunneum",
+    "Bothrocara_soldatovi",
+    "Bothrocarina_microcephala",
+    "Bothrocara_pusillum",
+    "Bothrocara_molle",
+    "Lycogrammoides_schmidti",
+    "Bothrocarina_nigrocaudata",
+    "Bothrocara_hollandi",
+    "Lycodapus_leptus",
+    "Lycodapus_mandibularis",
+    "Lycodapus_fierasfer",
+    "Lycodapus_antarcticus",
+    "Lycodapus_endemoscotus",
+    "Lycodapus_pachysoma",
+    "Lycodes_beringi",
+    "Lycodes_diapterus",
+    "Lycodes_cortezianus",
+    "Lycodes_pacificus",
+    "Lycenchelys_paxillus",
+    "Lycenchelys_sarsii",
+    "Lycenchelys_muraena",
+    "Lycenchelys_kolthoffi",
+    "Lycenchelys_verrillii",
+    "Iluocoetes_fimbriatus",
+    "Austrolycus_laticinctus",
+    "Lycodichthys_dearborni",
+    "Lycenchelys_antarctica",
+    "Lycenchelys_jordani",
+    "Lycodichthys_antarcticus",
+    "Melanostigma_pammelas",
+    "Melanostigma_gelatinosum",
+    "Pachycara_brachycephalum",
+    "Lycenchelys_aratrirostris",
+    "Lycenchelys_tristichodon",
+    "Ophthalmolycus_amberensis",
+    "Seleniolycus_laevifasciatus",
+    "Oidiphorus_mcallisteri",
+    "Pachycara_lepinium",
+    "Pachycara_gymninium",
+    "Pachycara_thermophilum",
+    "Lycodes_hubbsi",
+    "Lycodes_japonicus",
+    "Lycodes_toyamensis",
+    "Lycodes_sadoensis",
+    "Lycodes_albonotatus",
+    "Lycenchelys_camchatica",
+    "Lycenchelys_crotalinus",
+    "Eucryphycus_californicus",
+    "Gymnelus_hemifasciatus",
+    "Gymnelus_viridis",
+    "Gymnelus_retrodorsalis",
+    "Lycozoarces_regani",
+    "Zoarces_viviparus",
+    "Zoarces_fedorovi",
+    "Zoarces_elongatus",
+    "Zoarces_andriashevi",
+    "Zoarces_gillii",
+    "Zoarces_americanus",
+    "Hadropareia_middendorffii",
+    "Magadanichthys_skopetsi",
+    "Davidijordania_lacertina",
+    "Davidijordania_poecilimon",
+    "Bilabria_ornata",
+    "Gymnelopsis_ochotensis",
+    "Anarhichas_lupus",
+    "Anarhichas_minor",
+    "Anarhichas_denticulatus",
+    "Anarhichas_orientalis",
+    "Anarrhichthys_ocellatus",
+    "Zoarchias_uchidai",
+    "Zoarchias_major",
+    "Neozoarces_pulcher",
+    "Leptostichaeus_pumilus",
+    "Azygopterus_corallinus",
+    "Eulophias_koreanus",
+    "Lumpenus_fabricii",
+    "Lumpenus_lampretaeformis",
+    "Lumpenus_sagitta",
+    "Acantholumpenus_mackayi",
+    "Anisarchus_macrops",
+    "Anisarchus_medius",
+    "Lumpenella_longirostris",
+    "Leptoclinus_maculatus",
+    "Xenolumpenus_longipterus",
+    "Poroclinus_rothrocki",
+    "Cryptacanthodes_giganteus",
+    "Cryptacanthodes_maculatus",
+    "Cryptacanthodes_aleutensis",
+    "Cryptacanthodes_bergi",
+    "Zaprora_silenus",
+    "Chirolophis_japonicus",
+    "Chirolophis_wui",
+    "Chirolophis_nugator",
+    "Chirolophis_decoratus",
+    "Bryozoichthys_lysimus",
+    "Ernogrammus_hexagrammus",
+    "Stichaeus_punctatus_punctatus",
+    "Stichaeus_ochriamkini",
+    "Ulvaria_subbifurcata",
+    "Stichaeopsis_epallax",
+    "Eumesogrammus_praecisus",
+    "Stichaeus_nozawae",
+    "Stichaeus_grigorjewi",
+    "Stichaeus_fuscus",
+    "Stichaeopsis_nevelskoi",
+    "Xiphister_mucosus",
+    "Anoplarchus_insignis",
+    "Anoplarchus_purpurescens",
+    "Alectrias_alectrolophus",
+    "Alectrias_benjamini",
+    "Apodichthys_fucorum",
+    "Pholis_crassispina",
+    "Pholis_picta",
+    "Pholis_fasciata",
+    "Pholis_nebulosa",
+    "Pholis_fangi",
+    "Pholis_laeta",
+    "Pholis_clemensi",
+    "Pholis_gunnellus",
+    "Pholis_ornata",
+    "Apodichthys_flavidus",
+    "Rhodymenichthys_dolichogaster",
+    "Opisthocentrus_tenuis",
+    "Opisthocentrus_ocellatus",
+    "Opisthocentrus_zonope",
+    "Askoldia_variegata",
+    "Kasatkia_seigeli",
+    "Kasatkia_memorabilis",
+    "Ptilichthys_goodei",
+    "Bryozoichthys_marjorius",
+    "Dictyosoma_burgeri",
+    "Dictyosoma_tongyeongensis",
+    "Cebidichthys_violaceus",
+    "Esselenichthys_carli"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Bathymasteridae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Bathymasteridae_mrca_phylogram.tre"
+}

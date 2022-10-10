@@ -1,0 +1,360 @@
+{
+  "species": [
+    "Branchiostegus albus",
+    "Branchiostegus argentatus",
+    "Branchiostegus auratus",
+    "Branchiostegus australiensis",
+    "Branchiostegus doliatus",
+    "Branchiostegus gloerfelti",
+    "Branchiostegus hedlandensis",
+    "Branchiostegus ilocanus",
+    "Branchiostegus japonicus",
+    "Branchiostegus paxtoni",
+    "Branchiostegus saitoi",
+    "Branchiostegus sawakinensis",
+    "Branchiostegus semifasciatus",
+    "Branchiostegus serratus",
+    "Branchiostegus vittatus",
+    "Branchiostegus wardi",
+    "Caulolatilus affinis",
+    "Caulolatilus bermudensis",
+    "Caulolatilus chrysops",
+    "Caulolatilus cyanops",
+    "Caulolatilus dooleyi",
+    "Caulolatilus guppyi",
+    "Caulolatilus hubbsi",
+    "Caulolatilus intermedius",
+    "Caulolatilus microps",
+    "Caulolatilus princeps",
+    "Caulolatilus williamsi",
+    "Hoplolatilus chlupatyi",
+    "Hoplolatilus cuniculus",
+    "Hoplolatilus erdmanni",
+    "Hoplolatilus fourmanoiri",
+    "Hoplolatilus fronticinctus",
+    "Hoplolatilus geo",
+    "Hoplolatilus luteus",
+    "Hoplolatilus marcosi",
+    "Hoplolatilus oreni",
+    "Hoplolatilus pohle",
+    "Hoplolatilus purpureus",
+    "Hoplolatilus randalli",
+    "Hoplolatilus starcki",
+    "Lopholatilus chamaeleonticeps",
+    "Lopholatilus villarii",
+    "Malacanthus brevirostris",
+    "Malacanthus latovittatus",
+    "Malacanthus plumieri"
+  ],
+  "sampled_species": [
+    "Branchiostegus albus",
+    "Branchiostegus argentatus",
+    "Branchiostegus auratus",
+    "Branchiostegus doliatus",
+    "Branchiostegus japonicus",
+    "Branchiostegus semifasciatus",
+    "Branchiostegus wardi",
+    "Caulolatilus affinis",
+    "Caulolatilus intermedius",
+    "Caulolatilus microps",
+    "Caulolatilus princeps",
+    "Hoplolatilus chlupatyi",
+    "Hoplolatilus fronticinctus",
+    "Hoplolatilus marcosi",
+    "Hoplolatilus purpureus",
+    "Lopholatilus chamaeleonticeps",
+    "Lopholatilus villarii",
+    "Malacanthus brevirostris",
+    "Malacanthus latovittatus",
+    "Malacanthus plumieri"
+  ],
+  "unsampled_species": [
+    "Branchiostegus australiensis",
+    "Branchiostegus gloerfelti",
+    "Branchiostegus hedlandensis",
+    "Branchiostegus ilocanus",
+    "Branchiostegus paxtoni",
+    "Branchiostegus saitoi",
+    "Branchiostegus sawakinensis",
+    "Branchiostegus serratus",
+    "Branchiostegus vittatus",
+    "Caulolatilus bermudensis",
+    "Caulolatilus chrysops",
+    "Caulolatilus cyanops",
+    "Caulolatilus dooleyi",
+    "Caulolatilus guppyi",
+    "Caulolatilus hubbsi",
+    "Caulolatilus williamsi",
+    "Hoplolatilus cuniculus",
+    "Hoplolatilus erdmanni",
+    "Hoplolatilus fourmanoiri",
+    "Hoplolatilus geo",
+    "Hoplolatilus luteus",
+    "Hoplolatilus oreni",
+    "Hoplolatilus pohle",
+    "Hoplolatilus randalli",
+    "Hoplolatilus starcki"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Branchiostegus albus",
+      "Branchiostegus argentatus",
+      "Branchiostegus auratus",
+      "Branchiostegus japonicus",
+      "Caulolatilus affinis",
+      "Caulolatilus princeps",
+      "Hoplolatilus purpureus",
+      "Lopholatilus chamaeleonticeps"
+    ],
+    "4c4": [
+      "Hoplolatilus purpureus"
+    ],
+    "coi": [
+      "Branchiostegus albus",
+      "Branchiostegus argentatus",
+      "Branchiostegus auratus",
+      "Branchiostegus doliatus",
+      "Branchiostegus japonicus",
+      "Caulolatilus affinis",
+      "Caulolatilus princeps",
+      "Hoplolatilus chlupatyi",
+      "Hoplolatilus fronticinctus",
+      "Hoplolatilus marcosi",
+      "Hoplolatilus purpureus",
+      "Lopholatilus villarii",
+      "Malacanthus brevirostris",
+      "Malacanthus latovittatus",
+      "Malacanthus plumieri"
+    ],
+    "cytb": [
+      "Branchiostegus albus",
+      "Branchiostegus argentatus",
+      "Branchiostegus auratus",
+      "Branchiostegus japonicus",
+      "Branchiostegus wardi"
+    ],
+    "enc1": [
+      "Caulolatilus princeps"
+    ],
+    "ficd": [
+      "Caulolatilus intermedius",
+      "Caulolatilus princeps"
+    ],
+    "glyt": [
+      "Caulolatilus princeps",
+      "Malacanthus plumieri"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Caulolatilus intermedius",
+      "Caulolatilus princeps"
+    ],
+    "myh6": [
+      "Caulolatilus intermedius",
+      "Caulolatilus princeps",
+      "Malacanthus plumieri"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Caulolatilus intermedius",
+      "Caulolatilus princeps",
+      "Malacanthus plumieri"
+    ],
+    "ptr": [
+      "Caulolatilus princeps",
+      "Malacanthus plumieri"
+    ],
+    "rag1": [
+      "Branchiostegus albus",
+      "Branchiostegus argentatus",
+      "Branchiostegus auratus",
+      "Branchiostegus japonicus",
+      "Branchiostegus semifasciatus",
+      "Caulolatilus microps",
+      "Caulolatilus princeps",
+      "Lopholatilus chamaeleonticeps",
+      "Malacanthus plumieri"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Lopholatilus chamaeleonticeps"
+    ],
+    "ripk4": [
+      "Caulolatilus princeps"
+    ],
+    "sh3px3": [
+      "Caulolatilus intermedius",
+      "Caulolatilus princeps",
+      "Malacanthus plumieri"
+    ],
+    "sidkey": [
+      "Caulolatilus intermedius"
+    ],
+    "sreb2": [
+      "Caulolatilus princeps"
+    ],
+    "svep1": [
+      "Caulolatilus intermedius"
+    ],
+    "tbr1": [
+      "Caulolatilus intermedius",
+      "Caulolatilus princeps",
+      "Malacanthus plumieri"
+    ],
+    "vcpip": [
+      "Caulolatilus intermedius"
+    ],
+    "zic1": [
+      "Caulolatilus intermedius",
+      "Caulolatilus princeps",
+      "Malacanthus plumieri"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Malacanthidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Branchiostegus albus": 0.1262,
+    "Branchiostegus argentatus": 0.1849,
+    "Branchiostegus auratus": 0.0637,
+    "Branchiostegus doliatus": 0.0494,
+    "Branchiostegus japonicus": 0.0993,
+    "Branchiostegus semifasciatus": 0.0484,
+    "Branchiostegus wardi": 0.1925,
+    "Caulolatilus affinis": 0.0567,
+    "Caulolatilus intermedius": 0.0813,
+    "Caulolatilus microps": 0.062,
+    "Caulolatilus princeps": 0.0777,
+    "Hoplolatilus chlupatyi": 0.0428,
+    "Hoplolatilus fronticinctus": 0.0747,
+    "Hoplolatilus marcosi": 0.058,
+    "Hoplolatilus purpureus": 0.0787,
+    "Lopholatilus chamaeleonticeps": 0.0558,
+    "Lopholatilus villarii": 0.0401,
+    "Malacanthus brevirostris": 0.025,
+    "Malacanthus latovittatus": 0.0328,
+    "Malacanthus plumieri": 0.0328
+  },
+  "tiprates_bamm_lambda": {
+    "Branchiostegus albus": 0.0581,
+    "Branchiostegus argentatus": 0.0581,
+    "Branchiostegus auratus": 0.0581,
+    "Branchiostegus doliatus": 0.0581,
+    "Branchiostegus japonicus": 0.0581,
+    "Branchiostegus semifasciatus": 0.0579,
+    "Branchiostegus wardi": 0.0581,
+    "Caulolatilus affinis": 0.0579,
+    "Caulolatilus intermedius": 0.0579,
+    "Caulolatilus microps": 0.0579,
+    "Caulolatilus princeps": 0.0579,
+    "Hoplolatilus chlupatyi": 0.0579,
+    "Hoplolatilus fronticinctus": 0.0579,
+    "Hoplolatilus marcosi": 0.0579,
+    "Hoplolatilus purpureus": 0.0579,
+    "Lopholatilus chamaeleonticeps": 0.0579,
+    "Lopholatilus villarii": 0.0579,
+    "Malacanthus brevirostris": 0.0579,
+    "Malacanthus latovittatus": 0.0579,
+    "Malacanthus plumieri": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Branchiostegus albus": 0.0004,
+    "Branchiostegus argentatus": 0.0004,
+    "Branchiostegus auratus": 0.0004,
+    "Branchiostegus doliatus": 0.0004,
+    "Branchiostegus japonicus": 0.0004,
+    "Branchiostegus semifasciatus": 0.0003,
+    "Branchiostegus wardi": 0.0004,
+    "Caulolatilus affinis": 0.0003,
+    "Caulolatilus intermedius": 0.0003,
+    "Caulolatilus microps": 0.0003,
+    "Caulolatilus princeps": 0.0003,
+    "Hoplolatilus chlupatyi": 0.0003,
+    "Hoplolatilus fronticinctus": 0.0003,
+    "Hoplolatilus marcosi": 0.0003,
+    "Hoplolatilus purpureus": 0.0003,
+    "Lopholatilus chamaeleonticeps": 0.0003,
+    "Lopholatilus villarii": 0.0003,
+    "Malacanthus brevirostris": 0.0003,
+    "Malacanthus latovittatus": 0.0003,
+    "Malacanthus plumieri": 0.0003
+  },
+  "mean_dr": 0.0741,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Malacanthidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Malacanthidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Malacanthidae.tre",
+  "phylogram": "downloads/taxonomy/family/Malacanthidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

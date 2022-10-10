@@ -1,0 +1,167 @@
+{
+  "species": [
+    "Vaillantella cinnamomea",
+    "Vaillantella euepiptera",
+    "Vaillantella maassi"
+  ],
+  "sampled_species": [
+    "Vaillantella maassi"
+  ],
+  "unsampled_species": [
+    "Vaillantella cinnamomea",
+    "Vaillantella euepiptera"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Vaillantella maassi"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Vaillantella maassi"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Vaillantellidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Cypriniformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Cypriniphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Vaillantella maassi": 0.0422
+  },
+  "tiprates_bamm_lambda": {
+    "Vaillantella maassi": 0.0786
+  },
+  "tiprates_bamm_mu": {
+    "Vaillantella maassi": 0.0018
+  },
+  "mean_dr": 0.0422,
+  "mean_bamm_lambda": 0.0786,
+  "mean_bamm_mu": 0.0018,
+  "matrix_phylip": "downloads/taxonomy/family/Vaillantellidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Vaillantellidae.nex.xz"
+}

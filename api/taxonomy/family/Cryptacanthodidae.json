@@ -1,0 +1,189 @@
+{
+  "species": [
+    "Cryptacanthodes aleutensis",
+    "Cryptacanthodes bergi",
+    "Cryptacanthodes giganteus",
+    "Cryptacanthodes maculatus"
+  ],
+  "sampled_species": [
+    "Cryptacanthodes aleutensis",
+    "Cryptacanthodes bergi",
+    "Cryptacanthodes giganteus",
+    "Cryptacanthodes maculatus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Cryptacanthodes bergi",
+      "Cryptacanthodes giganteus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Cryptacanthodes aleutensis",
+      "Cryptacanthodes bergi",
+      "Cryptacanthodes giganteus",
+      "Cryptacanthodes maculatus"
+    ],
+    "cytb": [
+      "Cryptacanthodes bergi",
+      "Cryptacanthodes giganteus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Cryptacanthodes maculatus"
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Cryptacanthodes maculatus"
+    ],
+    "plagl2": [
+      "Cryptacanthodes maculatus"
+    ],
+    "ptr": [
+      "Cryptacanthodes maculatus"
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Cryptacanthodes maculatus"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Cryptacanthodes maculatus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Cryptacanthodidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Zoarcales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Cryptacanthodes aleutensis": 0.11,
+    "Cryptacanthodes bergi": 0.11,
+    "Cryptacanthodes giganteus": 0.1124,
+    "Cryptacanthodes maculatus": 0.1124
+  },
+  "tiprates_bamm_lambda": {
+    "Cryptacanthodes aleutensis": 0.0814,
+    "Cryptacanthodes bergi": 0.0814,
+    "Cryptacanthodes giganteus": 0.0814,
+    "Cryptacanthodes maculatus": 0.0814
+  },
+  "tiprates_bamm_mu": {
+    "Cryptacanthodes aleutensis": 0.0038,
+    "Cryptacanthodes bergi": 0.0038,
+    "Cryptacanthodes giganteus": 0.0038,
+    "Cryptacanthodes maculatus": 0.0038
+  },
+  "mean_dr": 0.1112,
+  "mean_bamm_lambda": 0.0814,
+  "mean_bamm_mu": 0.0038,
+  "matrix_phylip": "downloads/taxonomy/family/Cryptacanthodidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Cryptacanthodidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Cryptacanthodidae.tre",
+  "phylogram": "downloads/taxonomy/family/Cryptacanthodidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

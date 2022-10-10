@@ -1,0 +1,171 @@
+{
+  "species": [
+    "Schindleria brevipinguis",
+    "Schindleria pietschmanni",
+    "Schindleria praematura"
+  ],
+  "sampled_species": [
+    "Schindleria pietschmanni",
+    "Schindleria praematura"
+  ],
+  "unsampled_species": [
+    "Schindleria brevipinguis"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+      "Schindleria pietschmanni",
+      "Schindleria praematura"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Schindleriidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gobiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Gobiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Gobioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Schindleria pietschmanni": 0.1329,
+    "Schindleria praematura": 0.1362
+  },
+  "tiprates_bamm_lambda": {
+    "Schindleria pietschmanni": 0.058,
+    "Schindleria praematura": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Schindleria pietschmanni": 0.004,
+    "Schindleria praematura": 0.004
+  },
+  "mean_dr": 0.1346,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.004,
+  "matrix_phylip": "downloads/taxonomy/family/Schindleriidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Schindleriidae.nex.xz"
+}

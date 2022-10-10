@@ -1,0 +1,173 @@
+{
+  "species": [
+    "Coryphaena equiselis",
+    "Coryphaena hippurus"
+  ],
+  "sampled_species": [
+    "Coryphaena equiselis",
+    "Coryphaena hippurus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Coryphaena equiselis",
+      "Coryphaena hippurus"
+    ],
+    "16s": [
+      "Coryphaena hippurus"
+    ],
+    "4c4": [
+      "Coryphaena hippurus"
+    ],
+    "coi": [
+      "Coryphaena hippurus"
+    ],
+    "cytb": [
+      "Coryphaena equiselis",
+      "Coryphaena hippurus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Coryphaena hippurus"
+    ],
+    "glyt": [
+      "Coryphaena hippurus"
+    ],
+    "hoxc6a": [
+      "Coryphaena hippurus"
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Coryphaena hippurus"
+    ],
+    "nd2": [
+      "Coryphaena equiselis",
+      "Coryphaena hippurus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Coryphaena hippurus"
+    ],
+    "plagl2": [
+      "Coryphaena hippurus"
+    ],
+    "ptr": [
+      "Coryphaena hippurus"
+    ],
+    "rag1": [
+      "Coryphaena hippurus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Coryphaena equiselis",
+      "Coryphaena hippurus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Coryphaena hippurus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Coryphaena hippurus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Coryphaena hippurus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Coryphaenidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Carangiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Coryphaena equiselis": 0.0349,
+    "Coryphaena hippurus": 0.0349
+  },
+  "tiprates_bamm_lambda": {
+    "Coryphaena equiselis": 0.055,
+    "Coryphaena hippurus": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Coryphaena equiselis": 0.0003,
+    "Coryphaena hippurus": 0.0003
+  },
+  "mean_dr": 0.0349,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Coryphaenidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Coryphaenidae.nex.xz"
+}

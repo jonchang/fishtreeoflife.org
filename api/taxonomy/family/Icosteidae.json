@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Icosteus aenigmaticus"
+  ],
+  "sampled_species": [
+    "Icosteus aenigmaticus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Icosteus aenigmaticus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Icosteus aenigmaticus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Icosteus aenigmaticus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Icosteus aenigmaticus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Icosteus aenigmaticus"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Icosteus aenigmaticus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Icosteus aenigmaticus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Icosteus aenigmaticus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Icosteus aenigmaticus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Icosteidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Scombriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Pelagiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Icosteus aenigmaticus": 0.0386
+  },
+  "tiprates_bamm_lambda": {
+    "Icosteus aenigmaticus": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Icosteus aenigmaticus": 0.0003
+  },
+  "mean_dr": 0.0386,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Icosteidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Icosteidae.nex.xz"
+}

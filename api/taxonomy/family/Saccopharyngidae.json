@@ -1,0 +1,181 @@
+{
+  "species": [
+    "Saccopharynx ampullaceus",
+    "Saccopharynx berteli",
+    "Saccopharynx harrisoni",
+    "Saccopharynx hjorti",
+    "Saccopharynx lavenbergi",
+    "Saccopharynx paucovertebratis",
+    "Saccopharynx ramosus",
+    "Saccopharynx schmidti",
+    "Saccopharynx thalassa",
+    "Saccopharynx trilobatus"
+  ],
+  "sampled_species": [
+    "Saccopharynx ampullaceus"
+  ],
+  "unsampled_species": [
+    "Saccopharynx berteli",
+    "Saccopharynx harrisoni",
+    "Saccopharynx hjorti",
+    "Saccopharynx lavenbergi",
+    "Saccopharynx paucovertebratis",
+    "Saccopharynx ramosus",
+    "Saccopharynx schmidti",
+    "Saccopharynx thalassa",
+    "Saccopharynx trilobatus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Saccopharynx ampullaceus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Saccopharynx ampullaceus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Saccopharynx ampullaceus"
+    ],
+    "myh6": [
+      "Saccopharynx ampullaceus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Saccopharynx ampullaceus"
+    ],
+    "plagl2": [
+      "Saccopharynx ampullaceus"
+    ],
+    "ptr": [
+      "Saccopharynx ampullaceus"
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Saccopharynx ampullaceus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Saccopharynx ampullaceus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Saccopharyngidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Anguilliformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Saccopharynx ampullaceus": 0.0548
+  },
+  "tiprates_bamm_lambda": {
+    "Saccopharynx ampullaceus": 0.0567
+  },
+  "tiprates_bamm_mu": {
+    "Saccopharynx ampullaceus": 0.0031
+  },
+  "mean_dr": 0.0548,
+  "mean_bamm_lambda": 0.0567,
+  "mean_bamm_mu": 0.0031,
+  "matrix_phylip": "downloads/taxonomy/family/Saccopharyngidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Saccopharyngidae.nex.xz"
+}

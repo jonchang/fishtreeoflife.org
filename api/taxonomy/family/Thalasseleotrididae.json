@@ -1,0 +1,177 @@
+{
+  "species": [
+    "Grahamichthys radiata",
+    "Thalasseleotris adela",
+    "Thalasseleotris iota"
+  ],
+  "sampled_species": [
+    "Grahamichthys radiata",
+    "Thalasseleotris iota"
+  ],
+  "unsampled_species": [
+    "Thalasseleotris adela"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Grahamichthys radiata",
+      "Thalasseleotris iota"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Grahamichthys radiata",
+      "Thalasseleotris iota"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Grahamichthys radiata",
+      "Thalasseleotris iota"
+    ],
+    "ptr": [
+      "Grahamichthys radiata",
+      "Thalasseleotris iota"
+    ],
+    "rag1": [
+      "Grahamichthys radiata",
+      "Thalasseleotris iota"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Grahamichthys radiata",
+      "Thalasseleotris iota"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Grahamichthys radiata"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Grahamichthys radiata",
+      "Thalasseleotris iota"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Thalasseleotrididae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gobiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Gobiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Gobioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Grahamichthys radiata": 0.0306,
+    "Thalasseleotris iota": 0.0529
+  },
+  "tiprates_bamm_lambda": {
+    "Grahamichthys radiata": 0.054,
+    "Thalasseleotris iota": 0.054
+  },
+  "tiprates_bamm_mu": {
+    "Grahamichthys radiata": 0.0007,
+    "Thalasseleotris iota": 0.0007
+  },
+  "mean_dr": 0.0417,
+  "mean_bamm_lambda": 0.054,
+  "mean_bamm_mu": 0.0007,
+  "matrix_phylip": "downloads/taxonomy/family/Thalasseleotrididae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Thalasseleotrididae.nex.xz"
+}

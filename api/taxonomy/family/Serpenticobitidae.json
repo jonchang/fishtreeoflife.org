@@ -1,0 +1,167 @@
+{
+  "species": [
+    "Serpenticobitis cingulata",
+    "Serpenticobitis octozona",
+    "Serpenticobitis zonata"
+  ],
+  "sampled_species": [
+    "Serpenticobitis zonata"
+  ],
+  "unsampled_species": [
+    "Serpenticobitis cingulata",
+    "Serpenticobitis octozona"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Serpenticobitis zonata"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Serpenticobitidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Cypriniformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Cypriniphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Serpenticobitis zonata": 0.0576
+  },
+  "tiprates_bamm_lambda": {
+    "Serpenticobitis zonata": 0.0956
+  },
+  "tiprates_bamm_mu": {
+    "Serpenticobitis zonata": 0.0078
+  },
+  "mean_dr": 0.0576,
+  "mean_bamm_lambda": 0.0956,
+  "mean_bamm_mu": 0.0078,
+  "matrix_phylip": "downloads/taxonomy/family/Serpenticobitidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Serpenticobitidae.nex.xz"
+}

@@ -1,0 +1,167 @@
+{
+  "species": [
+    "Apistops caloundra",
+    "Apistus carinatus",
+    "Cheroscorpaena tridactyla"
+  ],
+  "sampled_species": [
+    "Apistus carinatus"
+  ],
+  "unsampled_species": [
+    "Apistops caloundra",
+    "Cheroscorpaena tridactyla"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Apistus carinatus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Apistus carinatus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Apistus carinatus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Apistus carinatus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Apistus carinatus"
+    ],
+    "ptr": [
+      "Apistus carinatus"
+    ],
+    "rag1": [
+      "Apistus carinatus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Apistus carinatus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Apistus carinatus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Apistus carinatus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Apistus carinatus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Apistidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Apistus carinatus": 0.07
+  },
+  "tiprates_bamm_lambda": {
+    "Apistus carinatus": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Apistus carinatus": 0.0004
+  },
+  "mean_dr": 0.07,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Apistidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Apistidae.nex.xz"
+}

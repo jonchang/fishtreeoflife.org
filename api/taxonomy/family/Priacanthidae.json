@@ -1,0 +1,260 @@
+{
+  "species": [
+    "Cookeolus japonicus",
+    "Heteropriacanthus cruentatus",
+    "Priacanthus alalaua",
+    "Priacanthus arenatus",
+    "Priacanthus blochii",
+    "Priacanthus fitchi",
+    "Priacanthus hamrur",
+    "Priacanthus macracanthus",
+    "Priacanthus meeki",
+    "Priacanthus nasca",
+    "Priacanthus prolixus",
+    "Priacanthus sagittarius",
+    "Priacanthus tayenus",
+    "Priacanthus zaiserae",
+    "Pristigenys alta",
+    "Pristigenys meyeri",
+    "Pristigenys niphonia",
+    "Pristigenys refulgens",
+    "Pristigenys serrula"
+  ],
+  "sampled_species": [
+    "Cookeolus japonicus",
+    "Heteropriacanthus cruentatus",
+    "Priacanthus arenatus",
+    "Priacanthus hamrur",
+    "Priacanthus macracanthus",
+    "Priacanthus meeki",
+    "Priacanthus tayenus",
+    "Pristigenys alta",
+    "Pristigenys niphonia",
+    "Pristigenys serrula"
+  ],
+  "unsampled_species": [
+    "Priacanthus alalaua",
+    "Priacanthus blochii",
+    "Priacanthus fitchi",
+    "Priacanthus nasca",
+    "Priacanthus prolixus",
+    "Priacanthus sagittarius",
+    "Priacanthus zaiserae",
+    "Pristigenys meyeri",
+    "Pristigenys refulgens"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Pristigenys serrula"
+    ],
+    "16s": [
+      "Cookeolus japonicus",
+      "Priacanthus arenatus",
+      "Pristigenys alta",
+      "Pristigenys serrula"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Cookeolus japonicus",
+      "Heteropriacanthus cruentatus",
+      "Priacanthus arenatus",
+      "Priacanthus hamrur",
+      "Priacanthus macracanthus",
+      "Priacanthus meeki",
+      "Priacanthus tayenus",
+      "Pristigenys niphonia",
+      "Pristigenys serrula"
+    ],
+    "cytb": [
+      "Heteropriacanthus cruentatus",
+      "Priacanthus hamrur",
+      "Pristigenys serrula"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Pristigenys alta"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Heteropriacanthus cruentatus",
+      "Priacanthus arenatus",
+      "Pristigenys alta"
+    ],
+    "myh6": [
+      "Priacanthus arenatus",
+      "Pristigenys alta"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Heteropriacanthus cruentatus",
+      "Priacanthus arenatus"
+    ],
+    "plagl2": [
+      "Heteropriacanthus cruentatus",
+      "Pristigenys alta"
+    ],
+    "ptr": [
+      "Heteropriacanthus cruentatus",
+      "Priacanthus arenatus"
+    ],
+    "rag1": [
+      "Priacanthus hamrur",
+      "Priacanthus tayenus",
+      "Pristigenys alta"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Heteropriacanthus cruentatus",
+      "Priacanthus arenatus",
+      "Priacanthus hamrur"
+    ],
+    "ripk4": [
+      "Heteropriacanthus cruentatus",
+      "Priacanthus arenatus",
+      "Pristigenys alta"
+    ],
+    "sh3px3": [
+      "Heteropriacanthus cruentatus"
+    ],
+    "sidkey": [
+      "Heteropriacanthus cruentatus",
+      "Priacanthus arenatus",
+      "Pristigenys alta"
+    ],
+    "sreb2": [
+      "Pristigenys alta"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Heteropriacanthus cruentatus"
+    ],
+    "vcpip": [
+      "Priacanthus arenatus"
+    ],
+    "zic1": [
+      "Heteropriacanthus cruentatus",
+      "Priacanthus arenatus",
+      "Pristigenys alta"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Priacanthidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Cookeolus japonicus": 0.0414,
+    "Heteropriacanthus cruentatus": 0.0414,
+    "Priacanthus arenatus": 0.0816,
+    "Priacanthus hamrur": 0.0849,
+    "Priacanthus macracanthus": 0.0538,
+    "Priacanthus meeki": 0.0902,
+    "Priacanthus tayenus": 0.0788,
+    "Pristigenys alta": 0.0419,
+    "Pristigenys niphonia": 0.0286,
+    "Pristigenys serrula": 0.0434
+  },
+  "tiprates_bamm_lambda": {
+    "Cookeolus japonicus": 0.058,
+    "Heteropriacanthus cruentatus": 0.058,
+    "Priacanthus arenatus": 0.0581,
+    "Priacanthus hamrur": 0.0581,
+    "Priacanthus macracanthus": 0.0581,
+    "Priacanthus meeki": 0.0581,
+    "Priacanthus tayenus": 0.0581,
+    "Pristigenys alta": 0.058,
+    "Pristigenys niphonia": 0.058,
+    "Pristigenys serrula": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Cookeolus japonicus": 0.0004,
+    "Heteropriacanthus cruentatus": 0.0004,
+    "Priacanthus arenatus": 0.0005,
+    "Priacanthus hamrur": 0.0005,
+    "Priacanthus macracanthus": 0.0005,
+    "Priacanthus meeki": 0.0005,
+    "Priacanthus tayenus": 0.0005,
+    "Pristigenys alta": 0.0004,
+    "Pristigenys niphonia": 0.0004,
+    "Pristigenys serrula": 0.0004
+  },
+  "mean_dr": 0.0586,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Priacanthidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Priacanthidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Priacanthidae.tre",
+  "phylogram": "downloads/taxonomy/family/Priacanthidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

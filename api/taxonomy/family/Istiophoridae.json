@@ -1,0 +1,284 @@
+{
+  "species": [
+    "Istiompax indica",
+    "Istiophorus albicans",
+    "Istiophorus platypterus",
+    "Kajikia albida",
+    "Kajikia audax",
+    "Makaira mazara",
+    "Makaira nigricans",
+    "Tetrapturus angustirostris",
+    "Tetrapturus belone",
+    "Tetrapturus georgii",
+    "Tetrapturus pfluegeri"
+  ],
+  "sampled_species": [
+    "Istiompax indica",
+    "Istiophorus platypterus",
+    "Kajikia albida",
+    "Kajikia audax",
+    "Makaira mazara",
+    "Makaira nigricans",
+    "Tetrapturus angustirostris",
+    "Tetrapturus belone",
+    "Tetrapturus georgii",
+    "Tetrapturus pfluegeri"
+  ],
+  "unsampled_species": [
+    "Istiophorus albicans"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Istiompax indica",
+      "Istiophorus platypterus",
+      "Kajikia albida",
+      "Kajikia audax",
+      "Makaira nigricans",
+      "Tetrapturus angustirostris",
+      "Tetrapturus belone",
+      "Tetrapturus georgii",
+      "Tetrapturus pfluegeri"
+    ],
+    "16s": [
+      "Istiophorus platypterus",
+      "Kajikia albida",
+      "Kajikia audax",
+      "Makaira nigricans",
+      "Tetrapturus angustirostris",
+      "Tetrapturus georgii",
+      "Tetrapturus pfluegeri"
+    ],
+    "4c4": [
+      "Istiophorus platypterus",
+      "Kajikia albida",
+      "Makaira nigricans",
+      "Tetrapturus angustirostris",
+      "Tetrapturus pfluegeri"
+    ],
+    "coi": [
+      "Istiompax indica",
+      "Istiophorus platypterus",
+      "Kajikia albida",
+      "Kajikia audax",
+      "Makaira nigricans",
+      "Tetrapturus angustirostris",
+      "Tetrapturus belone",
+      "Tetrapturus georgii",
+      "Tetrapturus pfluegeri"
+    ],
+    "cytb": [
+      "Istiompax indica",
+      "Istiophorus platypterus",
+      "Kajikia albida",
+      "Kajikia audax",
+      "Makaira mazara",
+      "Makaira nigricans",
+      "Tetrapturus angustirostris",
+      "Tetrapturus belone",
+      "Tetrapturus georgii",
+      "Tetrapturus pfluegeri"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Kajikia albida",
+      "Makaira nigricans"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Istiophorus platypterus",
+      "Kajikia albida",
+      "Makaira nigricans"
+    ],
+    "myh6": [
+      "Kajikia albida"
+    ],
+    "nd2": [
+      "Istiompax indica",
+      "Istiophorus platypterus",
+      "Kajikia albida",
+      "Kajikia audax",
+      "Makaira nigricans",
+      "Tetrapturus angustirostris",
+      "Tetrapturus belone",
+      "Tetrapturus georgii",
+      "Tetrapturus pfluegeri"
+    ],
+    "nd4": [
+      "Istiompax indica",
+      "Istiophorus platypterus",
+      "Kajikia albida",
+      "Kajikia audax",
+      "Makaira nigricans",
+      "Tetrapturus belone",
+      "Tetrapturus georgii",
+      "Tetrapturus pfluegeri"
+    ],
+    "panx2": [
+      "Istiophorus platypterus",
+      "Kajikia albida",
+      "Makaira nigricans"
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Makaira nigricans"
+    ],
+    "rag2": [
+      "Istiophorus platypterus",
+      "Makaira nigricans"
+    ],
+    "rhodopsin": [
+      "Istiompax indica",
+      "Istiophorus platypterus",
+      "Kajikia albida",
+      "Kajikia audax",
+      "Makaira nigricans",
+      "Tetrapturus angustirostris",
+      "Tetrapturus belone",
+      "Tetrapturus georgii",
+      "Tetrapturus pfluegeri"
+    ],
+    "ripk4": [
+      "Kajikia albida",
+      "Makaira nigricans"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+      "Kajikia albida"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Istiophorus platypterus",
+      "Kajikia albida",
+      "Makaira nigricans"
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+      "Kajikia albida",
+      "Makaira nigricans"
+    ],
+    "zic1": [
+      "Istiophorus platypterus",
+      "Kajikia albida"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Istiophoridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Istiophoriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Istiompax indica": 0.1781,
+    "Istiophorus platypterus": 0.4375,
+    "Kajikia albida": 0.2302,
+    "Kajikia audax": 0.2302,
+    "Makaira mazara": 0.4438,
+    "Makaira nigricans": 0.4438,
+    "Tetrapturus angustirostris": 0.0286,
+    "Tetrapturus belone": 0.0888,
+    "Tetrapturus georgii": 0.0752,
+    "Tetrapturus pfluegeri": 0.0888
+  },
+  "tiprates_bamm_lambda": {
+    "Istiompax indica": 0.1701,
+    "Istiophorus platypterus": 0.1701,
+    "Kajikia albida": 0.1701,
+    "Kajikia audax": 0.1701,
+    "Makaira mazara": 0.1701,
+    "Makaira nigricans": 0.1701,
+    "Tetrapturus angustirostris": 0.0657,
+    "Tetrapturus belone": 0.1168,
+    "Tetrapturus georgii": 0.1226,
+    "Tetrapturus pfluegeri": 0.1168
+  },
+  "tiprates_bamm_mu": {
+    "Istiompax indica": 0.0574,
+    "Istiophorus platypterus": 0.0574,
+    "Kajikia albida": 0.0574,
+    "Kajikia audax": 0.0574,
+    "Makaira mazara": 0.0574,
+    "Makaira nigricans": 0.0574,
+    "Tetrapturus angustirostris": 0.0084,
+    "Tetrapturus belone": 0.0344,
+    "Tetrapturus georgii": 0.0366,
+    "Tetrapturus pfluegeri": 0.0344
+  },
+  "mean_dr": 0.2245,
+  "mean_bamm_lambda": 0.1443,
+  "mean_bamm_mu": 0.0458,
+  "matrix_phylip": "downloads/taxonomy/family/Istiophoridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Istiophoridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Istiophoridae.tre",
+  "phylogram": "downloads/taxonomy/family/Istiophoridae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

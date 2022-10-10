@@ -1,0 +1,173 @@
+{
+  "species": [
+    "Melanonus gracilis",
+    "Melanonus zugmayeri"
+  ],
+  "sampled_species": [
+    "Melanonus gracilis",
+    "Melanonus zugmayeri"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Melanonus gracilis",
+      "Melanonus zugmayeri"
+    ],
+    "16s": [
+      "Melanonus gracilis",
+      "Melanonus zugmayeri"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Melanonus gracilis",
+      "Melanonus zugmayeri"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Melanonus gracilis",
+      "Melanonus zugmayeri"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Melanonidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gadiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Gadoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Melanonus gracilis": 0.027,
+    "Melanonus zugmayeri": 0.027
+  },
+  "tiprates_bamm_lambda": {
+    "Melanonus gracilis": 0.0522,
+    "Melanonus zugmayeri": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Melanonus gracilis": 0.0003,
+    "Melanonus zugmayeri": 0.0003
+  },
+  "mean_dr": 0.027,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Melanonidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Melanonidae.nex.xz"
+}

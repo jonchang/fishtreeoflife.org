@@ -1,0 +1,327 @@
+{
+  "species": [
+    "Badis assamensis",
+    "Badis badis",
+    "Badis blosyrus",
+    "Badis chittagongis",
+    "Badis corycaeus",
+    "Badis dibruensis",
+    "Badis ferrarisi",
+    "Badis juergenschmidti",
+    "Badis kanabos",
+    "Badis khwae",
+    "Badis kyar",
+    "Badis pyema",
+    "Badis ruber",
+    "Badis siamensis",
+    "Badis singenensis",
+    "Badis triocellus",
+    "Badis tuivaiei",
+    "Dario dario",
+    "Dario dayingensis",
+    "Dario hysginon",
+    "Dario urops",
+    "Afronandus sheljuzhkoi",
+    "Nandus andrewi",
+    "Nandus meni",
+    "Nandus mercatus",
+    "Nandus nandus",
+    "Nandus nebulosus",
+    "Nandus oxyrhynchus",
+    "Nandus prolixus",
+    "Polycentropsis abbreviata",
+    "Pristolepis fasciata",
+    "Pristolepis grootii",
+    "Pristolepis marginata",
+    "Pristolepis rubripinnis"
+  ],
+  "sampled_species": [
+    "Badis assamensis",
+    "Badis badis",
+    "Badis blosyrus",
+    "Badis corycaeus",
+    "Badis kanabos",
+    "Badis khwae",
+    "Badis kyar",
+    "Badis pyema",
+    "Badis ruber",
+    "Badis siamensis",
+    "Dario dario",
+    "Dario hysginon",
+    "Nandus nandus",
+    "Nandus nebulosus",
+    "Nandus oxyrhynchus",
+    "Pristolepis fasciata",
+    "Pristolepis marginata"
+  ],
+  "unsampled_species": [
+    "Badis chittagongis",
+    "Badis dibruensis",
+    "Badis ferrarisi",
+    "Badis juergenschmidti",
+    "Badis singenensis",
+    "Badis triocellus",
+    "Badis tuivaiei",
+    "Dario dayingensis",
+    "Dario urops",
+    "Afronandus sheljuzhkoi",
+    "Nandus andrewi",
+    "Nandus meni",
+    "Nandus mercatus",
+    "Nandus prolixus",
+    "Polycentropsis abbreviata",
+    "Pristolepis grootii",
+    "Pristolepis rubripinnis"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Badis badis",
+      "Pristolepis fasciata",
+      "Pristolepis marginata"
+    ],
+    "4c4": [
+      "Badis assamensis",
+      "Badis badis",
+      "Badis blosyrus",
+      "Badis corycaeus",
+      "Badis kanabos",
+      "Badis khwae",
+      "Badis kyar",
+      "Badis pyema",
+      "Badis ruber",
+      "Badis siamensis",
+      "Dario dario",
+      "Dario hysginon",
+      "Nandus nandus",
+      "Pristolepis fasciata"
+    ],
+    "coi": [
+      "Badis badis",
+      "Nandus nandus"
+    ],
+    "cytb": [
+      "Badis assamensis",
+      "Badis badis",
+      "Badis blosyrus",
+      "Badis corycaeus",
+      "Badis kanabos",
+      "Badis khwae",
+      "Badis kyar",
+      "Badis pyema",
+      "Badis ruber",
+      "Badis siamensis",
+      "Dario dario",
+      "Dario hysginon",
+      "Nandus nandus",
+      "Nandus nebulosus",
+      "Nandus oxyrhynchus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Nandus nandus"
+    ],
+    "nd2": [
+      "Badis siamensis",
+      "Nandus oxyrhynchus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Nandus nandus"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Badis assamensis",
+      "Badis badis",
+      "Badis blosyrus",
+      "Badis corycaeus",
+      "Badis kanabos",
+      "Badis khwae",
+      "Badis kyar",
+      "Badis pyema",
+      "Badis ruber",
+      "Badis siamensis",
+      "Dario dario",
+      "Dario hysginon",
+      "Nandus nandus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+      "Nandus nandus"
+    ],
+    "sreb2": [
+      "Nandus nandus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Nandus nandus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Badidae",
+      "Nandidae",
+      "Pristolepididae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Anabantiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Anabantaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Nandoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Badis assamensis": 0.0895,
+    "Badis badis": 0.0963,
+    "Badis blosyrus": 0.0891,
+    "Badis corycaeus": 0.0643,
+    "Badis kanabos": 0.0931,
+    "Badis khwae": 0.0778,
+    "Badis kyar": 0.0411,
+    "Badis pyema": 0.0684,
+    "Badis ruber": 0.0823,
+    "Badis siamensis": 0.0584,
+    "Dario dario": 0.0369,
+    "Dario hysginon": 0.0346,
+    "Nandus nandus": 0.059,
+    "Nandus nebulosus": 0.0504,
+    "Nandus oxyrhynchus": 0.0365,
+    "Pristolepis fasciata": 0.0488,
+    "Pristolepis marginata": 0.0522
+  },
+  "tiprates_bamm_lambda": {
+    "Badis assamensis": 0.055,
+    "Badis badis": 0.055,
+    "Badis blosyrus": 0.055,
+    "Badis corycaeus": 0.055,
+    "Badis kanabos": 0.055,
+    "Badis khwae": 0.055,
+    "Badis kyar": 0.055,
+    "Badis pyema": 0.055,
+    "Badis ruber": 0.055,
+    "Badis siamensis": 0.055,
+    "Dario dario": 0.055,
+    "Dario hysginon": 0.055,
+    "Nandus nandus": 0.055,
+    "Nandus nebulosus": 0.055,
+    "Nandus oxyrhynchus": 0.055,
+    "Pristolepis fasciata": 0.055,
+    "Pristolepis marginata": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Badis assamensis": 0.0003,
+    "Badis badis": 0.0003,
+    "Badis blosyrus": 0.0003,
+    "Badis corycaeus": 0.0003,
+    "Badis kanabos": 0.0003,
+    "Badis khwae": 0.0003,
+    "Badis kyar": 0.0003,
+    "Badis pyema": 0.0003,
+    "Badis ruber": 0.0003,
+    "Badis siamensis": 0.0003,
+    "Dario dario": 0.0003,
+    "Dario hysginon": 0.0003,
+    "Nandus nandus": 0.0007,
+    "Nandus nebulosus": 0.0007,
+    "Nandus oxyrhynchus": 0.0007,
+    "Pristolepis fasciata": 0.0007,
+    "Pristolepis marginata": 0.0007
+  },
+  "mean_dr": 0.0635,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/suborder/Nandoidei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/suborder/Nandoidei.nex.xz",
+  "chronogram": "downloads/taxonomy/suborder/Nandoidei.tre",
+  "phylogram": "downloads/taxonomy/suborder/Nandoidei_phylogram.tre",
+  "rogues": [
+
+  ]
+}

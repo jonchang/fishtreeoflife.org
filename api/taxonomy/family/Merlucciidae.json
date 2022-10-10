@@ -1,0 +1,512 @@
+{
+  "species": [
+    "Lyconodes argenteus",
+    "Lyconus brachycolus",
+    "Lyconus pinnatus",
+    "Macruronus capensis",
+    "Macruronus maderensis",
+    "Macruronus magellanicus",
+    "Macruronus novaezelandiae",
+    "Merluccius albidus",
+    "Merluccius angustimanus",
+    "Merluccius australis",
+    "Merluccius bilinearis",
+    "Merluccius capensis",
+    "Merluccius gayi gayi",
+    "Merluccius gayi peruanus",
+    "Merluccius hernandezi",
+    "Merluccius hubbsi",
+    "Merluccius merluccius",
+    "Merluccius paradoxus",
+    "Merluccius patagonicus",
+    "Merluccius polli",
+    "Merluccius productus",
+    "Merluccius senegalensis",
+    "Merluccius tasmanicus"
+  ],
+  "sampled_species": [
+    "Lyconus brachycolus",
+    "Lyconus pinnatus",
+    "Macruronus magellanicus",
+    "Macruronus novaezelandiae",
+    "Merluccius albidus",
+    "Merluccius angustimanus",
+    "Merluccius australis",
+    "Merluccius bilinearis",
+    "Merluccius capensis",
+    "Merluccius gayi gayi",
+    "Merluccius hernandezi",
+    "Merluccius hubbsi",
+    "Merluccius merluccius",
+    "Merluccius paradoxus",
+    "Merluccius polli",
+    "Merluccius productus",
+    "Merluccius senegalensis"
+  ],
+  "unsampled_species": [
+    "Lyconodes argenteus",
+    "Macruronus capensis",
+    "Macruronus maderensis",
+    "Merluccius gayi peruanus",
+    "Merluccius patagonicus",
+    "Merluccius tasmanicus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Macruronus magellanicus",
+      "Macruronus novaezelandiae",
+      "Merluccius albidus",
+      "Merluccius angustimanus",
+      "Merluccius australis",
+      "Merluccius bilinearis",
+      "Merluccius capensis",
+      "Merluccius gayi gayi",
+      "Merluccius hubbsi",
+      "Merluccius merluccius",
+      "Merluccius paradoxus",
+      "Merluccius polli",
+      "Merluccius productus",
+      "Merluccius senegalensis"
+    ],
+    "16s": [
+      "Macruronus magellanicus",
+      "Macruronus novaezelandiae",
+      "Merluccius albidus",
+      "Merluccius angustimanus",
+      "Merluccius australis",
+      "Merluccius bilinearis",
+      "Merluccius capensis",
+      "Merluccius gayi gayi",
+      "Merluccius hubbsi",
+      "Merluccius merluccius",
+      "Merluccius paradoxus",
+      "Merluccius polli",
+      "Merluccius productus",
+      "Merluccius senegalensis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Lyconus brachycolus",
+      "Macruronus magellanicus",
+      "Macruronus novaezelandiae",
+      "Merluccius albidus",
+      "Merluccius angustimanus",
+      "Merluccius australis",
+      "Merluccius bilinearis",
+      "Merluccius capensis",
+      "Merluccius gayi gayi",
+      "Merluccius hubbsi",
+      "Merluccius merluccius",
+      "Merluccius paradoxus",
+      "Merluccius polli",
+      "Merluccius productus",
+      "Merluccius senegalensis"
+    ],
+    "cytb": [
+      "Lyconus brachycolus",
+      "Lyconus pinnatus",
+      "Macruronus magellanicus",
+      "Macruronus novaezelandiae",
+      "Merluccius albidus",
+      "Merluccius angustimanus",
+      "Merluccius australis",
+      "Merluccius bilinearis",
+      "Merluccius capensis",
+      "Merluccius gayi gayi",
+      "Merluccius hernandezi",
+      "Merluccius hubbsi",
+      "Merluccius merluccius",
+      "Merluccius paradoxus",
+      "Merluccius polli",
+      "Merluccius productus",
+      "Merluccius senegalensis"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Merluccius bilinearis"
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Merluccius bilinearis",
+      "Merluccius productus"
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Macruronus novaezelandiae",
+      "Merluccius albidus",
+      "Merluccius australis",
+      "Merluccius bilinearis",
+      "Merluccius capensis",
+      "Merluccius gayi gayi",
+      "Merluccius hubbsi",
+      "Merluccius merluccius",
+      "Merluccius polli",
+      "Merluccius productus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Macruronus novaezelandiae",
+      "Merluccius australis",
+      "Merluccius capensis",
+      "Merluccius gayi gayi",
+      "Merluccius hubbsi",
+      "Merluccius merluccius",
+      "Merluccius paradoxus",
+      "Merluccius polli",
+      "Merluccius productus",
+      "Merluccius senegalensis"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Paracanthomorphacea"
+    ],
+    "family": [
+      "Merlucciidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gadiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Zeiogadaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Gadoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Lyconus brachycolus": 0.0739,
+    "Lyconus pinnatus": 0.0739,
+    "Macruronus magellanicus": 0.0496,
+    "Macruronus novaezelandiae": 0.0557,
+    "Merluccius albidus": 0.1703,
+    "Merluccius angustimanus": 0.347,
+    "Merluccius australis": 0.1175,
+    "Merluccius bilinearis": 0.0495,
+    "Merluccius capensis": 0.0659,
+    "Merluccius gayi gayi": 0.2125,
+    "Merluccius hernandezi": 0.3515,
+    "Merluccius hubbsi": 0.18,
+    "Merluccius merluccius": 0.1029,
+    "Merluccius paradoxus": 0.0703,
+    "Merluccius polli": 0.0747,
+    "Merluccius productus": 0.1366,
+    "Merluccius senegalensis": 0.1004
+  },
+  "tiprates_bamm_lambda": {
+    "Lyconus brachycolus": 0.0522,
+    "Lyconus pinnatus": 0.0522,
+    "Macruronus magellanicus": 0.0522,
+    "Macruronus novaezelandiae": 0.0522,
+    "Merluccius albidus": 0.1219,
+    "Merluccius angustimanus": 0.1219,
+    "Merluccius australis": 0.1219,
+    "Merluccius bilinearis": 0.0784,
+    "Merluccius capensis": 0.0632,
+    "Merluccius gayi gayi": 0.1219,
+    "Merluccius hernandezi": 0.1219,
+    "Merluccius hubbsi": 0.1219,
+    "Merluccius merluccius": 0.0632,
+    "Merluccius paradoxus": 0.0632,
+    "Merluccius polli": 0.0632,
+    "Merluccius productus": 0.1219,
+    "Merluccius senegalensis": 0.0632
+  },
+  "tiprates_bamm_mu": {
+    "Lyconus brachycolus": 0.0003,
+    "Lyconus pinnatus": 0.0003,
+    "Macruronus magellanicus": 0.0003,
+    "Macruronus novaezelandiae": 0.0003,
+    "Merluccius albidus": 0.034,
+    "Merluccius angustimanus": 0.034,
+    "Merluccius australis": 0.034,
+    "Merluccius bilinearis": 0.0145,
+    "Merluccius capensis": 0.0067,
+    "Merluccius gayi gayi": 0.034,
+    "Merluccius hernandezi": 0.034,
+    "Merluccius hubbsi": 0.034,
+    "Merluccius merluccius": 0.0067,
+    "Merluccius paradoxus": 0.0067,
+    "Merluccius polli": 0.0067,
+    "Merluccius productus": 0.034,
+    "Merluccius senegalensis": 0.0067
+  },
+  "mean_dr": 0.1313,
+  "mean_bamm_lambda": 0.0857,
+  "mean_bamm_mu": 0.0169,
+  "matrix_phylip": "downloads/taxonomy/family/Merlucciidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Merlucciidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Merlucciidae.tre",
+  "phylogram": "downloads/taxonomy/family/Merlucciidae_phylogram.tre",
+  "rogues": [
+    "Coelorinchus_anatirostris",
+    "Coelorinchus_productus",
+    "Coelorinchus_macrochir",
+    "Coelorinchus_smithi",
+    "Coelorinchus_japonicus",
+    "Coelorinchus_jordani",
+    "Coelorinchus_kishinouyei",
+    "Coelorinchus_braueri",
+    "Coelorinchus_flabellispinnis",
+    "Coelorinchus_acanthiger",
+    "Coelorinchus_gilberti",
+    "Coelorinchus_occa",
+    "Coelorinchus_kermadecus",
+    "Coelorinchus_kaiyomaru",
+    "Coelorinchus_innotabilis",
+    "Coelorinchus_oliverianus",
+    "Coelorinchus_multispinulosus",
+    "Coelorinchus_formosanus",
+    "Coelorinchus_kamoharai",
+    "Coelorinchus_denticulatus",
+    "Coelorinchus_longissimus",
+    "Coelorinchus_hubbsi",
+    "Coelorinchus_matamua",
+    "Coelorinchus_aspercephalus",
+    "Coelorinchus_biclinozonalis",
+    "Coelorinchus_bollonsi",
+    "Coelorinchus_simorhynchus",
+    "Coelorinchus_fasciatus",
+    "Coelorinchus_parvifasciatus",
+    "Macrourus_holotrachys",
+    "Macrourus_berglax",
+    "Macrourus_whitsoni",
+    "Macrourus_carinatus",
+    "Coelorinchus_caelorhincus",
+    "Coelorinchus_marinii",
+    "Coelorinchus_geronimo",
+    "Coelorinchus_polli",
+    "Coelorinchus_scaphopsis",
+    "Coelorinchus_caribbaeus",
+    "Albatrossia_pectoralis",
+    "Coryphaenoides_acrolepis",
+    "Coryphaenoides_longifilis",
+    "Coryphaenoides_filifer",
+    "Coryphaenoides_cinereus",
+    "Cynomacrurus_piriei",
+    "Coryphaenoides_subserrulatus",
+    "Coryphaenoides_serrulatus",
+    "Coryphaenoides_marshalli",
+    "Coryphaenoides_paramarshalli",
+    "Coryphaenoides_guentheri",
+    "Coryphaenoides_zaniophorus",
+    "Coryphaenoides_alateralis",
+    "Coryphaenoides_rupestris",
+    "Coryphaenoides_nasutus",
+    "Coryphaenoides_marginatus",
+    "Coryphaenoides_yaquinae",
+    "Coryphaenoides_ferrieri",
+    "Coryphaenoides_armatus",
+    "Coryphaenoides_lecointei",
+    "Coryphaenoides_profundicolus",
+    "Coryphaenoides_leptolepis",
+    "Coryphaenoides_mediterraneus",
+    "Coryphaenoides_carapinus",
+    "Coryphaenoides_dossenus",
+    "Nezumia_milleri",
+    "Nezumia_aequalis",
+    "Nezumia_longebarbata",
+    "Nezumia_liolepis",
+    "Nezumia_micronychodon",
+    "Nezumia_duodecim",
+    "Nezumia_bairdii",
+    "Mesobius_antipodum",
+    "Trachonurus_sulcatus",
+    "Malacocephalus_occidentalis",
+    "Malacocephalus_laevis",
+    "Odontomacrurus_murrayi",
+    "Ventrifossa_johnboborum",
+    "Ventrifossa_garmani",
+    "Ventrifossa_longibarbata",
+    "Ventrifossa_rhipidodorsalis",
+    "Sphagemacrurus_hirundo",
+    "Paracetonurus_flagellicauda",
+    "Nezumia_proxima",
+    "Nezumia_sclerorhynchus",
+    "Hymenocephalus_longiceps",
+    "Hymenocephalus_striatissimus_striatissimus",
+    "Hymenocephalus_italicus",
+    "Lucigadus_nigromaculatus",
+    "Bathygadus_macrops",
+    "Bathygadus_melanobranchus",
+    "Bathygadus_antrodes",
+    "Bathygadus_favosus",
+    "Gadomus_colletti",
+    "Gadomus_dispar",
+    "Bregmaceros_atlanticus",
+    "Bregmaceros_cantori",
+    "Steindachneria_argentea",
+    "Gadus_macrocephalus",
+    "Gadus_ogac",
+    "Theragra_chalcogramma",
+    "Arctogadus_glacialis",
+    "Arctogadus_borisovi",
+    "Gadus_morhua",
+    "Boreogadus_saida",
+    "Merlangius_merlangus",
+    "Melanogrammus_aeglefinus",
+    "Pollachius_virens",
+    "Pollachius_pollachius",
+    "Eleginus_nawaga",
+    "Eleginus_gracilis",
+    "Microgadus_proximus",
+    "Microgadus_tomcod",
+    "Trisopterus_minutus",
+    "Trisopterus_capelanus",
+    "Trisopterus_esmarkii",
+    "Trisopterus_luscus",
+    "Micromesistius_poutassou",
+    "Micromesistius_australis",
+    "Gadiculus_argenteus",
+    "Lota_lota",
+    "Molva_dypterygia",
+    "Molva_macrophthalma",
+    "Molva_molva",
+    "Brosme_brosme",
+    "Gaidropsarus_argentatus",
+    "Gaidropsarus_ensis",
+    "Gaidropsarus_biscayensis",
+    "Gaidropsarus_vulgaris",
+    "Gaidropsarus_mediterraneus",
+    "Ciliata_septentrionalis",
+    "Ciliata_mustela",
+    "Enchelyopus_cimbrius",
+    "Urophycis_floridana",
+    "Urophycis_regia",
+    "Urophycis_brasiliensis",
+    "Urophycis_chuss",
+    "Urophycis_tenuis",
+    "Urophycis_cirrata",
+    "Phycis_blennoides",
+    "Phycis_chesteri",
+    "Phycis_phycis",
+    "Raniceps_raninus",
+    "Euclichthys_polynemus",
+    "Melanonus_gracilis",
+    "Melanonus_zugmayeri",
+    "Lepidion_guentheri",
+    "Lepidion_inosimae",
+    "Lepidion_lepidion",
+    "Lepidion_eques",
+    "Lepidion_schmidti",
+    "Lepidion_capensis",
+    "Lepidion_ensiferus",
+    "Antimora_microlepis",
+    "Antimora_rostrata",
+    "Halargyreus_johnsonii",
+    "Mora_moro",
+    "Physiculus_japonicus",
+    "Physiculus_natalensis",
+    "Physiculus_fulvus",
+    "Gadella_jordani",
+    "Physiculus_capensis",
+    "Gadella_imberbis",
+    "Physiculus_rastrelliger",
+    "Tripterophycis_gilchristi",
+    "Guttigadus_latifrons",
+    "Pseudophycis_barbata",
+    "Pseudophycis_bachus",
+    "Lotella_rhacina",
+    "Laemonema_goodebeanorum",
+    "Laemonema_barbatulum",
+    "Trachyrincus_scabrus",
+    "Trachyrincus_murrayi",
+    "Squalogadus_modificatus",
+    "Muraenolepis_marmorata",
+    "Muraenolepis_orangiensis",
+    "Muraenolepis_microps"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Merlucciidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Merlucciidae_mrca_phylogram.tre"
+}

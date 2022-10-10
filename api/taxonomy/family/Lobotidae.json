@@ -1,0 +1,175 @@
+{
+  "species": [
+    "Lobotes pacificus",
+    "Lobotes surinamensis"
+  ],
+  "sampled_species": [
+    "Lobotes pacificus",
+    "Lobotes surinamensis"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Lobotes pacificus",
+      "Lobotes surinamensis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Lobotes pacificus",
+      "Lobotes surinamensis"
+    ],
+    "cytb": [
+      "Lobotes pacificus",
+      "Lobotes surinamensis"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Lobotes pacificus",
+      "Lobotes surinamensis"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Lobotes pacificus",
+      "Lobotes surinamensis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Lobotes pacificus",
+      "Lobotes surinamensis"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Lobotidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lobotiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Lobotes pacificus": 0.0436,
+    "Lobotes surinamensis": 0.0436
+  },
+  "tiprates_bamm_lambda": {
+    "Lobotes pacificus": 0.0579,
+    "Lobotes surinamensis": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Lobotes pacificus": 0.0004,
+    "Lobotes surinamensis": 0.0004
+  },
+  "mean_dr": 0.0436,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Lobotidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Lobotidae.nex.xz"
+}

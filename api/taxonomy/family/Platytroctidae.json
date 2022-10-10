@@ -1,0 +1,297 @@
+{
+  "species": [
+    "Barbantus curvifrons",
+    "Barbantus elongatus",
+    "Holtbyrnia anomala",
+    "Holtbyrnia conocephala",
+    "Holtbyrnia cyanocephala",
+    "Holtbyrnia innesi",
+    "Holtbyrnia intermedia",
+    "Holtbyrnia laticauda",
+    "Holtbyrnia latifrons",
+    "Holtbyrnia macrops",
+    "Holtbyrnia ophiocephala",
+    "Matsuichthys aequipinnis",
+    "Maulisia acuticeps",
+    "Maulisia argipalla",
+    "Maulisia isaacsi",
+    "Maulisia mauli",
+    "Maulisia microlepis",
+    "Mentodus bythios",
+    "Mentodus crassus",
+    "Mentodus eubranchus",
+    "Mentodus facilis",
+    "Mentodus longirostris",
+    "Mentodus mesalirus",
+    "Mentodus perforatus",
+    "Mentodus rostratus",
+    "Mirorictus taningi",
+    "Normichthys herringi",
+    "Normichthys operosus",
+    "Normichthys yahganorum",
+    "Pectinantus parini",
+    "Persparsia kopua",
+    "Platytroctes apus",
+    "Platytroctes mirus",
+    "Sagamichthys abei",
+    "Sagamichthys gracilis",
+    "Sagamichthys schnakenbecki",
+    "Searsia koefoedi",
+    "Searsioides calvala",
+    "Searsioides multispinus"
+  ],
+  "sampled_species": [
+    "Holtbyrnia anomala",
+    "Holtbyrnia latifrons",
+    "Holtbyrnia macrops",
+    "Maulisia argipalla",
+    "Maulisia mauli",
+    "Maulisia microlepis",
+    "Mirorictus taningi",
+    "Normichthys operosus",
+    "Sagamichthys abei",
+    "Searsia koefoedi"
+  ],
+  "unsampled_species": [
+    "Barbantus curvifrons",
+    "Barbantus elongatus",
+    "Holtbyrnia conocephala",
+    "Holtbyrnia cyanocephala",
+    "Holtbyrnia innesi",
+    "Holtbyrnia intermedia",
+    "Holtbyrnia laticauda",
+    "Holtbyrnia ophiocephala",
+    "Matsuichthys aequipinnis",
+    "Maulisia acuticeps",
+    "Maulisia isaacsi",
+    "Mentodus bythios",
+    "Mentodus crassus",
+    "Mentodus eubranchus",
+    "Mentodus facilis",
+    "Mentodus longirostris",
+    "Mentodus mesalirus",
+    "Mentodus perforatus",
+    "Mentodus rostratus",
+    "Normichthys herringi",
+    "Normichthys yahganorum",
+    "Pectinantus parini",
+    "Persparsia kopua",
+    "Platytroctes apus",
+    "Platytroctes mirus",
+    "Sagamichthys gracilis",
+    "Sagamichthys schnakenbecki",
+    "Searsioides calvala",
+    "Searsioides multispinus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Sagamichthys abei"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Holtbyrnia anomala",
+      "Holtbyrnia latifrons",
+      "Holtbyrnia macrops",
+      "Maulisia argipalla",
+      "Maulisia mauli",
+      "Maulisia microlepis",
+      "Mirorictus taningi",
+      "Normichthys operosus",
+      "Sagamichthys abei",
+      "Searsia koefoedi"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Maulisia microlepis",
+      "Sagamichthys abei"
+    ],
+    "glyt": [
+      "Searsia koefoedi"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Maulisia microlepis",
+      "Normichthys operosus",
+      "Sagamichthys abei",
+      "Searsia koefoedi"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Sagamichthys abei"
+    ],
+    "plagl2": [
+      "Maulisia microlepis",
+      "Normichthys operosus",
+      "Sagamichthys abei"
+    ],
+    "ptr": [
+      "Maulisia microlepis",
+      "Normichthys operosus",
+      "Searsia koefoedi"
+    ],
+    "rag1": [
+      "Normichthys operosus",
+      "Sagamichthys abei"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Sagamichthys abei"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Maulisia microlepis",
+      "Normichthys operosus",
+      "Searsia koefoedi"
+    ],
+    "sidkey": [
+      "Maulisia microlepis"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Maulisia microlepis",
+      "Normichthys operosus",
+      "Sagamichthys abei",
+      "Searsia koefoedi"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Maulisia microlepis",
+      "Normichthys operosus",
+      "Sagamichthys abei",
+      "Searsia koefoedi"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Platytroctidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Alepocephaliformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Alepocephali"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Holtbyrnia anomala": 0.2384,
+    "Holtbyrnia latifrons": 0.1242,
+    "Holtbyrnia macrops": 0.1208,
+    "Maulisia argipalla": 0.1563,
+    "Maulisia mauli": 0.177,
+    "Maulisia microlepis": 0.1184,
+    "Mirorictus taningi": 0.0829,
+    "Normichthys operosus": 0.1477,
+    "Sagamichthys abei": 0.1239,
+    "Searsia koefoedi": 0.2432
+  },
+  "tiprates_bamm_lambda": {
+    "Holtbyrnia anomala": 0.2149,
+    "Holtbyrnia latifrons": 0.2149,
+    "Holtbyrnia macrops": 0.2149,
+    "Maulisia argipalla": 0.2149,
+    "Maulisia mauli": 0.2149,
+    "Maulisia microlepis": 0.2149,
+    "Mirorictus taningi": 0.2149,
+    "Normichthys operosus": 0.2149,
+    "Sagamichthys abei": 0.2149,
+    "Searsia koefoedi": 0.2149
+  },
+  "tiprates_bamm_mu": {
+    "Holtbyrnia anomala": 0.1198,
+    "Holtbyrnia latifrons": 0.1198,
+    "Holtbyrnia macrops": 0.1198,
+    "Maulisia argipalla": 0.1198,
+    "Maulisia mauli": 0.1198,
+    "Maulisia microlepis": 0.1198,
+    "Mirorictus taningi": 0.1198,
+    "Normichthys operosus": 0.1198,
+    "Sagamichthys abei": 0.1198,
+    "Searsia koefoedi": 0.1198
+  },
+  "mean_dr": 0.1533,
+  "mean_bamm_lambda": 0.2149,
+  "mean_bamm_mu": 0.1198,
+  "matrix_phylip": "downloads/taxonomy/family/Platytroctidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Platytroctidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Platytroctidae.tre",
+  "phylogram": "downloads/taxonomy/family/Platytroctidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

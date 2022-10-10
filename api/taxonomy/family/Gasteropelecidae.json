@@ -1,0 +1,213 @@
+{
+  "species": [
+    "Carnegiella marthae",
+    "Carnegiella myersi",
+    "Carnegiella schereri",
+    "Carnegiella strigata",
+    "Gasteropelecus levis",
+    "Gasteropelecus maculatus",
+    "Gasteropelecus sternicla",
+    "Thoracocharax securis",
+    "Thoracocharax stellatus"
+  ],
+  "sampled_species": [
+    "Carnegiella marthae",
+    "Carnegiella strigata",
+    "Gasteropelecus maculatus",
+    "Gasteropelecus sternicla",
+    "Thoracocharax stellatus"
+  ],
+  "unsampled_species": [
+    "Carnegiella myersi",
+    "Carnegiella schereri",
+    "Gasteropelecus levis",
+    "Thoracocharax securis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Thoracocharax stellatus"
+    ],
+    "16s": [
+      "Carnegiella marthae",
+      "Carnegiella strigata",
+      "Gasteropelecus maculatus",
+      "Gasteropelecus sternicla",
+      "Thoracocharax stellatus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+      "Carnegiella marthae",
+      "Carnegiella strigata",
+      "Gasteropelecus maculatus",
+      "Gasteropelecus sternicla",
+      "Thoracocharax stellatus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Carnegiella marthae",
+      "Gasteropelecus sternicla",
+      "Thoracocharax stellatus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Carnegiella marthae",
+      "Carnegiella strigata",
+      "Gasteropelecus sternicla",
+      "Thoracocharax stellatus"
+    ],
+    "rag2": [
+      "Carnegiella marthae",
+      "Carnegiella strigata",
+      "Gasteropelecus maculatus",
+      "Gasteropelecus sternicla",
+      "Thoracocharax stellatus"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Gasteropelecidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Characiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Characoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Carnegiella marthae": 0.061,
+    "Carnegiella strigata": 0.0628,
+    "Gasteropelecus maculatus": 0.0346,
+    "Gasteropelecus sternicla": 0.0381,
+    "Thoracocharax stellatus": 0.0434
+  },
+  "tiprates_bamm_lambda": {
+    "Carnegiella marthae": 0.073,
+    "Carnegiella strigata": 0.073,
+    "Gasteropelecus maculatus": 0.073,
+    "Gasteropelecus sternicla": 0.073,
+    "Thoracocharax stellatus": 0.073
+  },
+  "tiprates_bamm_mu": {
+    "Carnegiella marthae": 0.001,
+    "Carnegiella strigata": 0.001,
+    "Gasteropelecus maculatus": 0.001,
+    "Gasteropelecus sternicla": 0.001,
+    "Thoracocharax stellatus": 0.001
+  },
+  "mean_dr": 0.048,
+  "mean_bamm_lambda": 0.073,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Gasteropelecidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Gasteropelecidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Gasteropelecidae.tre",
+  "phylogram": "downloads/taxonomy/family/Gasteropelecidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

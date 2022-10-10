@@ -1,0 +1,165 @@
+{
+  "species": [
+    "Pholidichthys anguis",
+    "Pholidichthys leucotaenia"
+  ],
+  "sampled_species": [
+    "Pholidichthys leucotaenia"
+  ],
+  "unsampled_species": [
+    "Pholidichthys anguis"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Pholidichthys leucotaenia"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Pholidichthys leucotaenia"
+    ],
+    "ficd": [
+      "Pholidichthys leucotaenia"
+    ],
+    "glyt": [
+      "Pholidichthys leucotaenia"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Pholidichthys leucotaenia"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Pholidichthys leucotaenia"
+    ],
+    "ptr": [
+      "Pholidichthys leucotaenia"
+    ],
+    "rag1": [
+      "Pholidichthys leucotaenia"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Pholidichthys leucotaenia"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Pholidichthys leucotaenia"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Pholidichthys leucotaenia"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Pholidichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pholidichthyiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Cichlomorphae"
+    ]
+  },
+  "tiprates_dr": {
+    "Pholidichthys leucotaenia": 0.0186
+  },
+  "tiprates_bamm_lambda": {
+    "Pholidichthys leucotaenia": 0.0551
+  },
+  "tiprates_bamm_mu": {
+    "Pholidichthys leucotaenia": 0.0006
+  },
+  "mean_dr": 0.0186,
+  "mean_bamm_lambda": 0.0551,
+  "mean_bamm_mu": 0.0006,
+  "matrix_phylip": "downloads/taxonomy/family/Pholidichthyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Pholidichthyidae.nex.xz"
+}

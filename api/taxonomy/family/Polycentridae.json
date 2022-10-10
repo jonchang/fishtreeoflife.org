@@ -1,0 +1,178 @@
+{
+  "species": [
+    "Monocirrhus polyacanthus",
+    "Polycentrus schomburgkii"
+  ],
+  "sampled_species": [
+    "Monocirrhus polyacanthus",
+    "Polycentrus schomburgkii"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Monocirrhus polyacanthus"
+    ],
+    "4c4": [
+      "Monocirrhus polyacanthus"
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Monocirrhus polyacanthus",
+      "Polycentrus schomburgkii"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Monocirrhus polyacanthus",
+      "Polycentrus schomburgkii"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Monocirrhus polyacanthus",
+      "Polycentrus schomburgkii"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Monocirrhus polyacanthus",
+      "Polycentrus schomburgkii"
+    ],
+    "ptr": [
+      "Monocirrhus polyacanthus",
+      "Polycentrus schomburgkii"
+    ],
+    "rag1": [
+      "Monocirrhus polyacanthus",
+      "Polycentrus schomburgkii"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Polycentrus schomburgkii"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Monocirrhus polyacanthus",
+      "Polycentrus schomburgkii"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Monocirrhus polyacanthus",
+      "Polycentrus schomburgkii"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Monocirrhus polyacanthus",
+      "Polycentrus schomburgkii"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Polycentridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Ovalentaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Monocirrhus polyacanthus": 0.0142,
+    "Polycentrus schomburgkii": 0.0142
+  },
+  "tiprates_bamm_lambda": {
+    "Monocirrhus polyacanthus": 0.0548,
+    "Polycentrus schomburgkii": 0.0548
+  },
+  "tiprates_bamm_mu": {
+    "Monocirrhus polyacanthus": 0.0005,
+    "Polycentrus schomburgkii": 0.0005
+  },
+  "mean_dr": 0.0142,
+  "mean_bamm_lambda": 0.0548,
+  "mean_bamm_mu": 0.0005,
+  "matrix_phylip": "downloads/taxonomy/family/Polycentridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Polycentridae.nex.xz"
+}

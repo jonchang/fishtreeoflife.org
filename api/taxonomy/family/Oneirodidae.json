@@ -1,0 +1,334 @@
+{
+  "species": [
+    "Bertella idiomorpha",
+    "Chaenophryne draco",
+    "Chaenophryne longiceps",
+    "Chaenophryne melanorhabdus",
+    "Chaenophryne quasiramifera",
+    "Chaenophryne ramifera",
+    "Chirophryne xenolophus",
+    "Ctenochirichthys longimanus",
+    "Danaphryne nigrifilis",
+    "Dermatias platynogaster",
+    "Dolopichthys allector",
+    "Dolopichthys danae",
+    "Dolopichthys dinema",
+    "Dolopichthys jubatus",
+    "Dolopichthys karsteni",
+    "Dolopichthys longicornis",
+    "Dolopichthys pullatus",
+    "Leptacanthichthys gracilispinis",
+    "Lophodolos acanthognathus",
+    "Lophodolos indicus",
+    "Microlophichthys andracanthus",
+    "Microlophichthys microlophus",
+    "Oneirodes acanthias",
+    "Oneirodes alius",
+    "Oneirodes anisacanthus",
+    "Oneirodes basili",
+    "Oneirodes bradburyae",
+    "Oneirodes bulbosus",
+    "Oneirodes carlsbergi",
+    "Oneirodes clarkei",
+    "Oneirodes cristatus",
+    "Oneirodes dicromischus",
+    "Oneirodes epithales",
+    "Oneirodes eschrichtii",
+    "Oneirodes flagellifer",
+    "Oneirodes haplonema",
+    "Oneirodes heteronema",
+    "Oneirodes kreffti",
+    "Oneirodes luetkeni",
+    "Oneirodes macronema",
+    "Oneirodes macrosteus",
+    "Oneirodes melanocauda",
+    "Oneirodes micronema",
+    "Oneirodes mirus",
+    "Oneirodes myrionemus",
+    "Oneirodes notius",
+    "Oneirodes pietschi",
+    "Oneirodes plagionema",
+    "Oneirodes posti",
+    "Oneirodes pterurus",
+    "Oneirodes rosenblatti",
+    "Oneirodes sabex",
+    "Oneirodes schistonema",
+    "Oneirodes schmidti",
+    "Oneirodes theodoritissieri",
+    "Oneirodes thompsoni",
+    "Oneirodes thysanema",
+    "Pentherichthys atratus",
+    "Phyllorhinichthys balushkini",
+    "Phyllorhinichthys micractis",
+    "Puck pinnata",
+    "Spiniphryne duhameli",
+    "Spiniphryne gladisfenae",
+    "Tyrannophryne pugnax"
+  ],
+  "sampled_species": [
+    "Bertella idiomorpha",
+    "Lophodolos acanthognathus",
+    "Lophodolos indicus",
+    "Oneirodes acanthias",
+    "Oneirodes bulbosus",
+    "Oneirodes macrosteus",
+    "Oneirodes notius",
+    "Oneirodes thompsoni"
+  ],
+  "unsampled_species": [
+    "Chaenophryne draco",
+    "Chaenophryne longiceps",
+    "Chaenophryne melanorhabdus",
+    "Chaenophryne quasiramifera",
+    "Chaenophryne ramifera",
+    "Chirophryne xenolophus",
+    "Ctenochirichthys longimanus",
+    "Danaphryne nigrifilis",
+    "Dermatias platynogaster",
+    "Dolopichthys allector",
+    "Dolopichthys danae",
+    "Dolopichthys dinema",
+    "Dolopichthys jubatus",
+    "Dolopichthys karsteni",
+    "Dolopichthys longicornis",
+    "Dolopichthys pullatus",
+    "Leptacanthichthys gracilispinis",
+    "Microlophichthys andracanthus",
+    "Microlophichthys microlophus",
+    "Oneirodes alius",
+    "Oneirodes anisacanthus",
+    "Oneirodes basili",
+    "Oneirodes bradburyae",
+    "Oneirodes carlsbergi",
+    "Oneirodes clarkei",
+    "Oneirodes cristatus",
+    "Oneirodes dicromischus",
+    "Oneirodes epithales",
+    "Oneirodes eschrichtii",
+    "Oneirodes flagellifer",
+    "Oneirodes haplonema",
+    "Oneirodes heteronema",
+    "Oneirodes kreffti",
+    "Oneirodes luetkeni",
+    "Oneirodes macronema",
+    "Oneirodes melanocauda",
+    "Oneirodes micronema",
+    "Oneirodes mirus",
+    "Oneirodes myrionemus",
+    "Oneirodes pietschi",
+    "Oneirodes plagionema",
+    "Oneirodes posti",
+    "Oneirodes pterurus",
+    "Oneirodes rosenblatti",
+    "Oneirodes sabex",
+    "Oneirodes schistonema",
+    "Oneirodes schmidti",
+    "Oneirodes theodoritissieri",
+    "Oneirodes thysanema",
+    "Pentherichthys atratus",
+    "Phyllorhinichthys balushkini",
+    "Phyllorhinichthys micractis",
+    "Puck pinnata",
+    "Spiniphryne duhameli",
+    "Spiniphryne gladisfenae",
+    "Tyrannophryne pugnax"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Bertella idiomorpha",
+      "Lophodolos indicus",
+      "Oneirodes acanthias"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Bertella idiomorpha",
+      "Lophodolos acanthognathus",
+      "Oneirodes acanthias",
+      "Oneirodes bulbosus",
+      "Oneirodes notius",
+      "Oneirodes thompsoni"
+    ],
+    "cytb": [
+      "Bertella idiomorpha",
+      "Lophodolos indicus",
+      "Oneirodes acanthias"
+    ],
+    "enc1": [
+      "Oneirodes macrosteus"
+    ],
+    "ficd": [
+      "Bertella idiomorpha",
+      "Oneirodes bulbosus"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Oneirodes macrosteus"
+    ],
+    "myh6": [
+      "Bertella idiomorpha",
+      "Oneirodes bulbosus",
+      "Oneirodes macrosteus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Bertella idiomorpha",
+      "Oneirodes bulbosus",
+      "Oneirodes macrosteus"
+    ],
+    "plagl2": [
+      "Oneirodes macrosteus"
+    ],
+    "ptr": [
+      "Bertella idiomorpha",
+      "Oneirodes bulbosus",
+      "Oneirodes macrosteus"
+    ],
+    "rag1": [
+      "Oneirodes macrosteus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Bertella idiomorpha",
+      "Oneirodes bulbosus"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Oneirodes macrosteus"
+    ],
+    "vcpip": [
+      "Bertella idiomorpha",
+      "Oneirodes macrosteus"
+    ],
+    "zic1": [
+      "Oneirodes bulbosus",
+      "Oneirodes macrosteus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Oneirodidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lophiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Ceratioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Bertella idiomorpha": 0.3075,
+    "Lophodolos acanthognathus": 0.2525,
+    "Lophodolos indicus": 0.3218,
+    "Oneirodes acanthias": 0.7682,
+    "Oneirodes bulbosus": 0.7098,
+    "Oneirodes macrosteus": 0.2671,
+    "Oneirodes notius": 0.7481,
+    "Oneirodes thompsoni": 0.6884
+  },
+  "tiprates_bamm_lambda": {
+    "Bertella idiomorpha": 0.101,
+    "Lophodolos acanthognathus": 0.0971,
+    "Lophodolos indicus": 0.1169,
+    "Oneirodes acanthias": 0.1337,
+    "Oneirodes bulbosus": 0.1337,
+    "Oneirodes macrosteus": 0.1337,
+    "Oneirodes notius": 0.1337,
+    "Oneirodes thompsoni": 0.1337
+  },
+  "tiprates_bamm_mu": {
+    "Bertella idiomorpha": 0.0446,
+    "Lophodolos acanthognathus": 0.0411,
+    "Lophodolos indicus": 0.0581,
+    "Oneirodes acanthias": 0.074,
+    "Oneirodes bulbosus": 0.074,
+    "Oneirodes macrosteus": 0.074,
+    "Oneirodes notius": 0.074,
+    "Oneirodes thompsoni": 0.074
+  },
+  "mean_dr": 0.5079,
+  "mean_bamm_lambda": 0.123,
+  "mean_bamm_mu": 0.0642,
+  "matrix_phylip": "downloads/taxonomy/family/Oneirodidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Oneirodidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Oneirodidae.tre",
+  "phylogram": "downloads/taxonomy/family/Oneirodidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

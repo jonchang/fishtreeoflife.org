@@ -1,0 +1,450 @@
+{
+  "species": [
+    "Artedidraco glareobarbatus",
+    "Artedidraco lonnbergi",
+    "Artedidraco mirus",
+    "Artedidraco orianae",
+    "Artedidraco shackletoni",
+    "Artedidraco skottsbergi",
+    "Dolloidraco longedorsalis",
+    "Histiodraco velifer",
+    "Pogonophryne albipinna",
+    "Pogonophryne barsukovi",
+    "Pogonophryne bellingshausenensis",
+    "Pogonophryne brevibarbata",
+    "Pogonophryne cerebropogon",
+    "Pogonophryne dewitti",
+    "Pogonophryne eakini",
+    "Pogonophryne fusca",
+    "Pogonophryne immaculata",
+    "Pogonophryne lanceobarbata",
+    "Pogonophryne macropogon",
+    "Pogonophryne marmorata",
+    "Pogonophryne mentella",
+    "Pogonophryne neyelovi",
+    "Pogonophryne orangiensis",
+    "Pogonophryne permitini",
+    "Pogonophryne platypogon",
+    "Pogonophryne scotti",
+    "Pogonophryne squamibarbata",
+    "Pogonophryne stewarti",
+    "Pogonophryne tronio",
+    "Pogonophryne ventrimaculata"
+  ],
+  "sampled_species": [
+    "Artedidraco lonnbergi",
+    "Artedidraco mirus",
+    "Artedidraco orianae",
+    "Artedidraco shackletoni",
+    "Artedidraco skottsbergi",
+    "Dolloidraco longedorsalis",
+    "Histiodraco velifer",
+    "Pogonophryne albipinna",
+    "Pogonophryne barsukovi",
+    "Pogonophryne cerebropogon",
+    "Pogonophryne eakini",
+    "Pogonophryne immaculata",
+    "Pogonophryne macropogon",
+    "Pogonophryne marmorata",
+    "Pogonophryne mentella",
+    "Pogonophryne orangiensis",
+    "Pogonophryne scotti",
+    "Pogonophryne squamibarbata",
+    "Pogonophryne stewarti"
+  ],
+  "unsampled_species": [
+    "Artedidraco glareobarbatus",
+    "Pogonophryne bellingshausenensis",
+    "Pogonophryne brevibarbata",
+    "Pogonophryne dewitti",
+    "Pogonophryne fusca",
+    "Pogonophryne lanceobarbata",
+    "Pogonophryne neyelovi",
+    "Pogonophryne permitini",
+    "Pogonophryne platypogon",
+    "Pogonophryne tronio",
+    "Pogonophryne ventrimaculata"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Artedidraco shackletoni",
+      "Histiodraco velifer",
+      "Pogonophryne scotti"
+    ],
+    "16s": [
+      "Artedidraco mirus",
+      "Artedidraco orianae",
+      "Artedidraco shackletoni",
+      "Artedidraco skottsbergi",
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne barsukovi",
+      "Pogonophryne cerebropogon",
+      "Pogonophryne immaculata",
+      "Pogonophryne macropogon",
+      "Pogonophryne marmorata",
+      "Pogonophryne scotti"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Artedidraco lonnbergi",
+      "Artedidraco orianae",
+      "Artedidraco shackletoni",
+      "Artedidraco skottsbergi",
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne albipinna",
+      "Pogonophryne barsukovi",
+      "Pogonophryne eakini",
+      "Pogonophryne immaculata",
+      "Pogonophryne marmorata",
+      "Pogonophryne mentella",
+      "Pogonophryne orangiensis",
+      "Pogonophryne scotti"
+    ],
+    "cytb": [
+      "Artedidraco lonnbergi",
+      "Artedidraco mirus",
+      "Artedidraco orianae",
+      "Artedidraco shackletoni",
+      "Artedidraco skottsbergi",
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne barsukovi",
+      "Pogonophryne marmorata",
+      "Pogonophryne mentella",
+      "Pogonophryne scotti"
+    ],
+    "enc1": [
+      "Artedidraco mirus",
+      "Artedidraco orianae",
+      "Artedidraco shackletoni",
+      "Artedidraco skottsbergi",
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne barsukovi",
+      "Pogonophryne cerebropogon",
+      "Pogonophryne eakini",
+      "Pogonophryne immaculata",
+      "Pogonophryne macropogon",
+      "Pogonophryne marmorata",
+      "Pogonophryne scotti"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Artedidraco mirus",
+      "Artedidraco orianae",
+      "Artedidraco shackletoni",
+      "Artedidraco skottsbergi",
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne barsukovi",
+      "Pogonophryne cerebropogon",
+      "Pogonophryne eakini",
+      "Pogonophryne immaculata",
+      "Pogonophryne macropogon",
+      "Pogonophryne marmorata",
+      "Pogonophryne scotti"
+    ],
+    "hoxc6a": [
+      "Pogonophryne barsukovi"
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Artedidraco mirus",
+      "Artedidraco orianae",
+      "Artedidraco shackletoni",
+      "Artedidraco skottsbergi",
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne barsukovi",
+      "Pogonophryne cerebropogon",
+      "Pogonophryne eakini",
+      "Pogonophryne immaculata",
+      "Pogonophryne macropogon",
+      "Pogonophryne marmorata",
+      "Pogonophryne scotti"
+    ],
+    "nd2": [
+      "Artedidraco mirus",
+      "Artedidraco orianae",
+      "Artedidraco shackletoni",
+      "Artedidraco skottsbergi",
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne barsukovi",
+      "Pogonophryne cerebropogon",
+      "Pogonophryne eakini",
+      "Pogonophryne immaculata",
+      "Pogonophryne macropogon",
+      "Pogonophryne marmorata",
+      "Pogonophryne mentella",
+      "Pogonophryne orangiensis",
+      "Pogonophryne scotti",
+      "Pogonophryne squamibarbata",
+      "Pogonophryne stewarti"
+    ],
+    "nd4": [
+      "Pogonophryne scotti"
+    ],
+    "panx2": [
+      "Pogonophryne barsukovi"
+    ],
+    "plagl2": [
+      "Artedidraco mirus",
+      "Artedidraco orianae",
+      "Artedidraco shackletoni",
+      "Artedidraco skottsbergi",
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne barsukovi",
+      "Pogonophryne cerebropogon",
+      "Pogonophryne eakini",
+      "Pogonophryne immaculata",
+      "Pogonophryne macropogon",
+      "Pogonophryne marmorata",
+      "Pogonophryne scotti"
+    ],
+    "ptr": [
+      "Artedidraco mirus",
+      "Artedidraco orianae",
+      "Artedidraco shackletoni",
+      "Artedidraco skottsbergi",
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne barsukovi",
+      "Pogonophryne cerebropogon",
+      "Pogonophryne eakini",
+      "Pogonophryne immaculata",
+      "Pogonophryne macropogon",
+      "Pogonophryne marmorata",
+      "Pogonophryne scotti"
+    ],
+    "rag1": [
+      "Artedidraco mirus",
+      "Artedidraco orianae",
+      "Artedidraco shackletoni",
+      "Artedidraco skottsbergi",
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne barsukovi",
+      "Pogonophryne cerebropogon",
+      "Pogonophryne eakini",
+      "Pogonophryne immaculata",
+      "Pogonophryne macropogon",
+      "Pogonophryne marmorata",
+      "Pogonophryne scotti"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Artedidraco lonnbergi",
+      "Artedidraco orianae",
+      "Artedidraco shackletoni",
+      "Artedidraco skottsbergi",
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne scotti"
+    ],
+    "ripk4": [
+      "Pogonophryne barsukovi"
+    ],
+    "sh3px3": [
+      "Artedidraco mirus",
+      "Artedidraco orianae",
+      "Artedidraco shackletoni",
+      "Artedidraco skottsbergi",
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne barsukovi",
+      "Pogonophryne cerebropogon",
+      "Pogonophryne eakini",
+      "Pogonophryne immaculata",
+      "Pogonophryne macropogon",
+      "Pogonophryne marmorata",
+      "Pogonophryne scotti"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne immaculata",
+      "Pogonophryne marmorata",
+      "Pogonophryne scotti"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Artedidraco mirus",
+      "Artedidraco orianae",
+      "Artedidraco shackletoni",
+      "Artedidraco skottsbergi",
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne barsukovi",
+      "Pogonophryne cerebropogon",
+      "Pogonophryne eakini",
+      "Pogonophryne immaculata",
+      "Pogonophryne macropogon",
+      "Pogonophryne marmorata",
+      "Pogonophryne scotti"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Artedidraco mirus",
+      "Artedidraco orianae",
+      "Artedidraco shackletoni",
+      "Artedidraco skottsbergi",
+      "Dolloidraco longedorsalis",
+      "Histiodraco velifer",
+      "Pogonophryne barsukovi",
+      "Pogonophryne cerebropogon",
+      "Pogonophryne eakini",
+      "Pogonophryne immaculata",
+      "Pogonophryne macropogon",
+      "Pogonophryne marmorata",
+      "Pogonophryne scotti"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Artedidraconidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Notothenioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Artedidraco lonnbergi": 0.2156,
+    "Artedidraco mirus": 0.4899,
+    "Artedidraco orianae": 0.2207,
+    "Artedidraco shackletoni": 0.4812,
+    "Artedidraco skottsbergi": 0.1035,
+    "Dolloidraco longedorsalis": 0.393,
+    "Histiodraco velifer": 0.3258,
+    "Pogonophryne albipinna": 1.1741,
+    "Pogonophryne barsukovi": 0.9804,
+    "Pogonophryne cerebropogon": 4.3345,
+    "Pogonophryne eakini": 3.9899,
+    "Pogonophryne immaculata": 2.1357,
+    "Pogonophryne macropogon": 2.9013,
+    "Pogonophryne marmorata": 1.5149,
+    "Pogonophryne mentella": 4.1059,
+    "Pogonophryne orangiensis": 2.8393,
+    "Pogonophryne scotti": 0.8768,
+    "Pogonophryne squamibarbata": 4.2564,
+    "Pogonophryne stewarti": 2.0189
+  },
+  "tiprates_bamm_lambda": {
+    "Artedidraco lonnbergi": 0.337,
+    "Artedidraco mirus": 0.3055,
+    "Artedidraco orianae": 0.3055,
+    "Artedidraco shackletoni": 0.3055,
+    "Artedidraco skottsbergi": 0.2441,
+    "Dolloidraco longedorsalis": 0.3055,
+    "Histiodraco velifer": 0.3055,
+    "Pogonophryne albipinna": 1.9948,
+    "Pogonophryne barsukovi": 1.6326,
+    "Pogonophryne cerebropogon": 2.0088,
+    "Pogonophryne eakini": 2.0088,
+    "Pogonophryne immaculata": 1.9948,
+    "Pogonophryne macropogon": 2.0088,
+    "Pogonophryne marmorata": 2.0088,
+    "Pogonophryne mentella": 2.0088,
+    "Pogonophryne orangiensis": 2.0088,
+    "Pogonophryne scotti": 1.6326,
+    "Pogonophryne squamibarbata": 2.0088,
+    "Pogonophryne stewarti": 1.9948
+  },
+  "tiprates_bamm_mu": {
+    "Artedidraco lonnbergi": 0.0746,
+    "Artedidraco mirus": 0.0661,
+    "Artedidraco orianae": 0.0661,
+    "Artedidraco shackletoni": 0.0661,
+    "Artedidraco skottsbergi": 0.0448,
+    "Dolloidraco longedorsalis": 0.0661,
+    "Histiodraco velifer": 0.0661,
+    "Pogonophryne albipinna": 0.5038,
+    "Pogonophryne barsukovi": 0.4283,
+    "Pogonophryne cerebropogon": 0.5039,
+    "Pogonophryne eakini": 0.5039,
+    "Pogonophryne immaculata": 0.5038,
+    "Pogonophryne macropogon": 0.5039,
+    "Pogonophryne marmorata": 0.5039,
+    "Pogonophryne mentella": 0.5039,
+    "Pogonophryne orangiensis": 0.5039,
+    "Pogonophryne scotti": 0.4283,
+    "Pogonophryne squamibarbata": 0.5039,
+    "Pogonophryne stewarti": 0.5038
+  },
+  "mean_dr": 1.7557,
+  "mean_bamm_lambda": 1.3379,
+  "mean_bamm_mu": 0.334,
+  "matrix_phylip": "downloads/taxonomy/family/Artedidraconidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Artedidraconidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Artedidraconidae.tre",
+  "phylogram": "downloads/taxonomy/family/Artedidraconidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

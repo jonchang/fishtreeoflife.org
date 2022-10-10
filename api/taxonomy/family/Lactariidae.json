@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Lactarius lactarius"
+  ],
+  "sampled_species": [
+    "Lactarius lactarius"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Lactarius lactarius"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Lactarius lactarius"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Lactarius lactarius"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Lactarius lactarius"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Lactarius lactarius"
+    ],
+    "ptr": [
+      "Lactarius lactarius"
+    ],
+    "rag1": [
+      "Lactarius lactarius"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Lactarius lactarius"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Lactarius lactarius"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Lactarius lactarius"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Lactarius lactarius"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Lactarius lactarius"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Lactariidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Carangaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Lactarius lactarius": 0.0163
+  },
+  "tiprates_bamm_lambda": {
+    "Lactarius lactarius": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Lactarius lactarius": 0.0003
+  },
+  "mean_dr": 0.0163,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Lactariidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Lactariidae.nex.xz"
+}

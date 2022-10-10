@@ -1,0 +1,551 @@
+{
+  "species": [
+    "Bathyclarias atribranchus",
+    "Bathyclarias euryodon",
+    "Bathyclarias filicibarbis",
+    "Bathyclarias foveolatus",
+    "Bathyclarias longibarbis",
+    "Bathyclarias nyasensis",
+    "Bathyclarias rotundifrons",
+    "Bathyclarias worthingtoni",
+    "Channallabes alvarezi",
+    "Channallabes apus",
+    "Channallabes longicaudatus",
+    "Channallabes ogooensis",
+    "Channallabes sanghaensis",
+    "Channallabes teugelsi",
+    "Clariallabes attemsi",
+    "Clariallabes brevibarbis",
+    "Clariallabes centralis",
+    "Clariallabes heterocephalus",
+    "Clariallabes laticeps",
+    "Clariallabes longicauda",
+    "Clariallabes manyangae",
+    "Clariallabes melas",
+    "Clariallabes mutsindoziensis",
+    "Clariallabes petricola",
+    "Clariallabes pietschmanni",
+    "Clariallabes platyprosopos",
+    "Clariallabes simeonsi",
+    "Clariallabes teugelsi",
+    "Clariallabes uelensis",
+    "Clariallabes variabilis",
+    "Clarias abbreviatus",
+    "Clarias agboyiensis",
+    "Clarias albopunctatus",
+    "Clarias alluaudi",
+    "Clarias anfractus",
+    "Clarias angolensis",
+    "Clarias anguillaris",
+    "Clarias batrachus",
+    "Clarias batu",
+    "Clarias brachysoma",
+    "Clarias buettikoferi",
+    "Clarias buthupogon",
+    "Clarias camerunensis",
+    "Clarias cataractus",
+    "Clarias cavernicola",
+    "Clarias dayi",
+    "Clarias dhonti",
+    "Clarias dumerilii",
+    "Clarias dussumieri",
+    "Clarias ebriensis",
+    "Clarias engelseni",
+    "Clarias fuscus",
+    "Clarias gabonensis",
+    "Clarias gariepinus",
+    "Clarias gracilentus",
+    "Clarias hilli",
+    "Clarias insolitus",
+    "Clarias intermedius",
+    "Clarias jaensis",
+    "Clarias kapuasensis",
+    "Clarias laeviceps",
+    "Clarias lamottei",
+    "Clarias leiacanthus",
+    "Clarias liocephalus",
+    "Clarias longior",
+    "Clarias maclareni",
+    "Clarias macrocephalus",
+    "Clarias macromystax",
+    "Clarias magur",
+    "Clarias meladerma",
+    "Clarias microspilus",
+    "Clarias microstomus",
+    "Clarias nebulosus",
+    "Clarias ngamensis",
+    "Clarias nieuhofii",
+    "Clarias nigricans",
+    "Clarias nigromarmoratus",
+    "Clarias olivaceus",
+    "Clarias pachynema",
+    "Clarias planiceps",
+    "Clarias platycephalus",
+    "Clarias pseudoleiacanthus",
+    "Clarias pseudonieuhofii",
+    "Clarias salae",
+    "Clarias stappersii",
+    "Clarias submarginatus",
+    "Clarias sulcatus",
+    "Clarias teijsmanni",
+    "Clarias theodorae",
+    "Clarias werneri",
+    "Dinotopterus cunningtoni",
+    "Dolichallabes microphthalmus",
+    "Encheloclarias baculum",
+    "Encheloclarias curtisoma",
+    "Encheloclarias kelioides",
+    "Encheloclarias prolatus",
+    "Encheloclarias tapeinopterus",
+    "Encheloclarias velatus",
+    "Gymnallabes nops",
+    "Gymnallabes typus",
+    "Heterobranchus bidorsalis",
+    "Heterobranchus boulengeri",
+    "Heterobranchus isopterus",
+    "Heterobranchus longifilis",
+    "Horaglanis abdulkalami",
+    "Horaglanis alikunhii",
+    "Horaglanis krishnai",
+    "Platyallabes tihoni",
+    "Platyclarias machadoi",
+    "Tanganikallabes alboperca",
+    "Tanganikallabes mortiauxi",
+    "Tanganikallabes stewarti",
+    "Uegitglanis zammaranoi",
+    "Xenoclarias eupogon"
+  ],
+  "sampled_species": [
+    "Bathyclarias nyasensis",
+    "Bathyclarias worthingtoni",
+    "Channallabes apus",
+    "Clariallabes longicauda",
+    "Clarias agboyiensis",
+    "Clarias angolensis",
+    "Clarias anguillaris",
+    "Clarias batrachus",
+    "Clarias buettikoferi",
+    "Clarias buthupogon",
+    "Clarias camerunensis",
+    "Clarias dussumieri",
+    "Clarias ebriensis",
+    "Clarias fuscus",
+    "Clarias gabonensis",
+    "Clarias gariepinus",
+    "Clarias intermedius",
+    "Clarias jaensis",
+    "Clarias macrocephalus",
+    "Clarias meladerma",
+    "Clarias ngamensis",
+    "Clarias nieuhofii",
+    "Clarias pachynema",
+    "Clarias stappersii",
+    "Clarias teijsmanni",
+    "Clarias theodorae",
+    "Clarias werneri",
+    "Dinotopterus cunningtoni",
+    "Dolichallabes microphthalmus",
+    "Gymnallabes typus",
+    "Heterobranchus bidorsalis",
+    "Heterobranchus boulengeri",
+    "Heterobranchus isopterus",
+    "Heterobranchus longifilis",
+    "Platyallabes tihoni",
+    "Tanganikallabes mortiauxi"
+  ],
+  "unsampled_species": [
+    "Bathyclarias atribranchus",
+    "Bathyclarias euryodon",
+    "Bathyclarias filicibarbis",
+    "Bathyclarias foveolatus",
+    "Bathyclarias longibarbis",
+    "Bathyclarias rotundifrons",
+    "Channallabes alvarezi",
+    "Channallabes longicaudatus",
+    "Channallabes ogooensis",
+    "Channallabes sanghaensis",
+    "Channallabes teugelsi",
+    "Clariallabes attemsi",
+    "Clariallabes brevibarbis",
+    "Clariallabes centralis",
+    "Clariallabes heterocephalus",
+    "Clariallabes laticeps",
+    "Clariallabes manyangae",
+    "Clariallabes melas",
+    "Clariallabes mutsindoziensis",
+    "Clariallabes petricola",
+    "Clariallabes pietschmanni",
+    "Clariallabes platyprosopos",
+    "Clariallabes simeonsi",
+    "Clariallabes teugelsi",
+    "Clariallabes uelensis",
+    "Clariallabes variabilis",
+    "Clarias abbreviatus",
+    "Clarias albopunctatus",
+    "Clarias alluaudi",
+    "Clarias anfractus",
+    "Clarias batu",
+    "Clarias brachysoma",
+    "Clarias cataractus",
+    "Clarias cavernicola",
+    "Clarias dayi",
+    "Clarias dhonti",
+    "Clarias dumerilii",
+    "Clarias engelseni",
+    "Clarias gracilentus",
+    "Clarias hilli",
+    "Clarias insolitus",
+    "Clarias kapuasensis",
+    "Clarias laeviceps",
+    "Clarias lamottei",
+    "Clarias leiacanthus",
+    "Clarias liocephalus",
+    "Clarias longior",
+    "Clarias maclareni",
+    "Clarias macromystax",
+    "Clarias magur",
+    "Clarias microspilus",
+    "Clarias microstomus",
+    "Clarias nebulosus",
+    "Clarias nigricans",
+    "Clarias nigromarmoratus",
+    "Clarias olivaceus",
+    "Clarias planiceps",
+    "Clarias platycephalus",
+    "Clarias pseudoleiacanthus",
+    "Clarias pseudonieuhofii",
+    "Clarias salae",
+    "Clarias submarginatus",
+    "Clarias sulcatus",
+    "Encheloclarias baculum",
+    "Encheloclarias curtisoma",
+    "Encheloclarias kelioides",
+    "Encheloclarias prolatus",
+    "Encheloclarias tapeinopterus",
+    "Encheloclarias velatus",
+    "Gymnallabes nops",
+    "Horaglanis abdulkalami",
+    "Horaglanis alikunhii",
+    "Horaglanis krishnai",
+    "Platyclarias machadoi",
+    "Tanganikallabes alboperca",
+    "Tanganikallabes stewarti",
+    "Uegitglanis zammaranoi",
+    "Xenoclarias eupogon"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Clarias batrachus"
+    ],
+    "16s": [
+      "Clarias batrachus",
+      "Clarias dussumieri",
+      "Clarias fuscus",
+      "Clarias gariepinus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Channallabes apus",
+      "Clarias angolensis",
+      "Clarias batrachus",
+      "Clarias camerunensis",
+      "Clarias dussumieri",
+      "Clarias fuscus",
+      "Clarias gabonensis",
+      "Clarias gariepinus",
+      "Clarias jaensis",
+      "Clarias macrocephalus",
+      "Clarias teijsmanni"
+    ],
+    "cytb": [
+      "Bathyclarias nyasensis",
+      "Bathyclarias worthingtoni",
+      "Channallabes apus",
+      "Clariallabes longicauda",
+      "Clarias agboyiensis",
+      "Clarias anguillaris",
+      "Clarias batrachus",
+      "Clarias buettikoferi",
+      "Clarias buthupogon",
+      "Clarias camerunensis",
+      "Clarias dussumieri",
+      "Clarias ebriensis",
+      "Clarias fuscus",
+      "Clarias gabonensis",
+      "Clarias gariepinus",
+      "Clarias intermedius",
+      "Clarias jaensis",
+      "Clarias macrocephalus",
+      "Clarias meladerma",
+      "Clarias ngamensis",
+      "Clarias nieuhofii",
+      "Clarias pachynema",
+      "Clarias stappersii",
+      "Clarias theodorae",
+      "Clarias werneri",
+      "Dinotopterus cunningtoni",
+      "Dolichallabes microphthalmus",
+      "Gymnallabes typus",
+      "Heterobranchus bidorsalis",
+      "Heterobranchus boulengeri",
+      "Heterobranchus isopterus",
+      "Heterobranchus longifilis",
+      "Platyallabes tihoni",
+      "Tanganikallabes mortiauxi"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Clarias batrachus",
+      "Clarias fuscus",
+      "Clarias gabonensis",
+      "Heterobranchus longifilis"
+    ],
+    "rag2": [
+      "Clarias batrachus",
+      "Clarias fuscus",
+      "Clarias gabonensis",
+      "Heterobranchus longifilis"
+    ],
+    "rhodopsin": [
+      "Clarias gariepinus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Clariidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Bathyclarias nyasensis": 0.9395,
+    "Bathyclarias worthingtoni": 0.989,
+    "Channallabes apus": 0.5458,
+    "Clariallabes longicauda": 0.3272,
+    "Clarias agboyiensis": 0.4044,
+    "Clarias angolensis": 0.164,
+    "Clarias anguillaris": 0.5283,
+    "Clarias batrachus": 0.1816,
+    "Clarias buettikoferi": 0.7875,
+    "Clarias buthupogon": 0.7875,
+    "Clarias camerunensis": 0.1936,
+    "Clarias dussumieri": 0.0816,
+    "Clarias ebriensis": 0.2356,
+    "Clarias fuscus": 0.1144,
+    "Clarias gabonensis": 0.2153,
+    "Clarias gariepinus": 0.5272,
+    "Clarias intermedius": 0.1191,
+    "Clarias jaensis": 0.2279,
+    "Clarias macrocephalus": 0.1651,
+    "Clarias meladerma": 0.153,
+    "Clarias ngamensis": 0.2178,
+    "Clarias nieuhofii": 0.1613,
+    "Clarias pachynema": 0.2084,
+    "Clarias stappersii": 0.137,
+    "Clarias teijsmanni": 0.0789,
+    "Clarias theodorae": 0.1547,
+    "Clarias werneri": 0.1572,
+    "Dinotopterus cunningtoni": 0.16,
+    "Dolichallabes microphthalmus": 0.1517,
+    "Gymnallabes typus": 0.3479,
+    "Heterobranchus bidorsalis": 0.1532,
+    "Heterobranchus boulengeri": 0.1511,
+    "Heterobranchus isopterus": 0.179,
+    "Heterobranchus longifilis": 0.1791,
+    "Platyallabes tihoni": 0.1153,
+    "Tanganikallabes mortiauxi": 0.1675
+  },
+  "tiprates_bamm_lambda": {
+    "Bathyclarias nyasensis": 0.2063,
+    "Bathyclarias worthingtoni": 0.2063,
+    "Channallabes apus": 0.1987,
+    "Clariallabes longicauda": 0.1979,
+    "Clarias agboyiensis": 0.2034,
+    "Clarias angolensis": 0.2034,
+    "Clarias anguillaris": 0.2063,
+    "Clarias batrachus": 0.164,
+    "Clarias buettikoferi": 0.2034,
+    "Clarias buthupogon": 0.2034,
+    "Clarias camerunensis": 0.1979,
+    "Clarias dussumieri": 0.1688,
+    "Clarias ebriensis": 0.1979,
+    "Clarias fuscus": 0.164,
+    "Clarias gabonensis": 0.2034,
+    "Clarias gariepinus": 0.2063,
+    "Clarias intermedius": 0.164,
+    "Clarias jaensis": 0.1979,
+    "Clarias macrocephalus": 0.164,
+    "Clarias meladerma": 0.164,
+    "Clarias ngamensis": 0.2063,
+    "Clarias nieuhofii": 0.164,
+    "Clarias pachynema": 0.1979,
+    "Clarias stappersii": 0.1979,
+    "Clarias teijsmanni": 0.164,
+    "Clarias theodorae": 0.1979,
+    "Clarias werneri": 0.1979,
+    "Dinotopterus cunningtoni": 0.1979,
+    "Dolichallabes microphthalmus": 0.1979,
+    "Gymnallabes typus": 0.1987,
+    "Heterobranchus bidorsalis": 0.1979,
+    "Heterobranchus boulengeri": 0.1979,
+    "Heterobranchus isopterus": 0.1979,
+    "Heterobranchus longifilis": 0.1979,
+    "Platyallabes tihoni": 0.1979,
+    "Tanganikallabes mortiauxi": 0.1979
+  },
+  "tiprates_bamm_mu": {
+    "Bathyclarias nyasensis": 0.0303,
+    "Bathyclarias worthingtoni": 0.0303,
+    "Channallabes apus": 0.026,
+    "Clariallabes longicauda": 0.0245,
+    "Clarias agboyiensis": 0.0309,
+    "Clarias angolensis": 0.0309,
+    "Clarias anguillaris": 0.0303,
+    "Clarias batrachus": 0.017,
+    "Clarias buettikoferi": 0.0309,
+    "Clarias buthupogon": 0.0309,
+    "Clarias camerunensis": 0.0245,
+    "Clarias dussumieri": 0.0176,
+    "Clarias ebriensis": 0.0245,
+    "Clarias fuscus": 0.017,
+    "Clarias gabonensis": 0.0309,
+    "Clarias gariepinus": 0.0303,
+    "Clarias intermedius": 0.017,
+    "Clarias jaensis": 0.0245,
+    "Clarias macrocephalus": 0.017,
+    "Clarias meladerma": 0.017,
+    "Clarias ngamensis": 0.0303,
+    "Clarias nieuhofii": 0.017,
+    "Clarias pachynema": 0.0245,
+    "Clarias stappersii": 0.0245,
+    "Clarias teijsmanni": 0.017,
+    "Clarias theodorae": 0.0245,
+    "Clarias werneri": 0.0245,
+    "Dinotopterus cunningtoni": 0.0245,
+    "Dolichallabes microphthalmus": 0.0245,
+    "Gymnallabes typus": 0.026,
+    "Heterobranchus bidorsalis": 0.0245,
+    "Heterobranchus boulengeri": 0.0245,
+    "Heterobranchus isopterus": 0.0245,
+    "Heterobranchus longifilis": 0.0245,
+    "Platyallabes tihoni": 0.0245,
+    "Tanganikallabes mortiauxi": 0.0245
+  },
+  "mean_dr": 0.2891,
+  "mean_bamm_lambda": 0.1925,
+  "mean_bamm_mu": 0.0246,
+  "matrix_phylip": "downloads/taxonomy/family/Clariidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Clariidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Clariidae.tre",
+  "phylogram": "downloads/taxonomy/family/Clariidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

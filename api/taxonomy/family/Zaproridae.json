@@ -1,0 +1,164 @@
+{
+  "species": [
+    "Zaprora silenus"
+  ],
+  "sampled_species": [
+    "Zaprora silenus"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Zaprora silenus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Zaprora silenus"
+    ],
+    "cytb": [
+      "Zaprora silenus"
+    ],
+    "enc1": [
+      "Zaprora silenus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Zaprora silenus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Zaprora silenus"
+    ],
+    "myh6": [
+      "Zaprora silenus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Zaprora silenus"
+    ],
+    "plagl2": [
+      "Zaprora silenus"
+    ],
+    "ptr": [
+      "Zaprora silenus"
+    ],
+    "rag1": [
+      "Zaprora silenus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Zaprora silenus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Zaprora silenus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Zaprora silenus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Zaprora silenus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Zaproridae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Zoarcales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Zaprora silenus": 0.1038
+  },
+  "tiprates_bamm_lambda": {
+    "Zaprora silenus": 0.0814
+  },
+  "tiprates_bamm_mu": {
+    "Zaprora silenus": 0.0038
+  },
+  "mean_dr": 0.1038,
+  "mean_bamm_lambda": 0.0814,
+  "mean_bamm_mu": 0.0038,
+  "matrix_phylip": "downloads/taxonomy/family/Zaproridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Zaproridae.nex.xz"
+}

@@ -1,0 +1,174 @@
+{
+  "species": [
+    "Arripis georgianus",
+    "Arripis trutta",
+    "Arripis truttacea",
+    "Arripis xylabion"
+  ],
+  "sampled_species": [
+    "Arripis georgianus",
+    "Arripis trutta"
+  ],
+  "unsampled_species": [
+    "Arripis truttacea",
+    "Arripis xylabion"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Arripis georgianus",
+      "Arripis trutta"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Arripis georgianus",
+      "Arripis trutta"
+    ],
+    "cytb": [
+      "Arripis trutta"
+    ],
+    "enc1": [
+      "Arripis trutta"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Arripis trutta"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Arripis trutta"
+    ],
+    "nd2": [
+      "Arripis georgianus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Arripis trutta"
+    ],
+    "ptr": [
+      "Arripis trutta"
+    ],
+    "rag1": [
+      "Arripis trutta"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Arripis trutta"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Arripis trutta"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Arripis trutta"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Arripis trutta"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Arripis trutta"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Arripidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Scombriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Pelagiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Arripis georgianus": 0.0364,
+    "Arripis trutta": 0.038
+  },
+  "tiprates_bamm_lambda": {
+    "Arripis georgianus": 0.055,
+    "Arripis trutta": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Arripis georgianus": 0.0003,
+    "Arripis trutta": 0.0003
+  },
+  "mean_dr": 0.0372,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Arripidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Arripidae.nex.xz"
+}

@@ -1,0 +1,187 @@
+{
+  "species": [
+    "Astroblepus boulengeri",
+    "Astroblepus brachycephalus",
+    "Astroblepus cacharas",
+    "Astroblepus caquetae",
+    "Astroblepus chapmani",
+    "Astroblepus chimborazoi",
+    "Astroblepus chotae",
+    "Astroblepus cirratus",
+    "Astroblepus cyclopus",
+    "Astroblepus eigenmanni",
+    "Astroblepus festae",
+    "Astroblepus fissidens",
+    "Astroblepus formosus",
+    "Astroblepus frenatus",
+    "Astroblepus grixalvii",
+    "Astroblepus guentheri",
+    "Astroblepus heterodon",
+    "Astroblepus homodon",
+    "Astroblepus jurubidae",
+    "Astroblepus labialis",
+    "Astroblepus latidens",
+    "Astroblepus longiceps",
+    "Astroblepus longifilis",
+    "Astroblepus mancoi",
+    "Astroblepus mariae",
+    "Astroblepus marmoratus",
+    "Astroblepus micrescens",
+    "Astroblepus mindoensis",
+    "Astroblepus nicefori",
+    "Astroblepus orientalis",
+    "Astroblepus peruanus",
+    "Astroblepus phelpsi",
+    "Astroblepus pholeter",
+    "Astroblepus pirrensis",
+    "Astroblepus praeliorum",
+    "Astroblepus prenadillus",
+    "Astroblepus regani",
+    "Astroblepus rengifoi",
+    "Astroblepus retropinnus",
+    "Astroblepus riberae",
+    "Astroblepus rosei",
+    "Astroblepus sabalo",
+    "Astroblepus santanderensis",
+    "Astroblepus simonsii",
+    "Astroblepus stuebeli",
+    "Astroblepus supramollis",
+    "Astroblepus taczanowskii",
+    "Astroblepus theresiae",
+    "Astroblepus trifasciatus",
+    "Astroblepus ubidiai",
+    "Astroblepus unifasciatus",
+    "Astroblepus vaillanti",
+    "Astroblepus vanceae",
+    "Astroblepus ventralis",
+    "Astroblepus whymperi"
+  ],
+  "sampled_species": [
+
+  ],
+  "unsampled_species": [
+    "Astroblepus boulengeri",
+    "Astroblepus brachycephalus",
+    "Astroblepus cacharas",
+    "Astroblepus caquetae",
+    "Astroblepus chapmani",
+    "Astroblepus chimborazoi",
+    "Astroblepus chotae",
+    "Astroblepus cirratus",
+    "Astroblepus cyclopus",
+    "Astroblepus eigenmanni",
+    "Astroblepus festae",
+    "Astroblepus fissidens",
+    "Astroblepus formosus",
+    "Astroblepus frenatus",
+    "Astroblepus grixalvii",
+    "Astroblepus guentheri",
+    "Astroblepus heterodon",
+    "Astroblepus homodon",
+    "Astroblepus jurubidae",
+    "Astroblepus labialis",
+    "Astroblepus latidens",
+    "Astroblepus longiceps",
+    "Astroblepus longifilis",
+    "Astroblepus mancoi",
+    "Astroblepus mariae",
+    "Astroblepus marmoratus",
+    "Astroblepus micrescens",
+    "Astroblepus mindoensis",
+    "Astroblepus nicefori",
+    "Astroblepus orientalis",
+    "Astroblepus peruanus",
+    "Astroblepus phelpsi",
+    "Astroblepus pholeter",
+    "Astroblepus pirrensis",
+    "Astroblepus praeliorum",
+    "Astroblepus prenadillus",
+    "Astroblepus regani",
+    "Astroblepus rengifoi",
+    "Astroblepus retropinnus",
+    "Astroblepus riberae",
+    "Astroblepus rosei",
+    "Astroblepus sabalo",
+    "Astroblepus santanderensis",
+    "Astroblepus simonsii",
+    "Astroblepus stuebeli",
+    "Astroblepus supramollis",
+    "Astroblepus taczanowskii",
+    "Astroblepus theresiae",
+    "Astroblepus trifasciatus",
+    "Astroblepus ubidiai",
+    "Astroblepus unifasciatus",
+    "Astroblepus vaillanti",
+    "Astroblepus vanceae",
+    "Astroblepus ventralis",
+    "Astroblepus whymperi"
+  ],
+  "gene_sampling": [
+
+  ],
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Astroblepidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Loricaroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+  },
+  "tiprates_bamm_lambda": {
+  },
+  "tiprates_bamm_mu": {
+  },
+  "mean_dr": "NaN",
+  "mean_bamm_lambda": "NaN",
+  "mean_bamm_mu": "NaN"
+}

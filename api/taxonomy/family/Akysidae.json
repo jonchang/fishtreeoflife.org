@@ -1,0 +1,317 @@
+{
+  "species": [
+    "Acrochordonichthys chamaeleon",
+    "Acrochordonichthys falcifer",
+    "Acrochordonichthys guttatus",
+    "Acrochordonichthys gyrinus",
+    "Acrochordonichthys ischnosoma",
+    "Acrochordonichthys mahakamensis",
+    "Acrochordonichthys pachyderma",
+    "Acrochordonichthys rugosus",
+    "Acrochordonichthys septentrionalis",
+    "Acrochordonichthys strigosus",
+    "Akysis bilustris",
+    "Akysis brachybarbatus",
+    "Akysis clavulus",
+    "Akysis clinatus",
+    "Akysis ephippifer",
+    "Akysis fontaneus",
+    "Akysis fuliginatus",
+    "Akysis galeatus",
+    "Akysis hendricksoni",
+    "Akysis heterurus",
+    "Akysis longifilis",
+    "Akysis maculipinnis",
+    "Akysis manipurensis",
+    "Akysis microps",
+    "Akysis pictus",
+    "Akysis portellus",
+    "Akysis prashadi",
+    "Akysis pulvinatus",
+    "Akysis recavus",
+    "Akysis scorteus",
+    "Akysis variegatus",
+    "Akysis varius",
+    "Akysis vespa",
+    "Akysis vespertinus",
+    "Breitensteinia cessator",
+    "Breitensteinia hypselurus",
+    "Breitensteinia insignis",
+    "Parakysis anomalopteryx",
+    "Parakysis grandis",
+    "Parakysis hystriculus",
+    "Parakysis longirostris",
+    "Parakysis notialis",
+    "Parakysis verrucosus",
+    "Pseudobagarius alfredi",
+    "Pseudobagarius baramensis",
+    "Pseudobagarius filifer",
+    "Pseudobagarius fuscus",
+    "Pseudobagarius hardmani",
+    "Pseudobagarius inermis",
+    "Pseudobagarius leucorhynchus",
+    "Pseudobagarius macronemus",
+    "Pseudobagarius meridionalis",
+    "Pseudobagarius nitidus",
+    "Pseudobagarius pseudobagarius",
+    "Pseudobagarius similis",
+    "Pseudobagarius sinensis",
+    "Pseudobagarius subtilis"
+  ],
+  "sampled_species": [
+    "Acrochordonichthys rugosus",
+    "Akysis brachybarbatus",
+    "Akysis longifilis",
+    "Akysis prashadi",
+    "Breitensteinia cessator",
+    "Parakysis grandis",
+    "Parakysis longirostris"
+  ],
+  "unsampled_species": [
+    "Acrochordonichthys chamaeleon",
+    "Acrochordonichthys falcifer",
+    "Acrochordonichthys guttatus",
+    "Acrochordonichthys gyrinus",
+    "Acrochordonichthys ischnosoma",
+    "Acrochordonichthys mahakamensis",
+    "Acrochordonichthys pachyderma",
+    "Acrochordonichthys septentrionalis",
+    "Acrochordonichthys strigosus",
+    "Akysis bilustris",
+    "Akysis clavulus",
+    "Akysis clinatus",
+    "Akysis ephippifer",
+    "Akysis fontaneus",
+    "Akysis fuliginatus",
+    "Akysis galeatus",
+    "Akysis hendricksoni",
+    "Akysis heterurus",
+    "Akysis maculipinnis",
+    "Akysis manipurensis",
+    "Akysis microps",
+    "Akysis pictus",
+    "Akysis portellus",
+    "Akysis pulvinatus",
+    "Akysis recavus",
+    "Akysis scorteus",
+    "Akysis variegatus",
+    "Akysis varius",
+    "Akysis vespa",
+    "Akysis vespertinus",
+    "Breitensteinia hypselurus",
+    "Breitensteinia insignis",
+    "Parakysis anomalopteryx",
+    "Parakysis hystriculus",
+    "Parakysis notialis",
+    "Parakysis verrucosus",
+    "Pseudobagarius alfredi",
+    "Pseudobagarius baramensis",
+    "Pseudobagarius filifer",
+    "Pseudobagarius fuscus",
+    "Pseudobagarius hardmani",
+    "Pseudobagarius inermis",
+    "Pseudobagarius leucorhynchus",
+    "Pseudobagarius macronemus",
+    "Pseudobagarius meridionalis",
+    "Pseudobagarius nitidus",
+    "Pseudobagarius pseudobagarius",
+    "Pseudobagarius similis",
+    "Pseudobagarius sinensis",
+    "Pseudobagarius subtilis"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Akysis brachybarbatus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Acrochordonichthys rugosus",
+      "Akysis longifilis",
+      "Akysis prashadi",
+      "Breitensteinia cessator",
+      "Parakysis grandis",
+      "Parakysis longirostris"
+    ],
+    "cytb": [
+      "Acrochordonichthys rugosus",
+      "Akysis brachybarbatus",
+      "Akysis prashadi",
+      "Breitensteinia cessator"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Acrochordonichthys rugosus",
+      "Akysis brachybarbatus",
+      "Akysis prashadi",
+      "Breitensteinia cessator"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Acrochordonichthys rugosus",
+      "Akysis prashadi",
+      "Breitensteinia cessator"
+    ],
+    "rag2": [
+      "Acrochordonichthys rugosus",
+      "Akysis brachybarbatus",
+      "Akysis longifilis",
+      "Akysis prashadi",
+      "Breitensteinia cessator",
+      "Parakysis grandis",
+      "Parakysis longirostris"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Akysidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Acrochordonichthys rugosus": 0.1015,
+    "Akysis brachybarbatus": 0.0719,
+    "Akysis longifilis": 0.1019,
+    "Akysis prashadi": 0.1049,
+    "Breitensteinia cessator": 0.0685,
+    "Parakysis grandis": 0.112,
+    "Parakysis longirostris": 0.1076
+  },
+  "tiprates_bamm_lambda": {
+    "Acrochordonichthys rugosus": 0.0745,
+    "Akysis brachybarbatus": 0.0745,
+    "Akysis longifilis": 0.0745,
+    "Akysis prashadi": 0.0745,
+    "Breitensteinia cessator": 0.0745,
+    "Parakysis grandis": 0.0745,
+    "Parakysis longirostris": 0.0745
+  },
+  "tiprates_bamm_mu": {
+    "Acrochordonichthys rugosus": 0.0008,
+    "Akysis brachybarbatus": 0.0008,
+    "Akysis longifilis": 0.0008,
+    "Akysis prashadi": 0.0008,
+    "Breitensteinia cessator": 0.0008,
+    "Parakysis grandis": 0.0008,
+    "Parakysis longirostris": 0.0008
+  },
+  "mean_dr": 0.0955,
+  "mean_bamm_lambda": 0.0745,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Akysidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Akysidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Akysidae.tre",
+  "phylogram": "downloads/taxonomy/family/Akysidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

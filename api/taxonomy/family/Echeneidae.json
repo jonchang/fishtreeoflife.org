@@ -1,0 +1,240 @@
+{
+  "species": [
+    "Echeneis naucrates",
+    "Echeneis neucratoides",
+    "Phtheirichthys lineatus",
+    "Remora albescens",
+    "Remora australis",
+    "Remora brachyptera",
+    "Remora osteochir",
+    "Remora remora"
+  ],
+  "sampled_species": [
+    "Echeneis naucrates",
+    "Echeneis neucratoides",
+    "Phtheirichthys lineatus",
+    "Remora albescens",
+    "Remora australis",
+    "Remora brachyptera",
+    "Remora osteochir",
+    "Remora remora"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Echeneis naucrates",
+      "Echeneis neucratoides",
+      "Phtheirichthys lineatus",
+      "Remora albescens",
+      "Remora australis",
+      "Remora brachyptera",
+      "Remora osteochir",
+      "Remora remora"
+    ],
+    "16s": [
+      "Echeneis naucrates",
+      "Echeneis neucratoides",
+      "Phtheirichthys lineatus",
+      "Remora albescens",
+      "Remora australis",
+      "Remora brachyptera",
+      "Remora osteochir",
+      "Remora remora"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Echeneis naucrates",
+      "Phtheirichthys lineatus",
+      "Remora albescens",
+      "Remora australis",
+      "Remora brachyptera",
+      "Remora osteochir",
+      "Remora remora"
+    ],
+    "cytb": [
+      "Echeneis naucrates"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Echeneis naucrates"
+    ],
+    "hoxc6a": [
+      "Echeneis naucrates"
+    ],
+    "kiaa1239": [
+      "Echeneis naucrates",
+      "Remora osteochir"
+    ],
+    "myh6": [
+      "Echeneis neucratoides",
+      "Remora osteochir"
+    ],
+    "nd2": [
+      "Echeneis naucrates",
+      "Echeneis neucratoides",
+      "Phtheirichthys lineatus",
+      "Remora albescens",
+      "Remora australis",
+      "Remora brachyptera",
+      "Remora osteochir",
+      "Remora remora"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Echeneis naucrates"
+    ],
+    "plagl2": [
+      "Echeneis naucrates",
+      "Remora osteochir"
+    ],
+    "ptr": [
+      "Echeneis naucrates"
+    ],
+    "rag1": [
+      "Echeneis naucrates",
+      "Echeneis neucratoides",
+      "Remora australis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Echeneis naucrates",
+      "Echeneis neucratoides"
+    ],
+    "ripk4": [
+      "Echeneis naucrates"
+    ],
+    "sh3px3": [
+      "Echeneis naucrates"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Echeneis naucrates"
+    ],
+    "tbr1": [
+      "Echeneis naucrates"
+    ],
+    "vcpip": [
+      "Echeneis naucrates",
+      "Echeneis neucratoides"
+    ],
+    "zic1": [
+      "Echeneis naucrates",
+      "Echeneis neucratoides",
+      "Remora osteochir"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Echeneidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Carangiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Echeneis naucrates": 0.0732,
+    "Echeneis neucratoides": 0.0732,
+    "Phtheirichthys lineatus": 0.0406,
+    "Remora albescens": 0.0327,
+    "Remora australis": 0.0528,
+    "Remora brachyptera": 0.0521,
+    "Remora osteochir": 0.0521,
+    "Remora remora": 0.0528
+  },
+  "tiprates_bamm_lambda": {
+    "Echeneis naucrates": 0.055,
+    "Echeneis neucratoides": 0.055,
+    "Phtheirichthys lineatus": 0.055,
+    "Remora albescens": 0.055,
+    "Remora australis": 0.055,
+    "Remora brachyptera": 0.055,
+    "Remora osteochir": 0.055,
+    "Remora remora": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Echeneis naucrates": 0.0003,
+    "Echeneis neucratoides": 0.0003,
+    "Phtheirichthys lineatus": 0.0003,
+    "Remora albescens": 0.0003,
+    "Remora australis": 0.0003,
+    "Remora brachyptera": 0.0003,
+    "Remora osteochir": 0.0003,
+    "Remora remora": 0.0003
+  },
+  "mean_dr": 0.0537,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Echeneidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Echeneidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Echeneidae.tre",
+  "phylogram": "downloads/taxonomy/family/Echeneidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

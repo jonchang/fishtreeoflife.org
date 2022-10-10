@@ -1,0 +1,438 @@
+{
+  "species": [
+    "Bonapartia pedaliota",
+    "Cyclothone acclinidens",
+    "Cyclothone alba",
+    "Cyclothone atraria",
+    "Cyclothone braueri",
+    "Cyclothone kobayashii",
+    "Cyclothone livida",
+    "Cyclothone microdon",
+    "Cyclothone obscura",
+    "Cyclothone pallida",
+    "Cyclothone parapallida",
+    "Cyclothone pseudopallida",
+    "Cyclothone pygmaea",
+    "Cyclothone signata",
+    "Gonostoma atlanticum",
+    "Gonostoma denudatum",
+    "Gonostoma elongatum",
+    "Manducus greyae",
+    "Manducus maderensis",
+    "Margrethia obtusirostra",
+    "Margrethia valentinae",
+    "Sigmops bathyphilus",
+    "Sigmops ebelingi",
+    "Sigmops gracilis",
+    "Sigmops longipinnis",
+    "Triplophos hemingi"
+  ],
+  "sampled_species": [
+    "Bonapartia pedaliota",
+    "Cyclothone acclinidens",
+    "Cyclothone alba",
+    "Cyclothone atraria",
+    "Cyclothone kobayashii",
+    "Cyclothone livida",
+    "Cyclothone microdon",
+    "Cyclothone obscura",
+    "Cyclothone pallida",
+    "Cyclothone parapallida",
+    "Cyclothone pseudopallida",
+    "Cyclothone pygmaea",
+    "Cyclothone signata",
+    "Gonostoma atlanticum",
+    "Gonostoma denudatum",
+    "Gonostoma elongatum",
+    "Margrethia obtusirostra",
+    "Sigmops bathyphilus",
+    "Sigmops ebelingi",
+    "Sigmops gracilis",
+    "Sigmops longipinnis",
+    "Triplophos hemingi"
+  ],
+  "unsampled_species": [
+    "Cyclothone braueri",
+    "Manducus greyae",
+    "Manducus maderensis",
+    "Margrethia valentinae"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Bonapartia pedaliota",
+      "Cyclothone acclinidens",
+      "Cyclothone alba",
+      "Cyclothone atraria",
+      "Cyclothone kobayashii",
+      "Cyclothone livida",
+      "Cyclothone microdon",
+      "Cyclothone obscura",
+      "Cyclothone pallida",
+      "Cyclothone parapallida",
+      "Cyclothone pseudopallida",
+      "Cyclothone pygmaea",
+      "Cyclothone signata",
+      "Gonostoma atlanticum",
+      "Gonostoma denudatum",
+      "Gonostoma elongatum",
+      "Margrethia obtusirostra",
+      "Sigmops bathyphilus",
+      "Sigmops ebelingi",
+      "Sigmops gracilis",
+      "Sigmops longipinnis"
+    ],
+    "16s": [
+      "Bonapartia pedaliota",
+      "Cyclothone acclinidens",
+      "Cyclothone alba",
+      "Cyclothone atraria",
+      "Cyclothone kobayashii",
+      "Cyclothone livida",
+      "Cyclothone microdon",
+      "Cyclothone obscura",
+      "Cyclothone pallida",
+      "Cyclothone parapallida",
+      "Cyclothone pseudopallida",
+      "Cyclothone pygmaea",
+      "Cyclothone signata",
+      "Gonostoma atlanticum",
+      "Gonostoma denudatum",
+      "Gonostoma elongatum",
+      "Margrethia obtusirostra",
+      "Sigmops bathyphilus",
+      "Sigmops ebelingi",
+      "Sigmops gracilis",
+      "Sigmops longipinnis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Bonapartia pedaliota",
+      "Cyclothone acclinidens",
+      "Cyclothone atraria",
+      "Cyclothone microdon",
+      "Cyclothone pallida",
+      "Cyclothone parapallida",
+      "Cyclothone pseudopallida",
+      "Cyclothone signata",
+      "Gonostoma elongatum",
+      "Margrethia obtusirostra",
+      "Sigmops bathyphilus",
+      "Sigmops longipinnis",
+      "Triplophos hemingi"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Cyclothone microdon",
+      "Cyclothone parapallida",
+      "Cyclothone pseudopallida",
+      "Gonostoma elongatum",
+      "Margrethia obtusirostra",
+      "Sigmops bathyphilus",
+      "Sigmops longipinnis",
+      "Triplophos hemingi"
+    ],
+    "ficd": [
+      "Bonapartia pedaliota",
+      "Gonostoma elongatum"
+    ],
+    "glyt": [
+      "Cyclothone microdon"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Bonapartia pedaliota",
+      "Cyclothone acclinidens",
+      "Cyclothone microdon",
+      "Cyclothone pseudopallida",
+      "Gonostoma elongatum",
+      "Margrethia obtusirostra",
+      "Sigmops longipinnis"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Cyclothone microdon"
+    ],
+    "ptr": [
+      "Cyclothone microdon"
+    ],
+    "rag1": [
+      "Bonapartia pedaliota",
+      "Cyclothone acclinidens",
+      "Cyclothone microdon",
+      "Cyclothone parapallida",
+      "Cyclothone pseudopallida",
+      "Gonostoma elongatum",
+      "Margrethia obtusirostra",
+      "Sigmops bathyphilus",
+      "Sigmops longipinnis",
+      "Triplophos hemingi"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Bonapartia pedaliota",
+      "Sigmops bathyphilus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Cyclothone microdon",
+      "Gonostoma elongatum"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Cyclothone microdon"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Bonapartia pedaliota",
+      "Cyclothone microdon",
+      "Gonostoma elongatum",
+      "Margrethia obtusirostra"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Gonostomatidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Stomiatiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Stomiatii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Bonapartia pedaliota": 0.0233,
+    "Cyclothone acclinidens": 0.0255,
+    "Cyclothone alba": 0.0392,
+    "Cyclothone atraria": 0.0264,
+    "Cyclothone kobayashii": 0.0516,
+    "Cyclothone livida": 0.0256,
+    "Cyclothone microdon": 0.0433,
+    "Cyclothone obscura": 0.0189,
+    "Cyclothone pallida": 0.0247,
+    "Cyclothone parapallida": 0.0183,
+    "Cyclothone pseudopallida": 0.0524,
+    "Cyclothone pygmaea": 0.0442,
+    "Cyclothone signata": 0.0403,
+    "Gonostoma atlanticum": 0.0255,
+    "Gonostoma denudatum": 0.0315,
+    "Margrethia obtusirostra": 0.0229,
+    "Sigmops bathyphilus": 0.0266,
+    "Sigmops ebelingi": 0.0296,
+    "Sigmops gracilis": 0.0264,
+    "Sigmops longipinnis": 0.0274,
+    "Triplophos hemingi": 0.0317,
+    "Gonostoma elongatum": 0.034
+  },
+  "tiprates_bamm_lambda": {
+    "Bonapartia pedaliota": 0.031,
+    "Cyclothone acclinidens": 0.0313,
+    "Cyclothone alba": 0.0314,
+    "Cyclothone atraria": 0.0314,
+    "Cyclothone kobayashii": 0.0314,
+    "Cyclothone livida": 0.0314,
+    "Cyclothone microdon": 0.0314,
+    "Cyclothone obscura": 0.0313,
+    "Cyclothone pallida": 0.0313,
+    "Cyclothone parapallida": 0.0313,
+    "Cyclothone pseudopallida": 0.0314,
+    "Cyclothone pygmaea": 0.0314,
+    "Cyclothone signata": 0.0314,
+    "Gonostoma atlanticum": 0.031,
+    "Gonostoma denudatum": 0.031,
+    "Margrethia obtusirostra": 0.031,
+    "Sigmops bathyphilus": 0.0286,
+    "Sigmops ebelingi": 0.0286,
+    "Sigmops gracilis": 0.0286,
+    "Sigmops longipinnis": 0.0286,
+    "Triplophos hemingi": 0.0356,
+    "Gonostoma elongatum": 0.0286
+  },
+  "tiprates_bamm_mu": {
+    "Bonapartia pedaliota": 0.0018,
+    "Cyclothone acclinidens": 0.0021,
+    "Cyclothone alba": 0.0021,
+    "Cyclothone atraria": 0.0021,
+    "Cyclothone kobayashii": 0.0021,
+    "Cyclothone livida": 0.0021,
+    "Cyclothone microdon": 0.0021,
+    "Cyclothone obscura": 0.0021,
+    "Cyclothone pallida": 0.0021,
+    "Cyclothone parapallida": 0.0021,
+    "Cyclothone pseudopallida": 0.0021,
+    "Cyclothone pygmaea": 0.0021,
+    "Cyclothone signata": 0.0021,
+    "Gonostoma atlanticum": 0.0018,
+    "Gonostoma denudatum": 0.0018,
+    "Margrethia obtusirostra": 0.0018,
+    "Sigmops bathyphilus": 0.0048,
+    "Sigmops ebelingi": 0.0048,
+    "Sigmops gracilis": 0.0048,
+    "Sigmops longipinnis": 0.0048,
+    "Triplophos hemingi": 0.0013,
+    "Gonostoma elongatum": 0.0048
+  },
+  "mean_dr": 0.0313,
+  "mean_bamm_lambda": 0.0309,
+  "mean_bamm_mu": 0.0026,
+  "matrix_phylip": "downloads/taxonomy/family/Gonostomatidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Gonostomatidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Gonostomatidae.tre",
+  "phylogram": "downloads/taxonomy/family/Gonostomatidae_phylogram.tre",
+  "rogues": [
+    "Eustomias_acinosus",
+    "Eustomias_filifer",
+    "Eustomias_jimcraddocki",
+    "Eustomias_furcifer",
+    "Eustomias_polyaster",
+    "Grammatostomias_flagellibarba",
+    "Aristostomias_tittmanni",
+    "Aristostomias_scintillans",
+    "Aristostomias_polydactylus",
+    "Pachystomias_microdon",
+    "Malacosteus_niger",
+    "Bathophilus_vaillanti",
+    "Bathophilus_pawneei",
+    "Photonectes_dinema",
+    "Photonectes_braueri",
+    "Photonectes_margarita",
+    "Echiostoma_barbatum",
+    "Tactostoma_macropus",
+    "Idiacanthus_fasciola",
+    "Idiacanthus_atlanticus",
+    "Idiacanthus_antrostomus",
+    "Melanostomias_margaritifer",
+    "Leptostomias_gladiator",
+    "Leptostomias_longibarba",
+    "Thysanactis_dentex",
+    "Flagellostomias_boureei",
+    "Odontostomias_micropogon",
+    "Trigonolampa_miriceps",
+    "Chirostomias_pliopterus",
+    "Astronesthes_similus",
+    "Borostomias_panamensis",
+    "Astronesthes_gemmifer",
+    "Neonesthes_capensis",
+    "Borostomias_antarcticus",
+    "Stomias_gracilis",
+    "Stomias_boa_boa",
+    "Borostomias_elucens",
+    "Rhadinesthes_decimus",
+    "Heterophotus_ophistoma",
+    "Stomias_atriventer",
+    "Stomias_affinis",
+    "Astronesthes_macropogon",
+    "Phosichthys_argenteus",
+    "Chauliodus_sloani",
+    "Chauliodus_danae",
+    "Chauliodus_macouni",
+    "Ichthyococcus_ovatus",
+    "Argyropelecus_lychnus",
+    "Argyropelecus_aculeatus",
+    "Argyropelecus_olfersii",
+    "Argyropelecus_sladeni",
+    "Argyropelecus_hemigymnus",
+    "Argyropelecus_affinis",
+    "Argyropelecus_gigas",
+    "Maurolicus_walvisensis",
+    "Maurolicus_japonicus",
+    "Maurolicus_muelleri",
+    "Maurolicus_australis",
+    "Maurolicus_weitzmani",
+    "Polyipnus_matsubarai",
+    "Polyipnus_asteroides",
+    "Polyipnus_stereope",
+    "Polyipnus_kiwiensis",
+    "Polyipnus_indicus",
+    "Polyipnus_polli",
+    "Polyipnus_clarus",
+    "Valenciennellus_tripunctulatus",
+    "Danaphos_oculatus",
+    "Sternoptyx_diaphana",
+    "Sternoptyx_pseudobscura",
+    "Sternoptyx_obscura",
+    "Polymetme_corythaeola",
+    "Polymetme_thaeocoryla",
+    "Yarrella_blackfordi",
+    "Pollichthys_mauli",
+    "Diplophos_taenia"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Gonostomatidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Gonostomatidae_mrca_phylogram.tre"
+}

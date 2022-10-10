@@ -1,0 +1,205 @@
+{
+  "species": [
+    "Harpagifer andriashevi",
+    "Harpagifer antarcticus",
+    "Harpagifer bispinis",
+    "Harpagifer crozetensis",
+    "Harpagifer georgianus",
+    "Harpagifer kerguelensis",
+    "Harpagifer macquariensis",
+    "Harpagifer nybelini",
+    "Harpagifer palliolatus",
+    "Harpagifer permitini",
+    "Harpagifer spinosus"
+  ],
+  "sampled_species": [
+    "Harpagifer antarcticus",
+    "Harpagifer bispinis",
+    "Harpagifer georgianus",
+    "Harpagifer kerguelensis"
+  ],
+  "unsampled_species": [
+    "Harpagifer andriashevi",
+    "Harpagifer crozetensis",
+    "Harpagifer macquariensis",
+    "Harpagifer nybelini",
+    "Harpagifer palliolatus",
+    "Harpagifer permitini",
+    "Harpagifer spinosus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Harpagifer antarcticus",
+      "Harpagifer bispinis"
+    ],
+    "16s": [
+      "Harpagifer antarcticus",
+      "Harpagifer kerguelensis"
+    ],
+    "4c4": [
+      "Harpagifer kerguelensis"
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+      "Harpagifer antarcticus",
+      "Harpagifer georgianus",
+      "Harpagifer kerguelensis"
+    ],
+    "enc1": [
+      "Harpagifer antarcticus",
+      "Harpagifer kerguelensis"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Harpagifer antarcticus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Harpagifer antarcticus"
+    ],
+    "nd2": [
+      "Harpagifer antarcticus",
+      "Harpagifer kerguelensis"
+    ],
+    "nd4": [
+      "Harpagifer kerguelensis"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Harpagifer antarcticus"
+    ],
+    "ptr": [
+      "Harpagifer antarcticus",
+      "Harpagifer kerguelensis"
+    ],
+    "rag1": [
+      "Harpagifer antarcticus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Harpagifer antarcticus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Harpagifer antarcticus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Harpagifer antarcticus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Harpagifer antarcticus",
+      "Harpagifer kerguelensis"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Harpagifer antarcticus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Harpagiferidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Notothenioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Harpagifer antarcticus": 0.3793,
+    "Harpagifer bispinis": 0.4009,
+    "Harpagifer georgianus": 0.3905,
+    "Harpagifer kerguelensis": 0.3822
+  },
+  "tiprates_bamm_lambda": {
+    "Harpagifer antarcticus": 0.2008,
+    "Harpagifer bispinis": 0.2008,
+    "Harpagifer georgianus": 0.2008,
+    "Harpagifer kerguelensis": 0.2008
+  },
+  "tiprates_bamm_mu": {
+    "Harpagifer antarcticus": 0.027,
+    "Harpagifer bispinis": 0.027,
+    "Harpagifer georgianus": 0.027,
+    "Harpagifer kerguelensis": 0.027
+  },
+  "mean_dr": 0.3882,
+  "mean_bamm_lambda": 0.2008,
+  "mean_bamm_mu": 0.027,
+  "matrix_phylip": "downloads/taxonomy/family/Harpagiferidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Harpagiferidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Harpagiferidae.tre",
+  "phylogram": "downloads/taxonomy/family/Harpagiferidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

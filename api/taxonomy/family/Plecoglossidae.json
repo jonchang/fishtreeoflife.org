@@ -1,0 +1,168 @@
+{
+  "species": [
+    "Plecoglossus altivelis altivelis",
+    "Plecoglossus altivelis chinensis",
+    "Plecoglossus altivelis ryukyuensis"
+  ],
+  "sampled_species": [
+    "Plecoglossus altivelis altivelis",
+    "Plecoglossus altivelis ryukyuensis"
+  ],
+  "unsampled_species": [
+    "Plecoglossus altivelis chinensis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Plecoglossus altivelis altivelis"
+    ],
+    "16s": [
+      "Plecoglossus altivelis altivelis"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+      "Plecoglossus altivelis altivelis"
+    ],
+    "enc1": [
+      "Plecoglossus altivelis altivelis"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Plecoglossus altivelis altivelis"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Plecoglossus altivelis altivelis"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Plecoglossus altivelis altivelis",
+      "Plecoglossus altivelis ryukyuensis"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Plecoglossus altivelis altivelis"
+    ],
+    "ptr": [
+      "Plecoglossus altivelis altivelis"
+    ],
+    "rag1": [
+      "Plecoglossus altivelis altivelis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Plecoglossus altivelis altivelis"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Plecoglossus altivelis altivelis"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Plecoglossus altivelis altivelis"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Plecoglossus altivelis altivelis"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Plecoglossus altivelis altivelis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Plecoglossidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Osmeriformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Stomiatii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Plecoglossus altivelis altivelis": 0.0376
+  },
+  "tiprates_bamm_lambda": {
+    "Plecoglossus altivelis altivelis": 0.0367
+  },
+  "tiprates_bamm_mu": {
+    "Plecoglossus altivelis altivelis": 0.0026
+  },
+  "mean_dr": 0.0376,
+  "mean_bamm_lambda": 0.0367,
+  "mean_bamm_mu": 0.0026,
+  "matrix_phylip": "downloads/taxonomy/family/Plecoglossidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Plecoglossidae.nex.xz"
+}

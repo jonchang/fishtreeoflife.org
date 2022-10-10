@@ -1,0 +1,177 @@
+{
+  "species": [
+    "Agrostichthys parkeri",
+    "Regalecus glesne",
+    "Regalecus russelii"
+  ],
+  "sampled_species": [
+    "Regalecus glesne",
+    "Regalecus russelii"
+  ],
+  "unsampled_species": [
+    "Agrostichthys parkeri"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Regalecus glesne"
+    ],
+    "16s": [
+      "Regalecus glesne"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Regalecus glesne"
+    ],
+    "cytb": [
+      "Regalecus glesne"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Regalecus glesne"
+    ],
+    "glyt": [
+      "Regalecus glesne",
+      "Regalecus russelii"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Regalecus glesne",
+      "Regalecus russelii"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Regalecus glesne"
+    ],
+    "plagl2": [
+      "Regalecus glesne",
+      "Regalecus russelii"
+    ],
+    "ptr": [
+      "Regalecus glesne",
+      "Regalecus russelii"
+    ],
+    "rag1": [
+      "Regalecus glesne"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Regalecus glesne"
+    ],
+    "ripk4": [
+      "Regalecus glesne"
+    ],
+    "sh3px3": [
+      "Regalecus glesne",
+      "Regalecus russelii"
+    ],
+    "sidkey": [
+      "Regalecus glesne"
+    ],
+    "sreb2": [
+      "Regalecus glesne",
+      "Regalecus russelii"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Regalecus glesne",
+      "Regalecus russelii"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Lampridacea"
+    ],
+    "family": [
+      "Regalecidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lampridiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Regalecus glesne": 0.0261,
+    "Regalecus russelii": 0.0261
+  },
+  "tiprates_bamm_lambda": {
+    "Regalecus glesne": 0.0522,
+    "Regalecus russelii": 0.0522
+  },
+  "tiprates_bamm_mu": {
+    "Regalecus glesne": 0.0003,
+    "Regalecus russelii": 0.0003
+  },
+  "mean_dr": 0.0261,
+  "mean_bamm_lambda": 0.0522,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Regalecidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Regalecidae.nex.xz"
+}

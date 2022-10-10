@@ -1,0 +1,275 @@
+{
+  "species": [
+    "Brephostoma carpenteri",
+    "Brinkmannella elongata",
+    "Epigonus affinis",
+    "Epigonus angustifrons",
+    "Epigonus atherinoides",
+    "Epigonus carbonarius",
+    "Epigonus cavaticus",
+    "Epigonus chilensis",
+    "Epigonus constanciae",
+    "Epigonus crassicaudus",
+    "Epigonus ctenolepis",
+    "Epigonus denticulatus",
+    "Epigonus devaneyi",
+    "Epigonus elegans",
+    "Epigonus elongatus",
+    "Epigonus exodon",
+    "Epigonus fragilis",
+    "Epigonus glossodontus",
+    "Epigonus heracleus",
+    "Epigonus lenimen",
+    "Epigonus lifouensis",
+    "Epigonus machaera",
+    "Epigonus macrops",
+    "Epigonus marimonticolus",
+    "Epigonus marisrubri",
+    "Epigonus mayeri",
+    "Epigonus notacanthus",
+    "Epigonus occidentalis",
+    "Epigonus oligolepis",
+    "Epigonus pandionis",
+    "Epigonus parini",
+    "Epigonus pectinifer",
+    "Epigonus robustus",
+    "Epigonus telescopus",
+    "Epigonus tuberculatus",
+    "Epigonus waltersensis",
+    "Florenciella lugubris",
+    "Microichthys coccoi",
+    "Microichthys sanzoi",
+    "Rosenblattia robusta",
+    "Sphyraenops bairdianus"
+  ],
+  "sampled_species": [
+    "Epigonus angustifrons",
+    "Epigonus denticulatus",
+    "Epigonus pandionis",
+    "Epigonus telescopus",
+    "Rosenblattia robusta"
+  ],
+  "unsampled_species": [
+    "Brephostoma carpenteri",
+    "Brinkmannella elongata",
+    "Epigonus affinis",
+    "Epigonus atherinoides",
+    "Epigonus carbonarius",
+    "Epigonus cavaticus",
+    "Epigonus chilensis",
+    "Epigonus constanciae",
+    "Epigonus crassicaudus",
+    "Epigonus ctenolepis",
+    "Epigonus devaneyi",
+    "Epigonus elegans",
+    "Epigonus elongatus",
+    "Epigonus exodon",
+    "Epigonus fragilis",
+    "Epigonus glossodontus",
+    "Epigonus heracleus",
+    "Epigonus lenimen",
+    "Epigonus lifouensis",
+    "Epigonus machaera",
+    "Epigonus macrops",
+    "Epigonus marimonticolus",
+    "Epigonus marisrubri",
+    "Epigonus mayeri",
+    "Epigonus notacanthus",
+    "Epigonus occidentalis",
+    "Epigonus oligolepis",
+    "Epigonus parini",
+    "Epigonus pectinifer",
+    "Epigonus robustus",
+    "Epigonus tuberculatus",
+    "Epigonus waltersensis",
+    "Florenciella lugubris",
+    "Microichthys coccoi",
+    "Microichthys sanzoi",
+    "Sphyraenops bairdianus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Epigonus telescopus"
+    ],
+    "16s": [
+      "Epigonus telescopus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Epigonus angustifrons",
+      "Epigonus denticulatus",
+      "Epigonus pandionis",
+      "Epigonus telescopus"
+    ],
+    "cytb": [
+      "Epigonus telescopus"
+    ],
+    "enc1": [
+      "Epigonus telescopus",
+      "Rosenblattia robusta"
+    ],
+    "ficd": [
+      "Epigonus telescopus"
+    ],
+    "glyt": [
+      "Epigonus telescopus",
+      "Rosenblattia robusta"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Epigonus denticulatus",
+      "Epigonus telescopus",
+      "Rosenblattia robusta"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Epigonus pandionis",
+      "Epigonus telescopus",
+      "Rosenblattia robusta"
+    ],
+    "ptr": [
+      "Epigonus telescopus",
+      "Rosenblattia robusta"
+    ],
+    "rag1": [
+      "Epigonus telescopus",
+      "Rosenblattia robusta"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Epigonus telescopus"
+    ],
+    "ripk4": [
+      "Epigonus pandionis",
+      "Epigonus telescopus"
+    ],
+    "sh3px3": [
+      "Epigonus pandionis",
+      "Epigonus telescopus"
+    ],
+    "sidkey": [
+      "Epigonus pandionis"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Epigonus pandionis"
+    ],
+    "vcpip": [
+      "Epigonus telescopus"
+    ],
+    "zic1": [
+      "Epigonus pandionis",
+      "Epigonus telescopus",
+      "Rosenblattia robusta"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Epigonidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pempheriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Epigonus angustifrons": 0.164,
+    "Epigonus denticulatus": 0.1075,
+    "Epigonus pandionis": 0.1146,
+    "Epigonus telescopus": 0.1613,
+    "Rosenblattia robusta": 0.1416
+  },
+  "tiprates_bamm_lambda": {
+    "Epigonus angustifrons": 0.0579,
+    "Epigonus denticulatus": 0.0579,
+    "Epigonus pandionis": 0.0579,
+    "Epigonus telescopus": 0.0579,
+    "Rosenblattia robusta": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Epigonus angustifrons": 0.0003,
+    "Epigonus denticulatus": 0.0003,
+    "Epigonus pandionis": 0.0003,
+    "Epigonus telescopus": 0.0003,
+    "Rosenblattia robusta": 0.0003
+  },
+  "mean_dr": 0.1378,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Epigonidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Epigonidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Epigonidae.tre",
+  "phylogram": "downloads/taxonomy/family/Epigonidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

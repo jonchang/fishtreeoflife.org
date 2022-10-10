@@ -1,0 +1,220 @@
+{
+  "species": [
+    "Emmelichthys elongatus",
+    "Emmelichthys karnellai",
+    "Emmelichthys nitidus cyanescens",
+    "Emmelichthys nitidus nitidus",
+    "Emmelichthys ruber",
+    "Emmelichthys struhsakeri",
+    "Erythrocles acarina",
+    "Erythrocles microceps",
+    "Erythrocles monodi",
+    "Erythrocles schlegelii",
+    "Erythrocles scintillans",
+    "Erythrocles taeniatus",
+    "Plagiogeneion fiolenti",
+    "Plagiogeneion geminatum",
+    "Plagiogeneion macrolepis",
+    "Plagiogeneion rubiginosum",
+    "Plagiogeneion unispina"
+  ],
+  "sampled_species": [
+    "Emmelichthys nitidus nitidus",
+    "Erythrocles monodi",
+    "Erythrocles schlegelii",
+    "Plagiogeneion macrolepis",
+    "Plagiogeneion rubiginosum"
+  ],
+  "unsampled_species": [
+    "Emmelichthys elongatus",
+    "Emmelichthys karnellai",
+    "Emmelichthys nitidus cyanescens",
+    "Emmelichthys ruber",
+    "Emmelichthys struhsakeri",
+    "Erythrocles acarina",
+    "Erythrocles microceps",
+    "Erythrocles scintillans",
+    "Erythrocles taeniatus",
+    "Plagiogeneion fiolenti",
+    "Plagiogeneion geminatum",
+    "Plagiogeneion unispina"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Emmelichthys nitidus nitidus",
+      "Erythrocles monodi",
+      "Plagiogeneion rubiginosum"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Emmelichthys nitidus nitidus",
+      "Erythrocles schlegelii",
+      "Plagiogeneion macrolepis",
+      "Plagiogeneion rubiginosum"
+    ],
+    "cytb": [
+      "Erythrocles monodi"
+    ],
+    "enc1": [
+      "Erythrocles monodi",
+      "Erythrocles schlegelii"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Erythrocles schlegelii"
+    ],
+    "myh6": [
+      "Erythrocles schlegelii"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Erythrocles monodi"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Erythrocles schlegelii"
+    ],
+    "ptr": [
+      "Erythrocles monodi"
+    ],
+    "rag1": [
+      "Erythrocles monodi",
+      "Erythrocles schlegelii"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Erythrocles monodi"
+    ],
+    "ripk4": [
+      "Erythrocles schlegelii"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+      "Erythrocles schlegelii"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Erythrocles schlegelii"
+    ],
+    "tbr1": [
+      "Erythrocles monodi",
+      "Erythrocles schlegelii"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Erythrocles schlegelii"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Emmelichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Emmelichthys nitidus nitidus": 0.1511,
+    "Erythrocles monodi": 0.1613,
+    "Erythrocles schlegelii": 0.0833,
+    "Plagiogeneion macrolepis": 0.2405,
+    "Plagiogeneion rubiginosum": 0.2288
+  },
+  "tiprates_bamm_lambda": {
+    "Emmelichthys nitidus nitidus": 0.0587,
+    "Erythrocles monodi": 0.0587,
+    "Erythrocles schlegelii": 0.0587,
+    "Plagiogeneion macrolepis": 0.0587,
+    "Plagiogeneion rubiginosum": 0.0587
+  },
+  "tiprates_bamm_mu": {
+    "Emmelichthys nitidus nitidus": 0.0006,
+    "Erythrocles monodi": 0.0006,
+    "Erythrocles schlegelii": 0.0006,
+    "Plagiogeneion macrolepis": 0.0006,
+    "Plagiogeneion rubiginosum": 0.0006
+  },
+  "mean_dr": 0.173,
+  "mean_bamm_lambda": 0.0587,
+  "mean_bamm_mu": 0.0006,
+  "matrix_phylip": "downloads/taxonomy/family/Emmelichthyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Emmelichthyidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Emmelichthyidae.tre",
+  "phylogram": "downloads/taxonomy/family/Emmelichthyidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

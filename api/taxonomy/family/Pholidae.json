@@ -1,0 +1,291 @@
+{
+  "species": [
+    "Apodichthys flavidus",
+    "Apodichthys fucorum",
+    "Pholis clemensi",
+    "Pholis crassispina",
+    "Pholis fangi",
+    "Pholis fasciata",
+    "Pholis gunnellus",
+    "Pholis laeta",
+    "Pholis nea",
+    "Pholis nebulosa",
+    "Pholis ornata",
+    "Pholis picta",
+    "Pholis schultzi",
+    "Rhodymenichthys dolichogaster",
+    "Ulvicola sanctaerosae"
+  ],
+  "sampled_species": [
+    "Apodichthys flavidus",
+    "Apodichthys fucorum",
+    "Pholis clemensi",
+    "Pholis crassispina",
+    "Pholis fangi",
+    "Pholis fasciata",
+    "Pholis gunnellus",
+    "Pholis laeta",
+    "Pholis nebulosa",
+    "Pholis ornata",
+    "Pholis picta",
+    "Rhodymenichthys dolichogaster"
+  ],
+  "unsampled_species": [
+    "Pholis nea",
+    "Pholis schultzi",
+    "Ulvicola sanctaerosae"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Apodichthys flavidus",
+      "Apodichthys fucorum",
+      "Pholis crassispina",
+      "Pholis fangi",
+      "Pholis gunnellus",
+      "Pholis nebulosa"
+    ],
+    "16s": [
+      "Apodichthys flavidus",
+      "Pholis crassispina",
+      "Pholis fangi",
+      "Pholis gunnellus",
+      "Pholis laeta",
+      "Pholis nebulosa",
+      "Pholis ornata",
+      "Pholis picta",
+      "Rhodymenichthys dolichogaster"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Apodichthys flavidus",
+      "Apodichthys fucorum",
+      "Pholis clemensi",
+      "Pholis crassispina",
+      "Pholis fangi",
+      "Pholis fasciata",
+      "Pholis gunnellus",
+      "Pholis laeta",
+      "Pholis nebulosa",
+      "Pholis ornata",
+      "Pholis picta",
+      "Rhodymenichthys dolichogaster"
+    ],
+    "cytb": [
+      "Apodichthys flavidus",
+      "Apodichthys fucorum",
+      "Pholis crassispina",
+      "Pholis fangi",
+      "Pholis laeta",
+      "Pholis nebulosa",
+      "Pholis picta",
+      "Rhodymenichthys dolichogaster"
+    ],
+    "enc1": [
+      "Pholis crassispina"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Pholis crassispina"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Pholis crassispina"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Pholis crassispina"
+    ],
+    "ptr": [
+      "Pholis crassispina"
+    ],
+    "rag1": [
+      "Pholis crassispina",
+      "Pholis ornata"
+    ],
+    "rag2": [
+      "Pholis crassispina",
+      "Pholis fangi",
+      "Pholis nebulosa"
+    ],
+    "rhodopsin": [
+      "Pholis gunnellus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Pholis crassispina"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Pholis crassispina"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Pholis crassispina"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Pholis crassispina"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Pholidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Zoarcales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Apodichthys flavidus": 0.1389,
+    "Apodichthys fucorum": 0.0991,
+    "Pholis clemensi": 0.1301,
+    "Pholis crassispina": 0.3167,
+    "Pholis fangi": 0.185,
+    "Pholis fasciata": 0.1999,
+    "Pholis gunnellus": 0.1304,
+    "Pholis laeta": 0.0968,
+    "Pholis nebulosa": 0.1886,
+    "Pholis ornata": 0.1062,
+    "Pholis picta": 0.3195,
+    "Rhodymenichthys dolichogaster": 0.1035
+  },
+  "tiprates_bamm_lambda": {
+    "Apodichthys flavidus": 0.0814,
+    "Apodichthys fucorum": 0.0814,
+    "Pholis clemensi": 0.0818,
+    "Pholis crassispina": 0.0818,
+    "Pholis fangi": 0.0818,
+    "Pholis fasciata": 0.0818,
+    "Pholis gunnellus": 0.0818,
+    "Pholis laeta": 0.0818,
+    "Pholis nebulosa": 0.0818,
+    "Pholis ornata": 0.0818,
+    "Pholis picta": 0.0818,
+    "Rhodymenichthys dolichogaster": 0.0814
+  },
+  "tiprates_bamm_mu": {
+    "Apodichthys flavidus": 0.0038,
+    "Apodichthys fucorum": 0.0038,
+    "Pholis clemensi": 0.0041,
+    "Pholis crassispina": 0.0041,
+    "Pholis fangi": 0.0041,
+    "Pholis fasciata": 0.0041,
+    "Pholis gunnellus": 0.0041,
+    "Pholis laeta": 0.0041,
+    "Pholis nebulosa": 0.0041,
+    "Pholis ornata": 0.0041,
+    "Pholis picta": 0.0041,
+    "Rhodymenichthys dolichogaster": 0.0038
+  },
+  "mean_dr": 0.1679,
+  "mean_bamm_lambda": 0.0817,
+  "mean_bamm_mu": 0.004,
+  "matrix_phylip": "downloads/taxonomy/family/Pholidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Pholidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Pholidae.tre",
+  "phylogram": "downloads/taxonomy/family/Pholidae_phylogram.tre",
+  "rogues": [
+    "Chirolophis_japonicus",
+    "Chirolophis_wui",
+    "Chirolophis_nugator",
+    "Chirolophis_decoratus",
+    "Bryozoichthys_lysimus",
+    "Ernogrammus_hexagrammus",
+    "Stichaeus_punctatus_punctatus",
+    "Stichaeus_ochriamkini",
+    "Ulvaria_subbifurcata",
+    "Stichaeopsis_epallax",
+    "Eumesogrammus_praecisus",
+    "Stichaeus_nozawae",
+    "Stichaeus_grigorjewi",
+    "Stichaeus_fuscus",
+    "Stichaeopsis_nevelskoi",
+    "Xiphister_mucosus",
+    "Anoplarchus_insignis",
+    "Anoplarchus_purpurescens",
+    "Alectrias_alectrolophus",
+    "Alectrias_benjamini",
+    "Opisthocentrus_tenuis",
+    "Opisthocentrus_ocellatus",
+    "Opisthocentrus_zonope",
+    "Askoldia_variegata",
+    "Kasatkia_seigeli",
+    "Kasatkia_memorabilis",
+    "Ptilichthys_goodei"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Pholidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Pholidae_mrca_phylogram.tre"
+}

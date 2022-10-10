@@ -1,0 +1,255 @@
+{
+  "species": [
+    "Cubiceps baxteri",
+    "Cubiceps caeruleus",
+    "Cubiceps capensis",
+    "Cubiceps gracilis",
+    "Cubiceps kotlyari",
+    "Cubiceps macrolepis",
+    "Cubiceps nanus",
+    "Cubiceps paradoxus",
+    "Cubiceps pauciradiatus",
+    "Cubiceps whiteleggii",
+    "Nomeus gronovii",
+    "Psenes arafurensis",
+    "Psenes cyanophrys",
+    "Psenes maculatus",
+    "Psenes pellucidus",
+    "Psenes sio"
+  ],
+  "sampled_species": [
+    "Cubiceps baxteri",
+    "Cubiceps capensis",
+    "Cubiceps gracilis",
+    "Cubiceps pauciradiatus",
+    "Cubiceps whiteleggii",
+    "Psenes arafurensis",
+    "Psenes cyanophrys",
+    "Psenes maculatus",
+    "Psenes pellucidus"
+  ],
+  "unsampled_species": [
+    "Cubiceps caeruleus",
+    "Cubiceps kotlyari",
+    "Cubiceps macrolepis",
+    "Cubiceps nanus",
+    "Cubiceps paradoxus",
+    "Nomeus gronovii",
+    "Psenes sio"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Cubiceps baxteri",
+      "Cubiceps capensis",
+      "Cubiceps whiteleggii",
+      "Psenes arafurensis",
+      "Psenes cyanophrys",
+      "Psenes maculatus",
+      "Psenes pellucidus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Cubiceps baxteri",
+      "Cubiceps capensis",
+      "Cubiceps gracilis",
+      "Cubiceps whiteleggii",
+      "Psenes arafurensis",
+      "Psenes cyanophrys",
+      "Psenes maculatus",
+      "Psenes pellucidus"
+    ],
+    "cytb": [
+      "Cubiceps whiteleggii",
+      "Psenes arafurensis",
+      "Psenes cyanophrys",
+      "Psenes maculatus",
+      "Psenes pellucidus"
+    ],
+    "enc1": [
+      "Cubiceps baxteri"
+    ],
+    "ficd": [
+      "Cubiceps gracilis"
+    ],
+    "glyt": [
+      "Cubiceps baxteri"
+    ],
+    "hoxc6a": [
+      "Cubiceps pauciradiatus"
+    ],
+    "kiaa1239": [
+      "Cubiceps gracilis",
+      "Cubiceps pauciradiatus",
+      "Psenes pellucidus"
+    ],
+    "myh6": [
+      "Cubiceps baxteri",
+      "Cubiceps pauciradiatus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Cubiceps gracilis",
+      "Cubiceps pauciradiatus"
+    ],
+    "plagl2": [
+      "Cubiceps baxteri",
+      "Cubiceps gracilis",
+      "Cubiceps pauciradiatus",
+      "Psenes cyanophrys"
+    ],
+    "ptr": [
+      "Cubiceps baxteri",
+      "Cubiceps gracilis",
+      "Cubiceps pauciradiatus",
+      "Psenes cyanophrys"
+    ],
+    "rag1": [
+      "Cubiceps baxteri",
+      "Psenes maculatus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Cubiceps gracilis"
+    ],
+    "ripk4": [
+      "Cubiceps gracilis",
+      "Psenes cyanophrys"
+    ],
+    "sh3px3": [
+      "Cubiceps baxteri",
+      "Cubiceps gracilis",
+      "Cubiceps pauciradiatus"
+    ],
+    "sidkey": [
+      "Cubiceps gracilis",
+      "Cubiceps pauciradiatus"
+    ],
+    "sreb2": [
+      "Cubiceps baxteri"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Cubiceps baxteri"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Cubiceps baxteri",
+      "Cubiceps gracilis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Nomeidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Scombriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Pelagiaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Cubiceps baxteri": 0.0519,
+    "Cubiceps capensis": 0.0944,
+    "Cubiceps gracilis": 0.0421,
+    "Cubiceps pauciradiatus": 0.0397,
+    "Cubiceps whiteleggii": 0.0968,
+    "Psenes arafurensis": 0.0796,
+    "Psenes cyanophrys": 0.0557,
+    "Psenes maculatus": 0.0772,
+    "Psenes pellucidus": 0.0625
+  },
+  "tiprates_bamm_lambda": {
+    "Cubiceps baxteri": 0.0549,
+    "Cubiceps capensis": 0.0549,
+    "Cubiceps gracilis": 0.0549,
+    "Cubiceps pauciradiatus": 0.055,
+    "Cubiceps whiteleggii": 0.0549,
+    "Psenes arafurensis": 0.0549,
+    "Psenes cyanophrys": 0.0549,
+    "Psenes maculatus": 0.0549,
+    "Psenes pellucidus": 0.0549
+  },
+  "tiprates_bamm_mu": {
+    "Cubiceps baxteri": 0.0003,
+    "Cubiceps capensis": 0.0003,
+    "Cubiceps gracilis": 0.0003,
+    "Cubiceps pauciradiatus": 0.0003,
+    "Cubiceps whiteleggii": 0.0003,
+    "Psenes arafurensis": 0.0003,
+    "Psenes cyanophrys": 0.0003,
+    "Psenes maculatus": 0.0003,
+    "Psenes pellucidus": 0.0003
+  },
+  "mean_dr": 0.0667,
+  "mean_bamm_lambda": 0.0549,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Nomeidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Nomeidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Nomeidae.tre",
+  "phylogram": "downloads/taxonomy/family/Nomeidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

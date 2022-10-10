@@ -1,0 +1,171 @@
+{
+  "species": [
+    "Cranoglanis bouderius",
+    "Cranoglanis caolangensis",
+    "Cranoglanis henrici",
+    "Cranoglanis multiradiatus",
+    "Cranoglanis songhongensis"
+  ],
+  "sampled_species": [
+    "Cranoglanis bouderius"
+  ],
+  "unsampled_species": [
+    "Cranoglanis caolangensis",
+    "Cranoglanis henrici",
+    "Cranoglanis multiradiatus",
+    "Cranoglanis songhongensis"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Cranoglanis bouderius"
+    ],
+    "cytb": [
+      "Cranoglanis bouderius"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Cranoglanis bouderius"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Cranoglanis bouderius"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Cranoglanis bouderius"
+    ],
+    "ptr": [
+      "Cranoglanis bouderius"
+    ],
+    "rag1": [
+      "Cranoglanis bouderius"
+    ],
+    "rag2": [
+      "Cranoglanis bouderius"
+    ],
+    "rhodopsin": [
+      "Cranoglanis bouderius"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Cranoglanis bouderius"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Cranoglanis bouderius"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Cranoglanididae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Siluriformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Siluroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Cranoglanis bouderius": 0.0602
+  },
+  "tiprates_bamm_lambda": {
+    "Cranoglanis bouderius": 0.0745
+  },
+  "tiprates_bamm_mu": {
+    "Cranoglanis bouderius": 0.0008
+  },
+  "mean_dr": 0.0602,
+  "mean_bamm_lambda": 0.0745,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Cranoglanididae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Cranoglanididae.nex.xz"
+}

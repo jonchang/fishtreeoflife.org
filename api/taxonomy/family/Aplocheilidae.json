@@ -1,0 +1,232 @@
+{
+  "species": [
+    "Aplocheilus blockii",
+    "Aplocheilus dayi",
+    "Aplocheilus kirchmayeri",
+    "Aplocheilus lineatus",
+    "Aplocheilus panchax",
+    "Aplocheilus parvus",
+    "Aplocheilus werneri",
+    "Pachypanchax arnoulti",
+    "Pachypanchax omalonotus",
+    "Pachypanchax patriciae",
+    "Pachypanchax playfairii",
+    "Pachypanchax sakaramyi",
+    "Pachypanchax sparksorum",
+    "Pachypanchax varatraza"
+  ],
+  "sampled_species": [
+    "Aplocheilus blockii",
+    "Aplocheilus lineatus",
+    "Aplocheilus panchax",
+    "Aplocheilus parvus",
+    "Pachypanchax omalonotus",
+    "Pachypanchax playfairii",
+    "Pachypanchax sakaramyi"
+  ],
+  "unsampled_species": [
+    "Aplocheilus dayi",
+    "Aplocheilus kirchmayeri",
+    "Aplocheilus werneri",
+    "Pachypanchax arnoulti",
+    "Pachypanchax patriciae",
+    "Pachypanchax sparksorum",
+    "Pachypanchax varatraza"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Aplocheilus lineatus",
+      "Aplocheilus panchax",
+      "Pachypanchax omalonotus",
+      "Pachypanchax playfairii"
+    ],
+    "16s": [
+      "Aplocheilus blockii",
+      "Aplocheilus lineatus",
+      "Aplocheilus panchax",
+      "Aplocheilus parvus",
+      "Pachypanchax omalonotus",
+      "Pachypanchax playfairii"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+      "Aplocheilus lineatus",
+      "Aplocheilus panchax"
+    ],
+    "enc1": [
+      "Aplocheilus lineatus",
+      "Aplocheilus panchax",
+      "Pachypanchax playfairii",
+      "Pachypanchax sakaramyi"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Pachypanchax playfairii"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+      "Aplocheilus panchax"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+      "Pachypanchax playfairii"
+    ],
+    "rag1": [
+      "Pachypanchax playfairii",
+      "Pachypanchax sakaramyi"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Aplocheilus lineatus",
+      "Pachypanchax omalonotus",
+      "Pachypanchax playfairii",
+      "Pachypanchax sakaramyi"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Aplocheilus lineatus",
+      "Aplocheilus panchax",
+      "Pachypanchax omalonotus",
+      "Pachypanchax playfairii",
+      "Pachypanchax sakaramyi"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Pachypanchax playfairii"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Pachypanchax playfairii"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Pachypanchax playfairii"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Aplocheilidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Cyprinodontiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Aplocheiloidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Atherinomorphae"
+    ]
+  },
+  "tiprates_dr": {
+    "Aplocheilus blockii": 0.0565,
+    "Aplocheilus lineatus": 0.0324,
+    "Aplocheilus panchax": 0.0254,
+    "Aplocheilus parvus": 0.0558,
+    "Pachypanchax omalonotus": 0.0589,
+    "Pachypanchax playfairii": 0.0341,
+    "Pachypanchax sakaramyi": 0.0626
+  },
+  "tiprates_bamm_lambda": {
+    "Aplocheilus blockii": 0.0557,
+    "Aplocheilus lineatus": 0.0557,
+    "Aplocheilus panchax": 0.0557,
+    "Aplocheilus parvus": 0.0557,
+    "Pachypanchax omalonotus": 0.0557,
+    "Pachypanchax playfairii": 0.0557,
+    "Pachypanchax sakaramyi": 0.0557
+  },
+  "tiprates_bamm_mu": {
+    "Aplocheilus blockii": 0.0003,
+    "Aplocheilus lineatus": 0.0003,
+    "Aplocheilus panchax": 0.0003,
+    "Aplocheilus parvus": 0.0003,
+    "Pachypanchax omalonotus": 0.0003,
+    "Pachypanchax playfairii": 0.0003,
+    "Pachypanchax sakaramyi": 0.0003
+  },
+  "mean_dr": 0.0465,
+  "mean_bamm_lambda": 0.0557,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Aplocheilidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Aplocheilidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Aplocheilidae.tre",
+  "phylogram": "downloads/taxonomy/family/Aplocheilidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

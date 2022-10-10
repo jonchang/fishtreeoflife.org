@@ -1,0 +1,472 @@
+{
+  "species": [
+    "Allodontichthys hubbsi",
+    "Allodontichthys polylepis",
+    "Allodontichthys tamazulae",
+    "Allodontichthys zonistius",
+    "Alloophorus robustus",
+    "Allotoca catarinae",
+    "Allotoca diazi",
+    "Allotoca dugesii",
+    "Allotoca goslinei",
+    "Allotoca maculata",
+    "Allotoca meeki",
+    "Allotoca regalis",
+    "Allotoca zacapuensis",
+    "Ameca splendens",
+    "Ataeniobius toweri",
+    "Chapalichthys encaustus",
+    "Chapalichthys pardalis",
+    "Chapalichthys peraticus",
+    "Characodon audax",
+    "Characodon garmani",
+    "Characodon lateralis",
+    "Crenichthys baileyi albivallis",
+    "Crenichthys baileyi baileyi",
+    "Crenichthys baileyi grandis",
+    "Crenichthys baileyi moapae",
+    "Crenichthys baileyi thermophilus",
+    "Crenichthys nevadae",
+    "Empetrichthys latos concavus",
+    "Empetrichthys latos latos",
+    "Empetrichthys latos pahrump",
+    "Empetrichthys merriami",
+    "Girardinichthys ireneae",
+    "Girardinichthys multiradiatus",
+    "Girardinichthys viviparus",
+    "Goodea atripinnis",
+    "Goodea gracilis",
+    "Goodea luitpoldii",
+    "Hubbsina turneri",
+    "Ilyodon cortesae",
+    "Ilyodon furcidens",
+    "Ilyodon lennoni",
+    "Ilyodon whitei",
+    "Ilyodon xantusi",
+    "Skiffia bilineata",
+    "Skiffia francesae",
+    "Skiffia lermae",
+    "Skiffia multipunctata",
+    "Xenoophorus captivus",
+    "Xenotaenia resolanae",
+    "Xenotoca eiseni",
+    "Xenotoca melanosoma",
+    "Xenotoca variata",
+    "Zoogoneticus purhepechus",
+    "Zoogoneticus quitzeoensis",
+    "Zoogoneticus tequila"
+  ],
+  "sampled_species": [
+    "Allodontichthys hubbsi",
+    "Allodontichthys polylepis",
+    "Allodontichthys tamazulae",
+    "Allodontichthys zonistius",
+    "Alloophorus robustus",
+    "Allotoca catarinae",
+    "Allotoca diazi",
+    "Allotoca dugesii",
+    "Allotoca goslinei",
+    "Allotoca maculata",
+    "Allotoca meeki",
+    "Allotoca regalis",
+    "Allotoca zacapuensis",
+    "Ameca splendens",
+    "Ataeniobius toweri",
+    "Chapalichthys encaustus",
+    "Chapalichthys pardalis",
+    "Characodon audax",
+    "Characodon lateralis",
+    "Crenichthys baileyi baileyi",
+    "Empetrichthys latos latos",
+    "Girardinichthys multiradiatus",
+    "Girardinichthys viviparus",
+    "Goodea atripinnis",
+    "Goodea gracilis",
+    "Hubbsina turneri",
+    "Ilyodon furcidens",
+    "Ilyodon whitei",
+    "Ilyodon xantusi",
+    "Skiffia bilineata",
+    "Skiffia francesae",
+    "Skiffia lermae",
+    "Skiffia multipunctata",
+    "Xenoophorus captivus",
+    "Xenotaenia resolanae",
+    "Xenotoca eiseni",
+    "Xenotoca melanosoma",
+    "Xenotoca variata",
+    "Zoogoneticus quitzeoensis",
+    "Zoogoneticus tequila"
+  ],
+  "unsampled_species": [
+    "Chapalichthys peraticus",
+    "Characodon garmani",
+    "Crenichthys baileyi albivallis",
+    "Crenichthys baileyi grandis",
+    "Crenichthys baileyi moapae",
+    "Crenichthys baileyi thermophilus",
+    "Crenichthys nevadae",
+    "Empetrichthys latos concavus",
+    "Empetrichthys latos pahrump",
+    "Empetrichthys merriami",
+    "Girardinichthys ireneae",
+    "Goodea luitpoldii",
+    "Ilyodon cortesae",
+    "Ilyodon lennoni",
+    "Zoogoneticus purhepechus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Allodontichthys hubbsi",
+      "Allodontichthys polylepis",
+      "Allodontichthys tamazulae",
+      "Allodontichthys zonistius",
+      "Alloophorus robustus",
+      "Allotoca catarinae",
+      "Allotoca diazi",
+      "Allotoca dugesii",
+      "Allotoca goslinei",
+      "Allotoca maculata",
+      "Allotoca regalis",
+      "Ameca splendens",
+      "Ataeniobius toweri",
+      "Chapalichthys encaustus",
+      "Chapalichthys pardalis",
+      "Characodon audax",
+      "Characodon lateralis",
+      "Crenichthys baileyi baileyi",
+      "Empetrichthys latos latos",
+      "Girardinichthys multiradiatus",
+      "Girardinichthys viviparus",
+      "Goodea atripinnis",
+      "Hubbsina turneri",
+      "Ilyodon furcidens",
+      "Ilyodon whitei",
+      "Skiffia bilineata",
+      "Skiffia francesae",
+      "Skiffia lermae",
+      "Skiffia multipunctata",
+      "Xenoophorus captivus",
+      "Xenotaenia resolanae",
+      "Xenotoca eiseni",
+      "Xenotoca melanosoma",
+      "Xenotoca variata",
+      "Zoogoneticus quitzeoensis",
+      "Zoogoneticus tequila"
+    ],
+    "cytb": [
+      "Allodontichthys hubbsi",
+      "Allodontichthys polylepis",
+      "Allodontichthys tamazulae",
+      "Allodontichthys zonistius",
+      "Alloophorus robustus",
+      "Allotoca catarinae",
+      "Allotoca diazi",
+      "Allotoca dugesii",
+      "Allotoca goslinei",
+      "Allotoca maculata",
+      "Allotoca meeki",
+      "Allotoca regalis",
+      "Allotoca zacapuensis",
+      "Ameca splendens",
+      "Ataeniobius toweri",
+      "Chapalichthys encaustus",
+      "Characodon audax",
+      "Characodon lateralis",
+      "Crenichthys baileyi baileyi",
+      "Girardinichthys multiradiatus",
+      "Girardinichthys viviparus",
+      "Goodea atripinnis",
+      "Goodea gracilis",
+      "Hubbsina turneri",
+      "Ilyodon furcidens",
+      "Ilyodon whitei",
+      "Ilyodon xantusi",
+      "Skiffia bilineata",
+      "Skiffia francesae",
+      "Skiffia lermae",
+      "Skiffia multipunctata",
+      "Xenoophorus captivus",
+      "Xenotaenia resolanae",
+      "Xenotoca eiseni",
+      "Xenotoca melanosoma",
+      "Xenotoca variata",
+      "Zoogoneticus quitzeoensis",
+      "Zoogoneticus tequila"
+    ],
+    "enc1": [
+      "Allotoca catarinae",
+      "Goodea atripinnis"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Goodea atripinnis"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Allotoca catarinae",
+      "Goodea atripinnis"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+      "Allotoca catarinae",
+      "Goodea atripinnis"
+    ],
+    "rag1": [
+      "Allotoca catarinae",
+      "Crenichthys baileyi baileyi",
+      "Goodea atripinnis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Allotoca catarinae",
+      "Goodea atripinnis"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Allotoca catarinae",
+      "Goodea atripinnis"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Goodea atripinnis"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Goodeidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Cyprinodontiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cyprinodontoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Atherinomorphae"
+    ]
+  },
+  "tiprates_dr": {
+    "Allodontichthys hubbsi": 0.2119,
+    "Allodontichthys polylepis": 0.1461,
+    "Allodontichthys tamazulae": 0.2119,
+    "Allodontichthys zonistius": 0.099,
+    "Alloophorus robustus": 0.1414,
+    "Allotoca catarinae": 0.2393,
+    "Allotoca diazi": 0.4087,
+    "Allotoca dugesii": 0.1381,
+    "Allotoca goslinei": 0.1381,
+    "Allotoca maculata": 0.082,
+    "Allotoca meeki": 0.4087,
+    "Allotoca regalis": 0.0683,
+    "Allotoca zacapuensis": 0.1508,
+    "Ameca splendens": 0.0774,
+    "Ataeniobius toweri": 0.0549,
+    "Chapalichthys encaustus": 0.3026,
+    "Chapalichthys pardalis": 0.3079,
+    "Characodon audax": 0.0943,
+    "Characodon lateralis": 0.0931,
+    "Crenichthys baileyi baileyi": 0.1216,
+    "Empetrichthys latos latos": 0.102,
+    "Girardinichthys multiradiatus": 0.106,
+    "Girardinichthys viviparus": 0.1017,
+    "Goodea atripinnis": 0.1497,
+    "Goodea gracilis": 0.1437,
+    "Hubbsina turneri": 0.0786,
+    "Ilyodon furcidens": 0.4775,
+    "Ilyodon whitei": 0.2737,
+    "Ilyodon xantusi": 0.4897,
+    "Skiffia bilineata": 0.0725,
+    "Skiffia francesae": 0.2132,
+    "Skiffia lermae": 0.112,
+    "Skiffia multipunctata": 0.2132,
+    "Xenoophorus captivus": 0.0803,
+    "Xenotaenia resolanae": 0.0623,
+    "Xenotoca eiseni": 0.0939,
+    "Xenotoca melanosoma": 0.0939,
+    "Xenotoca variata": 0.1414,
+    "Zoogoneticus quitzeoensis": 0.1428,
+    "Zoogoneticus tequila": 0.1342
+  },
+  "tiprates_bamm_lambda": {
+    "Allodontichthys hubbsi": 0.1058,
+    "Allodontichthys polylepis": 0.1058,
+    "Allodontichthys tamazulae": 0.1058,
+    "Allodontichthys zonistius": 0.1058,
+    "Alloophorus robustus": 0.1062,
+    "Allotoca catarinae": 0.1057,
+    "Allotoca diazi": 0.1057,
+    "Allotoca dugesii": 0.1057,
+    "Allotoca goslinei": 0.1057,
+    "Allotoca maculata": 0.1057,
+    "Allotoca meeki": 0.1057,
+    "Allotoca regalis": 0.1057,
+    "Allotoca zacapuensis": 0.1057,
+    "Ameca splendens": 0.1058,
+    "Ataeniobius toweri": 0.1057,
+    "Chapalichthys encaustus": 0.1062,
+    "Chapalichthys pardalis": 0.1062,
+    "Characodon audax": 0.0997,
+    "Characodon lateralis": 0.0997,
+    "Crenichthys baileyi baileyi": 0.0849,
+    "Empetrichthys latos latos": 0.0849,
+    "Girardinichthys multiradiatus": 0.1057,
+    "Girardinichthys viviparus": 0.1057,
+    "Goodea atripinnis": 0.1058,
+    "Goodea gracilis": 0.1058,
+    "Hubbsina turneri": 0.1057,
+    "Ilyodon furcidens": 0.1058,
+    "Ilyodon whitei": 0.1058,
+    "Ilyodon xantusi": 0.1058,
+    "Skiffia bilineata": 0.1057,
+    "Skiffia francesae": 0.1057,
+    "Skiffia lermae": 0.1057,
+    "Skiffia multipunctata": 0.1057,
+    "Xenoophorus captivus": 0.1058,
+    "Xenotaenia resolanae": 0.1058,
+    "Xenotoca eiseni": 0.1058,
+    "Xenotoca melanosoma": 0.1058,
+    "Xenotoca variata": 0.1062,
+    "Zoogoneticus quitzeoensis": 0.1062,
+    "Zoogoneticus tequila": 0.1062
+  },
+  "tiprates_bamm_mu": {
+    "Allodontichthys hubbsi": 0.0135,
+    "Allodontichthys polylepis": 0.0135,
+    "Allodontichthys tamazulae": 0.0135,
+    "Allodontichthys zonistius": 0.0135,
+    "Alloophorus robustus": 0.014,
+    "Allotoca catarinae": 0.0137,
+    "Allotoca diazi": 0.0137,
+    "Allotoca dugesii": 0.0137,
+    "Allotoca goslinei": 0.0137,
+    "Allotoca maculata": 0.0137,
+    "Allotoca meeki": 0.0137,
+    "Allotoca regalis": 0.0137,
+    "Allotoca zacapuensis": 0.0137,
+    "Ameca splendens": 0.0135,
+    "Ataeniobius toweri": 0.0137,
+    "Chapalichthys encaustus": 0.014,
+    "Chapalichthys pardalis": 0.014,
+    "Characodon audax": 0.0121,
+    "Characodon lateralis": 0.0121,
+    "Crenichthys baileyi baileyi": 0.0088,
+    "Empetrichthys latos latos": 0.0088,
+    "Girardinichthys multiradiatus": 0.0137,
+    "Girardinichthys viviparus": 0.0137,
+    "Goodea atripinnis": 0.0136,
+    "Goodea gracilis": 0.0136,
+    "Hubbsina turneri": 0.0137,
+    "Ilyodon furcidens": 0.0135,
+    "Ilyodon whitei": 0.0135,
+    "Ilyodon xantusi": 0.0135,
+    "Skiffia bilineata": 0.0137,
+    "Skiffia francesae": 0.0137,
+    "Skiffia lermae": 0.0137,
+    "Skiffia multipunctata": 0.0137,
+    "Xenoophorus captivus": 0.0136,
+    "Xenotaenia resolanae": 0.0135,
+    "Xenotoca eiseni": 0.0136,
+    "Xenotoca melanosoma": 0.0136,
+    "Xenotoca variata": 0.014,
+    "Zoogoneticus quitzeoensis": 0.014,
+    "Zoogoneticus tequila": 0.014
+  },
+  "mean_dr": 0.1695,
+  "mean_bamm_lambda": 0.1045,
+  "mean_bamm_mu": 0.0134,
+  "matrix_phylip": "downloads/taxonomy/family/Goodeidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Goodeidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Goodeidae.tre",
+  "phylogram": "downloads/taxonomy/family/Goodeidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "species": [
+    "Caenotropus labyrinthicus",
+    "Caenotropus maculosus",
+    "Caenotropus mestomorgmatos",
+    "Caenotropus schizodon",
+    "Chilodus fritillus",
+    "Chilodus gracilis",
+    "Chilodus punctatus",
+    "Chilodus zunevei"
+  ],
+  "sampled_species": [
+    "Caenotropus labyrinthicus",
+    "Chilodus punctatus"
+  ],
+  "unsampled_species": [
+    "Caenotropus maculosus",
+    "Caenotropus mestomorgmatos",
+    "Caenotropus schizodon",
+    "Chilodus fritillus",
+    "Chilodus gracilis",
+    "Chilodus zunevei"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Caenotropus labyrinthicus",
+      "Chilodus punctatus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Caenotropus labyrinthicus",
+      "Chilodus punctatus"
+    ],
+    "cytb": [
+      "Caenotropus labyrinthicus",
+      "Chilodus punctatus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Caenotropus labyrinthicus",
+      "Chilodus punctatus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Caenotropus labyrinthicus",
+      "Chilodus punctatus"
+    ],
+    "rag2": [
+      "Caenotropus labyrinthicus",
+      "Chilodus punctatus"
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Chilodontidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Characiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Characoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Caenotropus labyrinthicus": 0.0464,
+    "Chilodus punctatus": 0.0524
+  },
+  "tiprates_bamm_lambda": {
+    "Caenotropus labyrinthicus": 0.0741,
+    "Chilodus punctatus": 0.0741
+  },
+  "tiprates_bamm_mu": {
+    "Caenotropus labyrinthicus": 0.0015,
+    "Chilodus punctatus": 0.0015
+  },
+  "mean_dr": 0.0494,
+  "mean_bamm_lambda": 0.0741,
+  "mean_bamm_mu": 0.0015,
+  "matrix_phylip": "downloads/taxonomy/family/Chilodontidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Chilodontidae.nex.xz"
+}

@@ -1,0 +1,223 @@
+{
+  "species": [
+    "Himantolophus albinares",
+    "Himantolophus appelii",
+    "Himantolophus azurlucens",
+    "Himantolophus borealis",
+    "Himantolophus brevirostris",
+    "Himantolophus compressus",
+    "Himantolophus cornifer",
+    "Himantolophus crinitus",
+    "Himantolophus danae",
+    "Himantolophus groenlandicus",
+    "Himantolophus litoceras",
+    "Himantolophus macroceras",
+    "Himantolophus macroceratoides",
+    "Himantolophus mauli",
+    "Himantolophus melanolophus",
+    "Himantolophus multifurcatus",
+    "Himantolophus nigricornis",
+    "Himantolophus paucifilosus",
+    "Himantolophus pseudalbinares",
+    "Himantolophus sagamius",
+    "Himantolophus stewarti"
+  ],
+  "sampled_species": [
+    "Himantolophus albinares",
+    "Himantolophus appelii",
+    "Himantolophus sagamius"
+  ],
+  "unsampled_species": [
+    "Himantolophus azurlucens",
+    "Himantolophus borealis",
+    "Himantolophus brevirostris",
+    "Himantolophus compressus",
+    "Himantolophus cornifer",
+    "Himantolophus crinitus",
+    "Himantolophus danae",
+    "Himantolophus groenlandicus",
+    "Himantolophus litoceras",
+    "Himantolophus macroceras",
+    "Himantolophus macroceratoides",
+    "Himantolophus mauli",
+    "Himantolophus melanolophus",
+    "Himantolophus multifurcatus",
+    "Himantolophus nigricornis",
+    "Himantolophus paucifilosus",
+    "Himantolophus pseudalbinares",
+    "Himantolophus stewarti"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Himantolophus appelii",
+      "Himantolophus sagamius"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Himantolophus appelii",
+      "Himantolophus sagamius"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Himantolophus albinares"
+    ],
+    "ficd": [
+      "Himantolophus albinares"
+    ],
+    "glyt": [
+      "Himantolophus sagamius"
+    ],
+    "hoxc6a": [
+      "Himantolophus albinares"
+    ],
+    "kiaa1239": [
+      "Himantolophus albinares"
+    ],
+    "myh6": [
+      "Himantolophus albinares",
+      "Himantolophus sagamius"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Himantolophus albinares"
+    ],
+    "plagl2": [
+      "Himantolophus albinares",
+      "Himantolophus sagamius"
+    ],
+    "ptr": [
+      "Himantolophus albinares",
+      "Himantolophus sagamius"
+    ],
+    "rag1": [
+      "Himantolophus albinares",
+      "Himantolophus sagamius"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Himantolophus albinares"
+    ],
+    "sh3px3": [
+      "Himantolophus albinares",
+      "Himantolophus sagamius"
+    ],
+    "sidkey": [
+      "Himantolophus albinares"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Himantolophus albinares",
+      "Himantolophus sagamius"
+    ],
+    "vcpip": [
+      "Himantolophus albinares"
+    ],
+    "zic1": [
+      "Himantolophus albinares",
+      "Himantolophus sagamius"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Himantolophidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Lophiiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Ceratioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Himantolophus albinares": 0.318,
+    "Himantolophus appelii": 0.5403,
+    "Himantolophus sagamius": 0.5314
+  },
+  "tiprates_bamm_lambda": {
+    "Himantolophus albinares": 0.088,
+    "Himantolophus appelii": 0.088,
+    "Himantolophus sagamius": 0.088
+  },
+  "tiprates_bamm_mu": {
+    "Himantolophus albinares": 0.0304,
+    "Himantolophus appelii": 0.0304,
+    "Himantolophus sagamius": 0.0304
+  },
+  "mean_dr": 0.4632,
+  "mean_bamm_lambda": 0.088,
+  "mean_bamm_mu": 0.0304,
+  "matrix_phylip": "downloads/taxonomy/family/Himantolophidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Himantolophidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Himantolophidae.tre",
+  "phylogram": "downloads/taxonomy/family/Himantolophidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

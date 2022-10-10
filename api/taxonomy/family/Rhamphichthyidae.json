@@ -1,0 +1,197 @@
+{
+  "species": [
+    "Gymnorhamphichthys bogardusi",
+    "Gymnorhamphichthys britskii",
+    "Gymnorhamphichthys hypostomus",
+    "Gymnorhamphichthys petiti",
+    "Gymnorhamphichthys rondoni",
+    "Gymnorhamphichthys rosamariae",
+    "Iracema caiana",
+    "Rhamphichthys apurensis",
+    "Rhamphichthys atlanticus",
+    "Rhamphichthys drepanium",
+    "Rhamphichthys hahni",
+    "Rhamphichthys lineatus",
+    "Rhamphichthys longior",
+    "Rhamphichthys marmoratus",
+    "Rhamphichthys pantherinus",
+    "Rhamphichthys rostratus"
+  ],
+  "sampled_species": [
+    "Gymnorhamphichthys petiti",
+    "Rhamphichthys marmoratus"
+  ],
+  "unsampled_species": [
+    "Gymnorhamphichthys bogardusi",
+    "Gymnorhamphichthys britskii",
+    "Gymnorhamphichthys hypostomus",
+    "Gymnorhamphichthys rondoni",
+    "Gymnorhamphichthys rosamariae",
+    "Iracema caiana",
+    "Rhamphichthys apurensis",
+    "Rhamphichthys atlanticus",
+    "Rhamphichthys drepanium",
+    "Rhamphichthys hahni",
+    "Rhamphichthys lineatus",
+    "Rhamphichthys longior",
+    "Rhamphichthys pantherinus",
+    "Rhamphichthys rostratus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Gymnorhamphichthys petiti"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Gymnorhamphichthys petiti"
+    ],
+    "ptr": [
+      "Gymnorhamphichthys petiti"
+    ],
+    "rag1": [
+      "Gymnorhamphichthys petiti",
+      "Rhamphichthys marmoratus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Rhamphichthys marmoratus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Gymnorhamphichthys petiti"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Gymnorhamphichthys petiti"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Rhamphichthyidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Gymnotiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Sternopygoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Gymnorhamphichthys petiti": 0.0703,
+    "Rhamphichthys marmoratus": 0.0834
+  },
+  "tiprates_bamm_lambda": {
+    "Gymnorhamphichthys petiti": 0.0733,
+    "Rhamphichthys marmoratus": 0.0733
+  },
+  "tiprates_bamm_mu": {
+    "Gymnorhamphichthys petiti": 0.0008,
+    "Rhamphichthys marmoratus": 0.0008
+  },
+  "mean_dr": 0.0768,
+  "mean_bamm_lambda": 0.0733,
+  "mean_bamm_mu": 0.0008,
+  "matrix_phylip": "downloads/taxonomy/family/Rhamphichthyidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Rhamphichthyidae.nex.xz"
+}

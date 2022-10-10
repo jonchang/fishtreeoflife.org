@@ -1,0 +1,236 @@
+{
+  "species": [
+    "Girella albostriata",
+    "Girella cyanea",
+    "Girella elevata",
+    "Girella feliciana",
+    "Girella fimbriata",
+    "Girella freminvillii",
+    "Girella laevifrons",
+    "Girella leonina",
+    "Girella mezina",
+    "Girella nebulosa",
+    "Girella nigricans",
+    "Girella punctata",
+    "Girella simplicidens",
+    "Girella stuebeli",
+    "Girella tephraeops",
+    "Girella tricuspidata",
+    "Girella zebra",
+    "Girella zonata"
+  ],
+  "sampled_species": [
+    "Girella cyanea",
+    "Girella elevata",
+    "Girella leonina",
+    "Girella mezina",
+    "Girella nigricans",
+    "Girella punctata",
+    "Girella tricuspidata"
+  ],
+  "unsampled_species": [
+    "Girella albostriata",
+    "Girella feliciana",
+    "Girella fimbriata",
+    "Girella freminvillii",
+    "Girella laevifrons",
+    "Girella nebulosa",
+    "Girella simplicidens",
+    "Girella stuebeli",
+    "Girella tephraeops",
+    "Girella zebra",
+    "Girella zonata"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Girella nigricans",
+      "Girella punctata"
+    ],
+    "4c4": [
+      "Girella cyanea",
+      "Girella tricuspidata"
+    ],
+    "coi": [
+      "Girella nigricans",
+      "Girella punctata",
+      "Girella tricuspidata"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Girella nigricans"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Girella nigricans"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Girella nigricans"
+    ],
+    "nd2": [
+      "Girella elevata",
+      "Girella leonina",
+      "Girella mezina",
+      "Girella nigricans",
+      "Girella punctata",
+      "Girella tricuspidata"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Girella mezina",
+      "Girella nigricans"
+    ],
+    "ptr": [
+      "Girella nigricans"
+    ],
+    "rag1": [
+      "Girella cyanea",
+      "Girella mezina",
+      "Girella nigricans",
+      "Girella tricuspidata"
+    ],
+    "rag2": [
+      "Girella cyanea",
+      "Girella tricuspidata"
+    ],
+    "rhodopsin": [
+      "Girella punctata"
+    ],
+    "ripk4": [
+      "Girella nigricans"
+    ],
+    "sh3px3": [
+      "Girella nigricans"
+    ],
+    "sidkey": [
+      "Girella mezina",
+      "Girella nigricans"
+    ],
+    "sreb2": [
+      "Girella nigricans"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Girella nigricans"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Girella mezina",
+      "Girella nigricans"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Girellidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Centrarchiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Terapontoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Girella cyanea": 0.2383,
+    "Girella elevata": 0.1691,
+    "Girella leonina": 0.168,
+    "Girella mezina": 0.1352,
+    "Girella nigricans": 0.173,
+    "Girella punctata": 0.1882,
+    "Girella tricuspidata": 0.2471
+  },
+  "tiprates_bamm_lambda": {
+    "Girella cyanea": 0.0752,
+    "Girella elevata": 0.0752,
+    "Girella leonina": 0.0752,
+    "Girella mezina": 0.0752,
+    "Girella nigricans": 0.0752,
+    "Girella punctata": 0.0752,
+    "Girella tricuspidata": 0.0752
+  },
+  "tiprates_bamm_mu": {
+    "Girella cyanea": 0.0073,
+    "Girella elevata": 0.0073,
+    "Girella leonina": 0.0073,
+    "Girella mezina": 0.0073,
+    "Girella nigricans": 0.0073,
+    "Girella punctata": 0.0073,
+    "Girella tricuspidata": 0.0073
+  },
+  "mean_dr": 0.1884,
+  "mean_bamm_lambda": 0.0752,
+  "mean_bamm_mu": 0.0073,
+  "matrix_phylip": "downloads/taxonomy/family/Girellidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Girellidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Girellidae.tre",
+  "phylogram": "downloads/taxonomy/family/Girellidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

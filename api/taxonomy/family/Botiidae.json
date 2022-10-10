@@ -1,0 +1,315 @@
+{
+  "species": [
+    "Botia almorhae",
+    "Botia birdi",
+    "Botia dario",
+    "Botia dayi",
+    "Botia histrionica",
+    "Botia kubotai",
+    "Botia lohachata",
+    "Botia pulchripinnis",
+    "Botia rostrata",
+    "Botia striata",
+    "Botia udomritthiruji",
+    "Leptobotia curta",
+    "Leptobotia elongata",
+    "Leptobotia flavolineata",
+    "Leptobotia guilinensis",
+    "Leptobotia hengyangensis",
+    "Leptobotia microphthalma",
+    "Leptobotia orientalis",
+    "Leptobotia pellegrini",
+    "Leptobotia posterodorsalis",
+    "Leptobotia punctata",
+    "Leptobotia rubrilabris",
+    "Leptobotia taeniops",
+    "Leptobotia tchangi",
+    "Leptobotia tientainensis"
+  ],
+  "sampled_species": [
+    "Botia almorhae",
+    "Botia dario",
+    "Botia histrionica",
+    "Botia kubotai",
+    "Botia lohachata",
+    "Botia rostrata",
+    "Botia striata",
+    "Leptobotia curta",
+    "Leptobotia elongata",
+    "Leptobotia guilinensis",
+    "Leptobotia pellegrini",
+    "Leptobotia rubrilabris",
+    "Leptobotia taeniops",
+    "Leptobotia tchangi",
+    "Leptobotia tientainensis"
+  ],
+  "unsampled_species": [
+    "Botia birdi",
+    "Botia dayi",
+    "Botia pulchripinnis",
+    "Botia udomritthiruji",
+    "Leptobotia flavolineata",
+    "Leptobotia hengyangensis",
+    "Leptobotia microphthalma",
+    "Leptobotia orientalis",
+    "Leptobotia posterodorsalis",
+    "Leptobotia punctata"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Botia almorhae",
+      "Botia histrionica",
+      "Botia kubotai",
+      "Botia lohachata",
+      "Botia rostrata",
+      "Botia striata",
+      "Leptobotia curta",
+      "Leptobotia elongata",
+      "Leptobotia guilinensis"
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Botia almorhae",
+      "Botia rostrata",
+      "Leptobotia elongata",
+      "Leptobotia pellegrini",
+      "Leptobotia taeniops"
+    ],
+    "cytb": [
+      "Botia almorhae",
+      "Botia dario",
+      "Botia histrionica",
+      "Botia kubotai",
+      "Botia lohachata",
+      "Botia rostrata",
+      "Botia striata",
+      "Leptobotia curta",
+      "Leptobotia elongata",
+      "Leptobotia guilinensis",
+      "Leptobotia pellegrini",
+      "Leptobotia rubrilabris",
+      "Leptobotia taeniops",
+      "Leptobotia tchangi",
+      "Leptobotia tientainensis"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+      "Leptobotia elongata",
+      "Leptobotia pellegrini",
+      "Leptobotia taeniops"
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Botia dario",
+      "Botia striata",
+      "Leptobotia elongata",
+      "Leptobotia pellegrini",
+      "Leptobotia taeniops"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Botia dario",
+      "Leptobotia pellegrini"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Botiidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Cypriniformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Cypriniphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Botia almorhae": 0.1179,
+    "Botia dario": 0.1003,
+    "Botia histrionica": 0.0757,
+    "Botia kubotai": 0.0904,
+    "Botia lohachata": 0.1226,
+    "Botia rostrata": 0.0475,
+    "Botia striata": 0.1094,
+    "Leptobotia curta": 0.073,
+    "Leptobotia elongata": 0.1134,
+    "Leptobotia guilinensis": 0.19,
+    "Leptobotia pellegrini": 0.1091,
+    "Leptobotia rubrilabris": 0.1389,
+    "Leptobotia taeniops": 0.1717,
+    "Leptobotia tchangi": 0.1813,
+    "Leptobotia tientainensis": 0.1861
+  },
+  "tiprates_bamm_lambda": {
+    "Botia almorhae": 0.0786,
+    "Botia dario": 0.0786,
+    "Botia histrionica": 0.0786,
+    "Botia kubotai": 0.0786,
+    "Botia lohachata": 0.0786,
+    "Botia rostrata": 0.0786,
+    "Botia striata": 0.0786,
+    "Leptobotia curta": 0.0807,
+    "Leptobotia elongata": 0.0806,
+    "Leptobotia guilinensis": 0.0806,
+    "Leptobotia pellegrini": 0.0806,
+    "Leptobotia rubrilabris": 0.0806,
+    "Leptobotia taeniops": 0.0806,
+    "Leptobotia tchangi": 0.0806,
+    "Leptobotia tientainensis": 0.0806
+  },
+  "tiprates_bamm_mu": {
+    "Botia almorhae": 0.0018,
+    "Botia dario": 0.0018,
+    "Botia histrionica": 0.0018,
+    "Botia kubotai": 0.0018,
+    "Botia lohachata": 0.0018,
+    "Botia rostrata": 0.0018,
+    "Botia striata": 0.0018,
+    "Leptobotia curta": 0.0025,
+    "Leptobotia elongata": 0.0024,
+    "Leptobotia guilinensis": 0.0024,
+    "Leptobotia pellegrini": 0.0024,
+    "Leptobotia rubrilabris": 0.0024,
+    "Leptobotia taeniops": 0.0024,
+    "Leptobotia tchangi": 0.0024,
+    "Leptobotia tientainensis": 0.0024
+  },
+  "mean_dr": 0.1218,
+  "mean_bamm_lambda": 0.0797,
+  "mean_bamm_mu": 0.0021,
+  "matrix_phylip": "downloads/taxonomy/family/Botiidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Botiidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Botiidae.tre",
+  "phylogram": "downloads/taxonomy/family/Botiidae_phylogram.tre",
+  "rogues": [
+    "Yasuhikotakia_morleti",
+    "Yasuhikotakia_modesta",
+    "Yasuhikotakia_caudipunctata",
+    "Yasuhikotakia_eos",
+    "Yasuhikotakia_lecontei",
+    "Syncrossus_beauforti",
+    "Syncrossus_berdmorei",
+    "Syncrossus_helodes",
+    "Syncrossus_hymenophysa",
+    "Syncrossus_reversa",
+    "Sinibotia_pulchra",
+    "Sinibotia_zebra",
+    "Sinibotia_superciliaris",
+    "Sinibotia_robusta",
+    "Ambastaia_nigrolineata",
+    "Ambastaia_sidthimunki",
+    "Chromobotia_macracanthus",
+    "Parabotia_mantschurica",
+    "Parabotia_fasciata",
+    "Parabotia_bimaculata",
+    "Parabotia_lijiangensis",
+    "Parabotia_banarescui",
+    "Parabotia_kiangsiensis"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Botiidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Botiidae_mrca_phylogram.tre"
+}

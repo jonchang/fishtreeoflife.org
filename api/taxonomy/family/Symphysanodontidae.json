@@ -1,0 +1,196 @@
+{
+  "species": [
+    "Symphysanodon andersoni",
+    "Symphysanodon berryi",
+    "Symphysanodon disii",
+    "Symphysanodon katayamai",
+    "Symphysanodon maunaloae",
+    "Symphysanodon mona",
+    "Symphysanodon octoactinus",
+    "Symphysanodon parini",
+    "Symphysanodon pitondelafournaisei",
+    "Symphysanodon rhax",
+    "Symphysanodon typus",
+    "Symphysanodon xanthopterygion"
+  ],
+  "sampled_species": [
+    "Symphysanodon berryi",
+    "Symphysanodon octoactinus"
+  ],
+  "unsampled_species": [
+    "Symphysanodon andersoni",
+    "Symphysanodon disii",
+    "Symphysanodon katayamai",
+    "Symphysanodon maunaloae",
+    "Symphysanodon mona",
+    "Symphysanodon parini",
+    "Symphysanodon pitondelafournaisei",
+    "Symphysanodon rhax",
+    "Symphysanodon typus",
+    "Symphysanodon xanthopterygion"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Symphysanodon berryi"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Symphysanodon berryi",
+      "Symphysanodon octoactinus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Symphysanodon berryi",
+      "Symphysanodon octoactinus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Symphysanodon berryi",
+      "Symphysanodon octoactinus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Symphysanodon berryi",
+      "Symphysanodon octoactinus"
+    ],
+    "ptr": [
+      "Symphysanodon berryi",
+      "Symphysanodon octoactinus"
+    ],
+    "rag1": [
+      "Symphysanodon berryi",
+      "Symphysanodon octoactinus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Symphysanodon octoactinus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Symphysanodon berryi",
+      "Symphysanodon octoactinus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Symphysanodon berryi",
+      "Symphysanodon octoactinus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Symphysanodon octoactinus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Symphysanodontidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Symphysanodon berryi": 0.0517,
+    "Symphysanodon octoactinus": 0.0554
+  },
+  "tiprates_bamm_lambda": {
+    "Symphysanodon berryi": 0.058,
+    "Symphysanodon octoactinus": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Symphysanodon berryi": 0.0004,
+    "Symphysanodon octoactinus": 0.0004
+  },
+  "mean_dr": 0.0536,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Symphysanodontidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Symphysanodontidae.nex.xz"
+}

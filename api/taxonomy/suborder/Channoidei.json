@@ -1,0 +1,369 @@
+{
+  "species": [
+    "Channa amphibeus",
+    "Channa andrao",
+    "Channa argus argus",
+    "Channa argus warpachowskii",
+    "Channa asiatica",
+    "Channa aurantimaculata",
+    "Channa bankanensis",
+    "Channa baramensis",
+    "Channa barca",
+    "Channa bleheri",
+    "Channa burmanica",
+    "Channa cyanospilos",
+    "Channa diplogramma",
+    "Channa gachua",
+    "Channa harcourtbutleri",
+    "Channa hoaluensis",
+    "Channa longistomata",
+    "Channa lucius",
+    "Channa maculata",
+    "Channa marulioides",
+    "Channa marulius",
+    "Channa melanoptera",
+    "Channa melanostigma",
+    "Channa melasoma",
+    "Channa micropeltes",
+    "Channa ninhbinhensis",
+    "Channa nox",
+    "Channa orientalis",
+    "Channa ornatipinnis",
+    "Channa panaw",
+    "Channa pleurophthalma",
+    "Channa pulchra",
+    "Channa punctata",
+    "Channa stewartii",
+    "Channa striata",
+    "Parachanna africana",
+    "Parachanna insignis",
+    "Parachanna obscura"
+  ],
+  "sampled_species": [
+    "Channa argus argus",
+    "Channa asiatica",
+    "Channa aurantimaculata",
+    "Channa bankanensis",
+    "Channa barca",
+    "Channa bleheri",
+    "Channa burmanica",
+    "Channa diplogramma",
+    "Channa gachua",
+    "Channa lucius",
+    "Channa maculata",
+    "Channa marulioides",
+    "Channa marulius",
+    "Channa melasoma",
+    "Channa micropeltes",
+    "Channa orientalis",
+    "Channa panaw",
+    "Channa pleurophthalma",
+    "Channa punctata",
+    "Channa stewartii",
+    "Channa striata"
+  ],
+  "unsampled_species": [
+    "Channa amphibeus",
+    "Channa andrao",
+    "Channa argus warpachowskii",
+    "Channa baramensis",
+    "Channa cyanospilos",
+    "Channa harcourtbutleri",
+    "Channa hoaluensis",
+    "Channa longistomata",
+    "Channa melanoptera",
+    "Channa melanostigma",
+    "Channa ninhbinhensis",
+    "Channa nox",
+    "Channa ornatipinnis",
+    "Channa pulchra",
+    "Parachanna africana",
+    "Parachanna insignis",
+    "Parachanna obscura"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Channa striata"
+    ],
+    "16s": [
+      "Channa argus argus",
+      "Channa asiatica",
+      "Channa aurantimaculata",
+      "Channa barca",
+      "Channa bleheri",
+      "Channa diplogramma",
+      "Channa gachua",
+      "Channa lucius",
+      "Channa maculata",
+      "Channa marulius",
+      "Channa micropeltes",
+      "Channa orientalis",
+      "Channa punctata",
+      "Channa stewartii",
+      "Channa striata"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Channa argus argus",
+      "Channa asiatica",
+      "Channa aurantimaculata",
+      "Channa barca",
+      "Channa bleheri",
+      "Channa diplogramma",
+      "Channa gachua",
+      "Channa maculata",
+      "Channa marulius",
+      "Channa micropeltes",
+      "Channa orientalis",
+      "Channa punctata",
+      "Channa stewartii",
+      "Channa striata"
+    ],
+    "cytb": [
+      "Channa argus argus",
+      "Channa asiatica",
+      "Channa bankanensis",
+      "Channa bleheri",
+      "Channa diplogramma",
+      "Channa gachua",
+      "Channa lucius",
+      "Channa maculata",
+      "Channa marulioides",
+      "Channa marulius",
+      "Channa melasoma",
+      "Channa micropeltes",
+      "Channa orientalis",
+      "Channa pleurophthalma",
+      "Channa striata"
+    ],
+    "enc1": [
+      "Channa striata"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Channa striata"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Channa melasoma",
+      "Channa striata"
+    ],
+    "nd2": [
+      "Channa argus argus",
+      "Channa bankanensis",
+      "Channa barca",
+      "Channa bleheri",
+      "Channa burmanica",
+      "Channa gachua",
+      "Channa lucius",
+      "Channa maculata",
+      "Channa marulioides",
+      "Channa marulius",
+      "Channa micropeltes",
+      "Channa orientalis",
+      "Channa panaw",
+      "Channa pleurophthalma",
+      "Channa punctata",
+      "Channa striata"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Channa melasoma",
+      "Channa striata"
+    ],
+    "ptr": [
+      "Channa striata"
+    ],
+    "rag1": [
+      "Channa bleheri",
+      "Channa diplogramma",
+      "Channa gachua",
+      "Channa lucius",
+      "Channa marulius",
+      "Channa melasoma",
+      "Channa micropeltes",
+      "Channa striata"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Channa striata"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Channa striata"
+    ],
+    "sidkey": [
+      "Channa melasoma"
+    ],
+    "sreb2": [
+      "Channa melasoma",
+      "Channa striata"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Channa striata"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Channa melasoma",
+      "Channa striata"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Channidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Anabantiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Anabantaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Channoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Channa asiatica": 0.0343,
+    "Channa aurantimaculata": 0.065,
+    "Channa bankanensis": 0.0378,
+    "Channa barca": 0.0726,
+    "Channa bleheri": 0.0514,
+    "Channa burmanica": 0.0701,
+    "Channa diplogramma": 0.0354,
+    "Channa gachua": 0.0663,
+    "Channa lucius": 0.0354,
+    "Channa maculata": 0.0485,
+    "Channa marulioides": 0.0477,
+    "Channa marulius": 0.0459,
+    "Channa melasoma": 0.051,
+    "Channa micropeltes": 0.0467,
+    "Channa orientalis": 0.0613,
+    "Channa panaw": 0.0357,
+    "Channa pleurophthalma": 0.0463,
+    "Channa punctata": 0.0383,
+    "Channa stewartii": 0.0703,
+    "Channa striata": 0.0485,
+    "Channa argus argus": 0.0466
+  },
+  "tiprates_bamm_lambda": {
+    "Channa asiatica": 0.055,
+    "Channa aurantimaculata": 0.055,
+    "Channa bankanensis": 0.055,
+    "Channa barca": 0.055,
+    "Channa bleheri": 0.055,
+    "Channa burmanica": 0.055,
+    "Channa diplogramma": 0.055,
+    "Channa gachua": 0.055,
+    "Channa lucius": 0.055,
+    "Channa maculata": 0.055,
+    "Channa marulioides": 0.055,
+    "Channa marulius": 0.055,
+    "Channa melasoma": 0.055,
+    "Channa micropeltes": 0.055,
+    "Channa orientalis": 0.055,
+    "Channa panaw": 0.055,
+    "Channa pleurophthalma": 0.055,
+    "Channa punctata": 0.055,
+    "Channa stewartii": 0.055,
+    "Channa striata": 0.055,
+    "Channa argus argus": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Channa asiatica": 0.0003,
+    "Channa aurantimaculata": 0.0003,
+    "Channa bankanensis": 0.0003,
+    "Channa barca": 0.0003,
+    "Channa bleheri": 0.0003,
+    "Channa burmanica": 0.0003,
+    "Channa diplogramma": 0.0003,
+    "Channa gachua": 0.0003,
+    "Channa lucius": 0.0003,
+    "Channa maculata": 0.0003,
+    "Channa marulioides": 0.0003,
+    "Channa marulius": 0.0003,
+    "Channa melasoma": 0.0003,
+    "Channa micropeltes": 0.0003,
+    "Channa orientalis": 0.0003,
+    "Channa panaw": 0.0003,
+    "Channa pleurophthalma": 0.0003,
+    "Channa punctata": 0.0003,
+    "Channa stewartii": 0.0003,
+    "Channa striata": 0.0003,
+    "Channa argus argus": 0.0003
+  },
+  "mean_dr": 0.0502,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/suborder/Channoidei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/suborder/Channoidei.nex.xz",
+  "chronogram": "downloads/taxonomy/suborder/Channoidei.tre",
+  "phylogram": "downloads/taxonomy/suborder/Channoidei_phylogram.tre",
+  "rogues": [
+
+  ]
+}

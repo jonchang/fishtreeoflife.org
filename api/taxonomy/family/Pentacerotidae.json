@@ -1,0 +1,228 @@
+{
+  "species": [
+    "Evistias acutirostris",
+    "Histiopterus typus",
+    "Parazanclistius hutchinsi",
+    "Paristiopterus gallipavo",
+    "Paristiopterus labiosus",
+    "Pentaceropsis recurvirostris",
+    "Pentaceros capensis",
+    "Pentaceros decacanthus",
+    "Pentaceros japonicus",
+    "Pentaceros quinquespinis",
+    "Pseudopentaceros richardsoni",
+    "Pseudopentaceros wheeleri",
+    "Zanclistius elevatus"
+  ],
+  "sampled_species": [
+    "Evistias acutirostris",
+    "Histiopterus typus",
+    "Paristiopterus gallipavo",
+    "Paristiopterus labiosus",
+    "Pentaceropsis recurvirostris",
+    "Pentaceros capensis",
+    "Pentaceros decacanthus",
+    "Pseudopentaceros richardsoni",
+    "Pseudopentaceros wheeleri",
+    "Zanclistius elevatus"
+  ],
+  "unsampled_species": [
+    "Parazanclistius hutchinsi",
+    "Pentaceros japonicus",
+    "Pentaceros quinquespinis"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Pseudopentaceros wheeleri"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Evistias acutirostris",
+      "Histiopterus typus",
+      "Paristiopterus gallipavo",
+      "Paristiopterus labiosus",
+      "Pentaceropsis recurvirostris",
+      "Pentaceros capensis",
+      "Pentaceros decacanthus",
+      "Pseudopentaceros richardsoni",
+      "Pseudopentaceros wheeleri",
+      "Zanclistius elevatus"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Pseudopentaceros richardsoni"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Pentacerotidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pempheriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Evistias acutirostris": 0.0724,
+    "Histiopterus typus": 0.0719,
+    "Paristiopterus gallipavo": 0.1886,
+    "Paristiopterus labiosus": 0.1886,
+    "Pentaceropsis recurvirostris": 0.0968,
+    "Pentaceros capensis": 0.4779,
+    "Pentaceros decacanthus": 0.478,
+    "Zanclistius elevatus": 0.0723,
+    "Pseudopentaceros richardsoni": 0.0658,
+    "Pseudopentaceros wheeleri": 0.1173
+  },
+  "tiprates_bamm_lambda": {
+    "Evistias acutirostris": 0.0581,
+    "Histiopterus typus": 0.0581,
+    "Paristiopterus gallipavo": 0.0581,
+    "Paristiopterus labiosus": 0.0581,
+    "Pentaceropsis recurvirostris": 0.0581,
+    "Pentaceros capensis": 0.0581,
+    "Pentaceros decacanthus": 0.0581,
+    "Zanclistius elevatus": 0.0581,
+    "Pseudopentaceros richardsoni": 0.0581,
+    "Pseudopentaceros wheeleri": 0.0581
+  },
+  "tiprates_bamm_mu": {
+    "Evistias acutirostris": 0.0006,
+    "Histiopterus typus": 0.0006,
+    "Paristiopterus gallipavo": 0.0006,
+    "Paristiopterus labiosus": 0.0006,
+    "Pentaceropsis recurvirostris": 0.0006,
+    "Pentaceros capensis": 0.0006,
+    "Pentaceros decacanthus": 0.0006,
+    "Zanclistius elevatus": 0.0006,
+    "Pseudopentaceros richardsoni": 0.0006,
+    "Pseudopentaceros wheeleri": 0.0006
+  },
+  "mean_dr": 0.183,
+  "mean_bamm_lambda": 0.0581,
+  "mean_bamm_mu": 0.0006,
+  "matrix_phylip": "downloads/taxonomy/family/Pentacerotidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Pentacerotidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Pentacerotidae.tre",
+  "phylogram": "downloads/taxonomy/family/Pentacerotidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

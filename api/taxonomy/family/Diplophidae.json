@@ -1,0 +1,171 @@
+{
+  "species": [
+    "Diplophos australis",
+    "Diplophos orientalis",
+    "Diplophos pacificus",
+    "Diplophos rebainsi",
+    "Diplophos taenia"
+  ],
+  "sampled_species": [
+    "Diplophos taenia"
+  ],
+  "unsampled_species": [
+    "Diplophos australis",
+    "Diplophos orientalis",
+    "Diplophos pacificus",
+    "Diplophos rebainsi"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Diplophos taenia"
+    ],
+    "16s": [
+      "Diplophos taenia"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Diplophos taenia"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Diplophos taenia"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Diplophos taenia"
+    ],
+    "myh6": [
+      "Diplophos taenia"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Diplophos taenia"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Diplophos taenia"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Diplophos taenia"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Diplophos taenia"
+    ],
+    "vcpip": [
+      "Diplophos taenia"
+    ],
+    "zic1": [
+      "Diplophos taenia"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Diplophidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Stomiatiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Stomiatii"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Diplophos taenia": 0.0274
+  },
+  "tiprates_bamm_lambda": {
+    "Diplophos taenia": 0.0346
+  },
+  "tiprates_bamm_mu": {
+    "Diplophos taenia": 0.0011
+  },
+  "mean_dr": 0.0274,
+  "mean_bamm_lambda": 0.0346,
+  "mean_bamm_mu": 0.0011,
+  "matrix_phylip": "downloads/taxonomy/family/Diplophidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Diplophidae.nex.xz"
+}

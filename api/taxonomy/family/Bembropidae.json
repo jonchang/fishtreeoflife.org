@@ -1,0 +1,228 @@
+{
+  "species": [
+    "Bembrops anatirostris",
+    "Bembrops cadenati",
+    "Bembrops caudimacula",
+    "Bembrops curvatura",
+    "Bembrops filiferus",
+    "Bembrops gobioides",
+    "Bembrops greyi",
+    "Bembrops heterurus",
+    "Bembrops macromma",
+    "Bembrops magnisquamis",
+    "Bembrops morelandi",
+    "Bembrops nelsoni",
+    "Bembrops nematopterus",
+    "Bembrops ocellatus",
+    "Bembrops platyrhynchus",
+    "Bembrops quadrisella",
+    "Bembrops raneyi"
+  ],
+  "sampled_species": [
+    "Bembrops anatirostris",
+    "Bembrops gobioides",
+    "Bembrops greyi",
+    "Bembrops heterurus"
+  ],
+  "unsampled_species": [
+    "Bembrops cadenati",
+    "Bembrops caudimacula",
+    "Bembrops curvatura",
+    "Bembrops filiferus",
+    "Bembrops macromma",
+    "Bembrops magnisquamis",
+    "Bembrops morelandi",
+    "Bembrops nelsoni",
+    "Bembrops nematopterus",
+    "Bembrops ocellatus",
+    "Bembrops platyrhynchus",
+    "Bembrops quadrisella",
+    "Bembrops raneyi"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Bembrops heterurus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+      "Bembrops greyi",
+      "Bembrops heterurus"
+    ],
+    "enc1": [
+      "Bembrops anatirostris",
+      "Bembrops gobioides",
+      "Bembrops greyi",
+      "Bembrops heterurus"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Bembrops anatirostris",
+      "Bembrops gobioides"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Bembrops anatirostris",
+      "Bembrops gobioides"
+    ],
+    "myh6": [
+      "Bembrops anatirostris"
+    ],
+    "nd2": [
+      "Bembrops heterurus"
+    ],
+    "nd4": [
+      "Bembrops greyi",
+      "Bembrops heterurus"
+    ],
+    "panx2": [
+      "Bembrops anatirostris",
+      "Bembrops gobioides"
+    ],
+    "plagl2": [
+      "Bembrops anatirostris",
+      "Bembrops gobioides"
+    ],
+    "ptr": [
+      "Bembrops anatirostris",
+      "Bembrops gobioides",
+      "Bembrops greyi",
+      "Bembrops heterurus"
+    ],
+    "rag1": [
+      "Bembrops anatirostris",
+      "Bembrops gobioides"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Bembrops anatirostris",
+      "Bembrops gobioides"
+    ],
+    "sh3px3": [
+      "Bembrops anatirostris",
+      "Bembrops gobioides"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Bembrops anatirostris",
+      "Bembrops gobioides",
+      "Bembrops greyi",
+      "Bembrops heterurus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Bembrops anatirostris",
+      "Bembrops gobioides"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Bembropidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Bembrops anatirostris": 0.1163,
+    "Bembrops gobioides": 0.1291,
+    "Bembrops greyi": 0.1184,
+    "Bembrops heterurus": 0.1137
+  },
+  "tiprates_bamm_lambda": {
+    "Bembrops anatirostris": 0.0588,
+    "Bembrops gobioides": 0.0588,
+    "Bembrops greyi": 0.0588,
+    "Bembrops heterurus": 0.0588
+  },
+  "tiprates_bamm_mu": {
+    "Bembrops anatirostris": 0.0014,
+    "Bembrops gobioides": 0.0014,
+    "Bembrops greyi": 0.0014,
+    "Bembrops heterurus": 0.0014
+  },
+  "mean_dr": 0.1194,
+  "mean_bamm_lambda": 0.0588,
+  "mean_bamm_mu": 0.0014,
+  "matrix_phylip": "downloads/taxonomy/family/Bembropidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Bembropidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Bembropidae.tre",
+  "phylogram": "downloads/taxonomy/family/Bembropidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

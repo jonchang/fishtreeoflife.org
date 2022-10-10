@@ -1,0 +1,342 @@
+{
+  "species": [
+    "Acropoma argentistigma",
+    "Acropoma boholensis",
+    "Acropoma hanedai",
+    "Acropoma japonicum",
+    "Acropoma lecorneti",
+    "Amioides grossidens",
+    "Apogonops anomalus",
+    "Doederleinia berycoides",
+    "Malakichthys barbatus",
+    "Malakichthys elegans",
+    "Malakichthys griseus",
+    "Malakichthys levis",
+    "Malakichthys mochizuki",
+    "Malakichthys similis",
+    "Malakichthys wakiyae",
+    "Neoscombrops atlanticus",
+    "Neoscombrops cynodon",
+    "Neoscombrops pacificus",
+    "Synagrops adeni",
+    "Synagrops analis",
+    "Synagrops argyreus",
+    "Synagrops bellus",
+    "Synagrops japonicus",
+    "Synagrops malayanus",
+    "Synagrops microlepis",
+    "Synagrops philippinensis",
+    "Synagrops pseudomicrolepis",
+    "Synagrops serratospinosus",
+    "Synagrops spinosus",
+    "Synagrops trispinosus",
+    "Verilus sordidus"
+  ],
+  "sampled_species": [
+    "Acropoma hanedai",
+    "Acropoma japonicum",
+    "Doederleinia berycoides",
+    "Malakichthys barbatus",
+    "Malakichthys elegans",
+    "Malakichthys griseus",
+    "Malakichthys wakiyae",
+    "Synagrops bellus",
+    "Synagrops japonicus",
+    "Synagrops philippinensis",
+    "Synagrops spinosus"
+  ],
+  "unsampled_species": [
+    "Acropoma argentistigma",
+    "Acropoma boholensis",
+    "Acropoma lecorneti",
+    "Amioides grossidens",
+    "Apogonops anomalus",
+    "Malakichthys levis",
+    "Malakichthys mochizuki",
+    "Malakichthys similis",
+    "Neoscombrops atlanticus",
+    "Neoscombrops cynodon",
+    "Neoscombrops pacificus",
+    "Synagrops adeni",
+    "Synagrops analis",
+    "Synagrops argyreus",
+    "Synagrops malayanus",
+    "Synagrops microlepis",
+    "Synagrops pseudomicrolepis",
+    "Synagrops serratospinosus",
+    "Synagrops trispinosus",
+    "Verilus sordidus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Acropoma hanedai",
+      "Acropoma japonicum",
+      "Malakichthys griseus",
+      "Synagrops bellus",
+      "Synagrops japonicus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Acropoma hanedai",
+      "Acropoma japonicum",
+      "Doederleinia berycoides",
+      "Synagrops japonicus"
+    ],
+    "cytb": [
+      "Acropoma japonicum",
+      "Doederleinia berycoides",
+      "Malakichthys barbatus",
+      "Malakichthys elegans",
+      "Malakichthys griseus",
+      "Malakichthys wakiyae",
+      "Synagrops japonicus",
+      "Synagrops philippinensis"
+    ],
+    "enc1": [
+      "Acropoma japonicum",
+      "Doederleinia berycoides",
+      "Synagrops bellus",
+      "Synagrops philippinensis"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Acropoma japonicum",
+      "Doederleinia berycoides",
+      "Synagrops philippinensis"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Synagrops bellus"
+    ],
+    "myh6": [
+      "Acropoma japonicum",
+      "Doederleinia berycoides",
+      "Synagrops bellus",
+      "Synagrops philippinensis",
+      "Synagrops spinosus"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Synagrops bellus",
+      "Synagrops spinosus"
+    ],
+    "plagl2": [
+      "Acropoma japonicum",
+      "Doederleinia berycoides",
+      "Synagrops bellus",
+      "Synagrops philippinensis"
+    ],
+    "ptr": [
+      "Acropoma japonicum",
+      "Doederleinia berycoides",
+      "Synagrops philippinensis"
+    ],
+    "rag1": [
+      "Acropoma japonicum",
+      "Doederleinia berycoides",
+      "Synagrops bellus",
+      "Synagrops philippinensis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Synagrops bellus"
+    ],
+    "ripk4": [
+      "Synagrops bellus",
+      "Synagrops spinosus"
+    ],
+    "sh3px3": [
+      "Acropoma japonicum",
+      "Doederleinia berycoides",
+      "Synagrops bellus",
+      "Synagrops philippinensis",
+      "Synagrops spinosus"
+    ],
+    "sidkey": [
+      "Acropoma japonicum",
+      "Synagrops bellus",
+      "Synagrops spinosus"
+    ],
+    "sreb2": [
+      "Acropoma japonicum",
+      "Doederleinia berycoides",
+      "Synagrops philippinensis"
+    ],
+    "svep1": [
+      "Synagrops bellus"
+    ],
+    "tbr1": [
+      "Acropoma japonicum",
+      "Doederleinia berycoides",
+      "Synagrops philippinensis"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Acropoma japonicum",
+      "Doederleinia berycoides",
+      "Synagrops bellus",
+      "Synagrops philippinensis",
+      "Synagrops spinosus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Acropomatidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pempheriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Acropoma hanedai": 0.0434,
+    "Acropoma japonicum": 0.0468,
+    "Doederleinia berycoides": 0.04,
+    "Malakichthys barbatus": 0.214,
+    "Malakichthys elegans": 0.2111,
+    "Malakichthys griseus": 0.1494,
+    "Malakichthys wakiyae": 0.0881,
+    "Synagrops bellus": 0.117,
+    "Synagrops japonicus": 0.1195,
+    "Synagrops philippinensis": 0.0405,
+    "Synagrops spinosus": 0.0524
+  },
+  "tiprates_bamm_lambda": {
+    "Acropoma hanedai": 0.058,
+    "Acropoma japonicum": 0.058,
+    "Doederleinia berycoides": 0.058,
+    "Malakichthys barbatus": 0.058,
+    "Malakichthys elegans": 0.058,
+    "Malakichthys griseus": 0.058,
+    "Malakichthys wakiyae": 0.058,
+    "Synagrops bellus": 0.0579,
+    "Synagrops japonicus": 0.0579,
+    "Synagrops philippinensis": 0.0579,
+    "Synagrops spinosus": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Acropoma hanedai": 0.0004,
+    "Acropoma japonicum": 0.0004,
+    "Doederleinia berycoides": 0.0004,
+    "Malakichthys barbatus": 0.0004,
+    "Malakichthys elegans": 0.0004,
+    "Malakichthys griseus": 0.0004,
+    "Malakichthys wakiyae": 0.0004,
+    "Synagrops bellus": 0.0003,
+    "Synagrops japonicus": 0.0003,
+    "Synagrops philippinensis": 0.0003,
+    "Synagrops spinosus": 0.0003
+  },
+  "mean_dr": 0.102,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0004,
+  "matrix_phylip": "downloads/taxonomy/family/Acropomatidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Acropomatidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Acropomatidae.tre",
+  "phylogram": "downloads/taxonomy/family/Acropomatidae_phylogram.tre",
+  "rogues": [
+    "Pteropsaron_springeri",
+    "Osopsaron_formosensis",
+    "Enigmapercis_sp",
+    "Matsubaraea_fusiforme",
+    "Limnichthys_fasciatus",
+    "Tewara_cranwellae",
+    "Epigonus_telescopus",
+    "Epigonus_angustifrons",
+    "Rosenblattia_robusta",
+    "Epigonus_pandionis",
+    "Epigonus_denticulatus",
+    "Scombrops_gilberti",
+    "Scombrops_boops",
+    "Symphysanodon_octoactinus",
+    "Symphysanodon_berryi",
+    "Bathyclupea_gracilis",
+    "Bathyclupea_argentea",
+    "Dinolestes_lewini",
+    "Howella_brodiei",
+    "Howella_zina",
+    "Paristiopterus_gallipavo",
+    "Paristiopterus_labiosus",
+    "Pentaceropsis_recurvirostris",
+    "Zanclistius_elevatus",
+    "Histiopterus_typus",
+    "Evistias_acutirostris",
+    "Pentaceros_decacanthus",
+    "Pentaceros_capensis",
+    "Pseudopentaceros_wheeleri",
+    "Pseudopentaceros_richardsoni",
+    "Banjos_banjos",
+    "Stereolepis_gigas",
+    "Lateolabrax_japonicus",
+    "Lateolabrax_latus",
+    "Polyprion_oxygeneios",
+    "Polyprion_americanus"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Acropomatidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Acropomatidae_mrca_phylogram.tre"
+}

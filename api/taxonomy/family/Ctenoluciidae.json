@@ -1,0 +1,175 @@
+{
+  "species": [
+    "Boulengerella cuvieri",
+    "Boulengerella lateristriga",
+    "Boulengerella lucius",
+    "Boulengerella maculata",
+    "Boulengerella xyrekes",
+    "Ctenolucius beani",
+    "Ctenolucius hujeta"
+  ],
+  "sampled_species": [
+    "Ctenolucius hujeta"
+  ],
+  "unsampled_species": [
+    "Boulengerella cuvieri",
+    "Boulengerella lateristriga",
+    "Boulengerella lucius",
+    "Boulengerella maculata",
+    "Boulengerella xyrekes",
+    "Ctenolucius beani"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Ctenolucius hujeta"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Ctenolucius hujeta"
+    ],
+    "cytb": [
+      "Ctenolucius hujeta"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Ctenolucius hujeta"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Ctenolucius hujeta"
+    ],
+    "ptr": [
+      "Ctenolucius hujeta"
+    ],
+    "rag1": [
+      "Ctenolucius hujeta"
+    ],
+    "rag2": [
+      "Ctenolucius hujeta"
+    ],
+    "rhodopsin": [
+      "Ctenolucius hujeta"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Ctenolucius hujeta"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Ctenolucius hujeta"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Ctenolucius hujeta"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Otomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Ctenoluciidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Characiformes"
+    ],
+    "section": [
+      "Otophysa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Ostariophysi"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Characoidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Characiphysae"
+    ]
+  },
+  "tiprates_dr": {
+    "Ctenolucius hujeta": 0.0482
+  },
+  "tiprates_bamm_lambda": {
+    "Ctenolucius hujeta": 0.0732
+  },
+  "tiprates_bamm_mu": {
+    "Ctenolucius hujeta": 0.0009
+  },
+  "mean_dr": 0.0482,
+  "mean_bamm_lambda": 0.0732,
+  "mean_bamm_mu": 0.0009,
+  "matrix_phylip": "downloads/taxonomy/family/Ctenoluciidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Ctenoluciidae.nex.xz"
+}

@@ -1,0 +1,195 @@
+{
+  "species": [
+    "Afronandus sheljuzhkoi",
+    "Nandus andrewi",
+    "Nandus meni",
+    "Nandus mercatus",
+    "Nandus nandus",
+    "Nandus nebulosus",
+    "Nandus oxyrhynchus",
+    "Nandus prolixus",
+    "Polycentropsis abbreviata"
+  ],
+  "sampled_species": [
+    "Nandus nandus",
+    "Nandus nebulosus",
+    "Nandus oxyrhynchus"
+  ],
+  "unsampled_species": [
+    "Afronandus sheljuzhkoi",
+    "Nandus andrewi",
+    "Nandus meni",
+    "Nandus mercatus",
+    "Nandus prolixus",
+    "Polycentropsis abbreviata"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+      "Nandus nandus"
+    ],
+    "coi": [
+      "Nandus nandus"
+    ],
+    "cytb": [
+      "Nandus nandus",
+      "Nandus nebulosus",
+      "Nandus oxyrhynchus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Nandus nandus"
+    ],
+    "nd2": [
+      "Nandus oxyrhynchus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Nandus nandus"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Nandus nandus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+      "Nandus nandus"
+    ],
+    "sreb2": [
+      "Nandus nandus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Nandus nandus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Nandidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Anabantiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Anabantaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Nandoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Nandus nandus": 0.059,
+    "Nandus nebulosus": 0.0504,
+    "Nandus oxyrhynchus": 0.0365
+  },
+  "tiprates_bamm_lambda": {
+    "Nandus nandus": 0.055,
+    "Nandus nebulosus": 0.055,
+    "Nandus oxyrhynchus": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Nandus nandus": 0.0007,
+    "Nandus nebulosus": 0.0007,
+    "Nandus oxyrhynchus": 0.0007
+  },
+  "mean_dr": 0.0486,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0007,
+  "matrix_phylip": "downloads/taxonomy/family/Nandidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Nandidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Nandidae.tre",
+  "phylogram": "downloads/taxonomy/family/Nandidae_phylogram.tre",
+  "rogues": [
+    "Pristolepis_fasciata",
+    "Pristolepis_marginata"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Nandidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Nandidae_mrca_phylogram.tre"
+}

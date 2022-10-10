@@ -1,0 +1,226 @@
+{
+  "species": [
+    "Elops affinis",
+    "Elops hawaiensis",
+    "Elops lacerta",
+    "Elops machnata",
+    "Elops saurus",
+    "Elops senegalensis",
+    "Elops smithi",
+    "Megalops atlanticus",
+    "Megalops cyprinoides"
+  ],
+  "sampled_species": [
+    "Elops affinis",
+    "Elops hawaiensis",
+    "Elops machnata",
+    "Elops saurus",
+    "Megalops atlanticus",
+    "Megalops cyprinoides"
+  ],
+  "unsampled_species": [
+    "Elops lacerta",
+    "Elops senegalensis",
+    "Elops smithi"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Elops affinis",
+      "Elops hawaiensis",
+      "Elops machnata",
+      "Elops saurus",
+      "Megalops atlanticus",
+      "Megalops cyprinoides"
+    ],
+    "16s": [
+      "Elops affinis",
+      "Elops hawaiensis",
+      "Elops saurus",
+      "Megalops atlanticus",
+      "Megalops cyprinoides"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Elops affinis",
+      "Elops hawaiensis",
+      "Elops machnata",
+      "Elops saurus",
+      "Megalops atlanticus",
+      "Megalops cyprinoides"
+    ],
+    "cytb": [
+      "Elops hawaiensis",
+      "Elops saurus",
+      "Megalops atlanticus",
+      "Megalops cyprinoides"
+    ],
+    "enc1": [
+      "Elops saurus"
+    ],
+    "ficd": [
+      "Elops saurus"
+    ],
+    "glyt": [
+      "Elops saurus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Elops saurus",
+      "Megalops cyprinoides"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Elops saurus"
+    ],
+    "plagl2": [
+      "Elops saurus",
+      "Megalops atlanticus"
+    ],
+    "ptr": [
+      "Elops saurus",
+      "Megalops atlanticus"
+    ],
+    "rag1": [
+      "Elops saurus",
+      "Megalops atlanticus",
+      "Megalops cyprinoides"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Elops saurus",
+      "Megalops atlanticus"
+    ],
+    "ripk4": [
+      "Elops saurus"
+    ],
+    "sh3px3": [
+      "Elops saurus",
+      "Megalops atlanticus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Elops saurus"
+    ],
+    "svep1": [
+      "Elops saurus"
+    ],
+    "tbr1": [
+      "Elops saurus",
+      "Megalops atlanticus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Elops saurus",
+      "Megalops atlanticus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Elopidae",
+      "Megalopidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Elopiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Elops affinis": 0.0353,
+    "Elops hawaiensis": 0.0414,
+    "Elops machnata": 0.0409,
+    "Elops saurus": 0.0381,
+    "Megalops atlanticus": 0.0093,
+    "Megalops cyprinoides": 0.0093
+  },
+  "tiprates_bamm_lambda": {
+    "Elops affinis": 0.0353,
+    "Elops hawaiensis": 0.0353,
+    "Elops machnata": 0.0353,
+    "Elops saurus": 0.0353,
+    "Megalops atlanticus": 0.0353,
+    "Megalops cyprinoides": 0.0353
+  },
+  "tiprates_bamm_mu": {
+    "Elops affinis": 0.005,
+    "Elops hawaiensis": 0.005,
+    "Elops machnata": 0.005,
+    "Elops saurus": 0.005,
+    "Megalops atlanticus": 0.005,
+    "Megalops cyprinoides": 0.005
+  },
+  "mean_dr": 0.029,
+  "mean_bamm_lambda": 0.0353,
+  "mean_bamm_mu": 0.005,
+  "matrix_phylip": "downloads/taxonomy/order/Elopiformes.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/order/Elopiformes.nex.xz",
+  "chronogram": "downloads/taxonomy/order/Elopiformes.tre",
+  "phylogram": "downloads/taxonomy/order/Elopiformes_phylogram.tre",
+  "rogues": [
+
+  ]
+}

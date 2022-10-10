@@ -1,0 +1,283 @@
+{
+  "species": [
+    "Erpetoichthys calabaricus",
+    "Polypterus ansorgii",
+    "Polypterus bichir",
+    "Polypterus congicus",
+    "Polypterus delhezi",
+    "Polypterus endlicherii",
+    "Polypterus mokelembembe",
+    "Polypterus ornatipinnis",
+    "Polypterus palmas",
+    "Polypterus polli",
+    "Polypterus retropinnis",
+    "Polypterus senegalus",
+    "Polypterus teugelsi",
+    "Polypterus weeksii"
+  ],
+  "sampled_species": [
+    "Erpetoichthys calabaricus",
+    "Polypterus ansorgii",
+    "Polypterus bichir",
+    "Polypterus congicus",
+    "Polypterus delhezi",
+    "Polypterus endlicherii",
+    "Polypterus mokelembembe",
+    "Polypterus ornatipinnis",
+    "Polypterus palmas",
+    "Polypterus polli",
+    "Polypterus retropinnis",
+    "Polypterus senegalus",
+    "Polypterus teugelsi",
+    "Polypterus weeksii"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Erpetoichthys calabaricus",
+      "Polypterus ansorgii",
+      "Polypterus bichir",
+      "Polypterus congicus",
+      "Polypterus delhezi",
+      "Polypterus endlicherii",
+      "Polypterus mokelembembe",
+      "Polypterus ornatipinnis",
+      "Polypterus palmas",
+      "Polypterus polli",
+      "Polypterus retropinnis",
+      "Polypterus senegalus",
+      "Polypterus teugelsi",
+      "Polypterus weeksii"
+    ],
+    "16s": [
+      "Polypterus senegalus"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Erpetoichthys calabaricus",
+      "Polypterus ansorgii",
+      "Polypterus bichir",
+      "Polypterus congicus",
+      "Polypterus delhezi",
+      "Polypterus endlicherii",
+      "Polypterus mokelembembe",
+      "Polypterus ornatipinnis",
+      "Polypterus palmas",
+      "Polypterus polli",
+      "Polypterus retropinnis",
+      "Polypterus senegalus",
+      "Polypterus teugelsi",
+      "Polypterus weeksii"
+    ],
+    "cytb": [
+      "Erpetoichthys calabaricus",
+      "Polypterus ansorgii",
+      "Polypterus bichir",
+      "Polypterus congicus",
+      "Polypterus delhezi",
+      "Polypterus endlicherii",
+      "Polypterus mokelembembe",
+      "Polypterus ornatipinnis",
+      "Polypterus palmas",
+      "Polypterus polli",
+      "Polypterus retropinnis",
+      "Polypterus senegalus",
+      "Polypterus teugelsi",
+      "Polypterus weeksii"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Erpetoichthys calabaricus",
+      "Polypterus ornatipinnis",
+      "Polypterus senegalus"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Erpetoichthys calabaricus",
+      "Polypterus ornatipinnis",
+      "Polypterus senegalus"
+    ],
+    "ptr": [
+      "Erpetoichthys calabaricus",
+      "Polypterus ornatipinnis"
+    ],
+    "rag1": [
+      "Erpetoichthys calabaricus",
+      "Polypterus ornatipinnis"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Erpetoichthys calabaricus",
+      "Polypterus ornatipinnis",
+      "Polypterus senegalus"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Polypterus senegalus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Erpetoichthys calabaricus",
+      "Polypterus ornatipinnis",
+      "Polypterus senegalus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Cladistia"
+    ],
+    "cohort": [
+
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Polypteridae"
+    ],
+    "infraclass": [
+
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+
+    ],
+    "order": [
+      "Polypteriformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Erpetoichthys calabaricus": 0.0275,
+    "Polypterus ansorgii": 0.0468,
+    "Polypterus bichir": 0.0694,
+    "Polypterus congicus": 0.03,
+    "Polypterus delhezi": 0.0827,
+    "Polypterus endlicherii": 0.0694,
+    "Polypterus mokelembembe": 0.0076,
+    "Polypterus ornatipinnis": 0.0078,
+    "Polypterus palmas": 0.049,
+    "Polypterus polli": 0.0827,
+    "Polypterus retropinnis": 0.0125,
+    "Polypterus senegalus": 0.0625,
+    "Polypterus teugelsi": 0.0378,
+    "Polypterus weeksii": 0.0078
+  },
+  "tiprates_bamm_lambda": {
+    "Erpetoichthys calabaricus": 0.0417,
+    "Polypterus ansorgii": 0.0417,
+    "Polypterus bichir": 0.0417,
+    "Polypterus congicus": 0.0417,
+    "Polypterus delhezi": 0.0417,
+    "Polypterus endlicherii": 0.0417,
+    "Polypterus mokelembembe": 0.0417,
+    "Polypterus ornatipinnis": 0.0417,
+    "Polypterus palmas": 0.0417,
+    "Polypterus polli": 0.0417,
+    "Polypterus retropinnis": 0.0417,
+    "Polypterus senegalus": 0.0417,
+    "Polypterus teugelsi": 0.0417,
+    "Polypterus weeksii": 0.0417
+  },
+  "tiprates_bamm_mu": {
+    "Erpetoichthys calabaricus": 0.0283,
+    "Polypterus ansorgii": 0.0283,
+    "Polypterus bichir": 0.0283,
+    "Polypterus congicus": 0.0283,
+    "Polypterus delhezi": 0.0283,
+    "Polypterus endlicherii": 0.0283,
+    "Polypterus mokelembembe": 0.0283,
+    "Polypterus ornatipinnis": 0.0283,
+    "Polypterus palmas": 0.0283,
+    "Polypterus polli": 0.0283,
+    "Polypterus retropinnis": 0.0283,
+    "Polypterus senegalus": 0.0283,
+    "Polypterus teugelsi": 0.0283,
+    "Polypterus weeksii": 0.0283
+  },
+  "mean_dr": 0.0424,
+  "mean_bamm_lambda": 0.0417,
+  "mean_bamm_mu": 0.0283,
+  "matrix_phylip": "downloads/taxonomy/family/Polypteridae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Polypteridae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Polypteridae.tre",
+  "phylogram": "downloads/taxonomy/family/Polypteridae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

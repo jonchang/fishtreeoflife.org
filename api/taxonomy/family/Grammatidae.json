@@ -1,0 +1,504 @@
+{
+  "species": [
+    "Gramma brasiliensis",
+    "Gramma dejongi",
+    "Gramma linki",
+    "Gramma loreto",
+    "Gramma melacara",
+    "Lipogramma anabantoides",
+    "Lipogramma evides",
+    "Lipogramma flavescens",
+    "Lipogramma klayi",
+    "Lipogramma regia",
+    "Lipogramma robinsi",
+    "Lipogramma rosea",
+    "Lipogramma trilineata"
+  ],
+  "sampled_species": [
+    "Gramma dejongi",
+    "Gramma loreto",
+    "Gramma melacara",
+    "Lipogramma anabantoides",
+    "Lipogramma trilineata"
+  ],
+  "unsampled_species": [
+    "Gramma brasiliensis",
+    "Gramma linki",
+    "Lipogramma evides",
+    "Lipogramma flavescens",
+    "Lipogramma klayi",
+    "Lipogramma regia",
+    "Lipogramma robinsi",
+    "Lipogramma rosea"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Gramma loreto"
+    ],
+    "4c4": [
+      "Gramma loreto"
+    ],
+    "coi": [
+      "Gramma dejongi",
+      "Gramma loreto",
+      "Gramma melacara",
+      "Lipogramma trilineata"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Gramma loreto",
+      "Lipogramma trilineata"
+    ],
+    "ficd": [
+      "Gramma loreto",
+      "Lipogramma anabantoides",
+      "Lipogramma trilineata"
+    ],
+    "glyt": [
+      "Gramma loreto",
+      "Lipogramma trilineata"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Gramma loreto",
+      "Lipogramma anabantoides",
+      "Lipogramma trilineata"
+    ],
+    "myh6": [
+      "Gramma loreto",
+      "Lipogramma anabantoides",
+      "Lipogramma trilineata"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Gramma loreto",
+      "Lipogramma anabantoides",
+      "Lipogramma trilineata"
+    ],
+    "ptr": [
+      "Gramma loreto",
+      "Lipogramma trilineata"
+    ],
+    "rag1": [
+      "Gramma loreto",
+      "Lipogramma trilineata"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Gramma loreto"
+    ],
+    "sh3px3": [
+      "Gramma loreto",
+      "Lipogramma trilineata"
+    ],
+    "sidkey": [
+      "Lipogramma anabantoides",
+      "Lipogramma trilineata"
+    ],
+    "sreb2": [
+      "Gramma loreto",
+      "Lipogramma trilineata"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Gramma loreto",
+      "Lipogramma anabantoides",
+      "Lipogramma trilineata"
+    ],
+    "vcpip": [
+      "Lipogramma anabantoides"
+    ],
+    "zic1": [
+      "Gramma loreto",
+      "Lipogramma trilineata"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Grammatidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Ovalentaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Gramma dejongi": 0.0612,
+    "Gramma loreto": 0.0605,
+    "Gramma melacara": 0.033,
+    "Lipogramma anabantoides": 0.0477,
+    "Lipogramma trilineata": 0.0489
+  },
+  "tiprates_bamm_lambda": {
+    "Gramma dejongi": 0.0936,
+    "Gramma loreto": 0.0936,
+    "Gramma melacara": 0.0936,
+    "Lipogramma anabantoides": 0.0936,
+    "Lipogramma trilineata": 0.0936
+  },
+  "tiprates_bamm_mu": {
+    "Gramma dejongi": 0.0032,
+    "Gramma loreto": 0.0032,
+    "Gramma melacara": 0.0032,
+    "Lipogramma anabantoides": 0.0032,
+    "Lipogramma trilineata": 0.0032
+  },
+  "mean_dr": 0.0503,
+  "mean_bamm_lambda": 0.0936,
+  "mean_bamm_mu": 0.0032,
+  "matrix_phylip": "downloads/taxonomy/family/Grammatidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Grammatidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Grammatidae.tre",
+  "phylogram": "downloads/taxonomy/family/Grammatidae_phylogram.tre",
+  "rogues": [
+    "Emblemaria_diphyodontis",
+    "Emblemaria_pandionis",
+    "Emblemaria_piratica",
+    "Emblemaria_hypacanthus",
+    "Emblemaria_nivipes",
+    "Chaenopsis_alepidota",
+    "Chaenopsis_schmitti",
+    "Lucayablennius_zingaro",
+    "Chaenopsis_limbaughi",
+    "Ekemblemaria_myersi",
+    "Ekemblemaria_nigra",
+    "Hemiemblemaria_simulus",
+    "Emblemariopsis_arawak",
+    "Emblemariopsis_carib",
+    "Emblemariopsis_pricei",
+    "Emblemariopsis_bahamensis",
+    "Emblemariopsis_signifer",
+    "Emblemariopsis_randalli",
+    "Protemblemaria_bicirrus",
+    "Cirriemblemaria_lucasana",
+    "Acanthemblemaria_macrospilus",
+    "Acanthemblemaria_hancocki",
+    "Acanthemblemaria_crockeri",
+    "Acanthemblemaria_rivasi",
+    "Acanthemblemaria_castroi",
+    "Acanthemblemaria_chaplini",
+    "Acanthemblemaria_greenfieldi",
+    "Acanthemblemaria_aspera",
+    "Acanthemblemaria_paula",
+    "Acanthemblemaria_spinosa",
+    "Acanthemblemaria_medusa",
+    "Acanthemblemaria_maria",
+    "Acanthemblemaria_betinensis",
+    "Acanthemblemaria_exilispinus",
+    "Coralliozetus_rosenblatti",
+    "Coralliozetus_boehlkei",
+    "Coralliozetus_angelicus",
+    "Coralliozetus_micropes",
+    "Coralliozetus_cardonae",
+    "Coralliozetus_springeri",
+    "Dactyloscopus_pectoralis",
+    "Dactyloscopus_lacteus",
+    "Gillellus_semicinctus",
+    "Platygillellus_rubrocinctus",
+    "Gillellus_uranidea",
+    "Paraclinus_sini",
+    "Exerpes_asper",
+    "Paraclinus_mexicanus",
+    "Paraclinus_marmoratus",
+    "Paraclinus_integripinnis",
+    "Stathmonotus_culebrai",
+    "Stathmonotus_lugubris",
+    "Stathmonotus_stahli",
+    "Starksia_weigti",
+    "Starksia_robertsoni",
+    "Starksia_williamsi",
+    "Starksia_lepicoelia",
+    "Starksia_nanodes",
+    "Starksia_langi",
+    "Starksia_sluiteri",
+    "Starksia_fasciata",
+    "Starksia_greenfieldi",
+    "Starksia_atlantica",
+    "Starksia_galapagensis",
+    "Starksia_posthon",
+    "Xenomedea_rhodopyga",
+    "Starksia_guttata",
+    "Starksia_culebrae",
+    "Starksia_occidentalis",
+    "Starksia_ocellata",
+    "Starksia_grammilaga",
+    "Starksia_elongata",
+    "Starksia_spinipenis",
+    "Malacoctenus_zacae",
+    "Malacoctenus_hubbsi",
+    "Malacoctenus_gigas",
+    "Malacoctenus_zonogaster",
+    "Malacoctenus_zonifer",
+    "Malacoctenus_ebisui",
+    "Malacoctenus_tetranemus",
+    "Malacoctenus_triangulatus",
+    "Malacoctenus_aurolineatus",
+    "Malacoctenus_boehlkei",
+    "Labrisomus_multiporosus",
+    "Labrisomus_xanti",
+    "Labrisomus_nuchipinnis",
+    "Labrisomus_striatus",
+    "Labrisomus_nigricinctus",
+    "Labrisomus_bucciferus",
+    "Labrisomus_guppyi",
+    "Labrisomus_haitiensis",
+    "Dialommus_macrocephalus",
+    "Mccoskerichthys_sandae",
+    "Neoclinus_blanchardi",
+    "Auchenionchus_microcirrhis",
+    "Alloclinus_holderi",
+    "Clinus_spatulatus",
+    "Clinus_superciliosus",
+    "Clinus_musaicus",
+    "Clinus_arborescens",
+    "Clinus_venustris",
+    "Pavoclinus_profundus",
+    "Blennophis_striatus",
+    "Blennioclinus_stella",
+    "Pavoclinus_graminis",
+    "Clinus_acuminatus",
+    "Clinus_heterodon",
+    "Clinus_cottoides",
+    "Cancelloxus_longior",
+    "Muraenoclinus_dorsalis",
+    "Clinus_agilis",
+    "Heteroclinus_nasutus",
+    "Cristiceps_australis",
+    "Heteroclinus_adelaidae",
+    "Heteroclinus_wilsoni",
+    "Heteroclinus_heptaeolus",
+    "Ophiclinus_gracilis",
+    "Sticharium_dorsale",
+    "Clinitrachus_argentatus",
+    "Myxodes_viridis",
+    "Gibbonsia_metzi",
+    "Gibbonsia_montereyensis",
+    "Gibbonsia_elegans",
+    "Heterostichus_rostratus",
+    "Calliclinus_geniguttatus",
+    "Hypleurochilus_springeri",
+    "Hypleurochilus_fissicornis",
+    "Hypleurochilus_geminatus",
+    "Hypleurochilus_aequipinnis",
+    "Hypleurochilus_pseudoaequipinnis",
+    "Parablennius_thysanius",
+    "Parablennius_cornutus",
+    "Parablennius_intermedius",
+    "Parablennius_tasmanianus",
+    "Parablennius_yatabei",
+    "Parablennius_marmoreus",
+    "Parablennius_pilicornis",
+    "Parablennius_salensis",
+    "Parablennius_tentacularis",
+    "Parablennius_rouxi",
+    "Parablennius_zvonimiri",
+    "Hypsoblennius_caulopus",
+    "Hypsoblennius_gentilis",
+    "Hypsoblennius_jenkinsi",
+    "Hypsoblennius_ionthas",
+    "Hypsoblennius_hentz",
+    "Hypsoblennius_gilberti",
+    "Hypsoblennius_brevipinnis",
+    "Hypsoblennius_invemar",
+    "Chasmodes_saburrae",
+    "Chasmodes_bosquianus",
+    "Scartella_caboverdiana",
+    "Scartella_emarginata",
+    "Scartella_cristata",
+    "Salaria_fluviatilis",
+    "Parablennius_sanguinolentus",
+    "Parablennius_parvicornis",
+    "Salaria_pavo",
+    "Parablennius_ruber",
+    "Parablennius_gattorugine",
+    "Microlipophrys_caboverdensis",
+    "Microlipophrys_velifer",
+    "Microlipophrys_dalmatinus",
+    "Microlipophrys_adriaticus",
+    "Microlipophrys_bauchotae",
+    "Microlipophrys_nigriceps",
+    "Microlipophrys_canevae",
+    "Lipophrys_pholis",
+    "Lipophrys_trigloides",
+    "Coryphoblennius_galerita",
+    "Aidablennius_sphynx",
+    "Blennius_ocellaris",
+    "Blennius_normani",
+    "Petroscirtes_breviceps",
+    "Petroscirtes_variabilis",
+    "Petroscirtes_mitratus",
+    "Meiacanthus_grammistes",
+    "Meiacanthus_mossambicus",
+    "Meiacanthus_smithi",
+    "Meiacanthus_oualanensis",
+    "Plagiotremus_azaleus",
+    "Plagiotremus_tapeinosoma",
+    "Plagiotremus_rhinorhynchos",
+    "Xiphasia_setifer",
+    "Omobranchus_anolius",
+    "Omobranchus_obliquus",
+    "Istiblennius_dussumieri",
+    "Istiblennius_lineatus",
+    "Istiblennius_edentulus",
+    "Blenniella_paula",
+    "Ecsenius_bicolor",
+    "Blenniella_chrysospilos",
+    "Blenniella_cyanostigma",
+    "Entomacrodus_cadenati",
+    "Entomacrodus_chiostictus",
+    "Entomacrodus_striatus",
+    "Entomacrodus_epalzeocheilos",
+    "Entomacrodus_nigricans",
+    "Entomacrodus_niuafoouensis",
+    "Praealticus_striatus",
+    "Praealticus_tanegasimae",
+    "Praealticus_margaritatus",
+    "Praealticus_labrovittatus",
+    "Alticus_saliens",
+    "Andamia_reyi",
+    "Andamia_tetradactylus",
+    "Praealticus_caesius",
+    "Rhabdoblennius_nitidus",
+    "Atrosalarias_fuscus",
+    "Salarias_fasciatus",
+    "Salarias_alboguttatus",
+    "Alticus_arnoldorum",
+    "Nannosalarias_nativitatis",
+    "Cirripectes_fuscoguttatus",
+    "Cirripectes_heemstraorum",
+    "Cirripectes_variolosus",
+    "Cirripectes_stigmaticus",
+    "Cirripectes_castaneus",
+    "Cirripectes_filamentosus",
+    "Cirripectes_quagga",
+    "Omobranchus_fasciolatoceps",
+    "Omobranchus_punctatus",
+    "Omobranchus_loxozonus",
+    "Ophioblennius_steindachneri",
+    "Ophioblennius_atlanticus",
+    "Ophioblennius_macclurei",
+    "Ecsenius_opsifrontalis",
+    "Ecsenius_pardus",
+    "Ecsenius_nalolo",
+    "Ecsenius_midas",
+    "Helcogramma_ellioti",
+    "Helcogramma_fuscopinna",
+    "Enneapterygius_abeli",
+    "Enneapterygius_gruschkai",
+    "Enneapterygius_tutuilae",
+    "Ruanoho_whero",
+    "Tripterygion_tripteronotum",
+    "Tripterygion_melanurum",
+    "Tripterygion_delaisi",
+    "Karalepis_stewarti",
+    "Forsterygion_lapillum",
+    "Enneapterygius_etheostomus",
+    "Cremnochorites_capensis",
+    "Axoclinus_storeyae",
+    "Axoclinus_lucillae",
+    "Axoclinus_nigricaudus",
+    "Enneanectes_boehlkei",
+    "Enneanectes_pectoralis",
+    "Enneanectes_altivelis",
+    "Enneanectes_carminalis",
+    "Lepidonectes_corallicola",
+    "Notoclinus_compressus",
+    "Gobiesox_pinniger",
+    "Gobiesox_juradoensis",
+    "Gobiesox_maeandricus",
+    "Gobiesox_rhessodon",
+    "Tomicodon_zebra",
+    "Tomicodon_humeralis",
+    "Tomicodon_myersi",
+    "Discotrema_monogrammum",
+    "Discotrema_crinophilum",
+    "Diademichthys_lineatus",
+    "Lepadichthys_lineatus",
+    "Lepadogaster_purpurea",
+    "Lepadogaster_lepadogaster",
+    "Diplecogaster_bimaculata_bimaculata",
+    "Opeatogenys_gracilis",
+    "Gouania_willdenowi",
+    "Apletodon_incognitus",
+    "Apletodon_dentatus",
+    "Aspasma_minima",
+    "Gobiesox_marmoratus",
+    "Opistognathus_robinsi",
+    "Opistognathus_punctatus",
+    "Opistognathus_macrognathus",
+    "Opistognathus_maxillosus",
+    "Opistognathus_aurifrons",
+    "Lonchopisthus_micrognathus"
+  ],
+  "chronogram_mrca": "downloads/taxonomy/family/Grammatidae_mrca.tre",
+  "phylogram_mrca": "downloads/taxonomy/family/Grammatidae_mrca_phylogram.tre"
+}

@@ -1,0 +1,236 @@
+{
+  "species": [
+    "Bathymicrops belyaninae",
+    "Bathymicrops brevianalis",
+    "Bathymicrops multispinis",
+    "Bathymicrops regis",
+    "Bathypterois andriashevi",
+    "Bathypterois atricolor",
+    "Bathypterois bigelowi",
+    "Bathypterois dubius",
+    "Bathypterois filiferus",
+    "Bathypterois grallator",
+    "Bathypterois guentheri",
+    "Bathypterois insularum",
+    "Bathypterois longicauda",
+    "Bathypterois longifilis",
+    "Bathypterois longipes",
+    "Bathypterois oddi",
+    "Bathypterois parini",
+    "Bathypterois pectinatus",
+    "Bathypterois perceptor",
+    "Bathypterois phenax",
+    "Bathypterois quadrifilis",
+    "Bathypterois ventralis",
+    "Bathypterois viridensis",
+    "Bathytyphlops marionae",
+    "Bathytyphlops sewelli",
+    "Ipnops agassizii",
+    "Ipnops meadi",
+    "Ipnops murrayi"
+  ],
+  "sampled_species": [
+    "Bathypterois atricolor",
+    "Bathypterois grallator",
+    "Bathypterois phenax"
+  ],
+  "unsampled_species": [
+    "Bathymicrops belyaninae",
+    "Bathymicrops brevianalis",
+    "Bathymicrops multispinis",
+    "Bathymicrops regis",
+    "Bathypterois andriashevi",
+    "Bathypterois bigelowi",
+    "Bathypterois dubius",
+    "Bathypterois filiferus",
+    "Bathypterois guentheri",
+    "Bathypterois insularum",
+    "Bathypterois longicauda",
+    "Bathypterois longifilis",
+    "Bathypterois longipes",
+    "Bathypterois oddi",
+    "Bathypterois parini",
+    "Bathypterois pectinatus",
+    "Bathypterois perceptor",
+    "Bathypterois quadrifilis",
+    "Bathypterois ventralis",
+    "Bathypterois viridensis",
+    "Bathytyphlops marionae",
+    "Bathytyphlops sewelli",
+    "Ipnops agassizii",
+    "Ipnops meadi",
+    "Ipnops murrayi"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Bathypterois grallator",
+      "Bathypterois phenax"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Bathypterois atricolor"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Bathypterois grallator"
+    ],
+    "myh6": [
+      "Bathypterois atricolor",
+      "Bathypterois grallator"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Bathypterois grallator"
+    ],
+    "plagl2": [
+      "Bathypterois atricolor",
+      "Bathypterois grallator",
+      "Bathypterois phenax"
+    ],
+    "ptr": [
+      "Bathypterois atricolor"
+    ],
+    "rag1": [
+      "Bathypterois atricolor",
+      "Bathypterois grallator",
+      "Bathypterois phenax"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Bathypterois grallator"
+    ],
+    "sh3px3": [
+      "Bathypterois atricolor"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Bathypterois atricolor"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Bathypterois atricolor",
+      "Bathypterois grallator",
+      "Bathypterois phenax"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Ipnopidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Aulopiformes"
+    ],
+    "section": [
+      "Aulopa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Alepisauroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Bathypterois atricolor": 0.0347,
+    "Bathypterois grallator": 0.0339,
+    "Bathypterois phenax": 0.036
+  },
+  "tiprates_bamm_lambda": {
+    "Bathypterois atricolor": 0.0347,
+    "Bathypterois grallator": 0.0347,
+    "Bathypterois phenax": 0.0347
+  },
+  "tiprates_bamm_mu": {
+    "Bathypterois atricolor": 0.001,
+    "Bathypterois grallator": 0.001,
+    "Bathypterois phenax": 0.001
+  },
+  "mean_dr": 0.0349,
+  "mean_bamm_lambda": 0.0347,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Ipnopidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Ipnopidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Ipnopidae.tre",
+  "phylogram": "downloads/taxonomy/family/Ipnopidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

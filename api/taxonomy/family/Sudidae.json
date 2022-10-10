@@ -1,0 +1,165 @@
+{
+  "species": [
+    "Sudis atrox",
+    "Sudis hyalina"
+  ],
+  "sampled_species": [
+    "Sudis atrox"
+  ],
+  "unsampled_species": [
+    "Sudis hyalina"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+      "Sudis atrox"
+    ],
+    "ficd": [
+      "Sudis atrox"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Sudis atrox"
+    ],
+    "plagl2": [
+      "Sudis atrox"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Sudis atrox"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Sudis atrox"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Sudis atrox"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Sudidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Aulopiformes"
+    ],
+    "section": [
+      "Aulopa"
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+      "Alepisauroidei"
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Sudis atrox": 0.0363
+  },
+  "tiprates_bamm_lambda": {
+    "Sudis atrox": 0.0348
+  },
+  "tiprates_bamm_mu": {
+    "Sudis atrox": 0.001
+  },
+  "mean_dr": 0.0363,
+  "mean_bamm_lambda": 0.0348,
+  "mean_bamm_mu": 0.001,
+  "matrix_phylip": "downloads/taxonomy/family/Sudidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Sudidae.nex.xz"
+}

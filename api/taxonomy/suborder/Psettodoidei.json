@@ -1,0 +1,183 @@
+{
+  "species": [
+    "Psettodes belcheri",
+    "Psettodes bennettii",
+    "Psettodes erumei"
+  ],
+  "sampled_species": [
+    "Psettodes belcheri",
+    "Psettodes bennettii",
+    "Psettodes erumei"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Psettodes belcheri",
+      "Psettodes erumei"
+    ],
+    "16s": [
+      "Psettodes belcheri",
+      "Psettodes bennettii",
+      "Psettodes erumei"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Psettodes bennettii",
+      "Psettodes erumei"
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Psettodes erumei"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Psettodes erumei"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Psettodes erumei"
+    ],
+    "ptr": [
+      "Psettodes erumei"
+    ],
+    "rag1": [
+      "Psettodes erumei"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Psettodes belcheri"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Psettodes erumei"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Psettodes erumei"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Psettodes erumei"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Psettodidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pleuronectiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Carangaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Psettodoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Psettodes belcheri": 0.0314,
+    "Psettodes bennettii": 0.0314,
+    "Psettodes erumei": 0.0194
+  },
+  "tiprates_bamm_lambda": {
+    "Psettodes belcheri": 0.0551,
+    "Psettodes bennettii": 0.0551,
+    "Psettodes erumei": 0.0551
+  },
+  "tiprates_bamm_mu": {
+    "Psettodes belcheri": 0.0003,
+    "Psettodes bennettii": 0.0003,
+    "Psettodes erumei": 0.0003
+  },
+  "mean_dr": 0.0274,
+  "mean_bamm_lambda": 0.0551,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/suborder/Psettodoidei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/suborder/Psettodoidei.nex.xz",
+  "chronogram": "downloads/taxonomy/suborder/Psettodoidei.tre",
+  "phylogram": "downloads/taxonomy/suborder/Psettodoidei_phylogram.tre",
+  "rogues": [
+
+  ]
+}

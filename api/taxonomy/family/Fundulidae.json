@@ -1,0 +1,497 @@
+{
+  "species": [
+    "Adinia xenica",
+    "Fundulus albolineatus",
+    "Fundulus bermudae",
+    "Fundulus bifax",
+    "Fundulus blairae",
+    "Fundulus catenatus",
+    "Fundulus chrysotus",
+    "Fundulus cingulatus",
+    "Fundulus confluentus",
+    "Fundulus diaphanus diaphanus",
+    "Fundulus diaphanus menona",
+    "Fundulus dispar",
+    "Fundulus escambiae",
+    "Fundulus euryzonus",
+    "Fundulus grandis",
+    "Fundulus grandissimus",
+    "Fundulus heteroclitus heteroclitus",
+    "Fundulus heteroclitus macrolepidotus",
+    "Fundulus jenkinsi",
+    "Fundulus julisia",
+    "Fundulus kansae",
+    "Fundulus lima",
+    "Fundulus lineolatus",
+    "Fundulus luciae",
+    "Fundulus majalis",
+    "Fundulus notatus",
+    "Fundulus nottii",
+    "Fundulus olivaceus",
+    "Fundulus parvipinnis",
+    "Fundulus persimilis",
+    "Fundulus philpisteri",
+    "Fundulus pulvereus",
+    "Fundulus rathbuni",
+    "Fundulus relictus",
+    "Fundulus rubrifrons",
+    "Fundulus saguanus",
+    "Fundulus sciadicus",
+    "Fundulus seminolis",
+    "Fundulus similis",
+    "Fundulus stellifer",
+    "Fundulus waccamensis",
+    "Fundulus zebrinus",
+    "Leptolucania ommata",
+    "Lucania goodei",
+    "Lucania interioris",
+    "Lucania parva"
+  ],
+  "sampled_species": [
+    "Adinia xenica",
+    "Fundulus bermudae",
+    "Fundulus bifax",
+    "Fundulus blairae",
+    "Fundulus catenatus",
+    "Fundulus chrysotus",
+    "Fundulus cingulatus",
+    "Fundulus confluentus",
+    "Fundulus diaphanus diaphanus",
+    "Fundulus dispar",
+    "Fundulus escambiae",
+    "Fundulus euryzonus",
+    "Fundulus grandis",
+    "Fundulus heteroclitus heteroclitus",
+    "Fundulus jenkinsi",
+    "Fundulus julisia",
+    "Fundulus kansae",
+    "Fundulus lima",
+    "Fundulus lineolatus",
+    "Fundulus luciae",
+    "Fundulus majalis",
+    "Fundulus notatus",
+    "Fundulus nottii",
+    "Fundulus olivaceus",
+    "Fundulus parvipinnis",
+    "Fundulus pulvereus",
+    "Fundulus rathbuni",
+    "Fundulus relictus",
+    "Fundulus rubrifrons",
+    "Fundulus sciadicus",
+    "Fundulus seminolis",
+    "Fundulus similis",
+    "Fundulus stellifer",
+    "Fundulus waccamensis",
+    "Fundulus zebrinus",
+    "Lucania goodei",
+    "Lucania parva"
+  ],
+  "unsampled_species": [
+    "Fundulus albolineatus",
+    "Fundulus diaphanus menona",
+    "Fundulus grandissimus",
+    "Fundulus heteroclitus macrolepidotus",
+    "Fundulus persimilis",
+    "Fundulus philpisteri",
+    "Fundulus saguanus",
+    "Leptolucania ommata",
+    "Lucania interioris"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Fundulus heteroclitus heteroclitus",
+      "Fundulus zebrinus"
+    ],
+    "16s": [
+      "Fundulus diaphanus diaphanus",
+      "Fundulus heteroclitus heteroclitus",
+      "Fundulus parvipinnis",
+      "Fundulus zebrinus"
+    ],
+    "4c4": [
+      "Fundulus heteroclitus heteroclitus"
+    ],
+    "coi": [
+      "Adinia xenica",
+      "Fundulus blairae",
+      "Fundulus catenatus",
+      "Fundulus chrysotus",
+      "Fundulus cingulatus",
+      "Fundulus confluentus",
+      "Fundulus diaphanus diaphanus",
+      "Fundulus dispar",
+      "Fundulus escambiae",
+      "Fundulus euryzonus",
+      "Fundulus grandis",
+      "Fundulus heteroclitus heteroclitus",
+      "Fundulus jenkinsi",
+      "Fundulus kansae",
+      "Fundulus lima",
+      "Fundulus lineolatus",
+      "Fundulus notatus",
+      "Fundulus olivaceus",
+      "Fundulus parvipinnis",
+      "Fundulus rubrifrons",
+      "Fundulus sciadicus",
+      "Fundulus similis",
+      "Fundulus stellifer",
+      "Fundulus waccamensis",
+      "Fundulus zebrinus",
+      "Lucania goodei",
+      "Lucania parva"
+    ],
+    "cytb": [
+      "Adinia xenica",
+      "Fundulus bermudae",
+      "Fundulus bifax",
+      "Fundulus blairae",
+      "Fundulus catenatus",
+      "Fundulus chrysotus",
+      "Fundulus cingulatus",
+      "Fundulus confluentus",
+      "Fundulus diaphanus diaphanus",
+      "Fundulus dispar",
+      "Fundulus escambiae",
+      "Fundulus euryzonus",
+      "Fundulus grandis",
+      "Fundulus heteroclitus heteroclitus",
+      "Fundulus jenkinsi",
+      "Fundulus julisia",
+      "Fundulus kansae",
+      "Fundulus lima",
+      "Fundulus lineolatus",
+      "Fundulus luciae",
+      "Fundulus majalis",
+      "Fundulus notatus",
+      "Fundulus nottii",
+      "Fundulus olivaceus",
+      "Fundulus parvipinnis",
+      "Fundulus pulvereus",
+      "Fundulus rathbuni",
+      "Fundulus relictus",
+      "Fundulus rubrifrons",
+      "Fundulus sciadicus",
+      "Fundulus seminolis",
+      "Fundulus similis",
+      "Fundulus stellifer",
+      "Fundulus zebrinus",
+      "Lucania goodei",
+      "Lucania parva"
+    ],
+    "enc1": [
+      "Fundulus heteroclitus heteroclitus",
+      "Lucania goodei"
+    ],
+    "ficd": [
+      "Adinia xenica",
+      "Fundulus blairae",
+      "Fundulus parvipinnis",
+      "Lucania parva"
+    ],
+    "glyt": [
+      "Fundulus heteroclitus heteroclitus",
+      "Lucania goodei"
+    ],
+    "hoxc6a": [
+      "Fundulus blairae",
+      "Fundulus chrysotus",
+      "Fundulus parvipinnis",
+      "Lucania parva"
+    ],
+    "kiaa1239": [
+      "Adinia xenica",
+      "Fundulus blairae",
+      "Fundulus chrysotus",
+      "Fundulus parvipinnis",
+      "Lucania parva"
+    ],
+    "myh6": [
+      "Adinia xenica",
+      "Fundulus blairae",
+      "Fundulus heteroclitus heteroclitus",
+      "Fundulus parvipinnis",
+      "Lucania goodei"
+    ],
+    "nd2": [
+      "Fundulus heteroclitus heteroclitus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Adinia xenica",
+      "Fundulus blairae",
+      "Fundulus chrysotus",
+      "Lucania parva"
+    ],
+    "plagl2": [
+      "Fundulus blairae",
+      "Fundulus chrysotus",
+      "Fundulus heteroclitus heteroclitus",
+      "Fundulus parvipinnis",
+      "Lucania goodei"
+    ],
+    "ptr": [
+      "Adinia xenica",
+      "Fundulus blairae",
+      "Fundulus parvipinnis",
+      "Lucania goodei"
+    ],
+    "rag1": [
+      "Adinia xenica",
+      "Fundulus bermudae",
+      "Fundulus blairae",
+      "Fundulus catenatus",
+      "Fundulus chrysotus",
+      "Fundulus confluentus",
+      "Fundulus diaphanus diaphanus",
+      "Fundulus dispar",
+      "Fundulus escambiae",
+      "Fundulus grandis",
+      "Fundulus heteroclitus heteroclitus",
+      "Fundulus julisia",
+      "Fundulus kansae",
+      "Fundulus lima",
+      "Fundulus lineolatus",
+      "Fundulus luciae",
+      "Fundulus majalis",
+      "Fundulus notatus",
+      "Fundulus nottii",
+      "Fundulus olivaceus",
+      "Fundulus parvipinnis",
+      "Fundulus pulvereus",
+      "Fundulus rathbuni",
+      "Fundulus rubrifrons",
+      "Fundulus sciadicus",
+      "Fundulus seminolis",
+      "Fundulus similis",
+      "Fundulus stellifer",
+      "Fundulus zebrinus",
+      "Lucania goodei",
+      "Lucania parva"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Lucania goodei"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Fundulus heteroclitus heteroclitus",
+      "Lucania goodei"
+    ],
+    "sidkey": [
+      "Adinia xenica",
+      "Fundulus blairae",
+      "Fundulus chrysotus",
+      "Fundulus parvipinnis",
+      "Lucania parva"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Lucania parva"
+    ],
+    "tbr1": [
+      "Adinia xenica",
+      "Fundulus chrysotus",
+      "Fundulus heteroclitus heteroclitus",
+      "Fundulus parvipinnis",
+      "Lucania goodei",
+      "Lucania parva"
+    ],
+    "vcpip": [
+      "Fundulus parvipinnis"
+    ],
+    "zic1": [
+      "Fundulus heteroclitus heteroclitus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Fundulidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Cyprinodontiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cyprinodontoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Atherinomorphae"
+    ]
+  },
+  "tiprates_dr": {
+    "Adinia xenica": 0.0563,
+    "Fundulus bermudae": 0.4176,
+    "Fundulus bifax": 0.121,
+    "Fundulus blairae": 0.1192,
+    "Fundulus catenatus": 0.0801,
+    "Fundulus chrysotus": 0.0507,
+    "Fundulus cingulatus": 0.0731,
+    "Fundulus confluentus": 0.1095,
+    "Fundulus dispar": 0.1146,
+    "Fundulus escambiae": 0.1084,
+    "Fundulus euryzonus": 0.1113,
+    "Fundulus grandis": 0.1133,
+    "Fundulus jenkinsi": 0.0828,
+    "Fundulus julisia": 0.0509,
+    "Fundulus kansae": 0.0746,
+    "Fundulus lima": 0.0429,
+    "Fundulus lineolatus": 0.0747,
+    "Fundulus luciae": 0.0566,
+    "Fundulus majalis": 0.0761,
+    "Fundulus notatus": 0.076,
+    "Fundulus nottii": 0.1109,
+    "Fundulus olivaceus": 0.1135,
+    "Fundulus parvipinnis": 0.0384,
+    "Fundulus pulvereus": 0.1089,
+    "Fundulus rathbuni": 0.0991,
+    "Fundulus relictus": 0.4176,
+    "Fundulus rubrifrons": 0.0739,
+    "Fundulus sciadicus": 0.0471,
+    "Fundulus seminolis": 0.0516,
+    "Fundulus similis": 0.0727,
+    "Fundulus stellifer": 0.1181,
+    "Fundulus waccamensis": 0.1913,
+    "Fundulus zebrinus": 0.0773,
+    "Lucania goodei": 0.0771,
+    "Lucania parva": 0.0728,
+    "Fundulus diaphanus diaphanus": 0.1913,
+    "Fundulus heteroclitus heteroclitus": 0.2048
+  },
+  "tiprates_bamm_lambda": {
+    "Adinia xenica": 0.0706,
+    "Fundulus bermudae": 0.0726,
+    "Fundulus bifax": 0.0708,
+    "Fundulus blairae": 0.0706,
+    "Fundulus catenatus": 0.0708,
+    "Fundulus chrysotus": 0.0706,
+    "Fundulus cingulatus": 0.0706,
+    "Fundulus confluentus": 0.0718,
+    "Fundulus dispar": 0.0706,
+    "Fundulus escambiae": 0.0706,
+    "Fundulus euryzonus": 0.0706,
+    "Fundulus grandis": 0.0726,
+    "Fundulus jenkinsi": 0.0726,
+    "Fundulus julisia": 0.0706,
+    "Fundulus kansae": 0.0706,
+    "Fundulus lima": 0.0706,
+    "Fundulus lineolatus": 0.0706,
+    "Fundulus luciae": 0.0706,
+    "Fundulus majalis": 0.0706,
+    "Fundulus notatus": 0.0706,
+    "Fundulus nottii": 0.0706,
+    "Fundulus olivaceus": 0.0706,
+    "Fundulus parvipinnis": 0.0706,
+    "Fundulus pulvereus": 0.0718,
+    "Fundulus rathbuni": 0.0708,
+    "Fundulus relictus": 0.0726,
+    "Fundulus rubrifrons": 0.0706,
+    "Fundulus sciadicus": 0.0706,
+    "Fundulus seminolis": 0.0706,
+    "Fundulus similis": 0.0706,
+    "Fundulus stellifer": 0.0708,
+    "Fundulus waccamensis": 0.0708,
+    "Fundulus zebrinus": 0.0706,
+    "Lucania goodei": 0.0706,
+    "Lucania parva": 0.0706,
+    "Fundulus diaphanus diaphanus": 0.0708,
+    "Fundulus heteroclitus heteroclitus": 0.0726
+  },
+  "tiprates_bamm_mu": {
+    "Adinia xenica": 0.0045,
+    "Fundulus bermudae": 0.0063,
+    "Fundulus bifax": 0.0048,
+    "Fundulus blairae": 0.0045,
+    "Fundulus catenatus": 0.0048,
+    "Fundulus chrysotus": 0.0045,
+    "Fundulus cingulatus": 0.0045,
+    "Fundulus confluentus": 0.0052,
+    "Fundulus dispar": 0.0045,
+    "Fundulus escambiae": 0.0045,
+    "Fundulus euryzonus": 0.0045,
+    "Fundulus grandis": 0.0063,
+    "Fundulus jenkinsi": 0.0063,
+    "Fundulus julisia": 0.0045,
+    "Fundulus kansae": 0.0045,
+    "Fundulus lima": 0.0045,
+    "Fundulus lineolatus": 0.0045,
+    "Fundulus luciae": 0.0045,
+    "Fundulus majalis": 0.0045,
+    "Fundulus notatus": 0.0045,
+    "Fundulus nottii": 0.0045,
+    "Fundulus olivaceus": 0.0045,
+    "Fundulus parvipinnis": 0.0045,
+    "Fundulus pulvereus": 0.0052,
+    "Fundulus rathbuni": 0.0048,
+    "Fundulus relictus": 0.0063,
+    "Fundulus rubrifrons": 0.0045,
+    "Fundulus sciadicus": 0.0045,
+    "Fundulus seminolis": 0.0045,
+    "Fundulus similis": 0.0045,
+    "Fundulus stellifer": 0.0048,
+    "Fundulus waccamensis": 0.0048,
+    "Fundulus zebrinus": 0.0045,
+    "Lucania goodei": 0.0045,
+    "Lucania parva": 0.0045,
+    "Fundulus diaphanus diaphanus": 0.0048,
+    "Fundulus heteroclitus heteroclitus": 0.0063
+  },
+  "mean_dr": 0.1102,
+  "mean_bamm_lambda": 0.071,
+  "mean_bamm_mu": 0.0048,
+  "matrix_phylip": "downloads/taxonomy/family/Fundulidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Fundulidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Fundulidae.tre",
+  "phylogram": "downloads/taxonomy/family/Fundulidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

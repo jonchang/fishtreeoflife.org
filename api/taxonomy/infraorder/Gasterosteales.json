@@ -1,0 +1,344 @@
+{
+  "species": [
+    "Aulorhynchus flavidus",
+    "Apeltes quadracus",
+    "Culaea inconstans",
+    "Gasterosteus aculeatus",
+    "Gasterosteus crenobiontus",
+    "Gasterosteus gymnurus",
+    "Gasterosteus islandicus",
+    "Gasterosteus microcephalus",
+    "Gasterosteus wheatlandi",
+    "Pungitius bussei",
+    "Pungitius hellenicus",
+    "Pungitius laevis",
+    "Pungitius platygaster",
+    "Pungitius polyakovi",
+    "Pungitius pungitius",
+    "Pungitius sinensis",
+    "Pungitius stenurus",
+    "Pungitius tymensis",
+    "Spinachia spinachia",
+    "Aulichthys japonicus",
+    "Hypoptychus dybowskii"
+  ],
+  "sampled_species": [
+    "Aulorhynchus flavidus",
+    "Apeltes quadracus",
+    "Culaea inconstans",
+    "Gasterosteus aculeatus",
+    "Gasterosteus wheatlandi",
+    "Pungitius pungitius",
+    "Pungitius sinensis",
+    "Spinachia spinachia",
+    "Aulichthys japonicus",
+    "Hypoptychus dybowskii"
+  ],
+  "unsampled_species": [
+    "Gasterosteus crenobiontus",
+    "Gasterosteus gymnurus",
+    "Gasterosteus islandicus",
+    "Gasterosteus microcephalus",
+    "Pungitius bussei",
+    "Pungitius hellenicus",
+    "Pungitius laevis",
+    "Pungitius platygaster",
+    "Pungitius polyakovi",
+    "Pungitius stenurus",
+    "Pungitius tymensis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Aulorhynchus flavidus",
+      "Apeltes quadracus",
+      "Culaea inconstans",
+      "Gasterosteus aculeatus",
+      "Gasterosteus wheatlandi",
+      "Pungitius pungitius",
+      "Spinachia spinachia",
+      "Aulichthys japonicus"
+    ],
+    "16s": [
+      "Aulorhynchus flavidus",
+      "Apeltes quadracus",
+      "Gasterosteus aculeatus",
+      "Gasterosteus wheatlandi",
+      "Pungitius pungitius",
+      "Spinachia spinachia",
+      "Aulichthys japonicus"
+    ],
+    "4c4": [
+      "Aulorhynchus flavidus",
+      "Apeltes quadracus",
+      "Gasterosteus aculeatus"
+    ],
+    "coi": [
+      "Aulorhynchus flavidus",
+      "Apeltes quadracus",
+      "Culaea inconstans",
+      "Gasterosteus aculeatus",
+      "Gasterosteus wheatlandi",
+      "Pungitius pungitius",
+      "Aulichthys japonicus"
+    ],
+    "cytb": [
+      "Aulorhynchus flavidus",
+      "Apeltes quadracus",
+      "Culaea inconstans",
+      "Gasterosteus aculeatus",
+      "Gasterosteus wheatlandi",
+      "Pungitius pungitius",
+      "Pungitius sinensis",
+      "Spinachia spinachia",
+      "Aulichthys japonicus"
+    ],
+    "enc1": [
+      "Aulorhynchus flavidus",
+      "Apeltes quadracus",
+      "Culaea inconstans",
+      "Gasterosteus aculeatus",
+      "Gasterosteus wheatlandi",
+      "Pungitius pungitius",
+      "Spinachia spinachia",
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+      "Aulorhynchus flavidus",
+      "Gasterosteus aculeatus",
+      "Gasterosteus wheatlandi",
+      "Hypoptychus dybowskii"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Culaea inconstans"
+    ],
+    "myh6": [
+      "Aulorhynchus flavidus",
+      "Apeltes quadracus",
+      "Culaea inconstans",
+      "Gasterosteus aculeatus",
+      "Gasterosteus wheatlandi",
+      "Pungitius pungitius",
+      "Spinachia spinachia",
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Culaea inconstans",
+      "Gasterosteus aculeatus"
+    ],
+    "plagl2": [
+      "Aulorhynchus flavidus",
+      "Apeltes quadracus",
+      "Culaea inconstans",
+      "Gasterosteus aculeatus",
+      "Gasterosteus wheatlandi",
+      "Pungitius pungitius",
+      "Spinachia spinachia",
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "ptr": [
+      "Aulorhynchus flavidus",
+      "Apeltes quadracus",
+      "Culaea inconstans",
+      "Gasterosteus aculeatus",
+      "Gasterosteus wheatlandi",
+      "Pungitius pungitius",
+      "Spinachia spinachia",
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "rag1": [
+      "Aulorhynchus flavidus",
+      "Apeltes quadracus",
+      "Culaea inconstans",
+      "Gasterosteus aculeatus",
+      "Gasterosteus wheatlandi",
+      "Pungitius pungitius",
+      "Spinachia spinachia",
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Aulorhynchus flavidus",
+      "Gasterosteus aculeatus",
+      "Spinachia spinachia"
+    ],
+    "ripk4": [
+      "Culaea inconstans"
+    ],
+    "sh3px3": [
+      "Aulorhynchus flavidus",
+      "Apeltes quadracus",
+      "Culaea inconstans",
+      "Gasterosteus aculeatus",
+      "Gasterosteus wheatlandi",
+      "Pungitius pungitius",
+      "Spinachia spinachia",
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Aulorhynchus flavidus",
+      "Apeltes quadracus",
+      "Culaea inconstans",
+      "Gasterosteus aculeatus",
+      "Gasterosteus wheatlandi",
+      "Pungitius pungitius",
+      "Spinachia spinachia",
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Aulorhynchus flavidus",
+      "Apeltes quadracus",
+      "Culaea inconstans",
+      "Gasterosteus aculeatus",
+      "Gasterosteus wheatlandi",
+      "Pungitius pungitius",
+      "Spinachia spinachia",
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Aulorhynchus flavidus",
+      "Apeltes quadracus",
+      "Culaea inconstans",
+      "Gasterosteus aculeatus",
+      "Gasterosteus wheatlandi",
+      "Pungitius pungitius",
+      "Spinachia spinachia",
+      "Aulichthys japonicus",
+      "Hypoptychus dybowskii"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Aulorhynchidae",
+      "Gasterosteidae",
+      "Hypoptychidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+      "Gasterosteales"
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Cottoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Apeltes quadracus": 0.0346,
+    "Aulichthys japonicus": 0.0262,
+    "Aulorhynchus flavidus": 0.0219,
+    "Culaea inconstans": 0.034,
+    "Gasterosteus aculeatus": 0.0658,
+    "Gasterosteus wheatlandi": 0.0723,
+    "Hypoptychus dybowskii": 0.0262,
+    "Pungitius pungitius": 0.0912,
+    "Pungitius sinensis": 0.1029,
+    "Spinachia spinachia": 0.0346
+  },
+  "tiprates_bamm_lambda": {
+    "Apeltes quadracus": 0.058,
+    "Aulichthys japonicus": 0.058,
+    "Aulorhynchus flavidus": 0.058,
+    "Culaea inconstans": 0.058,
+    "Gasterosteus aculeatus": 0.058,
+    "Gasterosteus wheatlandi": 0.058,
+    "Hypoptychus dybowskii": 0.058,
+    "Pungitius pungitius": 0.058,
+    "Pungitius sinensis": 0.058,
+    "Spinachia spinachia": 0.058
+  },
+  "tiprates_bamm_mu": {
+    "Apeltes quadracus": 0.0003,
+    "Aulichthys japonicus": 0.0003,
+    "Aulorhynchus flavidus": 0.0003,
+    "Culaea inconstans": 0.0003,
+    "Gasterosteus aculeatus": 0.0003,
+    "Gasterosteus wheatlandi": 0.0003,
+    "Hypoptychus dybowskii": 0.0003,
+    "Pungitius pungitius": 0.0003,
+    "Pungitius sinensis": 0.0003,
+    "Spinachia spinachia": 0.0003
+  },
+  "mean_dr": 0.051,
+  "mean_bamm_lambda": 0.058,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/infraorder/Gasterosteales.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/infraorder/Gasterosteales.nex.xz",
+  "chronogram": "downloads/taxonomy/infraorder/Gasterosteales.tre",
+  "phylogram": "downloads/taxonomy/infraorder/Gasterosteales_phylogram.tre",
+  "rogues": [
+
+  ]
+}

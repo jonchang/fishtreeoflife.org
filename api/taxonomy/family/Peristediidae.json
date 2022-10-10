@@ -1,0 +1,291 @@
+{
+  "species": [
+    "Gargariscus prionocephalus",
+    "Heminodus philippinus",
+    "Paraheminodus kamoharai",
+    "Paraheminodus laticephalus",
+    "Paraheminodus longirostralis",
+    "Paraheminodus murrayi",
+    "Peristedion altipinne",
+    "Peristedion amblygenys",
+    "Peristedion antillarum",
+    "Peristedion barbiger",
+    "Peristedion brevirostre",
+    "Peristedion cataphractum",
+    "Peristedion crustosum",
+    "Peristedion ecuadorense",
+    "Peristedion gracile",
+    "Peristedion greyae",
+    "Peristedion imberbe",
+    "Peristedion liorhynchus",
+    "Peristedion longispatha",
+    "Peristedion miniatum",
+    "Peristedion nesium",
+    "Peristedion nierstraszi",
+    "Peristedion orientale",
+    "Peristedion paucibarbiger",
+    "Peristedion riversandersoni",
+    "Peristedion thompsoni",
+    "Peristedion truncatum",
+    "Peristedion unicuspis",
+    "Peristedion weberi",
+    "Satyrichthys clavilapis",
+    "Satyrichthys laticeps",
+    "Satyrichthys longiceps",
+    "Satyrichthys milleri",
+    "Satyrichthys moluccensis",
+    "Satyrichthys rieffeli",
+    "Satyrichthys welchi",
+    "Scalicus amiscus",
+    "Scalicus engyceros",
+    "Scalicus gilberti",
+    "Scalicus hians",
+    "Scalicus investigatoris",
+    "Scalicus orientalis",
+    "Scalicus quadratorostratus",
+    "Scalicus serrulatus"
+  ],
+  "sampled_species": [
+    "Gargariscus prionocephalus",
+    "Peristedion cataphractum",
+    "Peristedion ecuadorense",
+    "Peristedion gracile",
+    "Peristedion miniatum",
+    "Peristedion truncatum",
+    "Peristedion weberi",
+    "Satyrichthys laticeps",
+    "Scalicus amiscus"
+  ],
+  "unsampled_species": [
+    "Heminodus philippinus",
+    "Paraheminodus kamoharai",
+    "Paraheminodus laticephalus",
+    "Paraheminodus longirostralis",
+    "Paraheminodus murrayi",
+    "Peristedion altipinne",
+    "Peristedion amblygenys",
+    "Peristedion antillarum",
+    "Peristedion barbiger",
+    "Peristedion brevirostre",
+    "Peristedion crustosum",
+    "Peristedion greyae",
+    "Peristedion imberbe",
+    "Peristedion liorhynchus",
+    "Peristedion longispatha",
+    "Peristedion nesium",
+    "Peristedion nierstraszi",
+    "Peristedion orientale",
+    "Peristedion paucibarbiger",
+    "Peristedion riversandersoni",
+    "Peristedion thompsoni",
+    "Peristedion unicuspis",
+    "Satyrichthys clavilapis",
+    "Satyrichthys longiceps",
+    "Satyrichthys milleri",
+    "Satyrichthys moluccensis",
+    "Satyrichthys rieffeli",
+    "Satyrichthys welchi",
+    "Scalicus engyceros",
+    "Scalicus gilberti",
+    "Scalicus hians",
+    "Scalicus investigatoris",
+    "Scalicus orientalis",
+    "Scalicus quadratorostratus",
+    "Scalicus serrulatus"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Peristedion gracile",
+      "Peristedion miniatum"
+    ],
+    "4c4": [
+      "Peristedion gracile",
+      "Peristedion miniatum"
+    ],
+    "coi": [
+      "Gargariscus prionocephalus",
+      "Peristedion cataphractum",
+      "Peristedion miniatum",
+      "Peristedion weberi",
+      "Satyrichthys laticeps",
+      "Scalicus amiscus"
+    ],
+    "cytb": [
+      "Peristedion cataphractum"
+    ],
+    "enc1": [
+      "Peristedion cataphractum"
+    ],
+    "ficd": [
+      "Peristedion truncatum"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Peristedion ecuadorense"
+    ],
+    "kiaa1239": [
+      "Peristedion ecuadorense",
+      "Peristedion truncatum"
+    ],
+    "myh6": [
+      "Peristedion ecuadorense"
+    ],
+    "nd2": [
+      "Peristedion miniatum"
+    ],
+    "nd4": [
+      "Peristedion cataphractum"
+    ],
+    "panx2": [
+      "Peristedion ecuadorense"
+    ],
+    "plagl2": [
+      "Peristedion ecuadorense",
+      "Peristedion truncatum"
+    ],
+    "ptr": [
+      "Peristedion cataphractum"
+    ],
+    "rag1": [
+      "Peristedion miniatum"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+
+    ],
+    "ripk4": [
+      "Peristedion gracile",
+      "Peristedion truncatum"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+      "Peristedion ecuadorense"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Peristedion cataphractum",
+      "Peristedion gracile"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Peristedion ecuadorense",
+      "Peristedion gracile",
+      "Peristedion truncatum"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Peristediidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Perciformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Triglioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Gargariscus prionocephalus": 0.0708,
+    "Peristedion cataphractum": 0.0732,
+    "Peristedion ecuadorense": 0.079,
+    "Peristedion gracile": 0.1052,
+    "Peristedion miniatum": 0.0875,
+    "Peristedion truncatum": 0.1098,
+    "Peristedion weberi": 0.0841,
+    "Satyrichthys laticeps": 0.1155,
+    "Scalicus amiscus": 0.1216
+  },
+  "tiprates_bamm_lambda": {
+    "Gargariscus prionocephalus": 0.0601,
+    "Peristedion cataphractum": 0.0601,
+    "Peristedion ecuadorense": 0.0601,
+    "Peristedion gracile": 0.0601,
+    "Peristedion miniatum": 0.0601,
+    "Peristedion truncatum": 0.0601,
+    "Peristedion weberi": 0.0601,
+    "Satyrichthys laticeps": 0.0601,
+    "Scalicus amiscus": 0.0601
+  },
+  "tiprates_bamm_mu": {
+    "Gargariscus prionocephalus": 0.0023,
+    "Peristedion cataphractum": 0.0023,
+    "Peristedion ecuadorense": 0.0023,
+    "Peristedion gracile": 0.0023,
+    "Peristedion miniatum": 0.0023,
+    "Peristedion truncatum": 0.0023,
+    "Peristedion weberi": 0.0023,
+    "Satyrichthys laticeps": 0.0023,
+    "Scalicus amiscus": 0.0023
+  },
+  "mean_dr": 0.0941,
+  "mean_bamm_lambda": 0.0601,
+  "mean_bamm_mu": 0.0023,
+  "matrix_phylip": "downloads/taxonomy/family/Peristediidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Peristediidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Peristediidae.tre",
+  "phylogram": "downloads/taxonomy/family/Peristediidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

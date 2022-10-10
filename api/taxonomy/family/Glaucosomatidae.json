@@ -1,0 +1,197 @@
+{
+  "species": [
+    "Glaucosoma buergeri",
+    "Glaucosoma hebraicum",
+    "Glaucosoma magnificum",
+    "Glaucosoma scapulare"
+  ],
+  "sampled_species": [
+    "Glaucosoma buergeri",
+    "Glaucosoma hebraicum",
+    "Glaucosoma magnificum",
+    "Glaucosoma scapulare"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Glaucosoma buergeri",
+      "Glaucosoma hebraicum",
+      "Glaucosoma magnificum",
+      "Glaucosoma scapulare"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Glaucosoma buergeri",
+      "Glaucosoma hebraicum",
+      "Glaucosoma magnificum",
+      "Glaucosoma scapulare"
+    ],
+    "cytb": [
+      "Glaucosoma buergeri",
+      "Glaucosoma hebraicum",
+      "Glaucosoma magnificum",
+      "Glaucosoma scapulare"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Glaucosoma hebraicum"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Glaucosoma hebraicum"
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Glaucosoma hebraicum"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Glaucosoma buergeri",
+      "Glaucosoma hebraicum"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Glaucosoma buergeri",
+      "Glaucosoma hebraicum",
+      "Glaucosoma magnificum",
+      "Glaucosoma scapulare"
+    ],
+    "ripk4": [
+      "Glaucosoma hebraicum"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Glaucosoma hebraicum"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Glaucosoma hebraicum"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Glaucosomatidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Pempheriformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Glaucosoma buergeri": 0.0378,
+    "Glaucosoma hebraicum": 0.0221,
+    "Glaucosoma magnificum": 0.0155,
+    "Glaucosoma scapulare": 0.0378
+  },
+  "tiprates_bamm_lambda": {
+    "Glaucosoma buergeri": 0.0558,
+    "Glaucosoma hebraicum": 0.0558,
+    "Glaucosoma magnificum": 0.0558,
+    "Glaucosoma scapulare": 0.0558
+  },
+  "tiprates_bamm_mu": {
+    "Glaucosoma buergeri": 0.0003,
+    "Glaucosoma hebraicum": 0.0003,
+    "Glaucosoma magnificum": 0.0003,
+    "Glaucosoma scapulare": 0.0003
+  },
+  "mean_dr": 0.0283,
+  "mean_bamm_lambda": 0.0558,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Glaucosomatidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Glaucosomatidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Glaucosomatidae.tre",
+  "phylogram": "downloads/taxonomy/family/Glaucosomatidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

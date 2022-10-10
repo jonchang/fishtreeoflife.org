@@ -1,0 +1,174 @@
+{
+  "species": [
+    "Megalops atlanticus",
+    "Megalops cyprinoides"
+  ],
+  "sampled_species": [
+    "Megalops atlanticus",
+    "Megalops cyprinoides"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Megalops atlanticus",
+      "Megalops cyprinoides"
+    ],
+    "16s": [
+      "Megalops atlanticus",
+      "Megalops cyprinoides"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Megalops atlanticus",
+      "Megalops cyprinoides"
+    ],
+    "cytb": [
+      "Megalops atlanticus",
+      "Megalops cyprinoides"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Megalops cyprinoides"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Megalops atlanticus"
+    ],
+    "ptr": [
+      "Megalops atlanticus"
+    ],
+    "rag1": [
+      "Megalops atlanticus",
+      "Megalops cyprinoides"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Megalops atlanticus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+      "Megalops atlanticus"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+      "Megalops atlanticus"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Megalops atlanticus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Elopomorpha"
+    ],
+    "division": [
+
+    ],
+    "family": [
+      "Megalopidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Elopocephalai"
+    ],
+    "order": [
+      "Elopiformes"
+    ],
+    "section": [
+
+    ],
+    "series": [
+
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+
+    ],
+    "subdivision": [
+
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+
+    ],
+    "supercohort": [
+      "Elopocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Megalops atlanticus": 0.0093,
+    "Megalops cyprinoides": 0.0093
+  },
+  "tiprates_bamm_lambda": {
+    "Megalops atlanticus": 0.0353,
+    "Megalops cyprinoides": 0.0353
+  },
+  "tiprates_bamm_mu": {
+    "Megalops atlanticus": 0.005,
+    "Megalops cyprinoides": 0.005
+  },
+  "mean_dr": 0.0093,
+  "mean_bamm_lambda": 0.0353,
+  "mean_bamm_mu": 0.005,
+  "matrix_phylip": "downloads/taxonomy/family/Megalopidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Megalopidae.nex.xz"
+}

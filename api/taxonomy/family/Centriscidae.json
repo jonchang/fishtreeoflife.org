@@ -1,0 +1,211 @@
+{
+  "species": [
+    "Aeoliscus punctulatus",
+    "Aeoliscus strigatus",
+    "Centriscops humerosus",
+    "Centriscus cristatus",
+    "Centriscus scutatus",
+    "Macroramphosus gracilis",
+    "Macroramphosus scolopax",
+    "Notopogon armatus",
+    "Notopogon fernandezianus",
+    "Notopogon lilliei",
+    "Notopogon macrosolen",
+    "Notopogon xenosoma"
+  ],
+  "sampled_species": [
+    "Aeoliscus strigatus",
+    "Macroramphosus gracilis",
+    "Macroramphosus scolopax",
+    "Notopogon fernandezianus"
+  ],
+  "unsampled_species": [
+    "Aeoliscus punctulatus",
+    "Centriscops humerosus",
+    "Centriscus cristatus",
+    "Centriscus scutatus",
+    "Notopogon armatus",
+    "Notopogon lilliei",
+    "Notopogon macrosolen",
+    "Notopogon xenosoma"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Macroramphosus scolopax"
+    ],
+    "16s": [
+      "Aeoliscus strigatus",
+      "Macroramphosus scolopax"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Macroramphosus scolopax",
+      "Notopogon fernandezianus"
+    ],
+    "cytb": [
+      "Aeoliscus strigatus",
+      "Macroramphosus scolopax"
+    ],
+    "enc1": [
+      "Aeoliscus strigatus"
+    ],
+    "ficd": [
+      "Macroramphosus scolopax"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Macroramphosus gracilis"
+    ],
+    "kiaa1239": [
+      "Macroramphosus gracilis"
+    ],
+    "myh6": [
+      "Aeoliscus strigatus",
+      "Macroramphosus gracilis",
+      "Macroramphosus scolopax"
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Macroramphosus scolopax"
+    ],
+    "ptr": [
+      "Aeoliscus strigatus",
+      "Macroramphosus scolopax"
+    ],
+    "rag1": [
+      "Aeoliscus strigatus",
+      "Macroramphosus scolopax"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Aeoliscus strigatus",
+      "Macroramphosus scolopax"
+    ],
+    "ripk4": [
+      "Macroramphosus gracilis"
+    ],
+    "sh3px3": [
+      "Aeoliscus strigatus",
+      "Macroramphosus scolopax"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Aeoliscus strigatus",
+      "Macroramphosus scolopax"
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Aeoliscus strigatus",
+      "Macroramphosus gracilis",
+      "Macroramphosus scolopax"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Centriscidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Syngnathiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Syngnatharia"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Aeoliscus strigatus": 0.0354,
+    "Macroramphosus gracilis": 0.0306,
+    "Macroramphosus scolopax": 0.0306,
+    "Notopogon fernandezianus": 0.0618
+  },
+  "tiprates_bamm_lambda": {
+    "Aeoliscus strigatus": 0.055,
+    "Macroramphosus gracilis": 0.055,
+    "Macroramphosus scolopax": 0.055,
+    "Notopogon fernandezianus": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Aeoliscus strigatus": 0.0003,
+    "Macroramphosus gracilis": 0.0003,
+    "Macroramphosus scolopax": 0.0003,
+    "Notopogon fernandezianus": 0.0003
+  },
+  "mean_dr": 0.0396,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Centriscidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Centriscidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Centriscidae.tre",
+  "phylogram": "downloads/taxonomy/family/Centriscidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

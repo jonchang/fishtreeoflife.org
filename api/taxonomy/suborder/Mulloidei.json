@@ -1,0 +1,496 @@
+{
+  "species": [
+    "Mulloidichthys ayliffe",
+    "Mulloidichthys dentatus",
+    "Mulloidichthys flavolineatus",
+    "Mulloidichthys martinicus",
+    "Mulloidichthys mimicus",
+    "Mulloidichthys pfluegeri",
+    "Mulloidichthys vanicolensis",
+    "Mullus argentinae",
+    "Mullus auratus",
+    "Mullus barbatus barbatus",
+    "Mullus barbatus ponticus",
+    "Mullus surmuletus",
+    "Parupeneus angulatus",
+    "Parupeneus barberinoides",
+    "Parupeneus barberinus",
+    "Parupeneus biaculeatus",
+    "Parupeneus chrysonemus",
+    "Parupeneus chrysopleuron",
+    "Parupeneus ciliatus",
+    "Parupeneus crassilabris",
+    "Parupeneus cyclostomus",
+    "Parupeneus diagonalis",
+    "Parupeneus forsskali",
+    "Parupeneus fraserorum",
+    "Parupeneus heptacanthus",
+    "Parupeneus indicus",
+    "Parupeneus insularis",
+    "Parupeneus jansenii",
+    "Parupeneus louise",
+    "Parupeneus macronemus",
+    "Parupeneus margaritatus",
+    "Parupeneus minys",
+    "Parupeneus moffitti",
+    "Parupeneus multifasciatus",
+    "Parupeneus nansen",
+    "Parupeneus orientalis",
+    "Parupeneus pleurostigma",
+    "Parupeneus porphyreus",
+    "Parupeneus posteli",
+    "Parupeneus procerigena",
+    "Parupeneus rubescens",
+    "Parupeneus seychellensis",
+    "Parupeneus signatus",
+    "Parupeneus spilurus",
+    "Parupeneus trifasciatus",
+    "Pseudupeneus grandisquamis",
+    "Pseudupeneus maculatus",
+    "Pseudupeneus prayensis",
+    "Upeneichthys lineatus",
+    "Upeneichthys stotti",
+    "Upeneichthys vlamingii",
+    "Upeneus asymmetricus",
+    "Upeneus australiae",
+    "Upeneus davidaromi",
+    "Upeneus doriae",
+    "Upeneus filifer",
+    "Upeneus francisi",
+    "Upeneus guttatus",
+    "Upeneus indicus",
+    "Upeneus itoui",
+    "Upeneus japonicus",
+    "Upeneus luzonius",
+    "Upeneus margarethae",
+    "Upeneus mascareinsis",
+    "Upeneus moluccensis",
+    "Upeneus mouthami",
+    "Upeneus oligospilus",
+    "Upeneus parvus",
+    "Upeneus pori",
+    "Upeneus quadrilineatus",
+    "Upeneus randalli",
+    "Upeneus seychellensis",
+    "Upeneus stenopsis",
+    "Upeneus suahelicus",
+    "Upeneus subvittatus",
+    "Upeneus sulphureus",
+    "Upeneus sundaicus",
+    "Upeneus supravittatus",
+    "Upeneus taeniopterus",
+    "Upeneus tragula",
+    "Upeneus vanuatu",
+    "Upeneus vittatus",
+    "Upeneus xanthogrammus"
+  ],
+  "sampled_species": [
+    "Mulloidichthys flavolineatus",
+    "Mulloidichthys martinicus",
+    "Mulloidichthys vanicolensis",
+    "Mullus auratus",
+    "Mullus barbatus barbatus",
+    "Mullus barbatus ponticus",
+    "Mullus surmuletus",
+    "Parupeneus barberinus",
+    "Parupeneus chrysonemus",
+    "Parupeneus ciliatus",
+    "Parupeneus cyclostomus",
+    "Parupeneus forsskali",
+    "Parupeneus fraserorum",
+    "Parupeneus heptacanthus",
+    "Parupeneus indicus",
+    "Parupeneus insularis",
+    "Parupeneus macronemus",
+    "Parupeneus multifasciatus",
+    "Parupeneus pleurostigma",
+    "Parupeneus rubescens",
+    "Parupeneus spilurus",
+    "Parupeneus trifasciatus",
+    "Pseudupeneus grandisquamis",
+    "Pseudupeneus maculatus",
+    "Upeneichthys lineatus",
+    "Upeneichthys stotti",
+    "Upeneichthys vlamingii",
+    "Upeneus japonicus",
+    "Upeneus moluccensis",
+    "Upeneus parvus",
+    "Upeneus sulphureus",
+    "Upeneus tragula",
+    "Upeneus vittatus"
+  ],
+  "unsampled_species": [
+    "Mulloidichthys ayliffe",
+    "Mulloidichthys dentatus",
+    "Mulloidichthys mimicus",
+    "Mulloidichthys pfluegeri",
+    "Mullus argentinae",
+    "Parupeneus angulatus",
+    "Parupeneus barberinoides",
+    "Parupeneus biaculeatus",
+    "Parupeneus chrysopleuron",
+    "Parupeneus crassilabris",
+    "Parupeneus diagonalis",
+    "Parupeneus jansenii",
+    "Parupeneus louise",
+    "Parupeneus margaritatus",
+    "Parupeneus minys",
+    "Parupeneus moffitti",
+    "Parupeneus nansen",
+    "Parupeneus orientalis",
+    "Parupeneus porphyreus",
+    "Parupeneus posteli",
+    "Parupeneus procerigena",
+    "Parupeneus seychellensis",
+    "Parupeneus signatus",
+    "Pseudupeneus prayensis",
+    "Upeneus asymmetricus",
+    "Upeneus australiae",
+    "Upeneus davidaromi",
+    "Upeneus doriae",
+    "Upeneus filifer",
+    "Upeneus francisi",
+    "Upeneus guttatus",
+    "Upeneus indicus",
+    "Upeneus itoui",
+    "Upeneus luzonius",
+    "Upeneus margarethae",
+    "Upeneus mascareinsis",
+    "Upeneus mouthami",
+    "Upeneus oligospilus",
+    "Upeneus pori",
+    "Upeneus quadrilineatus",
+    "Upeneus randalli",
+    "Upeneus seychellensis",
+    "Upeneus stenopsis",
+    "Upeneus suahelicus",
+    "Upeneus subvittatus",
+    "Upeneus sundaicus",
+    "Upeneus supravittatus",
+    "Upeneus taeniopterus",
+    "Upeneus vanuatu",
+    "Upeneus xanthogrammus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Mullus barbatus barbatus",
+      "Mullus barbatus ponticus",
+      "Mullus surmuletus",
+      "Upeneus moluccensis"
+    ],
+    "16s": [
+      "Mullus barbatus barbatus",
+      "Mullus surmuletus",
+      "Pseudupeneus maculatus",
+      "Upeneichthys lineatus",
+      "Upeneichthys stotti",
+      "Upeneichthys vlamingii",
+      "Upeneus tragula"
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+      "Mulloidichthys flavolineatus",
+      "Mulloidichthys martinicus",
+      "Mulloidichthys vanicolensis",
+      "Mullus barbatus barbatus",
+      "Mullus surmuletus",
+      "Parupeneus barberinus",
+      "Parupeneus chrysonemus",
+      "Parupeneus ciliatus",
+      "Parupeneus cyclostomus",
+      "Parupeneus forsskali",
+      "Parupeneus fraserorum",
+      "Parupeneus heptacanthus",
+      "Parupeneus indicus",
+      "Parupeneus insularis",
+      "Parupeneus macronemus",
+      "Parupeneus multifasciatus",
+      "Parupeneus pleurostigma",
+      "Parupeneus rubescens",
+      "Parupeneus spilurus",
+      "Parupeneus trifasciatus",
+      "Pseudupeneus grandisquamis",
+      "Pseudupeneus maculatus",
+      "Upeneichthys vlamingii",
+      "Upeneus japonicus",
+      "Upeneus moluccensis",
+      "Upeneus parvus",
+      "Upeneus sulphureus",
+      "Upeneus tragula",
+      "Upeneus vittatus"
+    ],
+    "cytb": [
+      "Mullus barbatus barbatus",
+      "Mullus barbatus ponticus",
+      "Mullus surmuletus",
+      "Parupeneus multifasciatus",
+      "Upeneus moluccensis"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+      "Mulloidichthys flavolineatus",
+      "Mullus auratus",
+      "Parupeneus barberinus",
+      "Parupeneus ciliatus",
+      "Pseudupeneus maculatus",
+      "Upeneus moluccensis"
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Mullus auratus",
+      "Pseudupeneus maculatus"
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Mulloidichthys flavolineatus",
+      "Mullus auratus",
+      "Pseudupeneus maculatus",
+      "Upeneus moluccensis"
+    ],
+    "nd2": [
+      "Mullus barbatus barbatus"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Mulloidichthys flavolineatus",
+      "Parupeneus barberinus",
+      "Parupeneus ciliatus",
+      "Upeneus moluccensis"
+    ],
+    "plagl2": [
+      "Parupeneus ciliatus",
+      "Pseudupeneus maculatus",
+      "Upeneus moluccensis"
+    ],
+    "ptr": [
+      "Mulloidichthys flavolineatus",
+      "Upeneus moluccensis"
+    ],
+    "rag1": [
+      "Mullus surmuletus",
+      "Upeneus moluccensis",
+      "Upeneus sulphureus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Mullus barbatus barbatus",
+      "Mullus surmuletus"
+    ],
+    "ripk4": [
+      "Mullus auratus"
+    ],
+    "sh3px3": [
+      "Mulloidichthys flavolineatus",
+      "Parupeneus ciliatus",
+      "Upeneus moluccensis"
+    ],
+    "sidkey": [
+      "Mulloidichthys flavolineatus"
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+      "Mullus auratus",
+      "Parupeneus barberinus",
+      "Parupeneus ciliatus",
+      "Pseudupeneus maculatus"
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+      "Parupeneus ciliatus",
+      "Upeneus moluccensis"
+    ],
+    "zic1": [
+      "Mulloidichthys flavolineatus",
+      "Parupeneus barberinus",
+      "Parupeneus ciliatus",
+      "Upeneus moluccensis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Mullidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Syngnathiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Syngnatharia"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Mulloidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Mulloidichthys flavolineatus": 0.0509,
+    "Mulloidichthys martinicus": 0.055,
+    "Mulloidichthys vanicolensis": 0.0672,
+    "Mullus auratus": 0.0406,
+    "Mullus barbatus barbatus": 0.1161,
+    "Mullus barbatus ponticus": 0.114,
+    "Mullus surmuletus": 0.0542,
+    "Parupeneus barberinus": 0.2657,
+    "Parupeneus chrysonemus": 0.0547,
+    "Parupeneus ciliatus": 0.0945,
+    "Parupeneus cyclostomus": 0.0752,
+    "Parupeneus forsskali": 0.0485,
+    "Parupeneus fraserorum": 0.0552,
+    "Parupeneus heptacanthus": 0.0603,
+    "Parupeneus indicus": 0.0617,
+    "Parupeneus insularis": 0.12,
+    "Parupeneus macronemus": 0.2657,
+    "Parupeneus multifasciatus": 0.141,
+    "Parupeneus pleurostigma": 0.0637,
+    "Parupeneus rubescens": 0.06,
+    "Parupeneus spilurus": 0.0906,
+    "Parupeneus trifasciatus": 0.12,
+    "Pseudupeneus grandisquamis": 0.0494,
+    "Pseudupeneus maculatus": 0.0467,
+    "Upeneichthys lineatus": 0.072,
+    "Upeneichthys stotti": 0.04,
+    "Upeneichthys vlamingii": 0.072,
+    "Upeneus japonicus": 0.0905,
+    "Upeneus moluccensis": 0.0533,
+    "Upeneus parvus": 0.0437,
+    "Upeneus sulphureus": 0.0446,
+    "Upeneus tragula": 0.0861,
+    "Upeneus vittatus": 0.0527
+  },
+  "tiprates_bamm_lambda": {
+    "Mulloidichthys flavolineatus": 0.055,
+    "Mulloidichthys martinicus": 0.055,
+    "Mulloidichthys vanicolensis": 0.055,
+    "Mullus auratus": 0.055,
+    "Mullus barbatus barbatus": 0.055,
+    "Mullus barbatus ponticus": 0.055,
+    "Mullus surmuletus": 0.055,
+    "Parupeneus barberinus": 0.0556,
+    "Parupeneus chrysonemus": 0.055,
+    "Parupeneus ciliatus": 0.0552,
+    "Parupeneus cyclostomus": 0.0552,
+    "Parupeneus forsskali": 0.055,
+    "Parupeneus fraserorum": 0.055,
+    "Parupeneus heptacanthus": 0.055,
+    "Parupeneus indicus": 0.055,
+    "Parupeneus insularis": 0.0556,
+    "Parupeneus macronemus": 0.0556,
+    "Parupeneus multifasciatus": 0.0556,
+    "Parupeneus pleurostigma": 0.055,
+    "Parupeneus rubescens": 0.055,
+    "Parupeneus spilurus": 0.0552,
+    "Parupeneus trifasciatus": 0.0556,
+    "Pseudupeneus grandisquamis": 0.055,
+    "Pseudupeneus maculatus": 0.055,
+    "Upeneichthys lineatus": 0.055,
+    "Upeneichthys stotti": 0.055,
+    "Upeneichthys vlamingii": 0.055,
+    "Upeneus japonicus": 0.055,
+    "Upeneus moluccensis": 0.055,
+    "Upeneus parvus": 0.055,
+    "Upeneus sulphureus": 0.055,
+    "Upeneus tragula": 0.055,
+    "Upeneus vittatus": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Mulloidichthys flavolineatus": 0.0003,
+    "Mulloidichthys martinicus": 0.0003,
+    "Mulloidichthys vanicolensis": 0.0003,
+    "Mullus auratus": 0.0003,
+    "Mullus barbatus barbatus": 0.0003,
+    "Mullus barbatus ponticus": 0.0003,
+    "Mullus surmuletus": 0.0003,
+    "Parupeneus barberinus": 0.0017,
+    "Parupeneus chrysonemus": 0.0003,
+    "Parupeneus ciliatus": 0.0008,
+    "Parupeneus cyclostomus": 0.0008,
+    "Parupeneus forsskali": 0.0003,
+    "Parupeneus fraserorum": 0.0003,
+    "Parupeneus heptacanthus": 0.0003,
+    "Parupeneus indicus": 0.0003,
+    "Parupeneus insularis": 0.0017,
+    "Parupeneus macronemus": 0.0017,
+    "Parupeneus multifasciatus": 0.0017,
+    "Parupeneus pleurostigma": 0.0003,
+    "Parupeneus rubescens": 0.0003,
+    "Parupeneus spilurus": 0.0008,
+    "Parupeneus trifasciatus": 0.0017,
+    "Pseudupeneus grandisquamis": 0.0003,
+    "Pseudupeneus maculatus": 0.0003,
+    "Upeneichthys lineatus": 0.0003,
+    "Upeneichthys stotti": 0.0003,
+    "Upeneichthys vlamingii": 0.0003,
+    "Upeneus japonicus": 0.0003,
+    "Upeneus moluccensis": 0.0003,
+    "Upeneus parvus": 0.0003,
+    "Upeneus sulphureus": 0.0003,
+    "Upeneus tragula": 0.0003,
+    "Upeneus vittatus": 0.0003
+  },
+  "mean_dr": 0.0826,
+  "mean_bamm_lambda": 0.0551,
+  "mean_bamm_mu": 0.0006,
+  "matrix_phylip": "downloads/taxonomy/suborder/Mulloidei.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/suborder/Mulloidei.nex.xz",
+  "chronogram": "downloads/taxonomy/suborder/Mulloidei.tre",
+  "phylogram": "downloads/taxonomy/suborder/Mulloidei_phylogram.tre",
+  "rogues": [
+
+  ]
+}

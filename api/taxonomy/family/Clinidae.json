@@ -1,0 +1,523 @@
+{
+  "species": [
+    "Blennioclinus brachycephalus",
+    "Blennioclinus stella",
+    "Blennophis anguillaris",
+    "Blennophis striatus",
+    "Cancelloxus burrelli",
+    "Cancelloxus elongatus",
+    "Cancelloxus longior",
+    "Cirrhibarbis capensis",
+    "Climacoporus navalis",
+    "Clinitrachus argentatus",
+    "Clinoporus biporosus",
+    "Clinus acuminatus",
+    "Clinus agilis",
+    "Clinus arborescens",
+    "Clinus berrisfordi",
+    "Clinus brevicristatus",
+    "Clinus cottoides",
+    "Clinus exasperatus",
+    "Clinus helenae",
+    "Clinus heterodon",
+    "Clinus latipennis",
+    "Clinus musaicus",
+    "Clinus nematopterus",
+    "Clinus robustus",
+    "Clinus rotundifrons",
+    "Clinus spatulatus",
+    "Clinus superciliosus",
+    "Clinus taurus",
+    "Clinus venustris",
+    "Clinus woodi",
+    "Cologrammus flavescens",
+    "Cristiceps argyropleura",
+    "Cristiceps aurantiacus",
+    "Cristiceps australis",
+    "Ericentrus rubrus",
+    "Fucomimus mus",
+    "Gibbonsia elegans",
+    "Gibbonsia evides",
+    "Gibbonsia metzi",
+    "Gibbonsia montereyensis",
+    "Heteroclinus adelaidae",
+    "Heteroclinus antinectes",
+    "Heteroclinus eckloniae",
+    "Heteroclinus equiradiatus",
+    "Heteroclinus fasciatus",
+    "Heteroclinus heptaeolus",
+    "Heteroclinus johnstoni",
+    "Heteroclinus kuiteri",
+    "Heteroclinus macrophthalmus",
+    "Heteroclinus marmoratus",
+    "Heteroclinus nasutus",
+    "Heteroclinus perspicillatus",
+    "Heteroclinus puellarum",
+    "Heteroclinus roseus",
+    "Heteroclinus tristis",
+    "Heteroclinus whiteleggii",
+    "Heteroclinus wilsoni",
+    "Heterostichus rostratus",
+    "Muraenoclinus dorsalis",
+    "Myxodes cristatus",
+    "Myxodes ornatus",
+    "Myxodes viridis",
+    "Ophiclinops hutchinsi",
+    "Ophiclinops pardalis",
+    "Ophiclinops varius",
+    "Ophiclinus antarcticus",
+    "Ophiclinus brevipinnis",
+    "Ophiclinus gabrieli",
+    "Ophiclinus gracilis",
+    "Ophiclinus ningulus",
+    "Ophiclinus pectoralis",
+    "Pavoclinus caeruleopunctatus",
+    "Pavoclinus graminis",
+    "Pavoclinus laurentii",
+    "Pavoclinus litorafontis",
+    "Pavoclinus mentalis",
+    "Pavoclinus myae",
+    "Pavoclinus pavo",
+    "Pavoclinus profundus",
+    "Pavoclinus smalei",
+    "Peronedys anguillaris",
+    "Ribeiroclinus eigenmanni",
+    "Smithichthys fucorum",
+    "Springeratus caledonicus",
+    "Springeratus polyporatus",
+    "Springeratus xanthosoma",
+    "Sticharium clarkae",
+    "Sticharium dorsale",
+    "Xenopoclinus kochi",
+    "Xenopoclinus leprosus"
+  ],
+  "sampled_species": [
+    "Blennioclinus stella",
+    "Blennophis striatus",
+    "Cancelloxus longior",
+    "Clinitrachus argentatus",
+    "Clinus acuminatus",
+    "Clinus agilis",
+    "Clinus arborescens",
+    "Clinus cottoides",
+    "Clinus heterodon",
+    "Clinus musaicus",
+    "Clinus spatulatus",
+    "Clinus superciliosus",
+    "Clinus venustris",
+    "Cristiceps australis",
+    "Gibbonsia elegans",
+    "Gibbonsia metzi",
+    "Gibbonsia montereyensis",
+    "Heteroclinus adelaidae",
+    "Heteroclinus heptaeolus",
+    "Heteroclinus nasutus",
+    "Heteroclinus wilsoni",
+    "Heterostichus rostratus",
+    "Muraenoclinus dorsalis",
+    "Myxodes viridis",
+    "Ophiclinus gracilis",
+    "Pavoclinus graminis",
+    "Pavoclinus profundus",
+    "Sticharium dorsale"
+  ],
+  "unsampled_species": [
+    "Blennioclinus brachycephalus",
+    "Blennophis anguillaris",
+    "Cancelloxus burrelli",
+    "Cancelloxus elongatus",
+    "Cirrhibarbis capensis",
+    "Climacoporus navalis",
+    "Clinoporus biporosus",
+    "Clinus berrisfordi",
+    "Clinus brevicristatus",
+    "Clinus exasperatus",
+    "Clinus helenae",
+    "Clinus latipennis",
+    "Clinus nematopterus",
+    "Clinus robustus",
+    "Clinus rotundifrons",
+    "Clinus taurus",
+    "Clinus woodi",
+    "Cologrammus flavescens",
+    "Cristiceps argyropleura",
+    "Cristiceps aurantiacus",
+    "Ericentrus rubrus",
+    "Fucomimus mus",
+    "Gibbonsia evides",
+    "Heteroclinus antinectes",
+    "Heteroclinus eckloniae",
+    "Heteroclinus equiradiatus",
+    "Heteroclinus fasciatus",
+    "Heteroclinus johnstoni",
+    "Heteroclinus kuiteri",
+    "Heteroclinus macrophthalmus",
+    "Heteroclinus marmoratus",
+    "Heteroclinus perspicillatus",
+    "Heteroclinus puellarum",
+    "Heteroclinus roseus",
+    "Heteroclinus tristis",
+    "Heteroclinus whiteleggii",
+    "Myxodes cristatus",
+    "Myxodes ornatus",
+    "Ophiclinops hutchinsi",
+    "Ophiclinops pardalis",
+    "Ophiclinops varius",
+    "Ophiclinus antarcticus",
+    "Ophiclinus brevipinnis",
+    "Ophiclinus gabrieli",
+    "Ophiclinus ningulus",
+    "Ophiclinus pectoralis",
+    "Pavoclinus caeruleopunctatus",
+    "Pavoclinus laurentii",
+    "Pavoclinus litorafontis",
+    "Pavoclinus mentalis",
+    "Pavoclinus myae",
+    "Pavoclinus pavo",
+    "Pavoclinus smalei",
+    "Peronedys anguillaris",
+    "Ribeiroclinus eigenmanni",
+    "Smithichthys fucorum",
+    "Springeratus caledonicus",
+    "Springeratus polyporatus",
+    "Springeratus xanthosoma",
+    "Sticharium clarkae",
+    "Xenopoclinus kochi",
+    "Xenopoclinus leprosus"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Cancelloxus longior",
+      "Clinitrachus argentatus",
+      "Clinus acuminatus",
+      "Clinus agilis",
+      "Clinus arborescens",
+      "Clinus cottoides",
+      "Clinus heterodon",
+      "Clinus superciliosus",
+      "Clinus venustris",
+      "Gibbonsia elegans",
+      "Gibbonsia metzi",
+      "Gibbonsia montereyensis",
+      "Heteroclinus heptaeolus",
+      "Heteroclinus wilsoni",
+      "Heterostichus rostratus",
+      "Muraenoclinus dorsalis",
+      "Myxodes viridis",
+      "Ophiclinus gracilis",
+      "Sticharium dorsale"
+    ],
+    "16s": [
+      "Cancelloxus longior",
+      "Clinitrachus argentatus",
+      "Clinus acuminatus",
+      "Clinus agilis",
+      "Clinus arborescens",
+      "Clinus cottoides",
+      "Clinus heterodon",
+      "Clinus musaicus",
+      "Clinus spatulatus",
+      "Clinus superciliosus",
+      "Clinus venustris",
+      "Gibbonsia elegans",
+      "Heterostichus rostratus",
+      "Muraenoclinus dorsalis"
+    ],
+    "4c4": [
+      "Blennioclinus stella",
+      "Blennophis striatus",
+      "Clinus cottoides",
+      "Clinus superciliosus",
+      "Cristiceps australis",
+      "Gibbonsia metzi",
+      "Heteroclinus adelaidae",
+      "Heteroclinus nasutus",
+      "Heterostichus rostratus",
+      "Muraenoclinus dorsalis",
+      "Pavoclinus graminis"
+    ],
+    "coi": [
+      "Clinus acuminatus",
+      "Clinus agilis",
+      "Clinus cottoides",
+      "Clinus superciliosus",
+      "Gibbonsia elegans",
+      "Gibbonsia montereyensis",
+      "Heterostichus rostratus",
+      "Muraenoclinus dorsalis"
+    ],
+    "cytb": [
+      "Gibbonsia elegans",
+      "Heterostichus rostratus"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+      "Blennophis striatus",
+      "Clinus cottoides",
+      "Clinus superciliosus",
+      "Muraenoclinus dorsalis",
+      "Pavoclinus profundus"
+    ],
+    "kiaa1239": [
+      "Blennophis striatus",
+      "Clinus cottoides",
+      "Clinus superciliosus",
+      "Muraenoclinus dorsalis",
+      "Pavoclinus profundus"
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+      "Clinus cottoides",
+      "Clinus superciliosus",
+      "Muraenoclinus dorsalis"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Blennophis striatus",
+      "Clinus cottoides",
+      "Clinus superciliosus",
+      "Pavoclinus profundus"
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Blennioclinus stella",
+      "Blennophis striatus",
+      "Clinus cottoides",
+      "Clinus superciliosus",
+      "Cristiceps australis",
+      "Gibbonsia elegans",
+      "Gibbonsia metzi",
+      "Gibbonsia montereyensis",
+      "Heteroclinus adelaidae",
+      "Heterostichus rostratus",
+      "Muraenoclinus dorsalis",
+      "Pavoclinus graminis",
+      "Pavoclinus profundus"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Blennioclinus stella",
+      "Blennophis striatus",
+      "Cancelloxus longior",
+      "Clinus acuminatus",
+      "Clinus agilis",
+      "Clinus arborescens",
+      "Clinus cottoides",
+      "Clinus musaicus",
+      "Clinus spatulatus",
+      "Clinus superciliosus",
+      "Clinus venustris",
+      "Cristiceps australis",
+      "Gibbonsia elegans",
+      "Gibbonsia metzi",
+      "Gibbonsia montereyensis",
+      "Heteroclinus adelaidae",
+      "Heterostichus rostratus",
+      "Muraenoclinus dorsalis",
+      "Pavoclinus graminis",
+      "Pavoclinus profundus"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Blennophis striatus",
+      "Clinus superciliosus",
+      "Muraenoclinus dorsalis",
+      "Pavoclinus profundus"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Clinidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Blenniiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Ovalentaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Blennioidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+      "Blenniimorphae"
+    ]
+  },
+  "tiprates_dr": {
+    "Blennioclinus stella": 0.1638,
+    "Blennophis striatus": 0.1488,
+    "Cancelloxus longior": 0.1543,
+    "Clinitrachus argentatus": 0.079,
+    "Clinus acuminatus": 0.166,
+    "Clinus agilis": 0.0764,
+    "Clinus arborescens": 0.1382,
+    "Clinus cottoides": 0.131,
+    "Clinus heterodon": 0.1632,
+    "Clinus musaicus": 0.1624,
+    "Clinus spatulatus": 0.2102,
+    "Clinus superciliosus": 0.1798,
+    "Clinus venustris": 0.1058,
+    "Cristiceps australis": 0.1274,
+    "Gibbonsia elegans": 0.0613,
+    "Gibbonsia metzi": 0.0946,
+    "Gibbonsia montereyensis": 0.0967,
+    "Heteroclinus adelaidae": 0.0804,
+    "Heteroclinus heptaeolus": 0.1352,
+    "Heteroclinus nasutus": 0.0955,
+    "Heteroclinus wilsoni": 0.1333,
+    "Heterostichus rostratus": 0.0765,
+    "Muraenoclinus dorsalis": 0.1108,
+    "Myxodes viridis": 0.0607,
+    "Ophiclinus gracilis": 0.1426,
+    "Pavoclinus graminis": 0.149,
+    "Pavoclinus profundus": 0.1285,
+    "Sticharium dorsale": 0.1289
+  },
+  "tiprates_bamm_lambda": {
+    "Blennioclinus stella": 0.0936,
+    "Blennophis striatus": 0.0936,
+    "Cancelloxus longior": 0.0938,
+    "Clinitrachus argentatus": 0.0936,
+    "Clinus acuminatus": 0.0938,
+    "Clinus agilis": 0.0936,
+    "Clinus arborescens": 0.0936,
+    "Clinus cottoides": 0.0938,
+    "Clinus heterodon": 0.0938,
+    "Clinus musaicus": 0.0936,
+    "Clinus spatulatus": 0.0936,
+    "Clinus superciliosus": 0.0936,
+    "Clinus venustris": 0.0936,
+    "Cristiceps australis": 0.0936,
+    "Gibbonsia elegans": 0.0936,
+    "Gibbonsia metzi": 0.0936,
+    "Gibbonsia montereyensis": 0.0936,
+    "Heteroclinus adelaidae": 0.0936,
+    "Heteroclinus heptaeolus": 0.0936,
+    "Heteroclinus nasutus": 0.0936,
+    "Heteroclinus wilsoni": 0.0936,
+    "Heterostichus rostratus": 0.0936,
+    "Muraenoclinus dorsalis": 0.0938,
+    "Myxodes viridis": 0.0936,
+    "Ophiclinus gracilis": 0.0936,
+    "Pavoclinus graminis": 0.0936,
+    "Pavoclinus profundus": 0.0936,
+    "Sticharium dorsale": 0.0936
+  },
+  "tiprates_bamm_mu": {
+    "Blennioclinus stella": 0.0032,
+    "Blennophis striatus": 0.0032,
+    "Cancelloxus longior": 0.0033,
+    "Clinitrachus argentatus": 0.0032,
+    "Clinus acuminatus": 0.0033,
+    "Clinus agilis": 0.0032,
+    "Clinus arborescens": 0.0032,
+    "Clinus cottoides": 0.0033,
+    "Clinus heterodon": 0.0033,
+    "Clinus musaicus": 0.0032,
+    "Clinus spatulatus": 0.0032,
+    "Clinus superciliosus": 0.0032,
+    "Clinus venustris": 0.0032,
+    "Cristiceps australis": 0.0032,
+    "Gibbonsia elegans": 0.0032,
+    "Gibbonsia metzi": 0.0032,
+    "Gibbonsia montereyensis": 0.0032,
+    "Heteroclinus adelaidae": 0.0032,
+    "Heteroclinus heptaeolus": 0.0032,
+    "Heteroclinus nasutus": 0.0032,
+    "Heteroclinus wilsoni": 0.0032,
+    "Heterostichus rostratus": 0.0032,
+    "Muraenoclinus dorsalis": 0.0033,
+    "Myxodes viridis": 0.0032,
+    "Ophiclinus gracilis": 0.0032,
+    "Pavoclinus graminis": 0.0032,
+    "Pavoclinus profundus": 0.0032,
+    "Sticharium dorsale": 0.0032
+  },
+  "mean_dr": 0.125,
+  "mean_bamm_lambda": 0.0936,
+  "mean_bamm_mu": 0.0032,
+  "matrix_phylip": "downloads/taxonomy/family/Clinidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Clinidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Clinidae.tre",
+  "phylogram": "downloads/taxonomy/family/Clinidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

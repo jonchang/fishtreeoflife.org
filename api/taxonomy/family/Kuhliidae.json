@@ -1,0 +1,287 @@
+{
+  "species": [
+    "Kuhlia boninensis",
+    "Kuhlia caudavittata",
+    "Kuhlia malo",
+    "Kuhlia marginata",
+    "Kuhlia mugil",
+    "Kuhlia munda",
+    "Kuhlia nutabunda",
+    "Kuhlia petiti",
+    "Kuhlia rubens",
+    "Kuhlia rupestris",
+    "Kuhlia salelea",
+    "Kuhlia sandvicensis",
+    "Kuhlia sauvagii",
+    "Kuhlia xenura"
+  ],
+  "sampled_species": [
+    "Kuhlia caudavittata",
+    "Kuhlia malo",
+    "Kuhlia marginata",
+    "Kuhlia mugil",
+    "Kuhlia munda",
+    "Kuhlia nutabunda",
+    "Kuhlia petiti",
+    "Kuhlia rupestris",
+    "Kuhlia salelea",
+    "Kuhlia sandvicensis",
+    "Kuhlia sauvagii",
+    "Kuhlia xenura"
+  ],
+  "unsampled_species": [
+    "Kuhlia boninensis",
+    "Kuhlia rubens"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+      "Kuhlia caudavittata",
+      "Kuhlia malo",
+      "Kuhlia marginata",
+      "Kuhlia mugil",
+      "Kuhlia munda",
+      "Kuhlia nutabunda",
+      "Kuhlia petiti",
+      "Kuhlia rupestris",
+      "Kuhlia salelea",
+      "Kuhlia sandvicensis",
+      "Kuhlia sauvagii",
+      "Kuhlia xenura"
+    ],
+    "4c4": [
+      "Kuhlia caudavittata",
+      "Kuhlia malo",
+      "Kuhlia marginata",
+      "Kuhlia mugil",
+      "Kuhlia munda",
+      "Kuhlia nutabunda",
+      "Kuhlia petiti",
+      "Kuhlia rupestris",
+      "Kuhlia salelea",
+      "Kuhlia sandvicensis",
+      "Kuhlia sauvagii",
+      "Kuhlia xenura"
+    ],
+    "coi": [
+      "Kuhlia caudavittata",
+      "Kuhlia malo",
+      "Kuhlia marginata",
+      "Kuhlia mugil",
+      "Kuhlia munda",
+      "Kuhlia nutabunda",
+      "Kuhlia petiti",
+      "Kuhlia rupestris",
+      "Kuhlia salelea",
+      "Kuhlia sandvicensis",
+      "Kuhlia sauvagii",
+      "Kuhlia xenura"
+    ],
+    "cytb": [
+      "Kuhlia mugil",
+      "Kuhlia rupestris",
+      "Kuhlia sandvicensis",
+      "Kuhlia xenura"
+    ],
+    "enc1": [
+      "Kuhlia marginata"
+    ],
+    "ficd": [
+      "Kuhlia mugil"
+    ],
+    "glyt": [
+      "Kuhlia marginata"
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+      "Kuhlia marginata",
+      "Kuhlia mugil",
+      "Kuhlia rupestris"
+    ],
+    "nd2": [
+      "Kuhlia mugil"
+    ],
+    "nd4": [
+      "Kuhlia rupestris",
+      "Kuhlia sauvagii"
+    ],
+    "panx2": [
+      "Kuhlia mugil"
+    ],
+    "plagl2": [
+      "Kuhlia marginata",
+      "Kuhlia rupestris"
+    ],
+    "ptr": [
+      "Kuhlia marginata",
+      "Kuhlia mugil"
+    ],
+    "rag1": [
+      "Kuhlia marginata",
+      "Kuhlia mugil",
+      "Kuhlia rupestris"
+    ],
+    "rag2": [
+      "Kuhlia mugil",
+      "Kuhlia rupestris"
+    ],
+    "rhodopsin": [
+      "Kuhlia caudavittata",
+      "Kuhlia malo",
+      "Kuhlia marginata",
+      "Kuhlia mugil",
+      "Kuhlia munda",
+      "Kuhlia nutabunda",
+      "Kuhlia petiti",
+      "Kuhlia rupestris",
+      "Kuhlia salelea",
+      "Kuhlia sandvicensis",
+      "Kuhlia sauvagii",
+      "Kuhlia xenura"
+    ],
+    "ripk4": [
+      "Kuhlia mugil"
+    ],
+    "sh3px3": [
+      "Kuhlia marginata",
+      "Kuhlia mugil"
+    ],
+    "sidkey": [
+      "Kuhlia marginata",
+      "Kuhlia rupestris"
+    ],
+    "sreb2": [
+      "Kuhlia marginata",
+      "Kuhlia rupestris"
+    ],
+    "svep1": [
+      "Kuhlia mugil"
+    ],
+    "tbr1": [
+      "Kuhlia marginata",
+      "Kuhlia mugil"
+    ],
+    "vcpip": [
+      "Kuhlia mugil"
+    ],
+    "zic1": [
+      "Kuhlia marginata",
+      "Kuhlia rupestris"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Kuhliidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Centrarchiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Terapontoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Kuhlia caudavittata": 0.1084,
+    "Kuhlia malo": 0.211,
+    "Kuhlia marginata": 0.1159,
+    "Kuhlia mugil": 0.2172,
+    "Kuhlia munda": 0.0343,
+    "Kuhlia nutabunda": 0.2054,
+    "Kuhlia petiti": 0.2217,
+    "Kuhlia rupestris": 0.1075,
+    "Kuhlia salelea": 0.2136,
+    "Kuhlia sandvicensis": 0.1927,
+    "Kuhlia sauvagii": 0.0678,
+    "Kuhlia xenura": 0.0886
+  },
+  "tiprates_bamm_lambda": {
+    "Kuhlia caudavittata": 0.0641,
+    "Kuhlia malo": 0.0641,
+    "Kuhlia marginata": 0.0641,
+    "Kuhlia mugil": 0.0641,
+    "Kuhlia munda": 0.0631,
+    "Kuhlia nutabunda": 0.0641,
+    "Kuhlia petiti": 0.0641,
+    "Kuhlia rupestris": 0.0641,
+    "Kuhlia salelea": 0.0641,
+    "Kuhlia sandvicensis": 0.0641,
+    "Kuhlia sauvagii": 0.0641,
+    "Kuhlia xenura": 0.0641
+  },
+  "tiprates_bamm_mu": {
+    "Kuhlia caudavittata": 0.0033,
+    "Kuhlia malo": 0.0033,
+    "Kuhlia marginata": 0.0033,
+    "Kuhlia mugil": 0.0033,
+    "Kuhlia munda": 0.0026,
+    "Kuhlia nutabunda": 0.0033,
+    "Kuhlia petiti": 0.0033,
+    "Kuhlia rupestris": 0.0033,
+    "Kuhlia salelea": 0.0033,
+    "Kuhlia sandvicensis": 0.0033,
+    "Kuhlia sauvagii": 0.0033,
+    "Kuhlia xenura": 0.0033
+  },
+  "mean_dr": 0.1487,
+  "mean_bamm_lambda": 0.064,
+  "mean_bamm_mu": 0.0032,
+  "matrix_phylip": "downloads/taxonomy/family/Kuhliidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Kuhliidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Kuhliidae.tre",
+  "phylogram": "downloads/taxonomy/family/Kuhliidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "species": [
+    "Amniataba affinis",
+    "Amniataba caudavittata",
+    "Amniataba percoides",
+    "Bidyanus bidyanus",
+    "Bidyanus welchi",
+    "Hannia greenwayi",
+    "Helotes sexlineatus",
+    "Hephaestus adamsoni",
+    "Hephaestus carbo",
+    "Hephaestus epirrhinos",
+    "Hephaestus fuliginosus",
+    "Hephaestus habbemai",
+    "Hephaestus jenkinsi",
+    "Hephaestus komaensis",
+    "Hephaestus lineatus",
+    "Hephaestus obtusifrons",
+    "Hephaestus raymondi",
+    "Hephaestus roemeri",
+    "Hephaestus transmontanus",
+    "Hephaestus trimaculatus",
+    "Hephaestus tulliensis",
+    "Lagusia micracanthus",
+    "Leiopotherapon aheneus",
+    "Leiopotherapon macrolepis",
+    "Leiopotherapon plumbeus",
+    "Leiopotherapon unicolor",
+    "Mesopristes argenteus",
+    "Mesopristes cancellatus",
+    "Mesopristes elongatus",
+    "Mesopristes iravi",
+    "Mesopristes kneri",
+    "Pelates octolineatus",
+    "Pelates qinglanensis",
+    "Pelates quadrilineatus",
+    "Pelsartia humeralis",
+    "Pingalla gilberti",
+    "Pingalla lorentzi",
+    "Pingalla midgleyi",
+    "Rhynchopelates oxyrhynchus",
+    "Scortum barcoo",
+    "Scortum hillii",
+    "Scortum neili",
+    "Scortum parviceps",
+    "Syncomistes butleri",
+    "Syncomistes kimberleyensis",
+    "Syncomistes rastellus",
+    "Syncomistes trigonicus",
+    "Terapon jarbua",
+    "Terapon puta",
+    "Terapon theraps",
+    "Variichthys jamoerensis",
+    "Variichthys lacustris"
+  ],
+  "sampled_species": [
+    "Amniataba affinis",
+    "Amniataba caudavittata",
+    "Amniataba percoides",
+    "Bidyanus bidyanus",
+    "Bidyanus welchi",
+    "Hannia greenwayi",
+    "Helotes sexlineatus",
+    "Hephaestus carbo",
+    "Hephaestus epirrhinos",
+    "Hephaestus fuliginosus",
+    "Hephaestus habbemai",
+    "Hephaestus jenkinsi",
+    "Hephaestus transmontanus",
+    "Hephaestus tulliensis",
+    "Leiopotherapon aheneus",
+    "Leiopotherapon plumbeus",
+    "Leiopotherapon unicolor",
+    "Mesopristes argenteus",
+    "Mesopristes cancellatus",
+    "Pelates octolineatus",
+    "Pelates quadrilineatus",
+    "Pelsartia humeralis",
+    "Pingalla gilberti",
+    "Pingalla lorentzi",
+    "Rhynchopelates oxyrhynchus",
+    "Scortum barcoo",
+    "Scortum hillii",
+    "Scortum parviceps",
+    "Syncomistes butleri",
+    "Syncomistes rastellus",
+    "Syncomistes trigonicus",
+    "Terapon jarbua",
+    "Terapon puta",
+    "Terapon theraps",
+    "Variichthys lacustris"
+  ],
+  "unsampled_species": [
+    "Hephaestus adamsoni",
+    "Hephaestus komaensis",
+    "Hephaestus lineatus",
+    "Hephaestus obtusifrons",
+    "Hephaestus raymondi",
+    "Hephaestus roemeri",
+    "Hephaestus trimaculatus",
+    "Lagusia micracanthus",
+    "Leiopotherapon macrolepis",
+    "Mesopristes elongatus",
+    "Mesopristes iravi",
+    "Mesopristes kneri",
+    "Pelates qinglanensis",
+    "Pingalla midgleyi",
+    "Scortum neili",
+    "Syncomistes kimberleyensis",
+    "Variichthys jamoerensis"
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Bidyanus bidyanus",
+      "Bidyanus welchi",
+      "Leiopotherapon unicolor"
+    ],
+    "16s": [
+      "Helotes sexlineatus",
+      "Leiopotherapon aheneus",
+      "Leiopotherapon unicolor",
+      "Pelates octolineatus",
+      "Pelates quadrilineatus",
+      "Rhynchopelates oxyrhynchus",
+      "Terapon jarbua",
+      "Terapon theraps"
+    ],
+    "4c4": [
+      "Helotes sexlineatus",
+      "Pelates quadrilineatus",
+      "Rhynchopelates oxyrhynchus",
+      "Terapon jarbua",
+      "Terapon theraps"
+    ],
+    "coi": [
+      "Bidyanus bidyanus",
+      "Hephaestus jenkinsi",
+      "Leiopotherapon plumbeus",
+      "Leiopotherapon unicolor",
+      "Mesopristes cancellatus",
+      "Pelates quadrilineatus",
+      "Rhynchopelates oxyrhynchus",
+      "Terapon jarbua",
+      "Terapon theraps"
+    ],
+    "cytb": [
+      "Amniataba affinis",
+      "Amniataba caudavittata",
+      "Amniataba percoides",
+      "Bidyanus bidyanus",
+      "Bidyanus welchi",
+      "Hannia greenwayi",
+      "Helotes sexlineatus",
+      "Hephaestus carbo",
+      "Hephaestus epirrhinos",
+      "Hephaestus fuliginosus",
+      "Hephaestus habbemai",
+      "Hephaestus jenkinsi",
+      "Hephaestus transmontanus",
+      "Hephaestus tulliensis",
+      "Leiopotherapon aheneus",
+      "Leiopotherapon unicolor",
+      "Mesopristes argenteus",
+      "Mesopristes cancellatus",
+      "Pelates octolineatus",
+      "Pelates quadrilineatus",
+      "Pelsartia humeralis",
+      "Pingalla gilberti",
+      "Pingalla lorentzi",
+      "Rhynchopelates oxyrhynchus",
+      "Scortum barcoo",
+      "Scortum hillii",
+      "Scortum parviceps",
+      "Syncomistes butleri",
+      "Syncomistes rastellus",
+      "Syncomistes trigonicus",
+      "Terapon jarbua",
+      "Terapon puta",
+      "Terapon theraps",
+      "Variichthys lacustris"
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+      "Terapon jarbua"
+    ],
+    "myh6": [
+      "Hephaestus fuliginosus",
+      "Scortum barcoo",
+      "Terapon jarbua"
+    ],
+    "nd2": [
+      "Terapon jarbua",
+      "Terapon theraps"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+      "Hephaestus fuliginosus",
+      "Scortum barcoo",
+      "Terapon jarbua"
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+      "Amniataba affinis",
+      "Amniataba caudavittata",
+      "Amniataba percoides",
+      "Bidyanus bidyanus",
+      "Bidyanus welchi",
+      "Hannia greenwayi",
+      "Helotes sexlineatus",
+      "Hephaestus carbo",
+      "Hephaestus epirrhinos",
+      "Hephaestus fuliginosus",
+      "Hephaestus habbemai",
+      "Hephaestus jenkinsi",
+      "Hephaestus transmontanus",
+      "Hephaestus tulliensis",
+      "Leiopotherapon aheneus",
+      "Leiopotherapon plumbeus",
+      "Leiopotherapon unicolor",
+      "Mesopristes argenteus",
+      "Mesopristes cancellatus",
+      "Pelates octolineatus",
+      "Pelates quadrilineatus",
+      "Pelsartia humeralis",
+      "Pingalla gilberti",
+      "Pingalla lorentzi",
+      "Rhynchopelates oxyrhynchus",
+      "Scortum barcoo",
+      "Scortum hillii",
+      "Scortum parviceps",
+      "Syncomistes butleri",
+      "Syncomistes rastellus",
+      "Syncomistes trigonicus",
+      "Terapon jarbua",
+      "Terapon puta",
+      "Terapon theraps",
+      "Variichthys lacustris"
+    ],
+    "rag2": [
+      "Amniataba affinis",
+      "Amniataba caudavittata",
+      "Amniataba percoides",
+      "Bidyanus bidyanus",
+      "Bidyanus welchi",
+      "Hannia greenwayi",
+      "Helotes sexlineatus",
+      "Hephaestus carbo",
+      "Hephaestus epirrhinos",
+      "Hephaestus fuliginosus",
+      "Hephaestus habbemai",
+      "Hephaestus jenkinsi",
+      "Hephaestus transmontanus",
+      "Hephaestus tulliensis",
+      "Leiopotherapon aheneus",
+      "Leiopotherapon plumbeus",
+      "Leiopotherapon unicolor",
+      "Mesopristes argenteus",
+      "Mesopristes cancellatus",
+      "Pelates octolineatus",
+      "Pelates quadrilineatus",
+      "Pingalla gilberti",
+      "Pingalla lorentzi",
+      "Rhynchopelates oxyrhynchus",
+      "Scortum barcoo",
+      "Scortum hillii",
+      "Scortum parviceps",
+      "Syncomistes butleri",
+      "Syncomistes rastellus",
+      "Syncomistes trigonicus",
+      "Terapon jarbua",
+      "Terapon puta",
+      "Terapon theraps",
+      "Variichthys lacustris"
+    ],
+    "rhodopsin": [
+      "Pelates quadrilineatus",
+      "Rhynchopelates oxyrhynchus"
+    ],
+    "ripk4": [
+      "Terapon jarbua"
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+      "Hephaestus fuliginosus",
+      "Scortum barcoo",
+      "Terapon jarbua"
+    ],
+    "sreb2": [
+      "Hephaestus fuliginosus",
+      "Scortum barcoo"
+    ],
+    "svep1": [
+      "Terapon jarbua"
+    ],
+    "tbr1": [
+      "Terapon jarbua"
+    ],
+    "vcpip": [
+      "Terapon jarbua"
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Terapontidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Centrarchiformes"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+      "Terapontoidei"
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Amniataba affinis": 0.3301,
+    "Amniataba caudavittata": 0.1781,
+    "Amniataba percoides": 0.338,
+    "Bidyanus bidyanus": 0.1323,
+    "Bidyanus welchi": 0.1323,
+    "Hannia greenwayi": 0.2091,
+    "Helotes sexlineatus": 0.0926,
+    "Hephaestus carbo": 0.1675,
+    "Hephaestus epirrhinos": 0.2972,
+    "Hephaestus fuliginosus": 0.1668,
+    "Hephaestus habbemai": 0.1706,
+    "Hephaestus jenkinsi": 0.2922,
+    "Hephaestus transmontanus": 0.099,
+    "Hephaestus tulliensis": 0.1616,
+    "Leiopotherapon aheneus": 0.1771,
+    "Leiopotherapon plumbeus": 0.1688,
+    "Leiopotherapon unicolor": 0.1358,
+    "Mesopristes argenteus": 0.0781,
+    "Mesopristes cancellatus": 0.0717,
+    "Pelates octolineatus": 0.0977,
+    "Pelates quadrilineatus": 0.049,
+    "Pelsartia humeralis": 0.0467,
+    "Pingalla gilberti": 0.1287,
+    "Pingalla lorentzi": 0.1249,
+    "Rhynchopelates oxyrhynchus": 0.0769,
+    "Scortum barcoo": 0.1336,
+    "Scortum hillii": 0.2203,
+    "Scortum parviceps": 0.2182,
+    "Syncomistes butleri": 0.2382,
+    "Syncomistes rastellus": 0.4493,
+    "Syncomistes trigonicus": 0.4427,
+    "Terapon jarbua": 0.0354,
+    "Terapon puta": 0.0476,
+    "Terapon theraps": 0.0633,
+    "Variichthys lacustris": 0.1868
+  },
+  "tiprates_bamm_lambda": {
+    "Amniataba affinis": 0.1605,
+    "Amniataba caudavittata": 0.1605,
+    "Amniataba percoides": 0.1605,
+    "Bidyanus bidyanus": 0.1619,
+    "Bidyanus welchi": 0.1619,
+    "Hannia greenwayi": 0.1605,
+    "Helotes sexlineatus": 0.0632,
+    "Hephaestus carbo": 0.1578,
+    "Hephaestus epirrhinos": 0.1652,
+    "Hephaestus fuliginosus": 0.1652,
+    "Hephaestus habbemai": 0.1578,
+    "Hephaestus jenkinsi": 0.1652,
+    "Hephaestus transmontanus": 0.1578,
+    "Hephaestus tulliensis": 0.1652,
+    "Leiopotherapon aheneus": 0.1605,
+    "Leiopotherapon plumbeus": 0.1605,
+    "Leiopotherapon unicolor": 0.16,
+    "Mesopristes argenteus": 0.0661,
+    "Mesopristes cancellatus": 0.0661,
+    "Pelates octolineatus": 0.0632,
+    "Pelates quadrilineatus": 0.0632,
+    "Pelsartia humeralis": 0.0651,
+    "Pingalla gilberti": 0.1623,
+    "Pingalla lorentzi": 0.1623,
+    "Rhynchopelates oxyrhynchus": 0.0661,
+    "Scortum barcoo": 0.1641,
+    "Scortum hillii": 0.1641,
+    "Scortum parviceps": 0.1641,
+    "Syncomistes butleri": 0.1652,
+    "Syncomistes rastellus": 0.1652,
+    "Syncomistes trigonicus": 0.1652,
+    "Terapon jarbua": 0.0627,
+    "Terapon puta": 0.0632,
+    "Terapon theraps": 0.0661,
+    "Variichthys lacustris": 0.16
+  },
+  "tiprates_bamm_mu": {
+    "Amniataba affinis": 0.0379,
+    "Amniataba caudavittata": 0.0379,
+    "Amniataba percoides": 0.0379,
+    "Bidyanus bidyanus": 0.0386,
+    "Bidyanus welchi": 0.0386,
+    "Hannia greenwayi": 0.0379,
+    "Helotes sexlineatus": 0.0026,
+    "Hephaestus carbo": 0.0368,
+    "Hephaestus epirrhinos": 0.0398,
+    "Hephaestus fuliginosus": 0.0398,
+    "Hephaestus habbemai": 0.0368,
+    "Hephaestus jenkinsi": 0.0398,
+    "Hephaestus transmontanus": 0.0368,
+    "Hephaestus tulliensis": 0.0398,
+    "Leiopotherapon aheneus": 0.0379,
+    "Leiopotherapon plumbeus": 0.0379,
+    "Leiopotherapon unicolor": 0.0378,
+    "Mesopristes argenteus": 0.004,
+    "Mesopristes cancellatus": 0.004,
+    "Pelates octolineatus": 0.0026,
+    "Pelates quadrilineatus": 0.0026,
+    "Pelsartia humeralis": 0.0036,
+    "Pingalla gilberti": 0.0388,
+    "Pingalla lorentzi": 0.0388,
+    "Rhynchopelates oxyrhynchus": 0.004,
+    "Scortum barcoo": 0.0396,
+    "Scortum hillii": 0.0396,
+    "Scortum parviceps": 0.0396,
+    "Syncomistes butleri": 0.0398,
+    "Syncomistes rastellus": 0.0398,
+    "Syncomistes trigonicus": 0.0398,
+    "Terapon jarbua": 0.0024,
+    "Terapon puta": 0.0026,
+    "Terapon theraps": 0.004,
+    "Variichthys lacustris": 0.0378
+  },
+  "mean_dr": 0.1702,
+  "mean_bamm_lambda": 0.1342,
+  "mean_bamm_mu": 0.0285,
+  "matrix_phylip": "downloads/taxonomy/family/Terapontidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Terapontidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Terapontidae.tre",
+  "phylogram": "downloads/taxonomy/family/Terapontidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

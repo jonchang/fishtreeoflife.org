@@ -1,0 +1,232 @@
+{
+  "species": [
+    "Dicentrarchus labrax",
+    "Dicentrarchus punctatus",
+    "Morone americana",
+    "Morone chrysops",
+    "Morone mississippiensis",
+    "Morone saxatilis"
+  ],
+  "sampled_species": [
+    "Dicentrarchus labrax",
+    "Dicentrarchus punctatus",
+    "Morone americana",
+    "Morone chrysops",
+    "Morone mississippiensis",
+    "Morone saxatilis"
+  ],
+  "unsampled_species": [
+
+  ],
+  "gene_sampling": {
+    "12s": [
+      "Dicentrarchus labrax",
+      "Morone chrysops"
+    ],
+    "16s": [
+      "Dicentrarchus labrax",
+      "Dicentrarchus punctatus",
+      "Morone americana",
+      "Morone chrysops",
+      "Morone saxatilis"
+    ],
+    "4c4": [
+      "Dicentrarchus punctatus",
+      "Morone americana",
+      "Morone chrysops",
+      "Morone saxatilis"
+    ],
+    "coi": [
+      "Dicentrarchus labrax",
+      "Morone americana",
+      "Morone chrysops",
+      "Morone mississippiensis",
+      "Morone saxatilis"
+    ],
+    "cytb": [
+      "Dicentrarchus labrax",
+      "Dicentrarchus punctatus",
+      "Morone americana",
+      "Morone chrysops",
+      "Morone mississippiensis",
+      "Morone saxatilis"
+    ],
+    "enc1": [
+      "Morone chrysops"
+    ],
+    "ficd": [
+      "Dicentrarchus labrax",
+      "Morone chrysops"
+    ],
+    "glyt": [
+      "Morone chrysops"
+    ],
+    "hoxc6a": [
+      "Morone mississippiensis"
+    ],
+    "kiaa1239": [
+      "Dicentrarchus labrax",
+      "Morone chrysops"
+    ],
+    "myh6": [
+      "Dicentrarchus labrax",
+      "Morone chrysops",
+      "Morone mississippiensis"
+    ],
+    "nd2": [
+      "Morone chrysops",
+      "Morone saxatilis"
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+      "Morone americana",
+      "Morone mississippiensis"
+    ],
+    "plagl2": [
+      "Dicentrarchus labrax",
+      "Morone chrysops",
+      "Morone mississippiensis"
+    ],
+    "ptr": [
+      "Morone americana",
+      "Morone chrysops",
+      "Morone mississippiensis"
+    ],
+    "rag1": [
+      "Dicentrarchus labrax",
+      "Morone chrysops"
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Dicentrarchus labrax",
+      "Dicentrarchus punctatus",
+      "Morone saxatilis"
+    ],
+    "ripk4": [
+      "Dicentrarchus labrax",
+      "Morone chrysops",
+      "Morone mississippiensis"
+    ],
+    "sh3px3": [
+      "Morone chrysops"
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+      "Dicentrarchus labrax",
+      "Morone chrysops"
+    ],
+    "svep1": [
+      "Morone chrysops"
+    ],
+    "tbr1": [
+      "Morone americana",
+      "Morone chrysops",
+      "Morone mississippiensis"
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+      "Dicentrarchus labrax",
+      "Morone americana",
+      "Morone chrysops",
+      "Morone mississippiensis"
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Moronidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Dicentrarchus labrax": 0.0237,
+    "Dicentrarchus punctatus": 0.0237,
+    "Morone americana": 0.0658,
+    "Morone chrysops": 0.0252,
+    "Morone mississippiensis": 0.0658,
+    "Morone saxatilis": 0.0387
+  },
+  "tiprates_bamm_lambda": {
+    "Dicentrarchus labrax": 0.0579,
+    "Dicentrarchus punctatus": 0.0579,
+    "Morone americana": 0.0579,
+    "Morone chrysops": 0.0579,
+    "Morone mississippiensis": 0.0579,
+    "Morone saxatilis": 0.0579
+  },
+  "tiprates_bamm_mu": {
+    "Dicentrarchus labrax": 0.0003,
+    "Dicentrarchus punctatus": 0.0003,
+    "Morone americana": 0.0003,
+    "Morone chrysops": 0.0003,
+    "Morone mississippiensis": 0.0003,
+    "Morone saxatilis": 0.0003
+  },
+  "mean_dr": 0.0405,
+  "mean_bamm_lambda": 0.0579,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Moronidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Moronidae.nex.xz",
+  "chronogram": "downloads/taxonomy/family/Moronidae.tre",
+  "phylogram": "downloads/taxonomy/family/Moronidae_phylogram.tre",
+  "rogues": [
+
+  ]
+}

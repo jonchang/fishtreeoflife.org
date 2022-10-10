@@ -1,0 +1,187 @@
+{
+  "species": [
+    "Champsodon atridorsalis",
+    "Champsodon capensis",
+    "Champsodon fimbriatus",
+    "Champsodon guentheri",
+    "Champsodon longipinnis",
+    "Champsodon machaeratus",
+    "Champsodon nudivittis",
+    "Champsodon omanensis",
+    "Champsodon pantolepis",
+    "Champsodon sagittus",
+    "Champsodon sechellensis",
+    "Champsodon snyderi",
+    "Champsodon vorax"
+  ],
+  "sampled_species": [
+    "Champsodon snyderi"
+  ],
+  "unsampled_species": [
+    "Champsodon atridorsalis",
+    "Champsodon capensis",
+    "Champsodon fimbriatus",
+    "Champsodon guentheri",
+    "Champsodon longipinnis",
+    "Champsodon machaeratus",
+    "Champsodon nudivittis",
+    "Champsodon omanensis",
+    "Champsodon pantolepis",
+    "Champsodon sagittus",
+    "Champsodon sechellensis",
+    "Champsodon vorax"
+  ],
+  "gene_sampling": {
+    "12s": [
+
+    ],
+    "16s": [
+
+    ],
+    "4c4": [
+
+    ],
+    "coi": [
+
+    ],
+    "cytb": [
+
+    ],
+    "enc1": [
+
+    ],
+    "ficd": [
+
+    ],
+    "glyt": [
+
+    ],
+    "hoxc6a": [
+
+    ],
+    "kiaa1239": [
+
+    ],
+    "myh6": [
+
+    ],
+    "nd2": [
+
+    ],
+    "nd4": [
+
+    ],
+    "panx2": [
+
+    ],
+    "plagl2": [
+
+    ],
+    "ptr": [
+
+    ],
+    "rag1": [
+
+    ],
+    "rag2": [
+
+    ],
+    "rhodopsin": [
+      "Champsodon snyderi"
+    ],
+    "ripk4": [
+
+    ],
+    "sh3px3": [
+
+    ],
+    "sidkey": [
+
+    ],
+    "sreb2": [
+
+    ],
+    "svep1": [
+
+    ],
+    "tbr1": [
+
+    ],
+    "vcpip": [
+
+    ],
+    "zic1": [
+
+    ]
+  },
+  "taxonomy": {
+    "class": [
+      "Actinopteri"
+    ],
+    "cohort": [
+      "Euteleosteomorpha"
+    ],
+    "division": [
+      "Euacanthomorphacea"
+    ],
+    "family": [
+      "Champsodontidae"
+    ],
+    "infraclass": [
+      "Teleostei"
+    ],
+    "infracohort": [
+      "Eurypterygia"
+    ],
+    "infraorder": [
+
+    ],
+    "megacohort": [
+      "Osteoglossocephalai"
+    ],
+    "order": [
+      "Incertae sedis in Eupercaria"
+    ],
+    "section": [
+      "Ctenosquamata"
+    ],
+    "series": [
+      "Eupercaria"
+    ],
+    "subclass": [
+      "Neopterygii"
+    ],
+    "subcohort": [
+      "Neoteleostei"
+    ],
+    "subdivision": [
+      "Percomorphaceae"
+    ],
+    "suborder": [
+
+    ],
+    "subsection": [
+      "Acanthomorphata"
+    ],
+    "supercohort": [
+      "Clupeocephala"
+    ],
+    "superorder": [
+
+    ]
+  },
+  "tiprates_dr": {
+    "Champsodon snyderi": 0.053
+  },
+  "tiprates_bamm_lambda": {
+    "Champsodon snyderi": 0.055
+  },
+  "tiprates_bamm_mu": {
+    "Champsodon snyderi": 0.0003
+  },
+  "mean_dr": 0.053,
+  "mean_bamm_lambda": 0.055,
+  "mean_bamm_mu": 0.0003,
+  "matrix_phylip": "downloads/taxonomy/family/Champsodontidae.phylip.xz",
+  "matrix_nexus": "downloads/taxonomy/family/Champsodontidae.nex.xz"
+}
