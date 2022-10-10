@@ -7,10 +7,10 @@ grep ERROR_ERROR_ERROR -lr _site && exit 1
 
 # ensure internal links are valid
 bundle exec htmlproofer \
-    --allow-hash-href=true \
-    --allow-missing-href=true \
+    --allow-hash-href \
+    --allow-missing-href \
+    --disable-external \
+    --ignore-empty-alt \
+    --no-enforce-https \
     --assume-extension=.html \
-    --disable-external=true \
-    --enforce-https=false \
-    --ignore-empty-alt=true \
     ./_site
