@@ -2,7 +2,6 @@ source "https://rubygems.org"
 gem "jekyll", "4.3.0"
 gem "rake"
 gem "liquid-c"
-gem "webrick"
 gem "psych"
 
 group :jekyll_plugins do
