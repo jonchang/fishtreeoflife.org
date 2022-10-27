@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "jekyll", "4.3.0"
+gem "jekyll", "4.3.1"
 gem "rake"
 gem "liquid-c"
 gem "psych"
