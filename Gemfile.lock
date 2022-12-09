@@ -93,7 +93,7 @@ GEM
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    psych (4.0.6)
+    psych (5.0.1)
       stringio
     public_suffix (5.0.1)
     racc (1.6.1)
@@ -107,7 +107,7 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
-    stringio (3.0.2)
+    stringio (3.0.4)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
     timers (4.3.5)
