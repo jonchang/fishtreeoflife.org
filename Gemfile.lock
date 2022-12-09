@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/Shopify/liquid-c.git
+  revision: a46872ed72dbf9246d9ac95bf2713fc26b01f9a9
+  ref: a46872ed72dbf9246d9ac95bf2713fc26b01f9a9
+  specs:
+    liquid-c (4.0.0)
+      liquid (>= 3.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -74,8 +82,6 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
-    liquid-c (4.0.0)
-      liquid (>= 3.0.0)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -114,6 +120,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  arm64-darwin-22
   x86_64-linux
 
 DEPENDENCIES
@@ -124,7 +131,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-tidy
-  liquid-c
+  liquid-c!
   psych
   rake
 
