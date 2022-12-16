@@ -26,6 +26,8 @@ jobs:
 
     - name: Download data from the fishtreeoflife docker container
       run: scripts/docker.sh
+      
+    - run: apt update && apt install -y libyaml-dev
 
     - uses: ruby/setup-ruby@v1
       with:
