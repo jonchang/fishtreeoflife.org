@@ -93,7 +93,7 @@ GEM
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    psych (5.0.1)
+    psych (5.0.2)
       stringio
     public_suffix (5.0.1)
     racc (1.6.1)
