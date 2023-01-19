@@ -35,7 +35,7 @@ jobs:
         bundler-cache: true
 
     - id: pages
-      uses: actions/configure-pages@v2
+      uses: actions/configure-pages@v3
 
     - name: Build site
       run: rake
