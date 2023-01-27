@@ -18,7 +18,7 @@ GEM
       io-event (~> 1.1)
       timers (~> 4.1)
     colorator (1.1.0)
-    commonmarker (0.23.6)
+    commonmarker (0.23.7)
     concurrent-ruby (1.1.10)
     console (1.16.2)
       fiber-local
