@@ -10,17 +10,19 @@ GEM
   remote: https://rubygems.org/
   specs:
     Ascii85 (1.1.0)
-    addressable (2.8.4)
+    addressable (2.8.5)
       public_suffix (>= 2.0.2, < 6.0)
     afm (0.2.2)
-    async (2.5.0)
+    async (2.6.3)
       console (~> 1.10)
+      fiber-annotation
       io-event (~> 1.1)
       timers (~> 4.1)
     colorator (1.1.0)
     commonmarker (0.23.9)
     concurrent-ruby (1.1.10)
-    console (1.16.2)
+    console (1.21.0)
+      fiber-annotation
       fiber-local
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
@@ -29,12 +31,13 @@ GEM
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
     ffi (1.15.5)
+    fiber-annotation (0.2.0)
     fiber-local (1.0.0)
     forwardable-extended (2.6.0)
     google-protobuf (3.21.12)
     google-protobuf (3.21.12-x86_64-linux)
     hashery (2.1.2)
-    html-proofer (5.0.7)
+    html-proofer (5.0.8)
       addressable (~> 2.3)
       async (~> 2.1)
       nokogiri (~> 1.13)
@@ -48,7 +51,7 @@ GEM
     http_parser.rb (0.8.0)
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
-    io-event (1.1.7)
+    io-event (1.2.3)
     jekyll (4.3.2)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -93,9 +96,9 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     mini_magick (4.11.0)
-    nokogiri (1.14.3-arm64-darwin)
+    nokogiri (1.15.3-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.14.3-x86_64-linux)
+    nokogiri (1.15.3-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -107,8 +110,8 @@ GEM
       ttfunk
     psych (5.1.0)
       stringio
-    public_suffix (5.0.1)
-    racc (1.6.2)
+    public_suffix (5.0.3)
+    racc (1.7.1)
     rainbow (3.1.1)
     rake (13.0.6)
     rb-fsevent (0.11.2)
@@ -132,7 +135,7 @@ GEM
     unicode-display_width (2.4.2)
     webrick (1.7.0)
     yell (2.2.2)
-    zeitwerk (2.6.7)
+    zeitwerk (2.6.11)
 
 PLATFORMS
   arm64-darwin-21
