@@ -26,8 +26,8 @@ jobs:
 
     - name: Download data from the fishtreeoflife docker container
       run: scripts/docker.sh
-      
-    - run: sudo apt update && sudo apt install -y libyaml-dev
+
+    - run: sudo apt update && sudo apt install -y --no-install-recommends libyaml-dev imagemagick
 
     - uses: ruby/setup-ruby@v1
       with:
