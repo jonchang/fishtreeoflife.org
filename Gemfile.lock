@@ -159,8 +159,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  base64
-  csv
   html-proofer
   jekyll (= 4.4.1)
   jekyll-commonmark
