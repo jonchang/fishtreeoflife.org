@@ -1,11 +1,9 @@
 source "https://rubygems.org"
-gem "jekyll", "4.3.4"
+gem "jekyll", "4.4.1"
 gem "rake"
 gem "liquid-c", github: "Shopify/liquid-c", ref: "a46872ed72dbf9246d9ac95bf2713fc26b01f9a9"
 gem "psych"
-gem "csv"
 gem "logger"
-gem "base64"
 
 group :jekyll_plugins do
   gem "jekyll-commonmark"
