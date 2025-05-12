@@ -127,7 +127,7 @@ GEM
       hashery (~> 2.0)
       ruby-rc4
       ttfunk
-    psych (5.2.4)
+    psych (5.2.6)
       date
       stringio
     public_suffix (6.0.1)
