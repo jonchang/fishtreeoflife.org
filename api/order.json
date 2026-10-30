@@ -1,5 +1,0 @@
----
-layout: none
-note: "keep these around for api compatibility with the fishtree package"
----
-{{ site.data.taxonomy.order | jsonify }}

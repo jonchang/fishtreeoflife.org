@@ -1,0 +1,218 @@
+---
+// One page per taxon, /taxonomy/{rank}/{slug}/, for all 18 ranks. Ported
+// from the Jekyll _layouts/rank.html; everything shown is computed in
+// src/lib/summary.ts.
+
+import type { GetStaticPaths } from 'astro';
+import Page from '../../../layouts/Page.astro';
+import { taxonPages, type TaxonPage } from '../../../lib/summary';
+
+export const getStaticPaths = (() =>
+  taxonPages().map((page) => ({ params: { rank: page.rank, name: page.slug }, props: { page } }))) satisfies GetStaticPaths;
+
+interface Props {
+  page: TaxonPage;
+}
+
+const { page: p } = Astro.props;
+const phylo = p.phylogenies;
+---
+
+<Page title={p.name} description={p.description}>
+  {
+    p.lineage.length > 0 && (
+      <nav class="lineage" aria-label="Lineage">
+        <p>{p.lineage.map((step) => <>{step.taxa.map((t, i) => <>{i > 0 && ', '}<a href={t.url} title={step.label}>{t.name}</a></>)} &rsaquo; </>)}<strong>{p.name}</strong></p>
+      </nav>
+    )
+  }
+
+  <p>{p.headline}</p>
+
+  {
+    p.children && (
+      <section id="contents">
+        <h2>Contents</h2>
+        <div class="table-scroll">
+          <table class="contents">
+            <thead>
+              <tr>
+                <th>Taxon</th>
+                <th>Rank</th>
+                <th>Sampled / total</th>
+                <th>Sampling</th>
+                <th>Mean &lambda;<sub>DR</sub></th>
+              </tr>
+            </thead>
+            <tbody>
+              {p.children.map((c) => (
+                <tr>
+                  <td>{c.name !== null && c.url !== null ? <><a href={c.url}>{c.name}</a>{c.nonmono && '*'}</> : `Unassigned at ${c.rank}`}</td>
+                  <td>{c.rankLabel}</td>
+                  <td class="num">{c.sampled} / {c.total}</td>
+                  <td class="num"><meter min="0" max="1" value={c.frac}></meter> {c.pct}</td>
+                  <td class="num">{c.meanDr}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        {p.anyNonmono && <p>Taxa marked with * were not recovered as monophyletic in our phylogenetic analysis.</p>}
+      </section>
+    )
+  }
+
+  <section id="species">
+    <h2>Species</h2>
+
+    <h3>Largest genera</h3>
+    <p>Sampled species out of the total in each genus:</p>
+    <ul>
+      {p.genera.map((g) => <li><em>{g.genus}</em> {g.sampled}/{g.total}</li>)}
+    </ul>
+
+    {
+      p.familiar.length > 0 && (
+        <>
+          <h3>Familiar species</h3>
+          <p>Well-known and model species in {p.name}. Species with genetic data are in bold.</p>
+          <ul>
+            {p.familiar.map((f) => <li>{f.sampled ? <strong><em>{f.species}</em></strong> : <em>{f.species}</em>} ({f.commonName})</li>)}
+          </ul>
+        </>
+      )
+    }
+
+    <h3>All species</h3>
+    {
+      p.inlineList ? (
+        <>
+          <p>Species with genetic data are in bold.</p>
+          <details>
+            <summary>Species list</summary>
+            <ul id="species-list">
+              {p.sampledSpecies.map((s) => <li><strong><em>{s}</em></strong></li>)}
+              {p.unsampledSpecies.map((s) => <li><em>{s}</em></li>)}
+            </ul>
+          </details>
+        </>
+      ) : (
+        <p>{p.name} has too many species to list on this page. The full list is available as a <a href={p.csvUrl}>CSV file</a>, or browse the taxa listed under <a href="#contents">Contents</a>.</p>
+      )
+    }
+  </section>
+
+  {
+    p.genes && (
+      <section id="genes">
+        <h2>Gene coverage</h2>
+        <details>
+          <summary>Share of the {p.nSampled} sampled species with data for each gene</summary>
+          <div class="table-scroll">
+            <table class="genes">
+              <thead>
+                <tr>
+                  <th>Gene</th>
+                  <th>Species with data</th>
+                  <th>% of sampled species</th>
+                </tr>
+              </thead>
+              <tbody>
+                {p.genes.map((g) => (
+                  <tr>
+                    <td>{g.gene}</td>
+                    <td class="num">{g.count}</td>
+                    <td class="num">{g.pct}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </details>
+      </section>
+    )
+  }
+
+  {
+    p.enclosed.length > 0 && (
+      <section id="taxonomy">
+        <h2>Enclosed taxa</h2>
+        <details>
+          <summary>{p.enclosedSummary}</summary>
+          <dl>
+            {p.enclosed.map((grp) => (
+              <>
+                <dt>{grp.label}</dt>
+                {grp.taxa.map((t) => <dd><a href={t.url}>{t.name}</a></dd>)}
+              </>
+            ))}
+          </dl>
+        </details>
+      </section>
+    )
+  }
+
+  <section id="fossils">
+    <h2>Fossil calibrations</h2>
+    {
+      p.fossils.length === 0 || p.fossilDataUrl === null ? (
+        <p>No internal fossil calibrations are available for this group.</p>
+      ) : (
+        <>
+          <ul>
+            {p.fossils.map((f) => <li>{f.clade} (<em><a href={f.url}>{f.fossil}</a></em>&dagger;) {f.min} Ma</li>)}
+          </ul>
+          <p><a href={p.fossilDataUrl} download>Download fossil calibration data</a> (JSON)</p>
+        </>
+      )
+    }
+  </section>
+
+  <section id="downloads">
+    <h2>Downloads</h2>
+
+    <p>These data are released under the <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a> public domain dedication; please cite us if you use them (<a href="/about/#license">License</a>).</p>
+
+    <p><a href={p.apiUrl}>Download {p.name} data (JSON format)</a></p>
+    <p><a href={p.csvUrl}>Species list for {p.name} (CSV format)</a></p>
+
+    <section id="downloads-phylogenies">
+      <h3>Phylogenies</h3>
+      {
+        phylo.kind === 'monophyletic' && (
+          <>
+            <p><a href={phylo.phylogram}>Phylogram of {p.name}</a></p>
+            <p><a href={phylo.chronogram}>Time-calibrated phylogeny of {p.name}</a></p>
+          </>
+        )
+      }
+      {
+        phylo.kind === 'paraphyletic' && (
+          <>
+            <p>There were {phylo.rogues} species that caused {p.name} to be inferred as paraphyletic.</p>
+            <p><a href={phylo.chronogram}>Time-calibrated phylogeny of <em>only</em> species in {p.name}</a></p>
+            <p><a href={phylo.chronogramMrca}>Time-calibrated phylogeny of "{p.name}"</a></p>
+            <p><a href={phylo.phylogram}>Phylogram of <em>only</em> species in {p.name}</a></p>
+            <p><a href={phylo.phylogramMrca}>Phylogram of "{p.name}"</a></p>
+          </>
+        )
+      }
+      {phylo.kind === 'none' && <p>No phylogenies available ({phylo.reason})</p>}
+    </section>
+
+    <section id="downloads-sequence">
+      <h3>Sequence data</h3>
+      {
+        p.sequences ? (
+          <>
+            <p><a href={p.sequences.phylip}>Phylip sequences for {p.name}</a></p>
+            <p><a href="/downloads/final_alignment.partitions">RAxML-style partitions file</a></p>
+            <p><a href={p.sequences.nexus}>Nexus file for {p.name} (includes character partitions{p.sequences.nexusHasTree && ' and phylogeny'})</a></p>
+          </>
+        ) : (
+          <p>No sequences available (too few sampled species)</p>
+        )
+      }
+    </section>
+  </section>
+</Page>

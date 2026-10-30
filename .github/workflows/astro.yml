@@ -1,0 +1,89 @@
+name: Astro site CI
+
+on:
+  push:
+    branches: [master, astro/main]
+  pull_request:
+    branches: [master, 'astro/**']
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 1' # At 00:00 on Monday
+
+permissions:
+  contents: read
+
+concurrency:
+  group: astro-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      ASTRO_TELEMETRY_DISABLED: 1
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - run: npm ci
+
+      - name: Download data from the fishtreeoflife docker image
+        run: scripts/fetch-data.sh
+
+      - run: npm run build
+
+      - run: npm run check
+
+      - run: npm run validate
+
+      - run: npm run budget
+
+      - name: Check links (offline)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --offline
+            --no-progress
+            --include-fragments
+            --root-dir ${{ github.workspace }}/dist
+            --index-files index.html
+            'dist/**/*.html'
+
+      - name: Check the URL contract
+        run: node scripts/check-urls.mjs dist
+
+      - name: Upload the built site for preview
+        if: github.ref != 'refs/heads/master'
+        uses: actions/upload-artifact@v7
+        with:
+          name: site
+          path: dist/
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Upload the built site for GitHub Pages
+        if: github.ref == 'refs/heads/master'
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist/
+
+  deploy:
+    if: github.ref == 'refs/heads/master'
+    needs: build
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: true
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

@@ -1,0 +1,52 @@
+---
+// /downloads/taxonomy/: family trees and the skeletal trees. Ported from the
+// Jekyll downloads/taxonomy.md. The files it links to live in the same
+// directory, copied from the data image through public/downloads/taxonomy/.
+import Page from '../../layouts/Page.astro';
+import { familyDownloads } from '../../lib/taxonomy-index';
+
+const families = familyDownloads();
+---
+
+<Page
+  title="Downloads by taxonomic rank"
+  description="Download sequence and phylogenetic data on a rank basis for the Fish Tree of Life"
+>
+  <p>These data are released under the <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a> public domain dedication; please cite us if you use them (<a href="/about/#license">License</a>).</p>
+
+  <h2 id="downloads">Downloads</h2>
+
+  <p>
+    We have a limited number of skeletal phylogenies available for download, using exemplars for each rank. Some
+    groups may be missing or incorrectly placed, as it is not entirely clear which species serves as the best
+    representative for a given taxon when that taxon is non-monophyletic. These phylogenies should therefore only be
+    used for a high-level, approximate visualization of our result. They are <strong>not intended</strong> to be used
+    for actual comparative analyses.
+  </p>
+
+  <ul>
+    <li><a href="/downloads/taxonomy/order_skeletal.tre">Skeletal order phylogeny</a></li>
+    <li><a href="/downloads/taxonomy/family_skeletal.tre">Skeletal family phylogeny</a></li>
+  </ul>
+
+  <ul>
+    {
+      families.map((f) => (
+        <li>
+          {f.name}
+          <ul>
+            <li><a href={f.chronogram}>Chronogram</a></li>
+            <li><a href={f.phylogram}>Phylogram</a></li>
+            {f.mrca && (
+              <>
+                <li><a href={f.mrca.chronogram}>MRCA Chronogram</a></li>
+                <li><a href={f.mrca.phylogram}>MRCA Phylogram</a></li>
+              </>
+            )}
+          </ul>
+        </li>
+      ))
+    }
+  </ul>
+
+</Page>

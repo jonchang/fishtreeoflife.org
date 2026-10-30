@@ -1,4 +1,4 @@
-[![Build status](https://github.com/jonchang/fishtreeoflife.org/workflows/Jekyll%20site%20CI/badge.svg)](https://github.com/jonchang/fishtreeoflife.org/actions)
+[![Build status](https://github.com/jonchang/fishtreeoflife.org/actions/workflows/astro.yml/badge.svg)](https://github.com/jonchang/fishtreeoflife.org/actions/workflows/astro.yml)
 [![Digital object identifier](https://zenodo.org/badge/DOI/10.1111/2041-210x.13182.svg)](https://doi.org/10.1111/2041-210x.13182)
 
 
@@ -8,14 +8,17 @@ This is the primary git repository for the Fish Tree of Life website at https://
 
 # Building
 
+The site is built with [Astro](https://astro.build) and needs Node 26 (see `.nvmrc`).
+
 ```
 git clone https://github.com/jonchang/fishtreeoflife.org.git
 cd fishtreeoflife.org
-scripts/docker.sh
-bundle install
-bundle exec rake -j build
-bundle exec rake serve
+scripts/fetch-data.sh   # data from the Docker image; uses docker, or skopeo as a fallback
+npm ci
+npm run dev             # or: npm run build && npm run preview
 ```
+
+`npm run check` type-checks the templates, and `npm run validate` lints the built HTML in `dist/`.
 
 # Sponsorship
 

@@ -1,42 +1,16 @@
-_site
-.sass-cache
-.jekyll-metadata
-.asset-cache/
-.jekyll-cache/
+node_modules/
+/dist/
+.astro/
 
-api/taxonomy
+# Build input from the data image (scripts/fetch-data.sh); never served
+/data/
 
-_class
-_cohort
-_division
-_infraclass
-_infracohort
-_infraorder
-_megacohort
-_section
-_series
-_subclass
-_subcohort
-_subdivision
-_suborder
-_subsection
-_supercohort
-_superorder
-_family
-_order
+# Files from the data image that scripts/fetch-data.sh places under public/.
+# Two files in public/downloads/ are tracked and stay tracked.
+/public/downloads/*
+!/public/downloads/final_alignment.partitions
+!/public/downloads/front-page-tree@1x.png
+/public/assets/img/vertical_tree*
 
-_fossils
-_data/fossil_data.csv
-_data/fossil_pretty.csv
-_data/taxonomy
-_data/monophyly
-_data/summary
-downloads/taxonomy/
-downloads/*.xz
-downloads/fossil_data.csv
-downloads/taxonConversion.csv
-assets/img/vertical_tree*.png
-
-# bundler
-.bundle/
-vendor/
+# The legacy JSON API, generated from the data image (scripts/legacy-api.mjs)
+/public/api/

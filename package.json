@@ -1,0 +1,28 @@
+{
+  "name": "fishtreeoflife.org",
+  "private": true,
+  "type": "module",
+  "description": "The Fish Tree of Life website (https://fishtreeoflife.org)",
+  "engines": {
+    "node": ">=26"
+  },
+  "scripts": {
+    "predev": "node scripts/legacy-api.mjs",
+    "dev": "astro dev",
+    "prebuild": "node scripts/legacy-api.mjs",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "validate": "html-validate \"dist/**/*.html\"",
+    "budget": "node scripts/check-budget.mjs dist"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^7.4.4"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.12",
+    "html-validate": "^11.17.0",
+    "typescript": "^6.0.3"
+  }
+}

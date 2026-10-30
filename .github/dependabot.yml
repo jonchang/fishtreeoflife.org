@@ -1,10 +1,13 @@
 version: 2
 updates:
-- package-ecosystem: bundler
+- package-ecosystem: npm
   directory: "/"
   schedule:
     interval: daily
   versioning-strategy: increase
+  groups:
+    minor-and-patch:
+      update-types: [minor, patch]
   assignees:
   - jonchang
 - package-ecosystem: "github-actions"
