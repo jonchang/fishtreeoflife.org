@@ -4,14 +4,11 @@ layout: page
 description: Download sequence and phylogenetic data on a rank basis for the Fish Tree of Life
 ---
 
-{% assign families = site.data.family %}
-
-
 <ul>
-{% for family_hash in site.data.family %}
+{% for family_hash in site.data.taxonomy.family %}
 {% assign family = family_hash[1] %}
 {% if family.chronogram %}
-<li>{{ family.family[0] }}
+<li>{{ family_hash[0] }}
 <ul>
 <li><a href="{{ family.chronogram | relative_url }}">Chronogram</a></li>
 <li><a href="{{ family.phylogram | relative_url }}">Phylogram</a></li>
