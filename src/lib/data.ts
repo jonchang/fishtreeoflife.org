@@ -67,7 +67,11 @@ export interface Taxon {
   unsampled_species: string[];
   /** Gene -> sampled species with data for it. An empty array when nothing is sampled. */
   gene_sampling: Record<string, string[]> | [];
-  /** Rank -> names of the taxa at that rank that this taxon belongs to or encloses. */
+  /**
+   * Rank -> taxon names at that rank: the one ancestor at each higher rank,
+   * this taxon at its own rank, and every enclosed taxon at each lower rank.
+   * Empty where no taxon is assigned.
+   */
   taxonomy: Record<Rank, string[] | undefined>;
   tiprates_dr: Record<string, number>;
   tiprates_bamm_lambda: Record<string, number>;
