@@ -113,11 +113,18 @@ figure {
 /* Images */
 img {
   max-width: 100%;
+  height: auto;
   vertical-align: middle;
 }
 
-figure > img {
+figure > img,
+figure > picture,
+.tree-figure picture {
   display: block;
+}
+
+figure > picture + picture {
+  margin-top: calc(var(--spacing-unit) / 2);
 }
 
 figcaption {
