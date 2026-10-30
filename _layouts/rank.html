@@ -3,11 +3,70 @@ layout: page
 ---
 
 {% assign df = site.data.taxonomy[page.collection][page.title] %}
+{% assign sm = site.data.summary[page.collection][page.title] %}
+
+<nav class="lineage" aria-label="Lineage">
+    <p>{% for step in sm.lineage %}{% for t in step.taxa %}<a href="{{ t.url | relative_url }}" title="{{ step.rank | capitalize }}">{{ t.name }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %} &rsaquo; {% endfor %}<strong>{{ page.title }}</strong></p>
+</nav>
+
+<p>{{ sm.headline | escape }}</p>
+
+{% if sm.children %}
+<section id="contents">
+    <h2>Contents</h2>
+
+    <div style="overflow-x:auto;">
+        <table class="contents">
+            <thead>
+                <tr><th>Taxon</th><th>Rank</th><th>Sampled / total</th><th>Sampling</th><th>Mean &lambda;<sub>DR</sub></th></tr>
+            </thead>
+            <tbody>
+                {% for c in sm.children %}
+                <tr>
+                    <td>{% if c.name %}<a href="{{ c.url | relative_url }}">{{ c.name }}</a>{% if c.nonmono %}*{% endif %}{% else %}Unassigned at {{ c.rank }}{% endif %}</td>
+                    <td>{{ c.rank | capitalize }}</td>
+                    <td class="num">{{ c.sampled }} / {{ c.total }}</td>
+                    <td class="num"><meter min="0" max="1" value="{{ c.frac }}"></meter> {{ c.pct | escape }}</td>
+                    <td class="num">{{ c.mean_dr }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    {% if sm.any_nonmono %}
+    <p>Taxa marked with * were not recovered as monophyletic in our phylogenetic analysis.</p>
+    {% endif %}
+</section>
+{% endif %}
 
 <section id="species">
     <h2>Species</h2>
 
-    <p>Sampling: {{ df.sampled_species | size }} out of {{ df.species | size }} species have genetic data (in bold)</p>
+    <h3>Largest genera</h3>
+
+    <p>Sampled species out of the total in each genus:</p>
+    <ul>
+        {% for g in sm.genera %}
+        <li><em>{{ g.genus }}</em> {{ g.sampled }}/{{ g.total }}</li>
+        {% endfor %}
+    </ul>
+
+    {% if sm.familiar.size > 0 %}
+    <h3>Familiar species</h3>
+
+    <p>Well-known and model species in {{ page.title }}. Species with genetic data are in bold.</p>
+    <ul>
+        {% for f in sm.familiar %}
+        <li>{% if f.sampled %}<strong><em>{{ f.species }}</em></strong>{% else %}<em>{{ f.species }}</em>{% endif %} ({{ f.common_name }})</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+
+    <h3>All species</h3>
+
+    {% if sm.inline_list %}
+    <p>Species with genetic data are in bold.</p>
 
     <details>
         <summary>Species list</summary>
@@ -20,7 +79,50 @@ layout: page
             {% endfor %}
         </ul>
     </details>
+    {% else %}
+    <p>{{ page.title }} has too many species to list on this page. The full list is available as a <a href="{{ sm.csv | relative_url }}">CSV file</a>, or browse the taxa listed under <a href="#contents">Contents</a>.</p>
+    {% endif %}
 </section>
+
+{% if sm.genes %}
+<section id="genes">
+    <h2>Gene coverage</h2>
+
+    <details>
+        <summary>Share of the {{ sm.n_sampled }} sampled species with data for each gene</summary>
+        <div style="overflow-x:auto;">
+            <table class="genes">
+                <thead>
+                    <tr><th>Gene</th><th>Species with data</th><th>% of sampled species</th></tr>
+                </thead>
+                <tbody>
+                    {% for g in sm.genes %}
+                    <tr><td>{{ g.gene }}</td><td class="num">{{ g.count }}</td><td class="num">{{ g.pct | escape }}</td></tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </details>
+</section>
+{% endif %}
+
+{% if sm.enclosed.size > 0 %}
+<section id="taxonomy">
+    <h2>Enclosed taxa</h2>
+
+    <details>
+        <summary>{{ sm.enclosed_summary }}</summary>
+        <dl>
+        {% for grp in sm.enclosed %}
+        <dt>{{ grp.rank | capitalize }}</dt>
+        {% for t in grp.taxa %}
+        <dd><a href="{{ t.url | relative_url }}">{{ t.name }}</a></dd>
+        {% endfor %}
+        {% endfor %}
+        </dl>
+    </details>
+</section>
+{% endif %}
 
 <section id="fossils">
     <h2>Fossil calibrations</h2>
@@ -47,33 +149,13 @@ layout: page
     {% endif %}
 </section>
 
-<section id="taxonomy">
-    <h2>Taxonomy</h2>
-    <dl>
-    {% for rank in site.data.ranks %}
-    {% if df.taxonomy[rank].size > 0 %}
-    <dt>{{ rank | capitalize }}</dt>
-
-    {% for name in df.taxonomy[rank] %}
-    {% assign nn = site[rank] | where: "title", name | first %}
-    {% if nn.title == page.title %}
-    <dd><strong>{{ page.title }}</strong></dd>
-    {% else %}
-    <dd><a href="{{ nn.url | relative_url }}">{{ name }}</a></dd>
-    {% endif %}
-    {% endfor %}
-
-    {% endif %}
-    {% endfor %}
-    </dl>
-</section>
-
 <section id="downloads">
     <h2>Downloads</h2>
 
     <p>These data are released under the <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a> public domain dedication; please cite us if you use them (<a href="{% link about.md %}#license">License</a>).</p>
 
     <p><a href="/api/taxonomy/{{ page.collection }}/{{ page.title }}.json">Download {{ page.title }} data (JSON format)</a></p>
+    <p><a href="{{ sm.csv | relative_url }}">Species list for {{ page.title }} (CSV format)</a></p>
 
     <section id="downloads-phylogenies">
         <h3>Phylogenies</h3>

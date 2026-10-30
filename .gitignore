@@ -30,6 +30,7 @@ _data/fossil_data.csv
 _data/fossil_pretty.csv
 _data/taxonomy
 _data/monophyly
+_data/summary
 downloads/taxonomy/
 downloads/*.xz
 downloads/fossil_data.csv
