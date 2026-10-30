@@ -1,11 +1,8 @@
 ---
 // One page per taxon, /taxonomy/{rank}/{slug}/, for all 18 ranks. Ported
 // from the Jekyll _layouts/rank.html; everything shown is computed in
-// src/lib/summary.ts. No scoped <style>: the biggest pages list up to 3,000
-// species, and scoped styles would add an attribute to every element.
-//
-// Inline runs stay on one line: a line break between inline elements would
-// render as a space.
+// src/lib/summary.ts.
+
 import type { GetStaticPaths } from 'astro';
 import Page from '../../../layouts/Page.astro';
 import { taxonPages, type TaxonPage } from '../../../lib/summary';
