@@ -26,6 +26,12 @@ We have also [released a set of enhanced ATA trees]({% link downloads/index.md %
 
 Jonathan Chang, Daniel L. Rabosky, Michael E. Alfaro (2019). Estimating diversification rates on incompletely-sampled phylogenies: theoretical concerns and practical solutions. *Systematic Biology*, doi:[10.1093/sysbio/syz081](https://doi.org/10.1093/sysbio/syz081)
 
+# License
+
+The data products on this website, such as the phylogenies, sequence alignments, taxonomy files, fossil calibrations, and diversification rates, are released under the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication. This matches the license of our Dryad data package (doi:[10.5061/dryad.fc71cp4](https://doi.org/10.5061/dryad.fc71cp4)). The same terms apply to the data released here after that package, including the enhanced ATA trees and the updated tip rates.
+
+CC0 means you can copy, modify, and redistribute these data, including for commercial purposes, without asking permission. CC0 does not legally require attribution, but scholarly norms do: if you use these data, please cite the papers listed under [Citing](#citing).
+
 # Contact
 
 For issues or feature requests for the website, please contact [Jonathan Chang](https://jonathanchang.org).
