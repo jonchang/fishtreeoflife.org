@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: ../layouts/Page.astro
 title: Methods
 description: How to build a comprehensive ray-finned fish phylogeny (Actinopterygii)
 ---
@@ -15,7 +15,7 @@ Our modified version of PHLAWD then assesses these homologous sequences for satu
 To further increase the genetic coverage of our dataset, we downloaded the full Barcode of Life (BOLD) database sequences and extracted the longest cytochrome oxidase subunit 1 (*coi*) gene for each species in Actinopterygii. We also downloaded full mitochondrial chromosomes for each actinopterygian species and extracted the *nd2* and *nd4* genes. This preliminary alignment included 15,606 species. 
 
 
-<details markdown="1">
+<details>
 <summary>Table: Gene sources for PHLAWD analyses. Sources marked (*) were not used for baited PHLAWD searches and instead included directly into the character matrix.</summary>
 
 | Gene name   | ETOL | Rabosky | Near | BOLD* | mt-genome* |
@@ -58,7 +58,7 @@ For example, the *enc1* sequence for *Amia calva* (Accession [EF032974.1](https:
 
 We used previously described sequencing protocols to generate new multilocus data for 442 species. These were directly added and aligned to the character matrix. Alignments were then quality checked by eye to ensure that coding genes were in frame. These alignments were then concatenated for downstream analysis.
 
-<details markdown="1">
+<details>
 <summary>Table: New sequences by gene.</summary>
 
 | Species                            | enc1 | glyt | myh6 | plagl2 | ptr | rag1 | sh3px3 | sreb2 | tbr1 | zic1 |
@@ -554,7 +554,7 @@ Table: Gene sequences excluded due to rogue behavior or high identity BLAST matc
 
 We then generated individual family-level phylogenies by extracting the subtree descended from the most recent common ancestor of all species in each family, and automatically marked descendent taxa that were from outside the focal family. We then assessed the quality of the phylogeny on a family-by-family basis, and marked any taxa that exhibited rogue behavior.
 
-We then removed tips that had extremely long branches, as these potentially indicated areas of poor sequence quality or alignment. Using the final filtered dataset, which contained 11,644 tips, we reran a maximum likelihood analysis in RAxML and computed node support values using the SH-like statistic[^Guindon2010], as it is conservative at estimating support values like standard bootstrapping but runs much faster. The NNI-optimized topology with SH-like support values can be [downloaded here]({% link downloads/actinopt_12k_support.tre.xz%}).
+We then removed tips that had extremely long branches, as these potentially indicated areas of poor sequence quality or alignment. Using the final filtered dataset, which contained 11,644 tips, we reran a maximum likelihood analysis in RAxML and computed node support values using the SH-like statistic[^Guindon2010], as it is conservative at estimating support values like standard bootstrapping but runs much faster. The NNI-optimized topology with SH-like support values can be [downloaded here](/downloads/actinopt_12k_support.tre.xz).
 
 # Fossil calibrations
 

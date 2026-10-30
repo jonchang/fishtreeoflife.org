@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: ../layouts/Page.astro
 title: About
 description: Citing the ray-finned fish phylogeny, information about the Fish Tree of Life
 ---
@@ -14,7 +14,7 @@ We track your usage of our services using Google Analytics and the CRANlogs data
 
 If you use any phylogenetic products derived from this website, including taxonomic resources and fossil calibration constraints, please cite:
 
-<p markdown="0">
+<p>
 Daniel L. Rabosky*, Jonathan Chang*, Pascal O. Title*, Peter F. Cowman, Lauren Sallan, Matt Friedman, Kristin Kaschner, Cristina Garilao, Thomas J. Near, Marta Coll, Michael E. Alfaro* (2018).  An inverse latitudinal gradient in speciation rate for marine fishes. <em>Nature</em>, 559(7714), 392&ndash;395 doi:<a href="https://doi.org/10.1038/s41586-018-0273-1">10.1038/s41586-018-0273-1</a>
 </p>
 
@@ -22,7 +22,7 @@ If you use the R package or web API, please cite:
 
 Jonathan Chang, Daniel L. Rabosky, Stephen A. Smith, Michael E. Alfaro (2019). An R package and online resource for macroevolutionary studies using the ray‐finned fish tree of life. *Methods in Ecology and Evolution*, 10:1118--1124 doi:[10.1111/2041-210x.13182](https://doi.org/10.1111/2041-210x.13182)
 
-We have also [released a set of enhanced ATA trees]({% link downloads/index.md %}); the details on how these ATA distributions differ are detailed in [Rabosky et al. 2018 update]({% link rabosky-et-al-2018-update.md %}). [The original set of ATA phylogenies are available via Dryad](https://doi.org/10.5061/dryad.fc71cp4). The taxonomic addition algorithm using stochastic polytomy resolution (TACT: Taxonomic Addition for Complete Trees) that generated these ATA phylogenies was published as:
+We have also [released a set of enhanced ATA trees](/downloads/); the details on how these ATA distributions differ are detailed in [Rabosky et al. 2018 update](/rabosky-et-al-2018-update/). [The original set of ATA phylogenies are available via Dryad](https://doi.org/10.5061/dryad.fc71cp4). The taxonomic addition algorithm using stochastic polytomy resolution (TACT: Taxonomic Addition for Complete Trees) that generated these ATA phylogenies was published as:
 
 Jonathan Chang, Daniel L. Rabosky, Michael E. Alfaro (2019). Estimating diversification rates on incompletely-sampled phylogenies: theoretical concerns and practical solutions. *Systematic Biology*, doi:[10.1093/sysbio/syz081](https://doi.org/10.1093/sysbio/syz081)
 
