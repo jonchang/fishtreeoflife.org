@@ -2,8 +2,8 @@
 
 The site must keep serving the URLs that people, search engines and old copies of the `fishtree` R package depend on. `scripts/check-urls.mjs` enforces this against two fixtures, both generated from the Jekyll build of `master@2a7a2ab`:
 
-- **`legacy-urls.txt`** (1,558 paths): every one must exist and be non-empty.
-  - every HTML page, all 832 of them
+- **`legacy-urls.txt`** (1,557 paths): every one must exist and be non-empty.
+  - every HTML page, all 831 of them, except `/404/`, where Jekyll put the 404 page but GitHub Pages never serves it
   - the whole JSON API under `/api/` (706 files, plus `/api/` itself)
   - the top-level files in `/downloads/`, which papers cite, and the two skeletal trees in `/downloads/taxonomy/`
   - `/sitemap.xml`, `/robots.txt`, `/favicon.ico` and `/favicon.png`

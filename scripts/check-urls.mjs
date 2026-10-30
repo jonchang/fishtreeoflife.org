@@ -188,6 +188,9 @@ async function walk(dir, root = dir, out = []) {
 // icons, per-taxon downloads) may move: internal links to them are covered by
 // the link checker, and per-taxon downloads by the embedded-path check.
 function inContract(path) {
+    // Jekyll's pretty permalinks put the 404 page at /404/, where GitHub Pages
+    // never serves it for missing URLs; nothing links there, so it's excluded.
+    if (path === "/404/index.html") return false;
     if (path.endsWith("/index.html") || path === "/404.html") return true; // every HTML page
     if (path.startsWith("/api/")) return true; // the JSON API, fishtree's entry point
     if (/^\/downloads\/[^/]+$/.test(path)) return true; // top-level downloads, cited in papers
