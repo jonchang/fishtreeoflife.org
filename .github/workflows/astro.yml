@@ -2,10 +2,12 @@ name: Astro site CI
 
 on:
   push:
-    branches: [astro/main]
+    branches: [master, astro/main]
   pull_request:
-    branches: ['astro/**']
+    branches: [master, 'astro/**']
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 1' # At 00:00 on Monday
 
 permissions:
   contents: read
@@ -55,9 +57,33 @@ jobs:
         run: node scripts/check-urls.mjs dist
 
       - name: Upload the built site for preview
+        if: github.ref != 'refs/heads/master'
         uses: actions/upload-artifact@v7
         with:
           name: site
           path: dist/
           if-no-files-found: error
           retention-days: 14
+
+      - name: Upload the built site for GitHub Pages
+        if: github.ref == 'refs/heads/master'
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist/
+
+  deploy:
+    if: github.ref == 'refs/heads/master'
+    needs: build
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: true
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
