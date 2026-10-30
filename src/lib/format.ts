@@ -171,23 +171,3 @@ export function fossilUrl(slug: string): string {
 export function filePath(relative: string): string {
   return '/' + relative.replace(/^\/+/, '').split('/').map(encodeURIComponent).join('/');
 }
-
-/**
- * Percent-encodes text for a data: URL the way Liquid's uri_escape filter
- * (Addressable normalize_component) did: unreserved and reserved URI
- * characters stay as they are, everything else is UTF-8 percent-encoded.
- */
-export function uriEscape(s: string): string {
-  const keep = /[A-Za-z0-9\-._~:/?#[\]@!$&'()*+,;=]/;
-  let out = '';
-  for (const ch of s.normalize('NFC')) {
-    if (keep.test(ch)) {
-      out += ch;
-    } else {
-      for (const byte of new TextEncoder().encode(ch)) {
-        out += `%${byte.toString(16).toUpperCase().padStart(2, '0')}`;
-      }
-    }
-  }
-  return out;
-}

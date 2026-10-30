@@ -25,7 +25,6 @@ import {
   rubyRound,
   rubySum,
   taxonUrl,
-  uriEscape,
 } from './format.ts';
 
 /**
@@ -137,7 +136,7 @@ export interface TaxonPage {
   enclosed: RankGroup[];
   enclosedSummary: string;
   fossils: FossilRow[];
-  /** data: URL with the calibrations as JSON, or null when there are none. */
+  /** URL of the calibrations as JSON, or null when there are none. */
   fossilDataUrl: string | null;
   apiUrl: string;
   /** URL of the species CSV. */
@@ -315,6 +314,11 @@ export function speciesCsvPath(rank: Rank, name: string): string {
   return `downloads/taxonomy/${rank}/${name}_species.csv`;
 }
 
+/** Site-relative path of a taxon's fossil calibrations as JSON (no leading slash). */
+function fossilJsonPath(rank: Rank, name: string): string {
+  return `downloads/taxonomy/${rank}/${name}_fossil_calibrations.json`;
+}
+
 function buildPage(rank: Rank, ri: number, name: string, taxon: Taxon): TaxonPage {
   const allRanks = ranks();
   const above = allRanks.slice(0, ri);
@@ -389,8 +393,7 @@ function buildPage(rank: Rank, ri: number, name: string, taxon: Taxon): TaxonPag
     enclosed,
     enclosedSummary: enclosed.map((g) => `${fmtInt(g.taxa.length)} ${rankPlural(g.rank, g.taxa.length)}`).join(', '),
     fossils: fossils.map((f) => ({ clade: f.clade, fossil: f.fossil, min: f.min, url: fossilUrl(defaultSlug(f.fossil)) })),
-    // The calibrations as JSON, keys in the CSV's column order, as Liquid's jsonify wrote them.
-    fossilDataUrl: fossils.length > 0 ? `data:application/json,${uriEscape(JSON.stringify(fossils))}` : null,
+    fossilDataUrl: fossils.length > 0 ? filePath(fossilJsonPath(rank, name)) : null,
     apiUrl: filePath(`api/taxonomy/${rank}/${name}.json`),
     csvUrl: filePath(csvPath),
     csvPath,
@@ -440,4 +443,11 @@ export function speciesCsv(rank: Rank, name: string): string {
     out += csvLine([sp, genusOf(sp), family?.get(sp) ?? null, order?.get(sp) ?? null, sampled.has(sp) ? 'yes' : 'no']);
   }
   return out;
+}
+
+/** A taxon's fossil calibrations as JSON, keys in the CSV's column order. */
+export function fossilJson(rank: Rank, name: string): string {
+  const taxon = taxaOf(rank).get(name);
+  if (!taxon) throw new Error(`No ${rank} named ${name}`);
+  return JSON.stringify(fossilsOf(taxon));
 }

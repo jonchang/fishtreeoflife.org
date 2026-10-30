@@ -13,7 +13,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "check": "astro check",
-    "validate": "html-validate \"dist/**/*.html\""
+    "validate": "html-validate \"dist/**/*.html\"",
+    "budget": "node scripts/check-budget.mjs dist"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",

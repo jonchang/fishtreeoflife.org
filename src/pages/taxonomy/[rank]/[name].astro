@@ -162,7 +162,7 @@ const phylo = p.phylogenies;
           <ul>
             {p.fossils.map((f) => <li>{f.clade} (<em><a href={f.url}>{f.fossil}</a></em>&dagger;) {f.min} Ma</li>)}
           </ul>
-          <p><a href={p.fossilDataUrl} download={`${p.name} fossil calibrations.json`}>Download fossil calibration data</a></p>
+          <p><a href={p.fossilDataUrl} download>Download fossil calibration data</a> (JSON)</p>
         </>
       )
     }

@@ -1,22 +1,26 @@
 ---
 // Home page: the tree figure with a clickable family over each fish drawing,
 // and quick links. Ported from the Jekyll index.md.
+import { Picture } from 'astro:assets';
 import Base from '../layouts/Base.astro';
+import tree from '../assets/front-page-tree.png';
 import { frontPageHotspots } from '../lib/data';
 import { taxonUrl } from '../lib/format';
 
 const hotspots = frontPageHotspots().map((h) => ({ ...h, url: taxonUrl('family', h.taxa) }));
-const img = '/assets/img/front-page-tree';
 ---
 
 <Base>
   <div class="home">
     <div class="tree-figure">
-      <img
-        src={`${img}@1x.png`}
-        srcset={`${img}@1x.png 1x, ${img}@2x.png 2x, ${img}@3x.png 3x`}
-        width="940"
-        height="472"
+      <Picture
+        src={tree}
+        formats={['avif', 'webp']}
+        width={940}
+        widths={[940, 1880, tree.width]}
+        sizes="(min-width: 1000px) 940px, 100vw"
+        loading="eager"
+        fetchpriority="high"
         alt="Time-calibrated phylogeny of ray-finned fishes, colored by speciation rate, with plots of speciation rate against latitude, surrounded by drawings of fishes from 15 families."
       />
       <svg

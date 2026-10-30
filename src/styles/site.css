@@ -113,15 +113,24 @@ figure {
 /* Images */
 img {
   max-width: 100%;
+  height: auto;
   vertical-align: middle;
 }
 
-figure > img {
+figure > img,
+figure > picture,
+.tree-figure picture {
   display: block;
 }
 
 figcaption {
   font-size: 14px;
+}
+
+/* A figure of figures (the 2018 update's original/updated pairs): its own caption is the title. */
+figure:has(> figure) > figcaption {
+  font-weight: bold;
+  margin-bottom: calc(var(--spacing-unit) / 4);
 }
 
 .post-content img {

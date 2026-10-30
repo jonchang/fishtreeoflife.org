@@ -38,6 +38,8 @@ jobs:
 
       - run: npm run validate
 
+      - run: npm run budget
+
       - name: Check links (offline)
         uses: lycheeverse/lychee-action@v2
         with:
