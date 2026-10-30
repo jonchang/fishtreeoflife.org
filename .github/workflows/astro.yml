@@ -1,10 +1,12 @@
 name: Astro site CI
 
 on:
+  # PR branches are built by the pull_request event; building their pushes too
+  # just ran every check twice.
   push:
-    branches: [astro, 'astro/**']
+    branches: [astro/main]
   pull_request:
-    branches: [astro, 'astro/**']
+    branches: ['astro/**']
   workflow_dispatch:
 
 permissions:
