@@ -38,9 +38,7 @@ jobs:
 
       - run: npm run validate
 
-      # Allowed to fail until the taxon and fossil pages are ported.
       - name: Check links (offline)
-        continue-on-error: true
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
@@ -51,10 +49,7 @@ jobs:
             --index-files index.html
             'dist/**/*.html'
 
-      # The URL contract check lands on the astro/url-contract branch.
       - name: Check the URL contract
-        if: hashFiles('scripts/check-urls.mjs') != ''
-        continue-on-error: true
         run: node scripts/check-urls.mjs dist
 
       - name: Upload the built site for preview
