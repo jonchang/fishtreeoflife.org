@@ -1,0 +1,26 @@
+---
+// Temporary home page while the site is ported to Astro; the data-driven
+// home page replaces it in the next step.
+import Base from '../layouts/Base.astro';
+
+const ported = [
+  { title: 'About', href: '/about/' },
+  { title: 'Methods', href: '/methods/' },
+  { title: 'Rabosky et al. 2018 update', href: '/rabosky-et-al-2018-update/' },
+  { title: 'Downloads', href: '/downloads/' },
+  { title: 'Application Programming Interface', href: '/api/' },
+];
+---
+
+<Base>
+  <p>This site is being ported to a new build system. These pages are ready so far:</p>
+  <ul>
+    {
+      ported.map((page) => (
+        <li>
+          <a href={page.href}>{page.title}</a>
+        </li>
+      ))
+    }
+  </ul>
+</Base>
