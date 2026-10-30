@@ -14,19 +14,11 @@ plugins:
 
 twitter_username: chang_jon
 github_username:  jonchang
-google_analytics: UA-15180347-2
+google_analytics: G-TX72S224E0
 
 twitter:
     username: chang_jon
     card: summary_large_image
-
-# Build settings
-markdown: CommonMark
-
-# markdown processor
-commonmark:
-  options: ["SMART", "FOOTNOTES", "UNSAFE"]
-  extensions: ["strikethrough", "autolink", "table"]
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -34,7 +26,6 @@ minima:
     date_format: "%b %-d, %Y"
 
 include:
-    - _pages
     - .nojekyll
 
 jekyll_tidy:
@@ -43,22 +34,6 @@ jekyll_tidy:
 favicon:
     source: favicon.png
     path: "/assets/"
-
-assets:
-    defaults:
-        js: { integrity: false }
-        css: { integrity: false }
-        img: { integrity: false }
-    plugins:
-        img:
-            optim:
-                default:
-                    threads: 4
-                    verbose:
-                        true
-                    pack: true
-                    pngquant:
-                        allow_lossy: true
 
 collections:
     class:
@@ -133,13 +108,14 @@ markdown: kramdown
 exclude:
     - Gemfile
     - Gemfile.lock
+    - Rakefile
+    - README.md
+    - TODO.md
     - scripts/
     - .bundle/
     - vendor/
     - .git/
-    - .asset-cache/
     - .jekyll-cache/
-    - .travis.yml
     - _site/
 
 permalink: pretty

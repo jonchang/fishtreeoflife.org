@@ -6,7 +6,6 @@ gem "psych"
 gem "logger"
 
 group :jekyll_plugins do
-  gem "jekyll-commonmark"
   gem "jekyll-favicon"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
