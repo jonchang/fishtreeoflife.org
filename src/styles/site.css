@@ -123,12 +123,14 @@ figure > picture,
   display: block;
 }
 
-figure > picture + picture {
-  margin-top: calc(var(--spacing-unit) / 2);
-}
-
 figcaption {
   font-size: 14px;
+}
+
+/* A figure of figures (the 2018 update's original/updated pairs): its own caption is the title. */
+figure:has(> figure) > figcaption {
+  font-weight: bold;
+  margin-bottom: calc(var(--spacing-unit) / 4);
 }
 
 .post-content img {
