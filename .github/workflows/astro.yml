@@ -2,9 +2,9 @@ name: Astro site CI
 
 on:
   push:
-    branches: [astro, 'astro/**']
+    branches: [astro/main]
   pull_request:
-    branches: [astro, 'astro/**']
+    branches: ['astro/**']
   workflow_dispatch:
 
 permissions:

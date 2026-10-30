@@ -1,5 +1,0 @@
----
-layout: none
-note: "keep these around for api compatibility for the fishtree package"
----
-{{ site.data.taxonomy.family | jsonify }}

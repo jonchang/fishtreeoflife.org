@@ -7,7 +7,9 @@
     "node": ">=26"
   },
   "scripts": {
+    "predev": "node scripts/legacy-api.mjs",
     "dev": "astro dev",
+    "prebuild": "node scripts/legacy-api.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "check": "astro check",
