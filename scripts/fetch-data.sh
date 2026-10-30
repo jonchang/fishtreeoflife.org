@@ -47,8 +47,10 @@ trap cleanup EXIT
 
 fetch_docker() {
     echo "Fetching $IMAGE with docker" >&2
-    docker pull "$IMAGE"
-    cid="$(docker create "$IMAGE" /bin/true)"
+    # The image is published for linux/amd64 only. It just holds data files
+    # and is never run, so pin the platform for Apple Silicon machines.
+    docker pull --platform linux/amd64 "$IMAGE"
+    cid="$(docker create --platform linux/amd64 "$IMAGE" /bin/true)"
     mkdir -p "$tmp/root/assets"
     docker cp "$cid:/_data" "$tmp/root/_data"
     docker cp "$cid:/_fossils" "$tmp/root/_fossils"
