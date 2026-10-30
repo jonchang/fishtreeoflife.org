@@ -1,7 +1,5 @@
 // Everything a taxon page shows, computed at build time. A port of the Jekyll
-// site's Rakefile `make_summary` (and of the logic in _layouts/rank.html), so
-// the pages and the species CSVs come out the same: same child-rank rule,
-// same "Unassigned at {rank}" row, same number formats and sort orders.
+// site's Rakefile `make_summary` (and of the logic in _layouts/rank.html).
 
 import {
   familiarSpecies,
