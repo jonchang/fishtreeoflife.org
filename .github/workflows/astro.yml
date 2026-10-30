@@ -1,0 +1,66 @@
+name: Astro site CI
+
+on:
+  push:
+    branches: [astro, 'astro/**']
+  pull_request:
+    branches: [astro, 'astro/**']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: astro-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      ASTRO_TELEMETRY_DISABLED: 1
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - run: npm ci
+
+      - name: Download data from the fishtreeoflife docker image
+        run: scripts/fetch-data.sh
+
+      - run: npm run build
+
+      - run: npm run check
+
+      - run: npm run validate
+
+      # Allowed to fail until the taxon and fossil pages are ported.
+      - name: Check links (offline)
+        continue-on-error: true
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --offline
+            --no-progress
+            --include-fragments
+            --root-dir ${{ github.workspace }}/dist
+            --index-files index.html
+            'dist/**/*.html'
+
+      # The URL contract check lands on the astro/url-contract branch.
+      - name: Check the URL contract
+        if: hashFiles('scripts/check-urls.mjs') != ''
+        continue-on-error: true
+        run: node scripts/check-urls.mjs dist
+
+      - name: Upload the built site for preview
+        uses: actions/upload-artifact@v7
+        with:
+          name: site
+          path: dist/
+          if-no-files-found: error
+          retention-days: 14
