@@ -1,8 +1,6 @@
 name: Astro site CI
 
 on:
-  # PR branches are built by the pull_request event; building their pushes too
-  # just ran every check twice.
   push:
     branches: [astro/main]
   pull_request:
