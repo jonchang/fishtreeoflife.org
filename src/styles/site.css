@@ -551,3 +551,23 @@ dt {
 .table-scroll {
   overflow-x: auto;
 }
+
+/*
+ * Backbone trees on /taxonomy/ (MonophylyTree.astro). Lines and labels are
+ * drawn in currentColor, so they follow the text color in dark mode. Labels
+ * link to the taxon pages but keep the text color, as before.
+ */
+.backbone {
+  width: 100%;
+  height: auto;
+}
+
+.backbone a,
+.backbone a:visited {
+  color: inherit;
+}
+
+.backbone a:hover text,
+.backbone a:focus-visible text {
+  text-decoration: underline;
+}

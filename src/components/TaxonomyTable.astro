@@ -1,0 +1,45 @@
+---
+// Alphabetical table of all taxa of one rank, with sampled and total species
+// richness and mean speciation rates. Ported from the Jekyll
+// _includes/taxonomy-table.html.
+import { rankTable } from '../lib/taxonomy-index';
+import { capitalize } from '../lib/format';
+import type { Rank } from '../lib/data';
+
+interface Props {
+  rank: Rank;
+}
+
+const { rank } = Astro.props;
+const rows = rankTable(rank);
+const heading = capitalize(rank);
+---
+
+<div class="table-scroll">
+  <table>
+    <thead>
+      <tr>
+        <th>{heading}</th>
+        <th>Sampled richness</th>
+        <th>Total richness</th>
+        <th>&lambda;<sub>BAMM</sub></th>
+        <th>&lambda;<sub>DR</sub></th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        rows.map((r) => (
+          <tr>
+            <td>
+              <a href={r.url}>{r.name}</a>
+            </td>
+            <td>{r.sampled}</td>
+            <td>{r.total}</td>
+            <td>{r.bammLambda}</td>
+            <td>{r.dr}</td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+</div>
