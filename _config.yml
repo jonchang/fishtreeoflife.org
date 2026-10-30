@@ -159,6 +159,12 @@ defaults:
           image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
     - scope:
           path: ""
+          type: infraorder
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
           type: megacohort
       values:
           layout: rank
@@ -196,6 +202,12 @@ defaults:
     - scope:
           path: ""
           type: suborder
+      values:
+          layout: rank
+          image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png
+    - scope:
+          path: ""
+          type: subsection
       values:
           layout: rank
           image: https://fishtreeoflife.org/downloads/front-page-tree@1x.png

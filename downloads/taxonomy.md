@@ -4,6 +4,8 @@ layout: page
 description: Download sequence and phylogenetic data on a rank basis for the Fish Tree of Life
 ---
 
+These data are released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication; please cite us if you use them ([License]({% link about.md %}#license)).
+
 <ul>
 {% for family_hash in site.data.taxonomy.family %}
 {% assign family = family_hash[1] %}

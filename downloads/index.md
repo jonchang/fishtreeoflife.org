@@ -4,6 +4,8 @@ title: Downloads
 description: Download sequence alignments, phylogenies, and fossil data for ray-finned fishes (Actinopterygii)
 ---
 
+All data on this page are released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication. You can use them without asking permission, but please cite us; see [License]({% link about.md %}#license) for details.
+
 To save space, many of our files are distributed as compressed XZ format files. Windows users can download [7-Zip](http://www.7-zip.org/) to uncompress these files, while macOS users can use [The Unarchiver](https://theunarchiver.com/). R should also be able to read XZ files natively without decompressing the file first.
 
 - [RAxML phylogram](actinopt_12k_raxml.tre.xz) (Newick format)
