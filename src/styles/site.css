@@ -1,0 +1,548 @@
+/*
+ * Site styles: a plain-CSS port of the Minima 2 theme the Jekyll site used
+ * (_sass/minima.scss, minima/_base.scss, minima/_layout.scss, _taxon.scss,
+ * css/main.scss). Light mode matches the old compiled CSS; dark mode follows
+ * the OS setting through prefers-color-scheme, with no toggle and no JS.
+ *
+ * Breakpoints (custom properties cannot be used in media queries):
+ *   on-laptop: max-width 1000px
+ *   on-palm:   max-width 600px
+ */
+
+:root {
+  color-scheme: light dark;
+
+  --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Oxygen-Sans", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  --spacing-unit: 30px;
+  --content-width: 1000px;
+
+  --text-color: #111;
+  --background-color: #fdfdfd;
+  --brand-color: #2a7ae2;
+  --link-visited-color: #1756a9;
+  --link-hover-color: #111;
+
+  --grey-color: #828282; /* secondary text, footer, icons */
+  --grey-color-light: #e8e8e8; /* rules and borders */
+  --grey-color-dark: #424242; /* header rule, site title, menu icon */
+
+  --table-text-color: #3f3f3f;
+  --table-stripe-color: #f7f7f7;
+  --table-head-background: #f0f0f0;
+  --table-head-border: #dedede;
+  --table-head-border-bottom: #c9c9c9;
+
+  --code-background: #eef;
+  --image-backdrop: transparent;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #e4e4e4;
+    --background-color: #17191b;
+    --brand-color: #6eaaff;
+    --link-visited-color: #a7a0ff;
+    --link-hover-color: #fff;
+
+    --grey-color: #a3a3a3;
+    --grey-color-light: #383c40;
+    --grey-color-dark: #c4c4c4;
+
+    --table-text-color: #d6d6d6;
+    --table-stripe-color: #1f2225;
+    --table-head-background: #262a2e;
+    --table-head-border: #43484d;
+    --table-head-border-bottom: #5a6066;
+
+    --code-background: #252838;
+    /* Figures are drawn for a white page; many have transparent backgrounds. */
+    --image-backdrop: #fff;
+  }
+}
+
+/* Reset some basic elements */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+hr,
+dl,
+dd,
+ol,
+ul,
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+/* Basic styling */
+body {
+  font: 400 16px/1.5 var(--font-family);
+  color: var(--text-color);
+  background-color: var(--background-color);
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+}
+
+/* Maintain vertical rhythm */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+ul,
+ol,
+dl,
+figure {
+  margin-bottom: calc(var(--spacing-unit) / 2);
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+figure > img {
+  display: block;
+}
+
+figcaption {
+  font-size: 14px;
+}
+
+.post-content img {
+  background-color: var(--image-backdrop);
+}
+
+/* Lists */
+ul,
+ol {
+  margin-left: var(--spacing-unit);
+}
+
+li > ul,
+li > ol {
+  margin-bottom: 0;
+}
+
+/* Headings. h1 is pinned to 2em so older browsers' smaller h1-in-<article> default does not apply. */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+/* Links */
+a {
+  color: var(--brand-color);
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--link-visited-color);
+}
+
+a:hover {
+  color: var(--link-hover-color);
+  text-decoration: underline;
+}
+
+.social-media-list a:hover {
+  text-decoration: none;
+}
+
+.social-media-list a:hover .username {
+  text-decoration: underline;
+}
+
+/* Blockquotes */
+blockquote {
+  color: var(--grey-color);
+  border-left: 4px solid var(--grey-color-light);
+  padding-left: calc(var(--spacing-unit) / 2);
+  font-size: 18px;
+  letter-spacing: -1px;
+  font-style: italic;
+}
+
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+/* Code formatting */
+pre,
+code {
+  font-size: 15px;
+  border: 1px solid var(--grey-color-light);
+  border-radius: 3px;
+  background-color: var(--code-background);
+}
+
+code {
+  padding: 1px 5px;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+}
+
+pre > code {
+  border: 0;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+/* Wrapper */
+.wrapper {
+  max-width: calc(var(--content-width) - var(--spacing-unit) * 2);
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: var(--spacing-unit);
+  padding-left: var(--spacing-unit);
+}
+
+@media screen and (max-width: 1000px) {
+  .wrapper {
+    max-width: calc(var(--content-width) - var(--spacing-unit));
+    padding-right: calc(var(--spacing-unit) / 2);
+    padding-left: calc(var(--spacing-unit) / 2);
+  }
+}
+
+/* Clearfix */
+.wrapper::after,
+.footer-col-wrapper::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Icons */
+.icon > svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.icon > svg path {
+  fill: var(--grey-color);
+}
+
+.social-media-list .icon {
+  padding-right: 5px;
+}
+
+.social-media-list li + li {
+  padding-top: 5px;
+}
+
+/* Tables */
+table {
+  margin-bottom: var(--spacing-unit);
+  width: 100%;
+  text-align: left;
+  color: var(--table-text-color);
+  border-collapse: collapse;
+  border: 1px solid var(--grey-color-light);
+}
+
+table tr:nth-child(even) {
+  background-color: var(--table-stripe-color);
+}
+
+table th,
+table td {
+  padding: calc(var(--spacing-unit) / 3) calc(var(--spacing-unit) / 2);
+}
+
+table th {
+  background-color: var(--table-head-background);
+  border: 1px solid var(--table-head-border);
+  border-bottom-color: var(--table-head-border-bottom);
+}
+
+table td {
+  border: 1px solid var(--grey-color-light);
+}
+
+/* Numeric cells and sampling bars (taxon pages) */
+td.num {
+  text-align: right;
+  white-space: nowrap;
+}
+
+meter {
+  width: 5em;
+  vertical-align: middle;
+}
+
+/* Disclosure widgets and definition lists (from css/main.scss) */
+summary {
+  cursor: pointer;
+}
+
+dt {
+  margin: 1em auto auto auto;
+  font-weight: bold;
+}
+
+/* Text only for screen readers (the menu label, the footnotes heading) */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Site header */
+.site-header {
+  border-top: 5px solid var(--grey-color-dark);
+  border-bottom: 1px solid var(--grey-color-light);
+  min-height: calc(var(--spacing-unit) * 1.865);
+  position: relative; /* positioning context for the mobile menu */
+}
+
+.site-title {
+  font-size: 26px;
+  font-weight: 300;
+  line-height: 54px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+}
+
+.site-title,
+.site-title:visited {
+  color: var(--grey-color-dark);
+}
+
+.site-nav {
+  float: right;
+  line-height: 54px;
+  z-index: 1;
+}
+
+.site-nav .nav-trigger {
+  display: none;
+}
+
+.site-nav .menu-icon {
+  display: none;
+}
+
+.site-nav .page-link {
+  color: var(--text-color);
+  line-height: 1.5;
+}
+
+/* Gaps between nav items, but not after the last one */
+.site-nav .page-link:not(:last-child) {
+  margin-right: 20px;
+}
+
+/* On small screens the links fold into a menu opened by a CSS-only checkbox. */
+@media screen and (max-width: 600px) {
+  .site-nav {
+    position: absolute;
+    top: 9px;
+    right: calc(var(--spacing-unit) / 2);
+    background-color: var(--background-color);
+    border: 1px solid var(--grey-color-light);
+    border-radius: 5px;
+    text-align: right;
+  }
+
+  /* Visually hidden but still focusable, so keyboards can open the menu. */
+  .site-nav .nav-trigger {
+    display: block;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: 0;
+    opacity: 0;
+  }
+
+  .site-nav label[for="nav-trigger"] {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 36px;
+    z-index: 2;
+    cursor: pointer;
+  }
+
+  .site-nav .nav-trigger:focus-visible + label {
+    outline: 2px solid var(--brand-color);
+    outline-offset: 2px;
+    border-radius: 5px;
+  }
+
+  .site-nav .menu-icon {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 26px;
+    line-height: 0;
+    padding-top: 10px;
+    text-align: center;
+  }
+
+  .site-nav .menu-icon > svg path {
+    fill: var(--grey-color-dark);
+  }
+
+  .site-nav input ~ .trigger {
+    clear: both;
+    display: none;
+  }
+
+  .site-nav input:checked ~ .trigger {
+    display: block;
+    padding-bottom: 5px;
+  }
+
+  .site-nav .page-link {
+    display: block;
+    padding: 5px 10px;
+    margin-left: 20px;
+  }
+
+  .site-nav .page-link:not(:last-child) {
+    margin-right: 0;
+  }
+}
+
+/* Site footer */
+.site-footer {
+  border-top: 1px solid var(--grey-color-light);
+  padding: var(--spacing-unit) 0;
+}
+
+.footer-heading {
+  font-size: 18px;
+  margin-bottom: calc(var(--spacing-unit) / 2);
+}
+
+.contact-list,
+.social-media-list {
+  list-style: none;
+  margin-left: 0;
+}
+
+.footer-col-wrapper {
+  font-size: 15px;
+  color: var(--grey-color);
+  margin-left: calc(var(--spacing-unit) / -2);
+}
+
+.footer-col {
+  float: left;
+  margin-bottom: calc(var(--spacing-unit) / 2);
+  padding-left: calc(var(--spacing-unit) / 2);
+}
+
+.footer-col-1 {
+  width: calc(35% - var(--spacing-unit) / 2);
+}
+
+.footer-col-2 {
+  width: calc(20% - var(--spacing-unit) / 2);
+}
+
+.footer-col-3 {
+  width: calc(45% - var(--spacing-unit) / 2);
+}
+
+@media screen and (max-width: 1000px) {
+  .footer-col-1,
+  .footer-col-2 {
+    width: calc(50% - var(--spacing-unit) / 2);
+  }
+
+  .footer-col-3 {
+    width: calc(100% - var(--spacing-unit) / 2);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .footer-col {
+    float: none;
+    width: calc(100% - var(--spacing-unit) / 2);
+  }
+}
+
+/* Page content */
+.page-content {
+  padding: var(--spacing-unit) 0;
+}
+
+/* Posts (the Page layout) */
+.post-header {
+  margin-bottom: var(--spacing-unit);
+}
+
+.post-title {
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+
+.post-content {
+  margin-bottom: var(--spacing-unit);
+}
+
+.post-content h2 {
+  font-size: 32px;
+}
+
+.post-content h3 {
+  font-size: 26px;
+}
+
+.post-content h4 {
+  font-size: 20px;
+}
+
+@media screen and (max-width: 1000px) {
+  .post-title {
+    font-size: 36px;
+  }
+
+  .post-content h2 {
+    font-size: 28px;
+  }
+
+  .post-content h3 {
+    font-size: 22px;
+  }
+
+  .post-content h4 {
+    font-size: 18px;
+  }
+}

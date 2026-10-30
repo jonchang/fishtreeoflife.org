@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: ../layouts/Page.astro
 title: Enhanced polytomy resolution strengthens evidence for global gradient in speciation rate for marine fishes
 description: |
   We have updated the set of all-taxon assembled (ATA) phylogenies.
@@ -19,18 +19,18 @@ We recently documented an inverse global gradient in speciation rate for marine 
 
 Our estimates of speciation rate that used the DR statistic[^Jetz2012] were based on a distribution of fully-resolved phylogenies (ATA phylogenies). To assemble the ATA phylogenies, we paired a backbone genetic phylogeny for 11,633 ray-finned fishes with taxonomic information for 19,888 taxa that lacked genetic taxa. Similar to other birth-death polytomy resolvers[^Thomas2013], our method generated a conservative distribution of taxonomic placements that satisfied a number of taxonomic constraints. Our original method[^Rabosky2018] incorporated hierarchical sets of constraints. For example, consider a family of fishes where 60 of 100 species have been genetically sampled, but where two genera within the family are known to be completely sampled (e.g., genus X with 10 species, and genus Y with 5 species). The polytomy resolver described in our article would allocate the unsampled 40 species across the phylogeny under estimated birth-death rates, while preserving the monophyly of genera X and Y.
 
-However, one undesirable limitation of the complex hierarchy of constraints imposed in our analyses is that some higher taxa could not enforce the monophyly constraint. As a consequence, our algorithm would occasionally be forced to break the monophyly of some higher taxa that were nevertheless monophyletic in the genes-only phylogeny. There were three orders where species roamed outside of their order, all belonging to subdivision Percomorphaceae: [Blenniiformes](/taxonomy/order/Blenniiformes/) (111 out of 951 species), [Gobiiformes](/taxonomy/order/Gobiiformes) (547 out of 1,407 species), and [Tetraodontiformes](/taxonomy/order/Tetraodontiformes/) (30 out of 376 species). Species from these orders could be placed in monophyletic orders [Acanthuriformes](/taxonomy/order/Acanthuriformes/), [Anabantiformes](/taxonomy/order/Anabantiformes/), [Percopsiformes](/taxonomy/order/Percopsiformes/), and [Kurtiformes](/taxonomy/order/Kurtiformes/); as well as non-monophyletic orders [Centrarchiformes](/taxonomy/order/Centrarchiformes/), [Pempheriformes](/taxonomy/order/Pempheriformes/), [Perciformes](/taxonomy/order/Perciformes/), [Scombriformes](/taxonomy/order/Scombriformes/), and [Syngnathiformes](/taxonomy/order/Syngnathiformes/). [The other 47 named orders]({% link taxonomy.md %}) were not affected by this issue. Collectively, 3.5% of taxa lacking genetic data (688 of 19,888 species) were not maximally constrained across the full distribution of ATA phylogenies.
+However, one undesirable limitation of the complex hierarchy of constraints imposed in our analyses is that some higher taxa could not enforce the monophyly constraint. As a consequence, our algorithm would occasionally be forced to break the monophyly of some higher taxa that were nevertheless monophyletic in the genes-only phylogeny. There were three orders where species roamed outside of their order, all belonging to subdivision Percomorphaceae: [Blenniiformes](/taxonomy/order/Blenniiformes/) (111 out of 951 species), [Gobiiformes](/taxonomy/order/Gobiiformes) (547 out of 1,407 species), and [Tetraodontiformes](/taxonomy/order/Tetraodontiformes/) (30 out of 376 species). Species from these orders could be placed in monophyletic orders [Acanthuriformes](/taxonomy/order/Acanthuriformes/), [Anabantiformes](/taxonomy/order/Anabantiformes/), [Percopsiformes](/taxonomy/order/Percopsiformes/), and [Kurtiformes](/taxonomy/order/Kurtiformes/); as well as non-monophyletic orders [Centrarchiformes](/taxonomy/order/Centrarchiformes/), [Pempheriformes](/taxonomy/order/Pempheriformes/), [Perciformes](/taxonomy/order/Perciformes/), [Scombriformes](/taxonomy/order/Scombriformes/), and [Syngnathiformes](/taxonomy/order/Syngnathiformes/). [The other 47 named orders](/taxonomy/) were not affected by this issue. Collectively, 3.5% of taxa lacking genetic data (688 of 19,888 species) were not maximally constrained across the full distribution of ATA phylogenies.
 
 We implemented an enhanced polytomy resolver[^Chang2019] that could solve more sophisticated sets of monophyly constraints, ensuring that the overlapping, hierarchical constraints would not interfere with each other, and permitting the constraint of previously unconstrained taxa. We generated new ATA phylogenies and re-calculated λ<sub>DR</sub> speciation rate estimates. Our main results derived from λ<sub>BAMM</sub> speciation rate estimates were not affected.
 
 To test for the effect of this improvement, we computed tip-specific λ<sub>DR</sub> speciation rates for the original set of ATA phylogenies and the new set of ATA phylogenies. We summarized, on a per-tip basis, the λ<sub>DR</sub> speciation rate and conducted a linear regression between the original and updated ATA phylogenies. Our linear regression found significant correlation between the original and updated phylogenies ([Figure 1](#regression); r = 0.98; β = 0.95; p < 0.001).
 
 <figure id="regression">
-<img alt="Lambda DR speciation rates were strongly correlated between the original and updated ATA phylogenies" src="{% link assets/img/rabosky2018figures/regression.png %}">
+<img alt="Lambda DR speciation rates were strongly correlated between the original and updated ATA phylogenies" src="/assets/img/rabosky2018figures/regression.png">
 <figcaption><strong>Figure 1 | λ<sub>DR</sub> speciation rates are strongly correlated between the original and updated ATA phylogenies.</strong> Data are shown on a log-log scale. The red dashed line is the 1:1 reference line.</figcaption>
 </figure>
 
-The original set of ATA phylogenies[^Rabosky2018] are available in the Dryad data package[^Dryad]. The updated set of ATA phylogenies and updated λ<sub>DR</sub> rates are available in the [Downloads]({% link downloads/index.md %}) section of this website.
+The original set of ATA phylogenies[^Rabosky2018] are available in the Dryad data package[^Dryad]. The updated set of ATA phylogenies and updated λ<sub>DR</sub> rates are available in the [Downloads](/downloads/) section of this website.
 
 ## Updated text
 
@@ -68,47 +68,47 @@ We revise the following figures:
 To compare the original and updated figures, each of the following figures is an animation labeled with the respective ATA phylogeny data source. In some cases, the "original" figures shown here will differ slightly from the figures in the publication[^Rabosky2018]; this is due to randomness introduced to mitigate perceptual artifacts from overplotting.
 
 <figure id="figmain">
-<img alt="Main text Figure 3 inset box plot" src="{% link assets/img/rabosky2018figures/figmain_flicker.gif %}">
+<img alt="Main text Figure 3 inset box plot" src="/assets/img/rabosky2018figures/figmain_flicker.gif">
 <figcaption>Main text Figure 3 inset box plot</figcaption>
 </figure>
 
 <figure id="fig2">
-<img alt="Extended Data Figure 2" src="{% link assets/img/rabosky2018figures/fig2_flicker.gif %}">
+<img alt="Extended Data Figure 2" src="/assets/img/rabosky2018figures/fig2_flicker.gif">
 <figcaption>Extended Data Figure 2</figcaption>
 </figure>
 
 <figure id="fig3">
-<img alt="Extended Data Figure 3" src="{% link assets/img/rabosky2018figures/fig3_flicker.gif %}">
+<img alt="Extended Data Figure 3" src="/assets/img/rabosky2018figures/fig3_flicker.gif">
 <figcaption>Extended Data Figure 3</figcaption>
 </figure>
 
 <figure id="fig4">
-<img alt="Extended Data Figure 4" src="{% link assets/img/rabosky2018figures/fig4_flicker.gif %}">
+<img alt="Extended Data Figure 4" src="/assets/img/rabosky2018figures/fig4_flicker.gif">
 <figcaption>Extended Data Figure 4</figcaption>
 </figure>
 
 <figure id="fig5">
-<img alt="Extended Data Figure 5" src="{% link assets/img/rabosky2018figures/fig5_flicker.gif %}">
+<img alt="Extended Data Figure 5" src="/assets/img/rabosky2018figures/fig5_flicker.gif">
 <figcaption>Extended Data Figure 5</figcaption>
 </figure>
 
 <figure id="fig7">
-<img alt="Extended Data Figure 7a" src="{% link assets/img/rabosky2018figures/fig7_flicker.gif %}">
+<img alt="Extended Data Figure 7a" src="/assets/img/rabosky2018figures/fig7_flicker.gif">
 <figcaption>Extended Data Figure 7a</figcaption>
 </figure>
 
 <figure id="fig8">
-<img alt="Extended Data Figure 8" src="{% link assets/img/rabosky2018figures/fig8_flicker.gif %}">
+<img alt="Extended Data Figure 8" src="/assets/img/rabosky2018figures/fig8_flicker.gif">
 <figcaption>Extended Data Figure 8</figcaption>
 </figure>
 
 <figure id="fig9">
-<img alt="Extended Data Figure 9" src="{% link assets/img/rabosky2018figures/fig9_flicker.gif %}">
+<img alt="Extended Data Figure 9" src="/assets/img/rabosky2018figures/fig9_flicker.gif">
 <figcaption>Extended Data Figure 9</figcaption>
 </figure>
 
 <figure id="fig10">
-<img alt="Extended Data Table 1" src="{% link assets/img/rabosky2018figures/fig10_flicker.gif %}">
+<img alt="Extended Data Table 1" src="/assets/img/rabosky2018figures/fig10_flicker.gif">
 <figcaption>Extended Data Table 1</figcaption>
 </figure>
 

@@ -40,3 +40,18 @@ assets/img/vertical_tree*.png
 # bundler
 .bundle/
 vendor/
+
+# Astro
+node_modules/
+/dist/
+.astro/
+
+# Build input from the data image (scripts/fetch-data.sh); never served
+/data/
+
+# Files from the data image that scripts/fetch-data.sh places under public/.
+# Two files in public/downloads/ are tracked and stay tracked.
+/public/downloads/*
+!/public/downloads/final_alignment.partitions
+!/public/downloads/front-page-tree@1x.png
+/public/assets/img/vertical_tree*

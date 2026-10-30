@@ -1,0 +1,66 @@
+---
+// Replaces jekyll-seo-tag: <title>, description, canonical URL, Open Graph,
+// Twitter card and JSON-LD. Pages pass title, description and optionally image.
+import { site } from '../site';
+
+interface Props {
+  /** Page title; omit on the home page. */
+  title?: string | undefined;
+  description?: string | undefined;
+  /** Absolute URL of the share image. */
+  image?: string | undefined;
+  /** For pages that should not be indexed (the 404 page): no canonical URL. */
+  noindex?: boolean | undefined;
+}
+
+const { title, image = site.image, noindex = false } = Astro.props;
+// Multi-line YAML descriptions collapse to one line, as jekyll-seo-tag did.
+const description = (Astro.props.description ?? site.description).replace(/\s+/g, ' ').trim();
+
+const isHome = Astro.url.pathname === '/';
+const pageTitle = isHome || !title ? `${site.title} | ${site.tagline}` : `${title} | ${site.title}`;
+const shareTitle = title ?? site.title;
+const canonical = new URL(Astro.url.pathname, site.url).href;
+
+const author = { '@type': 'Person', name: site.author.name, url: site.author.url };
+const jsonLd = isHome
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: site.title,
+      description,
+      url: canonical,
+      image,
+      author,
+    }
+  : {
+      '@context': 'https://schema.org',
+      '@type': 'WebPage',
+      name: shareTitle,
+      headline: shareTitle,
+      description,
+      url: canonical,
+      image,
+      author,
+      isPartOf: { '@type': 'WebSite', name: site.title, url: `${site.url}/` },
+    };
+// Keep "</script>" (or any "<") inside strings from closing the script element.
+const jsonLdText = JSON.stringify(jsonLd).replaceAll('<', '\\u003c');
+---
+
+<title>{pageTitle}</title>
+<meta name="description" content={description} />
+<meta name="author" content={site.author.name} />
+{noindex ? <meta name="robots" content="noindex" /> : <link rel="canonical" href={canonical} />}
+<meta property="og:title" content={shareTitle} />
+<meta property="og:description" content={description} />
+{!noindex && <meta property="og:url" content={canonical} />}
+<meta property="og:site_name" content={site.title} />
+<meta property="og:image" content={image} />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content={site.locale} />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content={`@${site.twitter}`} />
+<meta name="twitter:title" content={shareTitle} />
+<meta name="twitter:image" content={image} />
+{!noindex && <script type="application/ld+json" set:html={jsonLdText} />}
