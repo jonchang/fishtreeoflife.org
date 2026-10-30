@@ -546,3 +546,8 @@ dt {
     font-size: 18px;
   }
 }
+
+/* Wide tables scroll sideways on narrow screens instead of widening the page */
+.table-scroll {
+  overflow-x: auto;
+}
