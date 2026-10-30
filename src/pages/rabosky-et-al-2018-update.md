@@ -26,7 +26,7 @@ We implemented an enhanced polytomy resolver[^Chang2019] that could solve more s
 To test for the effect of this improvement, we computed tip-specific λ<sub>DR</sub> speciation rates for the original set of ATA phylogenies and the new set of ATA phylogenies. We summarized, on a per-tip basis, the λ<sub>DR</sub> speciation rate and conducted a linear regression between the original and updated ATA phylogenies. Our linear regression found significant correlation between the original and updated phylogenies ([Figure 1](#regression); r = 0.98; β = 0.95; p < 0.001).
 
 <figure id="regression">
-<img alt="Lambda DR speciation rates were strongly correlated between the original and updated ATA phylogenies" src="/assets/img/rabosky2018figures/regression.png">
+<picture><source srcset="/assets/img/rabosky2018figures/regression.avif" type="image/avif"><img alt="Lambda DR speciation rates were strongly correlated between the original and updated ATA phylogenies" src="/assets/img/rabosky2018figures/regression.png" width="700" height="700" loading="lazy" decoding="async"></picture>
 <figcaption><strong>Figure 1 | λ<sub>DR</sub> speciation rates are strongly correlated between the original and updated ATA phylogenies.</strong> Data are shown on a log-log scale. The red dashed line is the 1:1 reference line.</figcaption>
 </figure>
 
@@ -65,51 +65,60 @@ We revise the following figures:
 * [Extended Data Figure 9](#fig9)
 * [Extended Data Table 1](#fig10)
 
-To compare the original and updated figures, each of the following figures is an animation labeled with the respective ATA phylogeny data source. In some cases, the "original" figures shown here will differ slightly from the figures in the publication[^Rabosky2018]; this is due to randomness introduced to mitigate perceptual artifacts from overplotting.
+To compare the original and updated figures, each of the following figures is shown twice, original first, each labeled with the respective ATA phylogeny data source. In some cases, the "original" figures shown here will differ slightly from the figures in the publication[^Rabosky2018]; this is due to randomness introduced to mitigate perceptual artifacts from overplotting.
 
 <figure id="figmain">
-<img alt="Main text Figure 3 inset box plot" src="/assets/img/rabosky2018figures/figmain_flicker.gif">
-<figcaption>Main text Figure 3 inset box plot</figcaption>
+<picture><source srcset="/assets/img/rabosky2018figures/figmain-original.avif" type="image/avif"><img alt="Main text Figure 3 inset box plot, original" src="/assets/img/rabosky2018figures/figmain-original.png" width="2400" height="1350" loading="lazy" decoding="async"></picture>
+<picture><source srcset="/assets/img/rabosky2018figures/figmain-updated.avif" type="image/avif"><img alt="Main text Figure 3 inset box plot, updated" src="/assets/img/rabosky2018figures/figmain-updated.png" width="2400" height="1350" loading="lazy" decoding="async"></picture>
+<figcaption>Main text Figure 3 inset box plot: original (top) and updated (bottom)</figcaption>
 </figure>
 
 <figure id="fig2">
-<img alt="Extended Data Figure 2" src="/assets/img/rabosky2018figures/fig2_flicker.gif">
-<figcaption>Extended Data Figure 2</figcaption>
+<picture><source srcset="/assets/img/rabosky2018figures/fig2-original.avif" type="image/avif"><img alt="Extended Data Figure 2, original" src="/assets/img/rabosky2018figures/fig2-original.png" width="2155" height="2141" loading="lazy" decoding="async"></picture>
+<picture><source srcset="/assets/img/rabosky2018figures/fig2-updated.avif" type="image/avif"><img alt="Extended Data Figure 2, updated" src="/assets/img/rabosky2018figures/fig2-updated.png" width="2155" height="2141" loading="lazy" decoding="async"></picture>
+<figcaption>Extended Data Figure 2: original (top) and updated (bottom)</figcaption>
 </figure>
 
 <figure id="fig3">
-<img alt="Extended Data Figure 3" src="/assets/img/rabosky2018figures/fig3_flicker.gif">
-<figcaption>Extended Data Figure 3</figcaption>
+<picture><source srcset="/assets/img/rabosky2018figures/fig3-original.avif" type="image/avif"><img alt="Extended Data Figure 3, original" src="/assets/img/rabosky2018figures/fig3-original.png" width="2186" height="1704" loading="lazy" decoding="async"></picture>
+<picture><source srcset="/assets/img/rabosky2018figures/fig3-updated.avif" type="image/avif"><img alt="Extended Data Figure 3, updated" src="/assets/img/rabosky2018figures/fig3-updated.png" width="2186" height="1704" loading="lazy" decoding="async"></picture>
+<figcaption>Extended Data Figure 3: original (top) and updated (bottom)</figcaption>
 </figure>
 
 <figure id="fig4">
-<img alt="Extended Data Figure 4" src="/assets/img/rabosky2018figures/fig4_flicker.gif">
-<figcaption>Extended Data Figure 4</figcaption>
+<picture><source srcset="/assets/img/rabosky2018figures/fig4-original.avif" type="image/avif"><img alt="Extended Data Figure 4, original" src="/assets/img/rabosky2018figures/fig4-original.png" width="2207" height="2590" loading="lazy" decoding="async"></picture>
+<picture><source srcset="/assets/img/rabosky2018figures/fig4-updated.avif" type="image/avif"><img alt="Extended Data Figure 4, updated" src="/assets/img/rabosky2018figures/fig4-updated.png" width="2207" height="2590" loading="lazy" decoding="async"></picture>
+<figcaption>Extended Data Figure 4: original (top) and updated (bottom)</figcaption>
 </figure>
 
 <figure id="fig5">
-<img alt="Extended Data Figure 5" src="/assets/img/rabosky2018figures/fig5_flicker.gif">
-<figcaption>Extended Data Figure 5</figcaption>
+<picture><source srcset="/assets/img/rabosky2018figures/fig5-original.avif" type="image/avif"><img alt="Extended Data Figure 5, original" src="/assets/img/rabosky2018figures/fig5-original.png" width="2158" height="1800" loading="lazy" decoding="async"></picture>
+<picture><source srcset="/assets/img/rabosky2018figures/fig5-updated.avif" type="image/avif"><img alt="Extended Data Figure 5, updated" src="/assets/img/rabosky2018figures/fig5-updated.png" width="2158" height="1800" loading="lazy" decoding="async"></picture>
+<figcaption>Extended Data Figure 5: original (top) and updated (bottom)</figcaption>
 </figure>
 
 <figure id="fig7">
-<img alt="Extended Data Figure 7a" src="/assets/img/rabosky2018figures/fig7_flicker.gif">
-<figcaption>Extended Data Figure 7a</figcaption>
+<picture><source srcset="/assets/img/rabosky2018figures/fig7-original.avif" type="image/avif"><img alt="Extended Data Figure 7a, original" src="/assets/img/rabosky2018figures/fig7-original.png" width="1013" height="362" loading="lazy" decoding="async"></picture>
+<picture><source srcset="/assets/img/rabosky2018figures/fig7-updated.avif" type="image/avif"><img alt="Extended Data Figure 7a, updated" src="/assets/img/rabosky2018figures/fig7-updated.png" width="1013" height="362" loading="lazy" decoding="async"></picture>
+<figcaption>Extended Data Figure 7a: original (top) and updated (bottom)</figcaption>
 </figure>
 
 <figure id="fig8">
-<img alt="Extended Data Figure 8" src="/assets/img/rabosky2018figures/fig8_flicker.gif">
-<figcaption>Extended Data Figure 8</figcaption>
+<picture><source srcset="/assets/img/rabosky2018figures/fig8-original.avif" type="image/avif"><img alt="Extended Data Figure 8, original" src="/assets/img/rabosky2018figures/fig8-original.png" width="2158" height="1079" loading="lazy" decoding="async"></picture>
+<picture><source srcset="/assets/img/rabosky2018figures/fig8-updated.avif" type="image/avif"><img alt="Extended Data Figure 8, updated" src="/assets/img/rabosky2018figures/fig8-updated.png" width="2158" height="1079" loading="lazy" decoding="async"></picture>
+<figcaption>Extended Data Figure 8: original (top) and updated (bottom)</figcaption>
 </figure>
 
 <figure id="fig9">
-<img alt="Extended Data Figure 9" src="/assets/img/rabosky2018figures/fig9_flicker.gif">
-<figcaption>Extended Data Figure 9</figcaption>
+<picture><source srcset="/assets/img/rabosky2018figures/fig9-original.avif" type="image/avif"><img alt="Extended Data Figure 9, original" src="/assets/img/rabosky2018figures/fig9-original.png" width="2158" height="2100" loading="lazy" decoding="async"></picture>
+<picture><source srcset="/assets/img/rabosky2018figures/fig9-updated.avif" type="image/avif"><img alt="Extended Data Figure 9, updated" src="/assets/img/rabosky2018figures/fig9-updated.png" width="2158" height="2100" loading="lazy" decoding="async"></picture>
+<figcaption>Extended Data Figure 9: original (top) and updated (bottom)</figcaption>
 </figure>
 
 <figure id="fig10">
-<img alt="Extended Data Table 1" src="/assets/img/rabosky2018figures/fig10_flicker.gif">
-<figcaption>Extended Data Table 1</figcaption>
+<picture><source srcset="/assets/img/rabosky2018figures/fig10-original.avif" type="image/avif"><img alt="Extended Data Table 1, original" src="/assets/img/rabosky2018figures/fig10-original.png" width="2126" height="441" loading="lazy" decoding="async"></picture>
+<picture><source srcset="/assets/img/rabosky2018figures/fig10-updated.avif" type="image/avif"><img alt="Extended Data Table 1, updated" src="/assets/img/rabosky2018figures/fig10-updated.png" width="2126" height="441" loading="lazy" decoding="async"></picture>
+<figcaption>Extended Data Table 1: original (top) and updated (bottom)</figcaption>
 </figure>
 
 ## References
