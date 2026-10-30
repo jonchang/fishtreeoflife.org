@@ -1,0 +1,56 @@
+---
+// Backbone tree of orders or families, drawn at build time as inline SVG
+// (no JS). Ported from the Jekyll _includes/monophyly-tree.html. Lines and
+// labels use currentColor, so the tree follows the text color in dark mode;
+// the clade triangles keep their species-richness colors.
+// Styles: .backbone in src/styles/site.css
+
+import { backbone, type BackboneOptions } from '../lib/taxonomy-index';
+import type { BackboneRank } from '../lib/data';
+
+interface Props extends BackboneOptions {
+  rank: BackboneRank;
+  /** Accessible name of the figure. */
+  label: string;
+}
+
+const { rank, label, ...options } = Astro.props;
+const tree = backbone(rank, options);
+---
+
+<svg
+  class="backbone"
+  id={`${rank}_tree`}
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox={tree.viewBox}
+  preserveAspectRatio="xMinYMin meet"
+  role="group"
+  aria-label={label}
+>
+  <g stroke="currentColor">
+    {tree.lines.map((l) => <line x1={l.x1} x2={l.x2} y1={l.y1} y2={l.y2} />)}
+  </g>
+  <g fill="currentColor" font-size={tree.fontsize}>
+    {
+      tree.tips.map((t) => {
+        const label = (
+          <text x={t.x} y={t.y} dx="5" dy={tree.dy}>
+            {t.label}
+          </text>
+        );
+        const triangle = t.triangle && <polygon points={t.triangle} fill={t.color} stroke="currentColor" />;
+        return t.url ? (
+          <a href={t.url}>
+            {label}
+            {triangle}
+          </a>
+        ) : (
+          <>
+            {label}
+            {triangle}
+          </>
+        );
+      })
+    }
+  </g>
+</svg>

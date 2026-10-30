@@ -546,3 +546,64 @@ dt {
     font-size: 18px;
   }
 }
+
+/* Wide tables scroll sideways on narrow screens instead of widening the page */
+.table-scroll {
+  overflow-x: auto;
+}
+
+/*
+ * Backbone trees on /taxonomy/ (MonophylyTree.astro). Lines and labels are
+ * drawn in currentColor, so they follow the text color in dark mode. Labels
+ * link to the taxon pages but keep the text color, as before.
+ */
+.backbone {
+  width: 100%;
+  height: auto;
+}
+
+.backbone a,
+.backbone a:visited {
+  color: inherit;
+}
+
+.backbone a:hover text,
+.backbone a:focus-visible text {
+  text-decoration: underline;
+}
+
+/*
+ * A tree image with clickable areas laid over it (the home page and
+ * /fossils/). The images are drawn for a white page and the home page one is
+ * transparent, so they get a white backdrop in dark mode.
+ */
+.tree-figure {
+  position: relative;
+  margin-bottom: calc(var(--spacing-unit) / 2);
+}
+
+.tree-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  background-color: var(--image-backdrop);
+}
+
+.tree-figure .hotspots {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.hotspots a:focus {
+  outline: none;
+}
+
+.hotspots a:focus-visible rect,
+.hotspots a:focus-visible circle {
+  stroke: var(--brand-color);
+  stroke-width: 4px;
+  vector-effect: non-scaling-stroke;
+}
