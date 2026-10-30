@@ -13,16 +13,9 @@ jobs:
   build:
     permissions:
       contents: read
-      packages: read
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v7
-
-    - name: Login to Github Docker
-      run: |
-        echo -n $GITHUB_TOKEN | docker login -u jonchang --password-stdin docker.pkg.github.com
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Download data from the fishtreeoflife docker container
       run: scripts/docker.sh
