@@ -15,7 +15,7 @@
 #   scripts/fetch-data.sh --from DIR      # use an already-extracted image root
 #                                         # (a directory holding _data/, _fossils/, downloads/, assets/img/)
 #
-# Set IMAGE to fetch a different tag, e.g. IMAGE=ghcr.io/jonchang/fishtreeoflife-docker:latest
+# Set IMAGE to fetch a different tag or digest, e.g. IMAGE=ghcr.io/jonchang/fishtreeoflife-docker@sha256:...
 
 set -euo pipefail
 
@@ -61,26 +61,18 @@ fetch_docker() {
 fetch_skopeo() {
     echo "Docker daemon not available; fetching $IMAGE with skopeo" >&2
     skopeo --override-os linux --override-arch amd64 copy "docker://$IMAGE" "dir:$tmp/image"
-    mkdir -p "$tmp/root"
-    # The first layer is the alpine base image; the data lives in the layers above it.
-    local layers
-    layers="$(node -e '
-        const m = JSON.parse(require("fs").readFileSync(process.argv[1], "utf8"));
-        for (const l of m.layers.slice(1)) console.log(l.digest.replace(/^sha256:/, ""));
+    # The data image is a single layer, so that layer is the image root.
+    local layer
+    layer="$(node -e '
+        const { layers } = JSON.parse(require("fs").readFileSync(process.argv[1], "utf8"));
+        if (layers.length !== 1) {
+            console.error(`fetch-data.sh: expected a single-layer data image, found ${layers.length} layers`);
+            process.exit(1);
+        }
+        console.log(layers[0].digest.replace(/^sha256:/, ""));
     ' "$tmp/image/manifest.json")"
-    local digest entry
-    for digest in $layers; do
-        # Apply OCI whiteouts (deletions recorded by this layer) before unpacking it.
-        while IFS= read -r entry; do
-            entry="${entry#./}"
-            case "$(basename "$entry")" in
-                .wh..wh..opq) rm -rf "${tmp:?}/root/$(dirname "$entry")"/* ;;
-                .wh.*) rm -rf "${tmp:?}/root/$(dirname "$entry")/$(basename "$entry" | sed 's/^\.wh\.//')" ;;
-            esac
-        done < <(tar -tf "$tmp/image/$digest" | grep '\.wh\.' || true)
-        tar -xf "$tmp/image/$digest" -C "$tmp/root"
-    done
-    find "$tmp/root" -name '.wh.*' -exec rm -rf {} +
+    mkdir -p "$tmp/root"
+    tar -xf "$tmp/image/$layer" -C "$tmp/root"
 }
 
 if [ -n "$from" ]; then
