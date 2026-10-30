@@ -40,3 +40,8 @@ assets/img/vertical_tree*.png
 # bundler
 .bundle/
 vendor/
+
+# Astro
+node_modules/
+/dist/
+.astro/
