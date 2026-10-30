@@ -1,0 +1,64 @@
+---
+// One page per fossil calibration, /fossils/{slug}/, with the slug from the
+// stub's front matter (data/_fossils/*.md). Ported from the Jekyll
+// _layouts/fossils.html; the content is computed in src/lib/fossils.ts.
+import type { GetStaticPaths } from 'astro';
+import Base from '../../layouts/Base.astro';
+import { fossilPages, type FossilPage } from '../../lib/fossils';
+
+export const getStaticPaths = (() =>
+  fossilPages().map((fossil) => ({ params: { slug: fossil.slug }, props: { fossil } }))) satisfies GetStaticPaths;
+
+interface Props {
+  fossil: FossilPage;
+}
+
+const { fossil: f } = Astro.props;
+---
+
+<Base title={f.title} description={f.description}>
+  <article class="fossils">
+    <header class="post-header">
+      <h1 class="post-title"><em>{f.title}</em>&dagger;</h1>
+    </header>
+
+    <div class="post-content">
+      <dl class="event">
+        <dt>Taxon calibrated</dt>
+        <dd>{f.clade}</dd>
+
+        <dt>Minimum age</dt>
+        <dd>{f.min} Ma</dd>
+
+        <dt>Maximum 95% CI age</dt>
+        <dd>{f.max === null ? 'None specified' : `${f.max} Ma`}</dd>
+
+        <dt>Authority</dt>
+        <dd>{f.authority}</dd>
+
+        <dt>Locality</dt>
+        <dd>{f.locality}</dd>
+
+        <dt>Age Authority</dt>
+        <dd>{f.ageAuthority}</dd>
+
+        <dt>Outgroup sequence</dt>
+        {
+          f.outgroups.map((og) => {
+            switch (og.kind) {
+              case 'fossil':
+                return <dd><a href={og.url}><em>{og.fossil}</em> ({og.clade}, {og.min} Ma)</a></dd>;
+              case 'extra':
+                return <dd><em>{og.fossil}</em> ({og.clade}, {og.min} Ma)</dd>;
+              case 'clade':
+                return <dd>{og.clade}</dd>;
+            }
+          })
+        }
+
+        <dt>Taxa this fossil might apply to:</dt>
+        {f.taxa.map((t) => <dd>{t.rankLabel}: {t.url ? <a href={t.url}>{t.name}</a> : t.name}</dd>)}
+      </dl>
+    </div>
+  </article>
+</Base>

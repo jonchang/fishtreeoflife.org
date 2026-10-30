@@ -1,26 +1,52 @@
 ---
-// Temporary home page while the site is ported to Astro; the data-driven
-// home page replaces it in the next step.
+// Home page: the tree figure with a clickable family over each fish drawing,
+// and quick links. Ported from the Jekyll index.md. The figure was a CSS
+// background chosen by screen resolution; it is now an <img> with the same
+// three PNGs in srcset, so it has alt text. Converting it to AVIF/WebP is a
+// later step.
 import Base from '../layouts/Base.astro';
+import { frontPageHotspots } from '../lib/data';
+import { taxonUrl } from '../lib/format';
 
-const ported = [
-  { title: 'About', href: '/about/' },
-  { title: 'Methods', href: '/methods/' },
-  { title: 'Rabosky et al. 2018 update', href: '/rabosky-et-al-2018-update/' },
-  { title: 'Downloads', href: '/downloads/' },
-  { title: 'Application Programming Interface', href: '/api/' },
-];
+const hotspots = frontPageHotspots().map((h) => ({ ...h, url: taxonUrl('family', h.taxa) }));
+const img = '/assets/img/front-page-tree';
 ---
 
 <Base>
-  <p>This site is being ported to a new build system. These pages are ready so far:</p>
-  <ul>
-    {
-      ported.map((page) => (
-        <li>
-          <a href={page.href}>{page.title}</a>
-        </li>
-      ))
-    }
-  </ul>
+  <div class="home">
+    <div class="tree-figure">
+      <img
+        src={`${img}@1x.png`}
+        srcset={`${img}@1x.png 1x, ${img}@2x.png 2x, ${img}@3x.png 3x`}
+        width="940"
+        height="472"
+        alt="Time-calibrated phylogeny of ray-finned fishes, colored by speciation rate, with plots of speciation rate against latitude, surrounded by drawings of fishes from 15 families."
+      />
+      <svg
+        class="hotspots"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 2687 1350"
+        preserveAspectRatio="xMinYMin meet"
+        role="group"
+        aria-label="Families on the tree"
+      >
+        {
+          hotspots.map((h) => (
+            <a href={h.url}>
+              <title>{h.taxa}</title>
+              <rect x={h.x} y={h.y} width={h.w} height={h.h} fill="#fff" fill-opacity="0" />
+            </a>
+          ))
+        }
+      </svg>
+    </div>
+
+    <h2 id="quick-links">Quick links</h2>
+
+    <ul>
+      <li><a href="/fossils/">Visualize our fossil calibration points</a></li>
+      <li><a href="/downloads/">Download the time-calibrated phylogeny</a></li>
+      <li><a href="/taxonomy/">Browse our new “Phylogenetic Fish Classification”</a></li>
+    </ul>
+  </div>
 </Base>

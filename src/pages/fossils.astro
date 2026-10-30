@@ -1,0 +1,72 @@
+---
+// /fossils/: the calibrated tree with a red circle on each fossil
+// calibration, and a table of them. Ported from the Jekyll fossils.md. The
+// tree was a CSS background chosen by screen resolution; it is now an <img>
+// with the same three PNGs in srcset.
+import Page from '../layouts/Page.astro';
+import { fossilIndex } from '../lib/fossils';
+
+const fossils = fossilIndex();
+const img = '/assets/img/vertical_tree';
+---
+
+<Page
+  title="Fossils"
+  description="Ray-finned fish fossils for time-calibrating the Actinopterygii phylogeny. Inclues node placements, fossil locality, and taxonomic authorities."
+>
+  <p>Click on a red circle to go to that fossil calibration.</p>
+
+  <div class="tree-figure">
+    <img
+      src={`${img}@1x.png`}
+      srcset={`${img}@1x.png 1x, ${img}@2x.png 2x, ${img}@3x.png 3x`}
+      width="940"
+      height="2820"
+      alt="Time-calibrated phylogeny of ray-finned fishes, drawn vertically, with a red circle on each node calibrated by a fossil."
+    />
+    <svg
+      class="hotspots"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 2820 8460"
+      preserveAspectRatio="xMinYMin meet"
+      role="group"
+      aria-label="Fossil calibrations on the tree"
+    >
+      {
+        fossils.map((f) => (
+          <a href={f.url}>
+            <title>{`${f.fossil} (${f.min} Ma)`}</title>
+            <circle cx={f.cx} cy={f.cy} r="15" fill="red" stroke="black" />
+          </a>
+        ))
+      }
+    </svg>
+  </div>
+
+  <h2 id="table-of-fossil-calibrations">Table of fossil calibrations</h2>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th>Index</th>
+          <th>Clade</th>
+          <th>Fossil</th>
+          <th>Min. age</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          fossils.map((f) => (
+            <tr>
+              <td>{f.idx}</td>
+              <td><a href={f.url}>{f.clade}</a></td>
+              <td><em>{f.fossil}</em></td>
+              <td>{f.min} Ma</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</Page>
