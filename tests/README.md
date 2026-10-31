@@ -1,12 +1,13 @@
 # URL contract
 
-The site must keep serving the URLs that people, search engines and old copies of the `fishtree` R package depend on. `scripts/check-urls.mjs` enforces this against two fixtures, both generated from the Jekyll build of `master@2a7a2ab`:
+The site must keep serving the URLs that people, search engines and the `fishtree` R package depend on. `scripts/check-urls.mjs` enforces this against two fixtures, both generated from the Jekyll build of `master@2a7a2ab`:
 
-- **`legacy-urls.txt`** (1,557 paths): every one must exist and be non-empty.
+- **`legacy-urls.txt`** (1,560 paths): every one must exist and be non-empty.
   - every HTML page, all 831 of them, except `/404/`, where Jekyll put the 404 page but GitHub Pages never serves it
   - the whole JSON API under `/api/` (706 files, plus `/api/` itself)
   - the top-level files in `/downloads/`, which papers cite, and the two skeletal trees in `/downloads/taxonomy/`
   - `/sitemap.xml`, `/robots.txt`, `/favicon.ico` and `/favicon.png`
+  - the data manifest, `/data/manifest.json`, and its JSON Schemas under `/schema/`, which `fishtree` 0.4 and later start from. These three were added by hand after the Jekyll build.
 - **`legacy-api.sha256`**: a hash of each API file's *canonical* JSON (keys sorted, whitespace ignored). Any change to the data fails the check, except to the six download-path fields described below.
 
 ## Why the per-taxon downloads aren't listed
@@ -28,6 +29,10 @@ Every other file they download, the ~2,500 per-taxon trees and matrices, is foun
 3. the files keep their formats: Newick trees, and sequential PHYLIP with one line per sampled species, because `fishtree_alignment()` reads `nlines = sampled species + 2`.
 
 The checker excludes those six fields from the hash, and instead checks that every value is relative and resolves to a non-empty file. Links from HTML pages to other files (CSS, images, the species CSVs) are covered by the lychee link check, not by this contract.
+
+## The data manifest
+
+`/data/manifest.json` comes from the data image, and lists every file of every release and taxonomy with its size and sha256. The checker downloads each file the manifest lists on this site and checks both, and checks that each view's `legacy_api` index (`/api/taxonomy.json`) exists. The manifest's structure is validated against its schema in `fishtreeoflife-docker`, before the image is published.
 
 ## Running it
 

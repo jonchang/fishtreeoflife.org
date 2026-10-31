@@ -6,6 +6,8 @@
 //   node scripts/check-urls.mjs --update <site-dir> --source <label>
 //                                                           regenerate the fixtures from a build
 //
+// It also checks that every file the data manifest lists matches its size and sha256.
+//
 // No dependencies; runs on Node 18+.
 
 import { createHash } from "node:crypto";
@@ -14,6 +16,7 @@ import { join, relative, sep } from "node:path";
 
 const URLS_FILE = new URL("../tests/legacy-urls.txt", import.meta.url);
 const API_FILE = new URL("../tests/legacy-api.sha256", import.meta.url);
+const MANIFEST = "/data/manifest.json";
 
 // Download paths embedded in the API JSON. fishtree <= 0.3.x requests
 // paste0("https://fishtreeoflife.org/", value), so these may point anywhere on
@@ -41,7 +44,7 @@ function embeddedPaths(value, out = []) {
     return out;
 }
 
-const sha256 = (text) => createHash("sha256").update(text).digest("hex");
+const sha256 = (data) => createHash("sha256").update(data).digest("hex");
 
 async function readLines(file) {
     return (await readFile(file, "utf8")).split("\n").filter((l) => l && !l.startsWith("#"));
@@ -72,6 +75,7 @@ function localSite(dir) {
             }
         },
         text: (path) => readFile(file(path), "utf8"),
+        bytes: (path) => readFile(file(path)),
     };
 }
 
@@ -104,6 +108,11 @@ function liveSite(base) {
             if (!res.ok) throw new Error(`HTTP ${res.status}`);
             return res.text();
         },
+        async bytes(path) {
+            const res = await fetchWithRetry(url(path));
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            return Buffer.from(await res.arrayBuffer());
+        },
     };
 }
 
@@ -120,9 +129,58 @@ async function pool(items, limit, fn) {
     return results;
 }
 
+// Site paths of the files the manifest lists, and of each view's legacy API index.
+// URLs are relative to the manifest; files on other hosts are skipped.
+function manifestTargets(manifest) {
+    const base = new URL(MANIFEST, "https://fishtreeoflife.org");
+    const resolve = (url) => {
+        const u = new URL(url, base);
+        return u.origin === base.origin ? decodeURIComponent(u.pathname) : null;
+    };
+    const files = [];
+    const indexes = [];
+    for (const group of [manifest.releases ?? [], manifest.taxonomies ?? []]) {
+        for (const entry of group) {
+            for (const f of entry.files ?? []) files.push({ ...f, path: resolve(f.url) });
+            for (const v of entry.views ?? []) {
+                const api = v.legacy_api && resolve(v.legacy_api);
+                if (api) indexes.push(api.replace(/\/$/, ".json"));
+            }
+        }
+    }
+    return { files, indexes };
+}
+
+async function checkManifest(site, failures, concurrency) {
+    let manifest;
+    try {
+        manifest = JSON.parse(await site.text(MANIFEST));
+    } catch (e) {
+        failures.manifest.push(`${MANIFEST} (${e.message})`);
+        return { checked: 0, total: 0 };
+    }
+    if (manifest.schema_version !== 1) failures.manifest.push(`${MANIFEST}: schema_version ${manifest.schema_version}, expected 1`);
+    const { files, indexes } = manifestTargets(manifest);
+    const local = files.filter((f) => f.path);
+    await pool(local, concurrency, async (f) => {
+        let data;
+        try {
+            data = await site.bytes(f.path);
+        } catch (e) {
+            failures.manifest.push(`${f.path} (${e.message})`);
+            return;
+        }
+        if (data.length !== f.bytes) failures.manifest.push(`${f.path}: ${data.length} bytes, manifest says ${f.bytes}`);
+        else if (sha256(data) !== f.sha256) failures.manifest.push(`${f.path}: sha256 differs from the manifest`);
+    });
+    const indexSizes = await pool(indexes, concurrency, (p) => site.size(p).catch(() => -1));
+    indexes.forEach((p, i) => indexSizes[i] <= 0 && failures.manifest.push(`${p} (legacy_api index missing)`));
+    return { checked: local.length, total: files.length };
+}
+
 async function check(site, { quick = false, concurrency = 16 } = {}) {
     const { urls, api } = await readFixtures();
-    const failures = { missing: [], hash: [], absolute: [], unresolved: [] };
+    const failures = { missing: [], hash: [], absolute: [], unresolved: [], manifest: [] };
 
     const sizes = await pool(urls, concurrency, (p) => site.size(p).catch(() => -1));
     urls.forEach((p, i) => sizes[i] <= 0 && failures.missing.push(sizes[i] === 0 ? `${p} (empty)` : p));
@@ -149,18 +207,22 @@ async function check(site, { quick = false, concurrency = 16 } = {}) {
         const targetSizes = await pool(list, concurrency, (t) => site.size(`/${t}`).catch(() => -1));
         list.forEach((t, i) => targetSizes[i] <= 0 && failures.unresolved.push(t));
     }
+    const manifest = quick ? null : await checkManifest(site, failures, concurrency);
 
     console.log(`Listed URLs: ${urls.length - failures.missing.length}/${urls.length} present and non-empty`);
     if (quick) console.log("API hashes and embedded paths: skipped (--quick)");
     else {
         console.log(`API JSON: ${api.length - failures.hash.length}/${api.length} match their canonical hash`);
         console.log(`Embedded download paths: ${embedded - failures.unresolved.length}/${embedded} resolve; ${failures.absolute.length} not relative`);
+        const external = manifest.total - manifest.checked;
+        console.log(`Data manifest: ${manifest.checked} files checked against their size and sha256${external ? `; ${external} on other hosts skipped` : ""}`);
     }
     const labels = {
         missing: "Missing or empty",
         hash: "API JSON changed (other than download paths)",
         absolute: "Embedded paths that are not relative (fishtree <= 0.3.x prepends the site URL)",
         unresolved: "Embedded paths that do not resolve",
+        manifest: "Data manifest entries that do not match the site",
     };
     let failed = false;
     for (const [key, list] of Object.entries(failures)) {
@@ -193,6 +255,7 @@ function inContract(path) {
     if (path === "/404/index.html") return false;
     if (path.endsWith("/index.html") || path === "/404.html") return true; // every HTML page
     if (path.startsWith("/api/")) return true; // the JSON API, fishtree's entry point
+    if (path === MANIFEST || path.startsWith("/schema/")) return true; // fishtree >= 0.4's entry point
     if (/^\/downloads\/[^/]+$/.test(path)) return true; // top-level downloads, cited in papers
     if (/^\/downloads\/taxonomy\/[^/]+\.tre$/.test(path)) return true; // skeletal order/family trees
     return ["/sitemap.xml", "/robots.txt", "/favicon.ico", "/favicon.png"].includes(path);
