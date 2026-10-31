@@ -710,6 +710,7 @@
 /api/taxonomy/superorder/Cichlomorphae.json
 /api/taxonomy/superorder/Cypriniphysae.json
 /api/taxonomy/superorder/Mugilomorphae.json
+/data/manifest.json
 /downloads/
 /downloads/PFC_taxonomy.csv.xz
 /downloads/actinopt_12k_raxml.tre.xz
@@ -871,6 +872,8 @@
 /methods/
 /rabosky-et-al-2018-update/
 /robots.txt
+/schema/bundle/v1.json
+/schema/manifest/v1.json
 /sitemap.xml
 /taxonomy/
 /taxonomy/class/Actinopteri/

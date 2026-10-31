@@ -11,6 +11,8 @@ node_modules/
 !/public/downloads/final_alignment.partitions
 !/public/downloads/front-page-tree@1x.png
 /public/assets/img/vertical_tree*
+/public/data/
+/public/schema/
 
 # The legacy JSON API, generated from the data image (scripts/legacy-api.mjs)
 /public/api/

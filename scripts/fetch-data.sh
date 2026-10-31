@@ -6,6 +6,7 @@
 #   image /_data/, /_fossils/  ->  data/_data/, data/_fossils/   (build input, never served)
 #   image /downloads/          ->  public/downloads/
 #   image /assets/img/         ->  public/assets/img/            (generated vertical_tree*.png)
+#   image /data/, /schema/     ->  public/data/, public/schema/  (the data manifest and its JSON Schemas)
 #
 # All of these destinations are gitignored, except the two tracked files in
 # public/downloads/ (final_alignment.partitions, front-page-tree@1x.png).
@@ -13,7 +14,8 @@
 # Usage:
 #   scripts/fetch-data.sh                 # docker if the daemon is up (as in CI), else skopeo
 #   scripts/fetch-data.sh --from DIR      # use an already-extracted image root
-#                                         # (a directory holding _data/, _fossils/, downloads/, assets/img/)
+#                                         # (a directory holding _data/, _fossils/, downloads/, assets/img/,
+#                                         # data/ and schema/)
 #
 # Set IMAGE to fetch a different tag or digest, e.g. IMAGE=ghcr.io/jonchang/fishtreeoflife-docker@sha256:...
 
@@ -56,6 +58,8 @@ fetch_docker() {
     docker cp "$cid:/_fossils" "$tmp/root/_fossils"
     docker cp "$cid:/downloads" "$tmp/root/downloads"
     docker cp "$cid:/assets/img" "$tmp/root/assets/img"
+    docker cp "$cid:/data" "$tmp/root/data"
+    docker cp "$cid:/schema" "$tmp/root/schema"
 }
 
 fetch_skopeo() {
@@ -89,7 +93,7 @@ else
     exit 1
 fi
 
-for d in _data _fossils downloads assets/img; do
+for d in _data _fossils downloads assets/img data schema; do
     if [ ! -d "$src/$d" ]; then
         echo "fetch-data.sh: $src/$d is missing; is this the data image?" >&2
         exit 1
@@ -98,14 +102,16 @@ done
 
 cd "$ROOT"
 
-# data/ is fully owned by this script, so replace it wholesale.
-rm -rf data/_data data/_fossils
+# These are fully owned by this script, so replace them wholesale.
+rm -rf data/_data data/_fossils public/data public/schema
 mkdir -p data public/downloads public/assets/img
 cp -R "$src/_data" data/_data
 cp -R "$src/_fossils" data/_fossils
+cp -R "$src/data" public/data
+cp -R "$src/schema" public/schema
 
 # public/ also holds tracked files, so merge rather than replace.
 cp -R "$src/downloads/." public/downloads/
 cp -R "$src/assets/img/." public/assets/img/
 
-echo "Data placed in data/, public/downloads/ and public/assets/img/" >&2
+echo "Data placed in data/, public/downloads/, public/assets/img/, public/data/ and public/schema/" >&2
