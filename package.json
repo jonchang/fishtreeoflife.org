@@ -18,11 +18,11 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
-    "astro": "^7.4.4"
+    "astro": "^7.4.5"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.12",
-    "html-validate": "^11.17.0",
+    "html-validate": "^11.18.0",
     "typescript": "^6.0.3"
   }
 }
