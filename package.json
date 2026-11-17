@@ -17,12 +17,12 @@
     "budget": "node scripts/check-budget.mjs dist"
   },
   "dependencies": {
-    "@astrojs/sitemap": "^3.7.4",
-    "astro": "^7.4.7"
+    "@astrojs/sitemap": "^3.7.5",
+    "astro": "^7.4.12"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.12",
-    "html-validate": "^11.17.0",
+    "html-validate": "^11.21.1",
     "typescript": "^6.0.3"
   }
 }
